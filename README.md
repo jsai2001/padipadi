@@ -12,7 +12,7 @@ It's a static site with no server. Open `index.html` in a browser, or deploy the
 
   The two 18+ categories are hidden until you turn them on in **Me → Settings**. They cover attraction, flirting, intimacy, boundaries and consent, and are not explicit.
 - **Telugu reference**: every sentence also shows its spoken-Telugu meaning under the English, so Telugu speakers can compare (Tamil is still what you learn; answers are always Tamil). Turn it off in **Me → Settings**. Stored in `data/telugu/<category>.tsv` as `English | Telugu`, matched to the Tamil sentence by its English text.
-- **Tap-a-word meanings** for about 385 common words (about 62% of all word taps).
+- **Tap-a-word meanings** for about 1,240 words (about 84% of all word taps), with the Telugu equivalent and ≈ / ⚠ notes. About 200 of them are worked out by `build.py` from a known word plus a common ending (எக்ஸாம்ல = exam + in).
 - **Every sentence** shows English, Tamil script and Tanglish (romanized), with tap-a-word meanings and 🔊 audio (uses your device's Tamil voice when it has one).
 - **Games**: Flashcards (tap to flip, swipe right/left), Quiz (both directions, combo bonus), Build it (put the Tamil words in order), Match (pairs against the clock).
 - **Sentence builder**: who × what × past/present/future × positive/negative × optional time word, **10,926 combinations**. The part of the verb that changes with the person is highlighted, with a one-line rule.
@@ -24,7 +24,7 @@ It's a static site with no server. Open `index.html` in a browser, or deploy the
 data/
   categories.json        category names, emoji, colors, 18+ flag
   sentences/<id>.tsv     one sentence per line: English | Tamil | Tanglish
-  words.tsv              Tamil word | meaning (for tap-a-word)
+  words.tsv              Tamil word | meaning [| Telugu [| ≈ or ⚠ note]] (for tap-a-word)
 build.py                 validates data/ and writes data.js
 data.js                  GENERATED. Don't edit by hand.
 js/lexicon.js            builder vocabulary: people, verb stems, phrases
