@@ -6719,6 +6719,3466 @@ window.PP_DATA = {
      "tl": "Tankla thanni illa."
     }
    ]
+  },
+  {
+   "id": "questions",
+   "name": "Questions",
+   "ta": "கேள்விகள்",
+   "tl": "Kelvigal",
+   "emoji": "❓",
+   "colors": [
+    "#FDE047",
+    "#CA8A04"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "questions-18f3d7a1",
+     "en": "Who is that?",
+     "ta": "அது யாரு?",
+     "tl": "Adhu yaaru?"
+    },
+    {
+     "id": "questions-5bc3283b",
+     "en": "Who are you?",
+     "ta": "நீங்க யாரு?",
+     "tl": "Neenga yaaru?"
+    },
+    {
+     "id": "questions-a08ff7c5",
+     "en": "Who called?",
+     "ta": "யாரு கால் பண்ணது?",
+     "tl": "Yaaru call pannadhu?"
+    },
+    {
+     "id": "questions-772c39bc",
+     "en": "Who said that?",
+     "ta": "அத யாரு சொன்னது?",
+     "tl": "Adha yaaru sonnadhu?"
+    },
+    {
+     "id": "questions-6561768b",
+     "en": "What is this?",
+     "ta": "இது என்ன?",
+     "tl": "Idhu enna?"
+    },
+    {
+     "id": "questions-c3a045db",
+     "en": "What's that?",
+     "ta": "அது என்ன?",
+     "tl": "Adhu enna?"
+    },
+    {
+     "id": "questions-3f61ec4e",
+     "en": "What do you want?",
+     "ta": "உனக்கு என்ன வேணும்?",
+     "tl": "Unakku enna venum?"
+    },
+    {
+     "id": "questions-5faf3c67",
+     "en": "What are you eating?",
+     "ta": "என்ன சாப்பிடற?",
+     "tl": "Enna saappidara?"
+    },
+    {
+     "id": "questions-07c1a098",
+     "en": "What did you buy?",
+     "ta": "என்ன வாங்குன?",
+     "tl": "Enna vaanguna?"
+    },
+    {
+     "id": "questions-25c60dbf",
+     "en": "What should I do?",
+     "ta": "நான் என்ன பண்ணணும்?",
+     "tl": "Naan enna pannanum?"
+    },
+    {
+     "id": "questions-834c52c8",
+     "en": "Where are you?",
+     "ta": "நீ எங்க இருக்க?",
+     "tl": "Nee enga irukka?"
+    },
+    {
+     "id": "questions-6ceda2fc",
+     "en": "Where is the station?",
+     "ta": "ஸ்டேஷன் எங்க இருக்கு?",
+     "tl": "Station enga irukku?"
+    },
+    {
+     "id": "questions-1177343d",
+     "en": "Where did you go?",
+     "ta": "நீ எங்க போன?",
+     "tl": "Nee enga pona?"
+    },
+    {
+     "id": "questions-b93ed724",
+     "en": "Where shall we go?",
+     "ta": "எங்க போலாம்?",
+     "tl": "Enga polaam?"
+    },
+    {
+     "id": "questions-35446aa3",
+     "en": "Where do you work?",
+     "ta": "நீங்க எங்க வேலை பாக்கறீங்க?",
+     "tl": "Neenga enga velai paakkareenga?"
+    },
+    {
+     "id": "questions-397a398d",
+     "en": "When will you come?",
+     "ta": "நீ எப்போ வருவ?",
+     "tl": "Nee eppo varuva?"
+    },
+    {
+     "id": "questions-98903cf8",
+     "en": "When did you come?",
+     "ta": "எப்போ வந்தீங்க?",
+     "tl": "Eppo vandheenga?"
+    },
+    {
+     "id": "questions-b79ed7c8",
+     "en": "When is the train?",
+     "ta": "ட்ரெயின் எப்போ?",
+     "tl": "Train eppo?"
+    },
+    {
+     "id": "questions-e1455fd9",
+     "en": "When will it be ready?",
+     "ta": "எப்போ ரெடியாகும்?",
+     "tl": "Eppo readyaagum?"
+    },
+    {
+     "id": "questions-a8fd6a09",
+     "en": "Why are you late?",
+     "ta": "ஏன் லேட்?",
+     "tl": "Yen late?"
+    },
+    {
+     "id": "questions-207f0aba",
+     "en": "Why are you angry?",
+     "ta": "ஏன் கோபமா இருக்க?",
+     "tl": "Yen kobamaa irukka?"
+    },
+    {
+     "id": "questions-d41e63cb",
+     "en": "Why didn't you call?",
+     "ta": "ஏன் கால் பண்ணல?",
+     "tl": "Yen call pannala?"
+    },
+    {
+     "id": "questions-e9d43c77",
+     "en": "Why not?",
+     "ta": "ஏன் கூடாது?",
+     "tl": "Yen koodaadhu?"
+    },
+    {
+     "id": "questions-a30265ad",
+     "en": "How are you feeling?",
+     "ta": "இப்ப எப்படி இருக்கு?",
+     "tl": "Ippa eppadi irukku?"
+    },
+    {
+     "id": "questions-a5f98dd6",
+     "en": "How did it happen?",
+     "ta": "அது எப்படி நடந்துச்சு?",
+     "tl": "Adhu eppadi nadandhuchu?"
+    },
+    {
+     "id": "questions-6cec2f43",
+     "en": "How do I go there?",
+     "ta": "அங்க எப்படி போறது?",
+     "tl": "Anga eppadi poradhu?"
+    },
+    {
+     "id": "questions-25c33770",
+     "en": "How was the movie?",
+     "ta": "படம் எப்படி இருந்துச்சு?",
+     "tl": "Padam eppadi irundhuchu?"
+    },
+    {
+     "id": "questions-1c62ec19",
+     "en": "How was the food?",
+     "ta": "சாப்பாடு எப்படி இருந்துச்சு?",
+     "tl": "Saappaadu eppadi irundhuchu?"
+    },
+    {
+     "id": "questions-e76c5d36",
+     "en": "How much?",
+     "ta": "எவ்ளோ?",
+     "tl": "Evlo?"
+    },
+    {
+     "id": "questions-db57ad31",
+     "en": "How many people are coming?",
+     "ta": "எத்தன பேர் வராங்க?",
+     "tl": "Eththana per varaanga?"
+    },
+    {
+     "id": "questions-bfe35eca",
+     "en": "How long will you stay?",
+     "ta": "எத்தன நாள் இருப்பீங்க?",
+     "tl": "Eththana naal iruppeenga?"
+    },
+    {
+     "id": "questions-1af1e8b0",
+     "en": "Which one?",
+     "ta": "எது?",
+     "tl": "Edhu?"
+    },
+    {
+     "id": "questions-66103708",
+     "en": "Which one do you like?",
+     "ta": "உனக்கு எது பிடிக்கும்?",
+     "tl": "Unakku edhu pidikkum?"
+    },
+    {
+     "id": "questions-7b77cc82",
+     "en": "Which bus?",
+     "ta": "எந்த பஸ்?",
+     "tl": "Endha bus?"
+    },
+    {
+     "id": "questions-a8f90ae1",
+     "en": "Whose phone is this?",
+     "ta": "இது யாரோட ஃபோன்?",
+     "tl": "Idhu yaaroda phone?"
+    },
+    {
+     "id": "questions-facd1fd3",
+     "en": "Can you come?",
+     "ta": "உன்னால வர முடியுமா?",
+     "tl": "Unnaala vara mudiyumaa?"
+    },
+    {
+     "id": "questions-eb476e59",
+     "en": "Can you help me?",
+     "ta": "எனக்கு உதவி பண்றியா?",
+     "tl": "Enakku udhavi panriyaa?"
+    },
+    {
+     "id": "questions-f18bed80",
+     "en": "Can I come in?",
+     "ta": "உள்ள வரலாமா?",
+     "tl": "Ulla varalaamaa?"
+    },
+    {
+     "id": "questions-1e5d3397",
+     "en": "Can I sit here?",
+     "ta": "இங்க உக்காரலாமா?",
+     "tl": "Inga ukkaaralaamaa?"
+    },
+    {
+     "id": "questions-f50fc139",
+     "en": "Can I ask you something?",
+     "ta": "ஒண்ணு கேக்கலாமா?",
+     "tl": "Onnu kekkalaamaa?"
+    },
+    {
+     "id": "questions-80f8e73a",
+     "en": "Shall we go?",
+     "ta": "போலாமா?",
+     "tl": "Polaamaa?"
+    },
+    {
+     "id": "questions-c3dfd25f",
+     "en": "Shall we eat?",
+     "ta": "சாப்பிடலாமா?",
+     "tl": "Saappidalaamaa?"
+    },
+    {
+     "id": "questions-1971b5f9",
+     "en": "Do you know him?",
+     "ta": "உனக்கு அவன தெரியுமா?",
+     "tl": "Unakku avana theriyumaa?"
+    },
+    {
+     "id": "questions-358ecff0",
+     "en": "Do you understand?",
+     "ta": "உனக்கு புரியுதா?",
+     "tl": "Unakku puriyudhaa?"
+    },
+    {
+     "id": "questions-2bf6910b",
+     "en": "Do you like it?",
+     "ta": "உனக்கு பிடிச்சிருக்கா?",
+     "tl": "Unakku pidichirukkaa?"
+    },
+    {
+     "id": "questions-1a85f329",
+     "en": "Do you want tea?",
+     "ta": "டீ வேணுமா?",
+     "tl": "Tea venumaa?"
+    },
+    {
+     "id": "questions-707546d5",
+     "en": "Did you sleep well?",
+     "ta": "நல்லா தூங்குனியா?",
+     "tl": "Nallaa thoonguniyaa?"
+    },
+    {
+     "id": "questions-1d0e6244",
+     "en": "Did you finish?",
+     "ta": "முடிச்சிட்டியா?",
+     "tl": "Mudichittiyaa?"
+    },
+    {
+     "id": "questions-fa520306",
+     "en": "Did you see it?",
+     "ta": "நீ அத பாத்தியா?",
+     "tl": "Nee adha paathiyaa?"
+    },
+    {
+     "id": "questions-7617d7c3",
+     "en": "Are you coming?",
+     "ta": "நீ வரியா?",
+     "tl": "Nee variyaa?"
+    },
+    {
+     "id": "questions-7150cc6e",
+     "en": "Are you sure?",
+     "ta": "உறுதியா தெரியுமா?",
+     "tl": "Urudhiyaa theriyumaa?"
+    },
+    {
+     "id": "questions-bd099a0d",
+     "en": "Are you free now?",
+     "ta": "இப்ப ஃப்ரீயா?",
+     "tl": "Ippa freeyaa?"
+    },
+    {
+     "id": "questions-1088b597",
+     "en": "Are you hungry?",
+     "ta": "பசிக்குதா?",
+     "tl": "Pasikkudhaa?"
+    },
+    {
+     "id": "questions-6caea0ae",
+     "en": "Is he at home?",
+     "ta": "அவன் வீட்ல இருக்கானா?",
+     "tl": "Avan veetla irukkaanaa?"
+    },
+    {
+     "id": "questions-2040e2bd",
+     "en": "Is the shop open?",
+     "ta": "கடை திறந்திருக்கா?",
+     "tl": "Kadai thirandhirukkaa?"
+    },
+    {
+     "id": "questions-25ec8083",
+     "en": "Is this the right way?",
+     "ta": "இது சரியான வழியா?",
+     "tl": "Idhu sariyaana vazhiyaa?"
+    },
+    {
+     "id": "questions-aceec7ed",
+     "en": "Is it far?",
+     "ta": "தூரமா?",
+     "tl": "Thooramaa?"
+    },
+    {
+     "id": "questions-1b8e4e62",
+     "en": "Is it raining there?",
+     "ta": "அங்க மழை பெய்யுதா?",
+     "tl": "Anga mazhai peyyudhaa?"
+    },
+    {
+     "id": "questions-9e2ec31e",
+     "en": "Is that true?",
+     "ta": "அது நிஜமா?",
+     "tl": "Adhu nijamaa?"
+    },
+    {
+     "id": "questions-37ce310e",
+     "en": "What's wrong?",
+     "ta": "என்ன பிரச்சனை?",
+     "tl": "Enna prachanai?"
+    },
+    {
+     "id": "questions-aac08353",
+     "en": "What's the matter?",
+     "ta": "என்ன விஷயம்?",
+     "tl": "Enna vishayam?"
+    },
+    {
+     "id": "questions-89876a94",
+     "en": "What's new?",
+     "ta": "என்ன புதுசா?",
+     "tl": "Enna pudhusaa?"
+    },
+    {
+     "id": "questions-b0d4dd0f",
+     "en": "What happened next?",
+     "ta": "அப்புறம் என்ன ஆச்சு?",
+     "tl": "Appuram enna aachu?"
+    },
+    {
+     "id": "questions-612ac625",
+     "en": "Then what?",
+     "ta": "அப்புறம்?",
+     "tl": "Appuram?"
+    },
+    {
+     "id": "questions-1079ec3e",
+     "en": "Really? Then?",
+     "ta": "அப்படியா? அப்புறம்?",
+     "tl": "Appadiyaa? Appuram?"
+    },
+    {
+     "id": "questions-f7f6f8a4",
+     "en": "Why are you laughing?",
+     "ta": "ஏன் சிரிக்கற?",
+     "tl": "Yen sirikkara?"
+    },
+    {
+     "id": "questions-b7b4cbfd",
+     "en": "Who is coming with you?",
+     "ta": "உன் கூட யாரு வராங்க?",
+     "tl": "Un kooda yaaru varaanga?"
+    },
+    {
+     "id": "questions-b366ac83",
+     "en": "What's the time for the meeting?",
+     "ta": "மீட்டிங் எத்தன மணிக்கு?",
+     "tl": "Meeting eththana manikku?"
+    },
+    {
+     "id": "questions-cb9a33d0",
+     "en": "How do you know Tamil?",
+     "ta": "உனக்கு எப்படி தமிழ் தெரியும்?",
+     "tl": "Unakku eppadi thamizh theriyum?"
+    }
+   ]
+  },
+  {
+   "id": "numbers",
+   "name": "Numbers, Time & Money",
+   "ta": "எண்கள்",
+   "tl": "Engal",
+   "emoji": "🔢",
+   "colors": [
+    "#86EFAC",
+    "#16A34A"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "numbers-4f121665",
+     "en": "One, two, three.",
+     "ta": "ஒண்ணு, ரெண்டு, மூணு.",
+     "tl": "Onnu, rendu, moonu."
+    },
+    {
+     "id": "numbers-78316af5",
+     "en": "Four, five, six.",
+     "ta": "நாலு, அஞ்சு, ஆறு.",
+     "tl": "Naalu, anju, aaru."
+    },
+    {
+     "id": "numbers-b169b3cc",
+     "en": "Seven, eight, nine, ten.",
+     "ta": "ஏழு, எட்டு, ஒம்பது, பத்து.",
+     "tl": "Ezhu, ettu, ombadhu, paththu."
+    },
+    {
+     "id": "numbers-4680df65",
+     "en": "Twenty.",
+     "ta": "இருபது.",
+     "tl": "Irubadhu."
+    },
+    {
+     "id": "numbers-76ac1f0d",
+     "en": "Fifty.",
+     "ta": "அம்பது.",
+     "tl": "Ambadhu."
+    },
+    {
+     "id": "numbers-e1010788",
+     "en": "One hundred.",
+     "ta": "நூறு.",
+     "tl": "Nooru."
+    },
+    {
+     "id": "numbers-8caae7c0",
+     "en": "One thousand.",
+     "ta": "ஆயிரம்.",
+     "tl": "Aayiram."
+    },
+    {
+     "id": "numbers-e730dab8",
+     "en": "One lakh.",
+     "ta": "ஒரு லட்சம்.",
+     "tl": "Oru latcham."
+    },
+    {
+     "id": "numbers-59cb92a8",
+     "en": "What time is it now?",
+     "ta": "இப்ப மணி என்ன?",
+     "tl": "Ippa mani enna?"
+    },
+    {
+     "id": "numbers-3e739241",
+     "en": "It's one o'clock.",
+     "ta": "மணி ஒண்ணு.",
+     "tl": "Mani onnu."
+    },
+    {
+     "id": "numbers-fd99be0c",
+     "en": "It's half past three.",
+     "ta": "மணி மூணரை.",
+     "tl": "Mani moonarai."
+    },
+    {
+     "id": "numbers-2a5f3db2",
+     "en": "It's quarter past five.",
+     "ta": "மணி அஞ்சேகால்.",
+     "tl": "Mani anjekaal."
+    },
+    {
+     "id": "numbers-e5dd4fae",
+     "en": "It's quarter to seven.",
+     "ta": "மணி ஏழுக்கு கால்.",
+     "tl": "Mani ezhukku kaal."
+    },
+    {
+     "id": "numbers-7109d2aa",
+     "en": "It's ten in the morning.",
+     "ta": "காலைல பத்து மணி.",
+     "tl": "Kaalaila paththu mani."
+    },
+    {
+     "id": "numbers-3c70e9c2",
+     "en": "It's eight at night.",
+     "ta": "ராத்திரி எட்டு மணி.",
+     "tl": "Raathiri ettu mani."
+    },
+    {
+     "id": "numbers-4f292ffd",
+     "en": "Come at five o'clock.",
+     "ta": "அஞ்சு மணிக்கு வா.",
+     "tl": "Anju manikku vaa."
+    },
+    {
+     "id": "numbers-8b5e783e",
+     "en": "I'll come in ten minutes.",
+     "ta": "பத்து நிமிஷத்துல வரேன்.",
+     "tl": "Paththu nimishathula varen."
+    },
+    {
+     "id": "numbers-dbbcd7d8",
+     "en": "Wait for two minutes.",
+     "ta": "ரெண்டு நிமிஷம் இரு.",
+     "tl": "Rendu nimisham iru."
+    },
+    {
+     "id": "numbers-5cb83485",
+     "en": "It takes one hour.",
+     "ta": "ஒரு மணி நேரம் ஆகும்.",
+     "tl": "Oru mani neram aagum."
+    },
+    {
+     "id": "numbers-6981c248",
+     "en": "I waited for half an hour.",
+     "ta": "அரை மணி நேரம் காத்திருந்தேன்.",
+     "tl": "Arai mani neram kaathirundhen."
+    },
+    {
+     "id": "numbers-cf23c559",
+     "en": "What's today's date?",
+     "ta": "இன்னைக்கு தேதி என்ன?",
+     "tl": "Innaikku thedhi enna?"
+    },
+    {
+     "id": "numbers-5336af17",
+     "en": "Today is the fifteenth.",
+     "ta": "இன்னைக்கு பதினஞ்சாம் தேதி.",
+     "tl": "Innaikku padhinanjaam thedhi."
+    },
+    {
+     "id": "numbers-c3bddfcc",
+     "en": "What day is it today?",
+     "ta": "இன்னைக்கு என்ன கிழமை?",
+     "tl": "Innaikku enna kizhamai?"
+    },
+    {
+     "id": "numbers-7e59e30f",
+     "en": "Today is Monday.",
+     "ta": "இன்னைக்கு திங்கக்கிழமை.",
+     "tl": "Innaikku thingakkizhamai."
+    },
+    {
+     "id": "numbers-9ddaf8d0",
+     "en": "Tomorrow is Tuesday.",
+     "ta": "நாளைக்கு செவ்வாய்க்கிழமை.",
+     "tl": "Naalaikku sevvaaikkizhamai."
+    },
+    {
+     "id": "numbers-019e1ee0",
+     "en": "Wednesday.",
+     "ta": "புதன்கிழமை.",
+     "tl": "Pudhankizhamai."
+    },
+    {
+     "id": "numbers-eab5c9f3",
+     "en": "Thursday.",
+     "ta": "வியாழக்கிழமை.",
+     "tl": "Viyaazhakkizhamai."
+    },
+    {
+     "id": "numbers-5955fe01",
+     "en": "Saturday and Sunday are holidays.",
+     "ta": "சனி, ஞாயிறு லீவு.",
+     "tl": "Sani, nyaayiru leevu."
+    },
+    {
+     "id": "numbers-ae0b3fda",
+     "en": "See you next week.",
+     "ta": "அடுத்த வாரம் பாக்கலாம்.",
+     "tl": "Adutha vaaram paakkalaam."
+    },
+    {
+     "id": "numbers-612a5b82",
+     "en": "I'll come next month.",
+     "ta": "அடுத்த மாசம் வரேன்.",
+     "tl": "Adutha maasam varen."
+    },
+    {
+     "id": "numbers-8f77b610",
+     "en": "Last year I went to Madurai.",
+     "ta": "போன வருஷம் மதுரைக்கு போனேன்.",
+     "tl": "Pona varusham madhuraikku ponen."
+    },
+    {
+     "id": "numbers-9c45bfe2",
+     "en": "My birthday is in June.",
+     "ta": "என் பிறந்தநாள் ஜூன்ல.",
+     "tl": "En pirandhanaal junela."
+    },
+    {
+     "id": "numbers-2799f2a1",
+     "en": "How much does this cost?",
+     "ta": "இதோட விலை என்ன?",
+     "tl": "Idhoda vilai enna?"
+    },
+    {
+     "id": "numbers-bdc1acad",
+     "en": "It's two hundred and fifty rupees.",
+     "ta": "இருநூத்தம்பது ரூபா.",
+     "tl": "Irunoothambadhu roobaa."
+    },
+    {
+     "id": "numbers-9d6105c9",
+     "en": "It's only ten rupees.",
+     "ta": "பத்து ரூபாதான்.",
+     "tl": "Paththu roobaadhaan."
+    },
+    {
+     "id": "numbers-3669df21",
+     "en": "Give me change for five hundred.",
+     "ta": "அஞ்சுநூறுக்கு சில்லறை குடுங்க.",
+     "tl": "Anjunoorukku sillarai kudunga."
+    },
+    {
+     "id": "numbers-eb70e8ce",
+     "en": "I don't have change.",
+     "ta": "சில்லறை இல்ல.",
+     "tl": "Sillarai illa."
+    },
+    {
+     "id": "numbers-2d198a96",
+     "en": "How much should I pay?",
+     "ta": "எவ்ளோ குடுக்கணும்?",
+     "tl": "Evlo kudukkanum?"
+    },
+    {
+     "id": "numbers-ac9b6b4b",
+     "en": "The total is one thousand rupees.",
+     "ta": "மொத்தம் ஆயிரம் ரூபா.",
+     "tl": "Moththam aayiram roobaa."
+    },
+    {
+     "id": "numbers-9d2876a6",
+     "en": "Give me two coffees.",
+     "ta": "ரெண்டு காபி குடுங்க.",
+     "tl": "Rendu coffee kudunga."
+    },
+    {
+     "id": "numbers-58ce12db",
+     "en": "Three tickets, please.",
+     "ta": "மூணு டிக்கெட் குடுங்க.",
+     "tl": "Moonu ticket kudunga."
+    },
+    {
+     "id": "numbers-1557f487",
+     "en": "I have two brothers.",
+     "ta": "எனக்கு ரெண்டு அண்ணன்ங்க.",
+     "tl": "Enakku rendu annanga."
+    },
+    {
+     "id": "numbers-5ebca73d",
+     "en": "There are five people in my family.",
+     "ta": "எங்க வீட்ல அஞ்சு பேர்.",
+     "tl": "Enga veetla anju per."
+    },
+    {
+     "id": "numbers-fd93bb16",
+     "en": "I'm thirty years old.",
+     "ta": "எனக்கு முப்பது வயசு.",
+     "tl": "Enakku muppadhu vayasu."
+    },
+    {
+     "id": "numbers-c6208861",
+     "en": "My phone number is nine eight four four.",
+     "ta": "என் நம்பர் ஒம்பது எட்டு நாலு நாலு.",
+     "tl": "En number ombadhu ettu naalu naalu."
+    },
+    {
+     "id": "numbers-014b64f0",
+     "en": "Which floor?",
+     "ta": "எத்தனாவது மாடி?",
+     "tl": "Eththanaavadhu maadi?"
+    },
+    {
+     "id": "numbers-1cfbd1b0",
+     "en": "Third floor.",
+     "ta": "மூணாவது மாடி.",
+     "tl": "Moonaavadhu maadi."
+    },
+    {
+     "id": "numbers-5b6cf6f9",
+     "en": "The first one.",
+     "ta": "முதல்ல இருக்கறது.",
+     "tl": "Mudhalla irukkaradhu."
+    },
+    {
+     "id": "numbers-fb54bb8d",
+     "en": "The second one.",
+     "ta": "ரெண்டாவது.",
+     "tl": "Rendaavadhu."
+    },
+    {
+     "id": "numbers-f1a61d66",
+     "en": "The last one.",
+     "ta": "கடைசில இருக்கறது.",
+     "tl": "Kadaisila irukkaradhu."
+    },
+    {
+     "id": "numbers-c0b2b4dd",
+     "en": "Half.",
+     "ta": "பாதி.",
+     "tl": "Paadhi."
+    },
+    {
+     "id": "numbers-1fda0302",
+     "en": "A quarter.",
+     "ta": "கால்.",
+     "tl": "Kaal."
+    },
+    {
+     "id": "numbers-4767e453",
+     "en": "A little more.",
+     "ta": "இன்னும் கொஞ்சம்.",
+     "tl": "Innum konjam."
+    },
+    {
+     "id": "numbers-a141de42",
+     "en": "Too much.",
+     "ta": "ரொம்ப அதிகம்.",
+     "tl": "Romba adhigam."
+    },
+    {
+     "id": "numbers-b44f5bab",
+     "en": "Too little.",
+     "ta": "ரொம்ப கம்மி.",
+     "tl": "Romba kammi."
+    },
+    {
+     "id": "numbers-a28bb9b8",
+     "en": "Count to ten.",
+     "ta": "பத்து வரைக்கும் எண்ணு.",
+     "tl": "Paththu varaikkum ennu."
+    },
+    {
+     "id": "numbers-45ef42da",
+     "en": "How many?",
+     "ta": "எத்தன?",
+     "tl": "Eththana?"
+    },
+    {
+     "id": "numbers-e66096c6",
+     "en": "How many days?",
+     "ta": "எத்தன நாள்?",
+     "tl": "Eththana naal?"
+    },
+    {
+     "id": "numbers-945bbab7",
+     "en": "Three days.",
+     "ta": "மூணு நாள்.",
+     "tl": "Moonu naal."
+    },
+    {
+     "id": "numbers-34c58f1b",
+     "en": "Every day.",
+     "ta": "தினமும்.",
+     "tl": "Dhinamum."
+    },
+    {
+     "id": "numbers-7c64a3f3",
+     "en": "Twice a week.",
+     "ta": "வாரத்துக்கு ரெண்டு தடவ.",
+     "tl": "Vaarathukku rendu thadava."
+    },
+    {
+     "id": "numbers-fb6a7c81",
+     "en": "Once a month.",
+     "ta": "மாசத்துக்கு ஒரு தடவ.",
+     "tl": "Maasathukku oru thadava."
+    },
+    {
+     "id": "numbers-0d026c8c",
+     "en": "Early morning.",
+     "ta": "விடியக்காலைல.",
+     "tl": "Vidiyakkaalaila."
+    },
+    {
+     "id": "numbers-4494d866",
+     "en": "In the afternoon.",
+     "ta": "மத்தியானம்.",
+     "tl": "Mathiyaanam."
+    },
+    {
+     "id": "numbers-8d844ab7",
+     "en": "In the evening.",
+     "ta": "சாயங்காலம்.",
+     "tl": "Saayangaalam."
+    },
+    {
+     "id": "numbers-8d5d60e8",
+     "en": "At midnight.",
+     "ta": "நடுராத்திரில.",
+     "tl": "Naduraathirila."
+    },
+    {
+     "id": "numbers-41e021f4",
+     "en": "The day after tomorrow.",
+     "ta": "நாளன்னைக்கு.",
+     "tl": "Naalannaikku."
+    },
+    {
+     "id": "numbers-e0c40124",
+     "en": "The day before yesterday.",
+     "ta": "முந்தாநேத்து.",
+     "tl": "Mundhaanethu."
+    },
+    {
+     "id": "numbers-421c9c10",
+     "en": "I'm free after six.",
+     "ta": "ஆறு மணிக்கு அப்புறம் ஃப்ரீ.",
+     "tl": "Aaru manikku appuram free."
+    },
+    {
+     "id": "numbers-80ffd984",
+     "en": "The shop opens at nine.",
+     "ta": "கடை ஒம்பது மணிக்கு திறக்கும்.",
+     "tl": "Kadai ombadhu manikku thirakkum."
+    }
+   ]
+  },
+  {
+   "id": "family",
+   "name": "Family & Relations",
+   "ta": "குடும்பம்",
+   "tl": "Kudumbam",
+   "emoji": "👨‍👩‍👧",
+   "colors": [
+    "#FDBA74",
+    "#EA580C"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "family-bc488bb9",
+     "en": "This is my mother.",
+     "ta": "இவங்க என் அம்மா.",
+     "tl": "Ivanga en amma."
+    },
+    {
+     "id": "family-5a0adf72",
+     "en": "This is my father.",
+     "ta": "இவரு என் அப்பா.",
+     "tl": "Ivaru en appaa."
+    },
+    {
+     "id": "family-b5891b83",
+     "en": "He is my elder brother.",
+     "ta": "அவன் என் அண்ணன்.",
+     "tl": "Avan en annan."
+    },
+    {
+     "id": "family-0ff77712",
+     "en": "He is my younger brother.",
+     "ta": "அவன் என் தம்பி.",
+     "tl": "Avan en thambi."
+    },
+    {
+     "id": "family-9c58d34a",
+     "en": "She is my elder sister.",
+     "ta": "அவ என் அக்கா.",
+     "tl": "Ava en akkaa."
+    },
+    {
+     "id": "family-64f39b40",
+     "en": "She is my younger sister.",
+     "ta": "அவ என் தங்கச்சி.",
+     "tl": "Ava en thangachi."
+    },
+    {
+     "id": "family-ec2a54dd",
+     "en": "My grandfather is eighty.",
+     "ta": "என் தாத்தாவுக்கு எம்பது வயசு.",
+     "tl": "En thaathaavukku embadhu vayasu."
+    },
+    {
+     "id": "family-ca4504fc",
+     "en": "My grandmother tells stories.",
+     "ta": "என் பாட்டி கதை சொல்லுவாங்க.",
+     "tl": "En paatti kadhai solluvaanga."
+    },
+    {
+     "id": "family-89108aad",
+     "en": "My uncle lives in Coimbatore.",
+     "ta": "என் மாமா கோயம்புத்தூர்ல இருக்காரு.",
+     "tl": "En maamaa koyamputhoorla irukkaaru."
+    },
+    {
+     "id": "family-89b3b4b4",
+     "en": "My aunt is a teacher.",
+     "ta": "என் அத்தை டீச்சர்.",
+     "tl": "En aththai teacher."
+    },
+    {
+     "id": "family-d84f02f1",
+     "en": "My father's younger brother is coming.",
+     "ta": "என் சித்தப்பா வராரு.",
+     "tl": "En chithappaa varaaru."
+    },
+    {
+     "id": "family-033cf8ad",
+     "en": "My mother's younger sister is coming.",
+     "ta": "என் சித்தி வராங்க.",
+     "tl": "En chithi varaanga."
+    },
+    {
+     "id": "family-3b5c378e",
+     "en": "My father's elder brother.",
+     "ta": "என் பெரியப்பா.",
+     "tl": "En periyappaa."
+    },
+    {
+     "id": "family-6fab5ab2",
+     "en": "My mother's elder sister.",
+     "ta": "என் பெரியம்மா.",
+     "tl": "En periyammaa."
+    },
+    {
+     "id": "family-c9602f50",
+     "en": "My cousin is getting married.",
+     "ta": "என் கஸின்க்கு கல்யாணம்.",
+     "tl": "En cousinkku kalyaanam."
+    },
+    {
+     "id": "family-dac5e737",
+     "en": "This is my wife.",
+     "ta": "இவங்க என் மனைவி.",
+     "tl": "Ivanga en manaivi."
+    },
+    {
+     "id": "family-24f59b51",
+     "en": "This is my husband.",
+     "ta": "இவரு என் கணவர்.",
+     "tl": "Ivaru en kanavar."
+    },
+    {
+     "id": "family-c0f6ed3b",
+     "en": "My son goes to school.",
+     "ta": "என் பையன் ஸ்கூலுக்கு போறான்.",
+     "tl": "En paiyan schoolukku poraan."
+    },
+    {
+     "id": "family-932ec024",
+     "en": "My daughter is in college.",
+     "ta": "என் பொண்ணு காலேஜ்ல படிக்கறா.",
+     "tl": "En ponnu collegela padikkaraa."
+    },
+    {
+     "id": "family-f190513a",
+     "en": "My grandson is very naughty.",
+     "ta": "என் பேரன் ரொம்ப சேட்டை.",
+     "tl": "En peran romba settai."
+    },
+    {
+     "id": "family-8cb5fca4",
+     "en": "My granddaughter loves to dance.",
+     "ta": "என் பேத்திக்கு டான்ஸ்னா உயிர்.",
+     "tl": "En pethikku dancenaa uyir."
+    },
+    {
+     "id": "family-75c65f70",
+     "en": "My father-in-law is very kind.",
+     "ta": "என் மாமனார் ரொம்ப நல்லவரு.",
+     "tl": "En maamanaar romba nallavaru."
+    },
+    {
+     "id": "family-522fa24f",
+     "en": "My mother-in-law cooks well.",
+     "ta": "என் மாமியார் நல்லா சமைப்பாங்க.",
+     "tl": "En maamiyaar nallaa samaippaanga."
+    },
+    {
+     "id": "family-0316f794",
+     "en": "My brother-in-law is my friend.",
+     "ta": "என் மச்சான் என் ஃப்ரெண்ட்.",
+     "tl": "En machaan en friend."
+    },
+    {
+     "id": "family-5c5c7dc7",
+     "en": "Amma, I'm home!",
+     "ta": "அம்மா, நான் வந்துட்டேன்!",
+     "tl": "Amma, naan vandhutten!"
+    },
+    {
+     "id": "family-19d52665",
+     "en": "Amma, I'm hungry.",
+     "ta": "அம்மா, பசிக்குது.",
+     "tl": "Amma, pasikkudhu."
+    },
+    {
+     "id": "family-923471e1",
+     "en": "Appa, give me some money.",
+     "ta": "அப்பா, கொஞ்சம் காசு குடுங்க.",
+     "tl": "Appaa, konjam kaasu kudunga."
+    },
+    {
+     "id": "family-8c77d86c",
+     "en": "Anna, wait for me.",
+     "ta": "அண்ணா, எனக்காக இரு.",
+     "tl": "Annaa, enakkaaga iru."
+    },
+    {
+     "id": "family-6e4b2ba5",
+     "en": "Akka, help me with homework.",
+     "ta": "அக்கா, ஹோம்வொர்க்ல ஹெல்ப் பண்ணு.",
+     "tl": "Akkaa, homeworkla help pannu."
+    },
+    {
+     "id": "family-1907ce45",
+     "en": "Thambi, come here.",
+     "ta": "தம்பி, இங்க வா.",
+     "tl": "Thambi, inga vaa."
+    },
+    {
+     "id": "family-3bd27dae",
+     "en": "Grandma, tell me a story.",
+     "ta": "பாட்டி, ஒரு கதை சொல்லுங்க.",
+     "tl": "Paatti, oru kadhai sollunga."
+    },
+    {
+     "id": "family-f947b7f6",
+     "en": "Where is Appa?",
+     "ta": "அப்பா எங்க?",
+     "tl": "Appaa enga?"
+    },
+    {
+     "id": "family-d688fe14",
+     "en": "Mom is in the kitchen.",
+     "ta": "அம்மா கிச்சன்ல இருக்காங்க.",
+     "tl": "Amma kitchenla irukkaanga."
+    },
+    {
+     "id": "family-7ee8bc38",
+     "en": "Dad went to the office.",
+     "ta": "அப்பா ஆபீஸுக்கு போயிட்டாரு.",
+     "tl": "Appaa officekku poyittaaru."
+    },
+    {
+     "id": "family-18b57b68",
+     "en": "Everyone is at home today.",
+     "ta": "இன்னைக்கு எல்லாரும் வீட்ல இருக்காங்க.",
+     "tl": "Innaikku ellaarum veetla irukkaanga."
+    },
+    {
+     "id": "family-12f0f37b",
+     "en": "We're a joint family.",
+     "ta": "நாங்க கூட்டு குடும்பம்.",
+     "tl": "Naanga koottu kudumbam."
+    },
+    {
+     "id": "family-4a5075d2",
+     "en": "I'm the eldest child.",
+     "ta": "நான்தான் மூத்த பிள்ளை.",
+     "tl": "Naandhaan mootha pillai."
+    },
+    {
+     "id": "family-873aacb8",
+     "en": "I'm the youngest.",
+     "ta": "நான்தான் கடைக்குட்டி.",
+     "tl": "Naandhaan kadaikkutti."
+    },
+    {
+     "id": "family-9d825ff9",
+     "en": "I'm an only child.",
+     "ta": "நான் ஒரே பிள்ளை.",
+     "tl": "Naan ore pillai."
+    },
+    {
+     "id": "family-e11b957a",
+     "en": "How many brothers and sisters do you have?",
+     "ta": "உனக்கு எத்தன அண்ணன் தம்பி அக்கா தங்கச்சி?",
+     "tl": "Unakku eththana annan thambi akkaa thangachi?"
+    },
+    {
+     "id": "family-2c187fad",
+     "en": "Are your parents well?",
+     "ta": "உங்க அப்பா அம்மா நல்லா இருக்காங்களா?",
+     "tl": "Unga appaa ammaa nallaa irukkaangalaa?"
+    },
+    {
+     "id": "family-35f85889",
+     "en": "Say hi to your family.",
+     "ta": "வீட்ல எல்லாருக்கும் என் வணக்கம் சொல்லுங்க.",
+     "tl": "Veetla ellaarukkum en vanakkam sollunga."
+    },
+    {
+     "id": "family-d7689147",
+     "en": "My parents live in the village.",
+     "ta": "என் அப்பா அம்மா ஊர்ல இருக்காங்க.",
+     "tl": "En appaa ammaa oorla irukkaanga."
+    },
+    {
+     "id": "family-02d07a0f",
+     "en": "I'm going to my hometown.",
+     "ta": "நான் ஊருக்கு போறேன்.",
+     "tl": "Naan oorukku poren."
+    },
+    {
+     "id": "family-30b8e05a",
+     "en": "We visit grandma every summer.",
+     "ta": "ஒவ்வொரு லீவுக்கும் பாட்டி வீட்டுக்கு போவோம்.",
+     "tl": "Ovvoru leevukkum paatti veettukku povom."
+    },
+    {
+     "id": "family-11dccda1",
+     "en": "The whole family is coming for Pongal.",
+     "ta": "பொங்கலுக்கு குடும்பமே வருது.",
+     "tl": "Pongalukku kudumbame varudhu."
+    },
+    {
+     "id": "family-e0ec6853",
+     "en": "My mother is my best friend.",
+     "ta": "அம்மாதான் என் பெஸ்ட் ஃப்ரெண்ட்.",
+     "tl": "Ammaadhaan en best friend."
+    },
+    {
+     "id": "family-9e793f16",
+     "en": "My father is very strict.",
+     "ta": "எங்க அப்பா ரொம்ப கண்டிப்பு.",
+     "tl": "Enga appaa romba kandippu."
+    },
+    {
+     "id": "family-65c485eb",
+     "en": "My parents are proud of me.",
+     "ta": "என் அப்பா அம்மா என்ன நினைச்சு பெருமைப்படறாங்க.",
+     "tl": "En appaa ammaa enna ninaichu perumaippadaraanga."
+    },
+    {
+     "id": "family-6f1a1aba",
+     "en": "Mom, don't worry.",
+     "ta": "அம்மா, கவலைப்படாதீங்க.",
+     "tl": "Amma, kavalaippadaadheenga."
+    },
+    {
+     "id": "family-634294cb",
+     "en": "Take your tablets on time, Appa.",
+     "ta": "அப்பா, நேரத்துக்கு மாத்திரை போடுங்க.",
+     "tl": "Appaa, nerathukku maathirai podunga."
+    },
+    {
+     "id": "family-1a746d97",
+     "en": "My brother and I fight a lot.",
+     "ta": "நானும் என் தம்பியும் நிறைய சண்டை போடுவோம்.",
+     "tl": "Naanum en thambiyum niraiya sandai poduvom."
+    },
+    {
+     "id": "family-5a0ff1ca",
+     "en": "My sister got a new job.",
+     "ta": "என் அக்காவுக்கு புது வேலை கிடைச்சுது.",
+     "tl": "En akkaavukku pudhu velai kidaichudhu."
+    },
+    {
+     "id": "family-2106a214",
+     "en": "My baby is one year old.",
+     "ta": "என் பாப்பாவுக்கு ஒரு வயசு.",
+     "tl": "En paappaavukku oru vayasu."
+    },
+    {
+     "id": "family-fb51b2f0",
+     "en": "The baby is sleeping.",
+     "ta": "பாப்பா தூங்குது.",
+     "tl": "Paappaa thoongudhu."
+    },
+    {
+     "id": "family-5ff5b543",
+     "en": "The kids are playing outside.",
+     "ta": "பசங்க வெளிய விளையாடறாங்க.",
+     "tl": "Pasanga veliya vilaiyaadaraanga."
+    },
+    {
+     "id": "family-d5a0088b",
+     "en": "Kids, come and eat.",
+     "ta": "பசங்களா, வாங்க சாப்பிடலாம்.",
+     "tl": "Pasangalaa, vaanga saappidalaam."
+    },
+    {
+     "id": "family-eb3319c7",
+     "en": "Did you call your mother?",
+     "ta": "அம்மாவுக்கு கால் பண்ணியா?",
+     "tl": "Ammaavukku call panniyaa?"
+    },
+    {
+     "id": "family-9bbc6ce8",
+     "en": "Respect your elders.",
+     "ta": "பெரியவங்கள மதிக்கணும்.",
+     "tl": "Periyavangala madhikkanum."
+    },
+    {
+     "id": "family-01a0d942",
+     "en": "Touch your grandfather's feet.",
+     "ta": "தாத்தா கால்ல விழுந்து கும்பிடு.",
+     "tl": "Thaathaa kaalla vizhundhu kumbidu."
+    },
+    {
+     "id": "family-0ce2ff6f",
+     "en": "Family comes first.",
+     "ta": "குடும்பம்தான் முதல்ல.",
+     "tl": "Kudumbamdhaan mudhalla."
+    },
+    {
+     "id": "family-53e6f29b",
+     "en": "We're getting together for dinner.",
+     "ta": "எல்லாரும் சேர்ந்து டின்னர் சாப்பிடறோம்.",
+     "tl": "Ellaarum serndhu dinner saappidarom."
+    },
+    {
+     "id": "family-5c981144",
+     "en": "My nephew is very smart.",
+     "ta": "என் அக்கா பையன் ரொம்ப புத்திசாலி.",
+     "tl": "En akkaa paiyan romba buddhisaali."
+    },
+    {
+     "id": "family-4d4f8bfa",
+     "en": "My niece calls me every day.",
+     "ta": "என் அண்ணன் பொண்ணு தினமும் கால் பண்ணுவா.",
+     "tl": "En annan ponnu dhinamum call pannuvaa."
+    },
+    {
+     "id": "family-b6a98533",
+     "en": "I miss my family.",
+     "ta": "குடும்பத்த மிஸ் பண்றேன்.",
+     "tl": "Kudumbatha miss panren."
+    },
+    {
+     "id": "family-cc75aaca",
+     "en": "I love my family.",
+     "ta": "எனக்கு என் குடும்பம் ரொம்ப பிடிக்கும்.",
+     "tl": "Enakku en kudumbam romba pidikkum."
+    },
+    {
+     "id": "family-edb5114a",
+     "en": "Our neighbors are like family.",
+     "ta": "எங்க பக்கத்து வீட்டுக்காரங்க குடும்பம் மாதிரி.",
+     "tl": "Enga pakkathu veettukkaaranga kudumbam maadhiri."
+    },
+    {
+     "id": "family-96c4405a",
+     "en": "My best friend is like my brother.",
+     "ta": "என் பெஸ்ட் ஃப்ரெண்ட் என் சகோதரன் மாதிரி.",
+     "tl": "En best friend en sagodharan maadhiri."
+    },
+    {
+     "id": "family-fd15e80b",
+     "en": "Our family is small but happy.",
+     "ta": "எங்க குடும்பம் சின்னது, ஆனா சந்தோஷமானது.",
+     "tl": "Enga kudumbam chinnadhu, aanaa santhoshamaanadhu."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "name": "Food & Restaurant",
+   "ta": "சாப்பாடு",
+   "tl": "Saappaadu",
+   "emoji": "🍛",
+   "colors": [
+    "#FCD34D",
+    "#D97706"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "food-3226542a",
+     "en": "I'm very hungry.",
+     "ta": "எனக்கு ரொம்ப பசிக்குது.",
+     "tl": "Enakku romba pasikkudhu."
+    },
+    {
+     "id": "food-a9debf15",
+     "en": "Let's eat.",
+     "ta": "சாப்பிடலாம் வா.",
+     "tl": "Saappidalaam vaa."
+    },
+    {
+     "id": "food-6a818521",
+     "en": "What's for lunch?",
+     "ta": "மதியம் என்ன சாப்பாடு?",
+     "tl": "Madhiyam enna saappaadu?"
+    },
+    {
+     "id": "food-23390a41",
+     "en": "What's for dinner?",
+     "ta": "ராத்திரிக்கு என்ன?",
+     "tl": "Raathirikku enna?"
+    },
+    {
+     "id": "food-16cafbd6",
+     "en": "Today it's sambar rice.",
+     "ta": "இன்னைக்கு சாம்பார் சாதம்.",
+     "tl": "Innaikku saambaar saadham."
+    },
+    {
+     "id": "food-a9830b9e",
+     "en": "I want curd rice.",
+     "ta": "எனக்கு தயிர் சாதம் வேணும்.",
+     "tl": "Enakku thayir saadham venum."
+    },
+    {
+     "id": "food-96b010a2",
+     "en": "Give me two idlis.",
+     "ta": "ரெண்டு இட்லி குடுங்க.",
+     "tl": "Rendu idli kudunga."
+    },
+    {
+     "id": "food-2a556382",
+     "en": "One masala dosa, please.",
+     "ta": "ஒரு மசால் தோசை குடுங்க.",
+     "tl": "Oru masaal dosai kudunga."
+    },
+    {
+     "id": "food-a1b8e6ba",
+     "en": "Is there parotta?",
+     "ta": "பரோட்டா இருக்கா?",
+     "tl": "Parottaa irukkaa?"
+    },
+    {
+     "id": "food-93d9a2a9",
+     "en": "One chicken biryani.",
+     "ta": "ஒரு சிக்கன் பிரியாணி.",
+     "tl": "Oru chicken biriyaani."
+    },
+    {
+     "id": "food-7f49ac30",
+     "en": "Do you have vegetarian food?",
+     "ta": "சைவ சாப்பாடு இருக்கா?",
+     "tl": "Saiva saappaadu irukkaa?"
+    },
+    {
+     "id": "food-0855de28",
+     "en": "I'm vegetarian.",
+     "ta": "நான் சைவம்.",
+     "tl": "Naan saivam."
+    },
+    {
+     "id": "food-d1b680e0",
+     "en": "I don't eat meat.",
+     "ta": "நான் கறி சாப்பிட மாட்டேன்.",
+     "tl": "Naan kari saappida maatten."
+    },
+    {
+     "id": "food-47e89b79",
+     "en": "I eat non-veg.",
+     "ta": "நான் அசைவம் சாப்பிடுவேன்.",
+     "tl": "Naan asaivam saappiduven."
+    },
+    {
+     "id": "food-c76e8311",
+     "en": "What do you recommend?",
+     "ta": "எது நல்லா இருக்கும்?",
+     "tl": "Edhu nallaa irukkum?"
+    },
+    {
+     "id": "food-b08ccb7e",
+     "en": "What's special today?",
+     "ta": "இன்னைக்கு ஸ்பெஷல் என்ன?",
+     "tl": "Innaikku special enna?"
+    },
+    {
+     "id": "food-8a9baa51",
+     "en": "Show me the menu.",
+     "ta": "மெனு காட்டுங்க.",
+     "tl": "Menu kaattunga."
+    },
+    {
+     "id": "food-ebdcd0b2",
+     "en": "Table for four, please.",
+     "ta": "நாலு பேருக்கு டேபிள் இருக்கா?",
+     "tl": "Naalu perukku table irukkaa?"
+    },
+    {
+     "id": "food-416a23c8",
+     "en": "Water, please.",
+     "ta": "தண்ணி குடுங்க.",
+     "tl": "Thanni kudunga."
+    },
+    {
+     "id": "food-6d76926b",
+     "en": "Not too spicy.",
+     "ta": "ரொம்ப காரம் வேண்டாம்.",
+     "tl": "Romba kaaram vendaam."
+    },
+    {
+     "id": "food-48e04956",
+     "en": "Make it extra spicy.",
+     "ta": "நல்லா காரமா போடுங்க.",
+     "tl": "Nallaa kaaramaa podunga."
+    },
+    {
+     "id": "food-8aa9f31e",
+     "en": "No sugar in my coffee.",
+     "ta": "காபில சக்கரை வேண்டாம்.",
+     "tl": "Coffeela sakkarai vendaam."
+    },
+    {
+     "id": "food-0bfd164b",
+     "en": "One more plate.",
+     "ta": "இன்னொரு ப்ளேட்.",
+     "tl": "Innoru plate."
+    },
+    {
+     "id": "food-5931b335",
+     "en": "A little more rice, please.",
+     "ta": "இன்னும் கொஞ்சம் சாதம் போடுங்க.",
+     "tl": "Innum konjam saadham podunga."
+    },
+    {
+     "id": "food-c39b4857",
+     "en": "More sambar, please.",
+     "ta": "இன்னும் கொஞ்சம் சாம்பார்.",
+     "tl": "Innum konjam saambaar."
+    },
+    {
+     "id": "food-107cfc57",
+     "en": "Enough, thank you.",
+     "ta": "போதும், நன்றி.",
+     "tl": "Podhum, nandri."
+    },
+    {
+     "id": "food-89cfa9a1",
+     "en": "I'm full.",
+     "ta": "வயிறு நிறைஞ்சிடுச்சு.",
+     "tl": "Vayiru nirainjiduchu."
+    },
+    {
+     "id": "food-32ffe0b0",
+     "en": "That was delicious.",
+     "ta": "சாப்பாடு அருமையா இருந்துச்சு.",
+     "tl": "Saappaadu arumaiyaa irundhuchu."
+    },
+    {
+     "id": "food-ddc8c79a",
+     "en": "The food is too salty.",
+     "ta": "உப்பு ரொம்ப அதிகம்.",
+     "tl": "Uppu romba adhigam."
+    },
+    {
+     "id": "food-62400d71",
+     "en": "There's no salt.",
+     "ta": "உப்பே இல்ல.",
+     "tl": "Uppe illa."
+    },
+    {
+     "id": "food-e3af68be",
+     "en": "The food is cold.",
+     "ta": "சாப்பாடு சூடா இல்ல.",
+     "tl": "Saappaadu soodaa illa."
+    },
+    {
+     "id": "food-71a14baf",
+     "en": "Bring the bill.",
+     "ta": "பில் கொண்டு வாங்க.",
+     "tl": "Bill kondu vaanga."
+    },
+    {
+     "id": "food-cedaa6c2",
+     "en": "Can I pay by GPay?",
+     "ta": "ஜிபே பண்ணலாமா?",
+     "tl": "GPay pannalaamaa?"
+    },
+    {
+     "id": "food-dded7086",
+     "en": "Pack it, please.",
+     "ta": "பார்சல் பண்ணுங்க.",
+     "tl": "Parcel pannunga."
+    },
+    {
+     "id": "food-03ac1f81",
+     "en": "One parcel.",
+     "ta": "ஒரு பார்சல்.",
+     "tl": "Oru parcel."
+    },
+    {
+     "id": "food-bb1f8af1",
+     "en": "Let's order online.",
+     "ta": "ஆன்லைன்ல ஆர்டர் பண்ணலாம்.",
+     "tl": "Onlinela order pannalaam."
+    },
+    {
+     "id": "food-29e7c3ca",
+     "en": "The delivery is late.",
+     "ta": "டெலிவரி லேட் ஆகுது.",
+     "tl": "Delivery late aagudhu."
+    },
+    {
+     "id": "food-5e6d3c40",
+     "en": "Let's go for street food.",
+     "ta": "ரோட்டு கடைக்கு போலாம்.",
+     "tl": "Rottu kadaikku polaam."
+    },
+    {
+     "id": "food-7ea9b7f6",
+     "en": "I love filter coffee.",
+     "ta": "எனக்கு ஃபில்டர் காபி ரொம்ப பிடிக்கும்.",
+     "tl": "Enakku filter coffee romba pidikkum."
+    },
+    {
+     "id": "food-97273e24",
+     "en": "One strong tea.",
+     "ta": "ஒரு ஸ்ட்ராங் டீ.",
+     "tl": "Oru strong tea."
+    },
+    {
+     "id": "food-4f3c1c47",
+     "en": "Tea with less sugar.",
+     "ta": "சக்கரை கம்மியா டீ.",
+     "tl": "Sakkarai kammiyaa tea."
+    },
+    {
+     "id": "food-8b50adc7",
+     "en": "Fresh lime juice, please.",
+     "ta": "ஒரு ஃப்ரெஷ் லைம் ஜூஸ்.",
+     "tl": "Oru fresh lime juice."
+    },
+    {
+     "id": "food-e3b6c7df",
+     "en": "Tender coconut, please.",
+     "ta": "ஒரு இளநீர் குடுங்க.",
+     "tl": "Oru ilaneer kudunga."
+    },
+    {
+     "id": "food-b391366f",
+     "en": "How do you make this?",
+     "ta": "இத எப்படி செய்யறது?",
+     "tl": "Idha eppadi seiyaradhu?"
+    },
+    {
+     "id": "food-827961f4",
+     "en": "Teach me to cook this.",
+     "ta": "இத சமைக்க எனக்கு சொல்லி குடு.",
+     "tl": "Idha samaikka enakku solli kudu."
+    },
+    {
+     "id": "food-15362b3b",
+     "en": "Mom's food is the best.",
+     "ta": "அம்மா சமையல்தான் பெஸ்ட்.",
+     "tl": "Amma samaiyaldhaan best."
+    },
+    {
+     "id": "food-ad4fc828",
+     "en": "I'm cooking rasam today.",
+     "ta": "இன்னைக்கு ரசம் வைக்கறேன்.",
+     "tl": "Innaikku rasam vaikkaren."
+    },
+    {
+     "id": "food-691e6d29",
+     "en": "Add some salt.",
+     "ta": "கொஞ்சம் உப்பு போடு.",
+     "tl": "Konjam uppu podu."
+    },
+    {
+     "id": "food-a624bd32",
+     "en": "Fry the onions.",
+     "ta": "வெங்காயத்த வதக்கு.",
+     "tl": "Vengaayatha vadhakku."
+    },
+    {
+     "id": "food-c5f34974",
+     "en": "Boil the water.",
+     "ta": "தண்ணிய கொதிக்க வை.",
+     "tl": "Thanniya kodhikka vai."
+    },
+    {
+     "id": "food-2d036edb",
+     "en": "The rice is burning.",
+     "ta": "சாதம் அடிபிடிக்குது.",
+     "tl": "Saadham adipidikkudhu."
+    },
+    {
+     "id": "food-97803da9",
+     "en": "Don't waste food.",
+     "ta": "சாப்பாட்ட வீணாக்காத.",
+     "tl": "Saappaatta veenaakkaadha."
+    },
+    {
+     "id": "food-b37b9866",
+     "en": "Eat slowly.",
+     "ta": "மெதுவா சாப்பிடு.",
+     "tl": "Medhuvaa saappidu."
+    },
+    {
+     "id": "food-325bf388",
+     "en": "Eat well.",
+     "ta": "நல்லா சாப்பிடு.",
+     "tl": "Nallaa saappidu."
+    },
+    {
+     "id": "food-29bd2748",
+     "en": "Have some more.",
+     "ta": "இன்னும் கொஞ்சம் சாப்பிடு.",
+     "tl": "Innum konjam saappidu."
+    },
+    {
+     "id": "food-e78210e5",
+     "en": "Have you had lunch?",
+     "ta": "மதியம் சாப்பிட்டியா?",
+     "tl": "Madhiyam saappittiyaa?"
+    },
+    {
+     "id": "food-3d0d22af",
+     "en": "Not yet.",
+     "ta": "இன்னும் இல்ல.",
+     "tl": "Innum illa."
+    },
+    {
+     "id": "food-9ad8a4c9",
+     "en": "I skipped breakfast.",
+     "ta": "நான் டிபன் சாப்பிடல.",
+     "tl": "Naan tiffin saappidala."
+    },
+    {
+     "id": "food-695ca8d7",
+     "en": "I'm on a diet.",
+     "ta": "நான் டயட்ல இருக்கேன்.",
+     "tl": "Naan dietla irukken."
+    },
+    {
+     "id": "food-8f30596c",
+     "en": "I'm allergic to peanuts.",
+     "ta": "எனக்கு கடலை அலர்ஜி.",
+     "tl": "Enakku kadalai allergy."
+    },
+    {
+     "id": "food-2506357f",
+     "en": "Is this fresh?",
+     "ta": "இது ஃப்ரெஷ்ஷா?",
+     "tl": "Idhu freshaa?"
+    },
+    {
+     "id": "food-7072cfda",
+     "en": "This mango is so sweet.",
+     "ta": "இந்த மாம்பழம் செம்ம இனிப்பு.",
+     "tl": "Indha maambazham semma inippu."
+    },
+    {
+     "id": "food-4f45a81b",
+     "en": "Let's have ice cream.",
+     "ta": "ஐஸ்க்ரீம் சாப்பிடலாம்.",
+     "tl": "Icecream saappidalaam."
+    },
+    {
+     "id": "food-623016a5",
+     "en": "I love sweets.",
+     "ta": "எனக்கு ஸ்வீட்ஸ்னா ரொம்ப பிடிக்கும்.",
+     "tl": "Enakku sweetsnaa romba pidikkum."
+    },
+    {
+     "id": "food-fc829eb5",
+     "en": "Payasam is ready.",
+     "ta": "பாயசம் ரெடி.",
+     "tl": "Paayasam ready."
+    },
+    {
+     "id": "food-61e22a13",
+     "en": "Serve it on a banana leaf.",
+     "ta": "வாழை இலையில பரிமாறுங்க.",
+     "tl": "Vaazhai ilaiyila parimaarunga."
+    },
+    {
+     "id": "food-1d493cb1",
+     "en": "Wash your hands before eating.",
+     "ta": "சாப்பிடறதுக்கு முன்னாடி கை கழுவு.",
+     "tl": "Saappidaradhukku munnaadi kai kazhuvu."
+    },
+    {
+     "id": "food-e4c21ebd",
+     "en": "The restaurant is crowded.",
+     "ta": "ஹோட்டல்ல செம்ம கூட்டம்.",
+     "tl": "Hotella semma koottam."
+    },
+    {
+     "id": "food-45ff94b7",
+     "en": "We'll wait for a table.",
+     "ta": "டேபிளுக்கு வெயிட் பண்றோம்.",
+     "tl": "Tablekku wait panrom."
+    },
+    {
+     "id": "food-7a01ad2e",
+     "en": "Keep the tip.",
+     "ta": "டிப்ஸ் வச்சுக்கோங்க.",
+     "tl": "Tips vachukkonga."
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "name": "Work & Office",
+   "ta": "வேலை",
+   "tl": "Velai",
+   "emoji": "💼",
+   "colors": [
+    "#94A3B8",
+    "#475569"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "work-c0d2aeb9",
+     "en": "I'm going to work.",
+     "ta": "நான் வேலைக்கு போறேன்.",
+     "tl": "Naan velaikku poren."
+    },
+    {
+     "id": "work-13060f63",
+     "en": "I'm working from home today.",
+     "ta": "இன்னைக்கு வீட்லேர்ந்து வேலை பாக்கறேன்.",
+     "tl": "Innaikku veetlerndhu velai paakkaren."
+    },
+    {
+     "id": "work-c306b472",
+     "en": "I have a meeting at ten.",
+     "ta": "பத்து மணிக்கு மீட்டிங் இருக்கு.",
+     "tl": "Paththu manikku meeting irukku."
+    },
+    {
+     "id": "work-8f64245e",
+     "en": "The meeting got cancelled.",
+     "ta": "மீட்டிங் கேன்சல் ஆயிடுச்சு.",
+     "tl": "Meeting cancel aayiduchu."
+    },
+    {
+     "id": "work-e3674a63",
+     "en": "I'm in a meeting.",
+     "ta": "நான் மீட்டிங்ல இருக்கேன்.",
+     "tl": "Naan meetingla irukken."
+    },
+    {
+     "id": "work-ae58262d",
+     "en": "I'll call you after the meeting.",
+     "ta": "மீட்டிங் முடிஞ்சதும் கால் பண்றேன்.",
+     "tl": "Meeting mudinjadhum call panren."
+    },
+    {
+     "id": "work-308d01b2",
+     "en": "I have a lot of work today.",
+     "ta": "இன்னைக்கு நிறைய வேலை இருக்கு.",
+     "tl": "Innaikku niraiya velai irukku."
+    },
+    {
+     "id": "work-5cec5987",
+     "en": "I'm very busy.",
+     "ta": "நான் ரொம்ப பிஸி.",
+     "tl": "Naan romba busy."
+    },
+    {
+     "id": "work-ac689afb",
+     "en": "The deadline is tomorrow.",
+     "ta": "நாளைக்குதான் டெட்லைன்.",
+     "tl": "Naalaikkudhaan deadline."
+    },
+    {
+     "id": "work-839518b9",
+     "en": "I finished the report.",
+     "ta": "ரிப்போர்ட்ட முடிச்சிட்டேன்.",
+     "tl": "Reportta mudichitten."
+    },
+    {
+     "id": "work-ebd3ca27",
+     "en": "Send me the file.",
+     "ta": "எனக்கு அந்த ஃபைல அனுப்புங்க.",
+     "tl": "Enakku andha file-a anuppunga."
+    },
+    {
+     "id": "work-626bf2e7",
+     "en": "Check your email.",
+     "ta": "உங்க மெயில பாருங்க.",
+     "tl": "Unga mail-a paarunga."
+    },
+    {
+     "id": "work-61e3ee39",
+     "en": "I sent you an email.",
+     "ta": "உங்களுக்கு மெயில் அனுப்பிருக்கேன்.",
+     "tl": "Ungalukku mail anuppirukken."
+    },
+    {
+     "id": "work-6170e424",
+     "en": "My boss is angry.",
+     "ta": "என் பாஸ் கோபமா இருக்காரு.",
+     "tl": "En boss kobamaa irukkaaru."
+    },
+    {
+     "id": "work-4d8e743a",
+     "en": "My manager is on leave.",
+     "ta": "என் மேனேஜர் லீவுல இருக்காரு.",
+     "tl": "En manager leevula irukkaaru."
+    },
+    {
+     "id": "work-3278fd66",
+     "en": "I need leave tomorrow.",
+     "ta": "எனக்கு நாளைக்கு லீவு வேணும்.",
+     "tl": "Enakku naalaikku leevu venum."
+    },
+    {
+     "id": "work-f78214bf",
+     "en": "I'm on sick leave.",
+     "ta": "நான் சிக் லீவுல இருக்கேன்.",
+     "tl": "Naan sick leevula irukken."
+    },
+    {
+     "id": "work-ec3ce034",
+     "en": "I'll be late today.",
+     "ta": "இன்னைக்கு லேட்டா வருவேன்.",
+     "tl": "Innaikku late-aa varuven."
+    },
+    {
+     "id": "work-a9ecac10",
+     "en": "I'm stuck in traffic.",
+     "ta": "ட்ராஃபிக்ல மாட்டிக்கிட்டேன்.",
+     "tl": "Trafficla maattikkitten."
+    },
+    {
+     "id": "work-5e985f24",
+     "en": "The office is closed tomorrow.",
+     "ta": "நாளைக்கு ஆபீஸ் லீவு.",
+     "tl": "Naalaikku office leevu."
+    },
+    {
+     "id": "work-b0642b92",
+     "en": "When is lunch break?",
+     "ta": "லஞ்ச் பிரேக் எப்போ?",
+     "tl": "Lunch break eppo?"
+    },
+    {
+     "id": "work-0f83101e",
+     "en": "Let's have tea.",
+     "ta": "டீ குடிக்க போலாம்.",
+     "tl": "Tea kudikka polaam."
+    },
+    {
+     "id": "work-da1b0444",
+     "en": "I'm leaving for the day.",
+     "ta": "நான் கிளம்பறேன்.",
+     "tl": "Naan kilambaren."
+    },
+    {
+     "id": "work-087f46e4",
+     "en": "I worked late yesterday.",
+     "ta": "நேத்து லேட் வரைக்கும் வேலை பாத்தேன்.",
+     "tl": "Nethu late varaikkum velai paathen."
+    },
+    {
+     "id": "work-9e36342c",
+     "en": "I'm tired of overtime.",
+     "ta": "ஓவர்டைம் பண்ணி அலுத்துடுச்சு.",
+     "tl": "Overtime panni aluthuduchu."
+    },
+    {
+     "id": "work-bc5eddf3",
+     "en": "Salary hasn't come yet.",
+     "ta": "இன்னும் சம்பளம் வரல.",
+     "tl": "Innum sambalam varala."
+    },
+    {
+     "id": "work-39713a3c",
+     "en": "I got a hike.",
+     "ta": "எனக்கு சம்பள உயர்வு கிடைச்சுது.",
+     "tl": "Enakku sambala uyarvu kidaichudhu."
+    },
+    {
+     "id": "work-edf3e15a",
+     "en": "I got promoted.",
+     "ta": "எனக்கு ப்ரமோஷன் ஆயிடுச்சு.",
+     "tl": "Enakku promotion aayiduchu."
+    },
+    {
+     "id": "work-855e452a",
+     "en": "I have an interview tomorrow.",
+     "ta": "நாளைக்கு எனக்கு இன்டர்வியூ.",
+     "tl": "Naalaikku enakku interview."
+    },
+    {
+     "id": "work-9a638a7a",
+     "en": "Wish me luck.",
+     "ta": "எனக்கு ஆல் தி பெஸ்ட் சொல்லு.",
+     "tl": "Enakku all the best sollu."
+    },
+    {
+     "id": "work-d12577ad",
+     "en": "I'm looking for a job.",
+     "ta": "நான் வேலை தேடிட்டு இருக்கேன்.",
+     "tl": "Naan velai thedittu irukken."
+    },
+    {
+     "id": "work-fef9d994",
+     "en": "I quit my job.",
+     "ta": "நான் வேலைய விட்டுட்டேன்.",
+     "tl": "Naan velaiya vittutten."
+    },
+    {
+     "id": "work-8309fcf6",
+     "en": "I'm joining a new company.",
+     "ta": "நான் புது கம்பெனில சேர்றேன்.",
+     "tl": "Naan pudhu companyla serren."
+    },
+    {
+     "id": "work-589f0409",
+     "en": "This is my first day.",
+     "ta": "இன்னைக்குதான் என் முதல் நாள்.",
+     "tl": "Innaikkudhaan en mudhal naal."
+    },
+    {
+     "id": "work-b64912fe",
+     "en": "Welcome to the team.",
+     "ta": "டீமுக்கு வெல்கம்.",
+     "tl": "Teamukku welcome."
+    },
+    {
+     "id": "work-51c0b3fe",
+     "en": "Can you help me with this?",
+     "ta": "இதுல கொஞ்சம் ஹெல்ப் பண்றீங்களா?",
+     "tl": "Idhula konjam help panreengalaa?"
+    },
+    {
+     "id": "work-1ca5e4bf",
+     "en": "I don't understand this task.",
+     "ta": "இந்த வேலை எனக்கு புரியல.",
+     "tl": "Indha velai enakku puriyala."
+    },
+    {
+     "id": "work-bf9e2473",
+     "en": "Let me check and tell you.",
+     "ta": "பாத்துட்டு சொல்றேன்.",
+     "tl": "Paathuttu solren."
+    },
+    {
+     "id": "work-19f32c96",
+     "en": "I'll do it today.",
+     "ta": "இன்னைக்கே பண்ணிடறேன்.",
+     "tl": "Innaikke pannidaren."
+    },
+    {
+     "id": "work-6871e131",
+     "en": "It's done.",
+     "ta": "முடிஞ்சிடுச்சு.",
+     "tl": "Mudinjiduchu."
+    },
+    {
+     "id": "work-d51b6f92",
+     "en": "It's almost done.",
+     "ta": "கிட்டத்தட்ட முடிஞ்சிடுச்சு.",
+     "tl": "Kittaththatta mudinjiduchu."
+    },
+    {
+     "id": "work-05abfc9e",
+     "en": "Give me one more day.",
+     "ta": "இன்னும் ஒரு நாள் குடுங்க.",
+     "tl": "Innum oru naal kudunga."
+    },
+    {
+     "id": "work-c2e13262",
+     "en": "The system is down.",
+     "ta": "சிஸ்டம் வேலை செய்யல.",
+     "tl": "System velai seiyala."
+    },
+    {
+     "id": "work-76ef8847",
+     "en": "My laptop crashed.",
+     "ta": "என் லேப்டாப் ஹேங் ஆயிடுச்சு.",
+     "tl": "En laptop hang aayiduchu."
+    },
+    {
+     "id": "work-7ca5bfd6",
+     "en": "Call IT support.",
+     "ta": "ஐடி சப்போர்ட்ட கூப்பிடுங்க.",
+     "tl": "IT supportta koopidunga."
+    },
+    {
+     "id": "work-b4f2ba76",
+     "en": "Join the call.",
+     "ta": "கால்ல ஜாயின் பண்ணுங்க.",
+     "tl": "Callla join pannunga."
+    },
+    {
+     "id": "work-de5f9ed0",
+     "en": "You're on mute.",
+     "ta": "நீங்க ம்யூட்ல இருக்கீங்க.",
+     "tl": "Neenga mutela irukkeenga."
+    },
+    {
+     "id": "work-79563d55",
+     "en": "Can you hear me?",
+     "ta": "நான் பேசறது கேக்குதா?",
+     "tl": "Naan pesaradhu kekkudhaa?"
+    },
+    {
+     "id": "work-cf07dcf0",
+     "en": "Share your screen.",
+     "ta": "ஸ்க்ரீன் ஷேர் பண்ணுங்க.",
+     "tl": "Screen share pannunga."
+    },
+    {
+     "id": "work-256fd498",
+     "en": "Good work!",
+     "ta": "நல்ல வேலை!",
+     "tl": "Nalla velai!"
+    },
+    {
+     "id": "work-d9b3c9f1",
+     "en": "Thanks for your help.",
+     "ta": "ஹெல்ப் பண்ணதுக்கு நன்றி.",
+     "tl": "Help pannadhukku nandri."
+    },
+    {
+     "id": "work-35db2595",
+     "en": "Let's discuss tomorrow.",
+     "ta": "நாளைக்கு பேசலாம்.",
+     "tl": "Naalaikku pesalaam."
+    },
+    {
+     "id": "work-249c4204",
+     "en": "My colleague is very helpful.",
+     "ta": "என் கூட வேலை பாக்கறவரு ரொம்ப உதவியா இருப்பாரு.",
+     "tl": "En kooda velai paakkaravaru romba udhaviyaa iruppaaru."
+    },
+    {
+     "id": "work-c62ed321",
+     "en": "I work in IT.",
+     "ta": "நான் ஐடில வேலை பாக்கறேன்.",
+     "tl": "Naan ITla velai paakkaren."
+    },
+    {
+     "id": "work-b251706b",
+     "en": "I run a small business.",
+     "ta": "நான் ஒரு சின்ன பிசினஸ் பண்றேன்.",
+     "tl": "Naan oru chinna business panren."
+    },
+    {
+     "id": "work-bbc27e52",
+     "en": "Business is slow these days.",
+     "ta": "இப்பல்லாம் பிசினஸ் டல்லா இருக்கு.",
+     "tl": "Ippallaam business dullaa irukku."
+    },
+    {
+     "id": "work-800bd781",
+     "en": "I have exams next week.",
+     "ta": "அடுத்த வாரம் எக்ஸாம்.",
+     "tl": "Adutha vaaram exam."
+    },
+    {
+     "id": "work-a772938c",
+     "en": "I'm studying for the exam.",
+     "ta": "எக்ஸாமுக்கு படிச்சிட்டு இருக்கேன்.",
+     "tl": "Examukku padichittu irukken."
+    },
+    {
+     "id": "work-020a723b",
+     "en": "I didn't do the homework.",
+     "ta": "நான் ஹோம்வொர்க் பண்ணல.",
+     "tl": "Naan homework pannala."
+    },
+    {
+     "id": "work-9ed0db32",
+     "en": "The teacher scolded me.",
+     "ta": "டீச்சர் என்ன திட்டுனாங்க.",
+     "tl": "Teacher enna thittunaanga."
+    },
+    {
+     "id": "work-0e468d2b",
+     "en": "College starts on Monday.",
+     "ta": "திங்கக்கிழமை காலேஜ் ஆரம்பிக்குது.",
+     "tl": "Thingakkizhamai college aarambikkudhu."
+    },
+    {
+     "id": "work-b6d5b025",
+     "en": "What are you studying?",
+     "ta": "நீ என்ன படிக்கற?",
+     "tl": "Nee enna padikkara?"
+    },
+    {
+     "id": "work-fe483b1a",
+     "en": "I'm studying engineering.",
+     "ta": "நான் இன்ஜினியரிங் படிக்கறேன்.",
+     "tl": "Naan engineering padikkaren."
+    },
+    {
+     "id": "work-3e2a9578",
+     "en": "Work is worship.",
+     "ta": "செய்யும் தொழிலே தெய்வம்.",
+     "tl": "Seiyum thozhile dheivam."
+    },
+    {
+     "id": "work-0547e2d2",
+     "en": "Don't take work stress home.",
+     "ta": "வேலை டென்ஷன வீட்டுக்கு கொண்டு வராத.",
+     "tl": "Velai tensiona veettukku kondu varaadha."
+    },
+    {
+     "id": "work-d538c417",
+     "en": "I need a break.",
+     "ta": "எனக்கு ஒரு பிரேக் வேணும்.",
+     "tl": "Enakku oru break venum."
+    },
+    {
+     "id": "work-54562712",
+     "en": "Let's start the meeting.",
+     "ta": "மீட்டிங் ஆரம்பிக்கலாம்.",
+     "tl": "Meeting aarambikkalaam."
+    },
+    {
+     "id": "work-c7fd51a2",
+     "en": "Any questions?",
+     "ta": "ஏதாவது கேள்வி இருக்கா?",
+     "tl": "Edhaavadhu kelvi irukkaa?"
+    },
+    {
+     "id": "work-3f502177",
+     "en": "That's all for today.",
+     "ta": "இன்னைக்கு அவ்ளோதான்.",
+     "tl": "Innaikku avlodhaan."
+    }
+   ]
+  },
+  {
+   "id": "travel",
+   "name": "Travel & Directions",
+   "ta": "பயணம்",
+   "tl": "Payanam",
+   "emoji": "🧭",
+   "colors": [
+    "#5EEAD4",
+    "#0D9488"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "travel-2465ab92",
+     "en": "Where is the bus stand?",
+     "ta": "பஸ் ஸ்டாண்ட் எங்க இருக்கு?",
+     "tl": "Bus stand enga irukku?"
+    },
+    {
+     "id": "travel-eb728b4d",
+     "en": "Where is the railway station?",
+     "ta": "ரயில்வே ஸ்டேஷன் எங்க?",
+     "tl": "Railway station enga?"
+    },
+    {
+     "id": "travel-538df2d9",
+     "en": "How do I get to the beach?",
+     "ta": "பீச்சுக்கு எப்படி போகணும்?",
+     "tl": "Beachukku eppadi poganum?"
+    },
+    {
+     "id": "travel-498ede3a",
+     "en": "Is it walking distance?",
+     "ta": "நடந்து போற தூரமா?",
+     "tl": "Nadandhu pora thooramaa?"
+    },
+    {
+     "id": "travel-060ef1cb",
+     "en": "It's very close.",
+     "ta": "ரொம்ப பக்கம்.",
+     "tl": "Romba pakkam."
+    },
+    {
+     "id": "travel-006bed23",
+     "en": "It's far from here.",
+     "ta": "இங்கேர்ந்து ரொம்ப தூரம்.",
+     "tl": "Ingerndhu romba thooram."
+    },
+    {
+     "id": "travel-b18f16ca",
+     "en": "Go straight and turn left.",
+     "ta": "நேரா போய் லெஃப்ட் திரும்புங்க.",
+     "tl": "Neraa poi left thirumbunga."
+    },
+    {
+     "id": "travel-52b1664f",
+     "en": "It's next to the temple.",
+     "ta": "கோயிலுக்கு பக்கத்துல இருக்கு.",
+     "tl": "Koyilukku pakkathula irukku."
+    },
+    {
+     "id": "travel-eaab6a0e",
+     "en": "It's opposite the bank.",
+     "ta": "பேங்குக்கு எதிர்ல இருக்கு.",
+     "tl": "Bankukku edhirla irukku."
+    },
+    {
+     "id": "travel-64a3c536",
+     "en": "Take the second right.",
+     "ta": "ரெண்டாவது ரைட் எடுங்க.",
+     "tl": "Rendaavadhu right edunga."
+    },
+    {
+     "id": "travel-96bed5fd",
+     "en": "Cross the signal.",
+     "ta": "சிக்னல தாண்டுங்க.",
+     "tl": "Signala thaandunga."
+    },
+    {
+     "id": "travel-bf9fe286",
+     "en": "I'm lost.",
+     "ta": "நான் வழி தவறிட்டேன்.",
+     "tl": "Naan vazhi thavaritten."
+    },
+    {
+     "id": "travel-0f67212a",
+     "en": "Can you show me on the map?",
+     "ta": "மேப்ல காட்டுவீங்களா?",
+     "tl": "Mapla kaattuveengalaa?"
+    },
+    {
+     "id": "travel-89275dce",
+     "en": "Send me your location.",
+     "ta": "உன் லொகேஷன் அனுப்பு.",
+     "tl": "Un location anuppu."
+    },
+    {
+     "id": "travel-1570e520",
+     "en": "I'm near the bus stop.",
+     "ta": "நான் பஸ் ஸ்டாப் பக்கத்துல இருக்கேன்.",
+     "tl": "Naan bus stop pakkathula irukken."
+    },
+    {
+     "id": "travel-bdb4d9fb",
+     "en": "Which bus goes to Chennai?",
+     "ta": "சென்னைக்கு எந்த பஸ் போகும்?",
+     "tl": "Chennaikku endha bus pogum?"
+    },
+    {
+     "id": "travel-11612265",
+     "en": "Does this bus go to the airport?",
+     "ta": "இந்த பஸ் ஏர்போர்ட் போகுமா?",
+     "tl": "Indha bus airport pogumaa?"
+    },
+    {
+     "id": "travel-e372dc80",
+     "en": "When is the next bus?",
+     "ta": "அடுத்த பஸ் எப்போ?",
+     "tl": "Adutha bus eppo?"
+    },
+    {
+     "id": "travel-3810edab",
+     "en": "One ticket to Madurai.",
+     "ta": "மதுரைக்கு ஒரு டிக்கெட்.",
+     "tl": "Madhuraikku oru ticket."
+    },
+    {
+     "id": "travel-78fc4189",
+     "en": "Tell me when my stop comes.",
+     "ta": "என் ஸ்டாப் வந்தா சொல்லுங்க.",
+     "tl": "En stop vandhaa sollunga."
+    },
+    {
+     "id": "travel-e386d7e8",
+     "en": "Stop here, please.",
+     "ta": "இங்க நிறுத்துங்க, ப்ளீஸ்.",
+     "tl": "Inga niruthunga, please."
+    },
+    {
+     "id": "travel-1824cd4d",
+     "en": "Is this seat taken?",
+     "ta": "இந்த சீட்ல ஆள் இருக்கா?",
+     "tl": "Indha seatla aal irukkaa?"
+    },
+    {
+     "id": "travel-a5e675ff",
+     "en": "The train is late.",
+     "ta": "ட்ரெயின் லேட்.",
+     "tl": "Train late."
+    },
+    {
+     "id": "travel-d0442435",
+     "en": "Which platform?",
+     "ta": "எந்த பிளாட்ஃபார்ம்?",
+     "tl": "Endha platform?"
+    },
+    {
+     "id": "travel-c5e4da82",
+     "en": "I booked the tickets.",
+     "ta": "நான் டிக்கெட் புக் பண்ணிட்டேன்.",
+     "tl": "Naan ticket book pannitten."
+    },
+    {
+     "id": "travel-64599dfc",
+     "en": "My ticket is confirmed.",
+     "ta": "என் டிக்கெட் கன்ஃபர்ம் ஆயிடுச்சு.",
+     "tl": "En ticket confirm aayiduchu."
+    },
+    {
+     "id": "travel-bff31de3",
+     "en": "I'm on the waiting list.",
+     "ta": "நான் வெயிட்டிங் லிஸ்ட்ல இருக்கேன்.",
+     "tl": "Naan waiting listla irukken."
+    },
+    {
+     "id": "travel-8cb5d89d",
+     "en": "Auto, are you free?",
+     "ta": "ஆட்டோ, வருவீங்களா?",
+     "tl": "Auto, varuveengalaa?"
+    },
+    {
+     "id": "travel-a268ac85",
+     "en": "How much to the station?",
+     "ta": "ஸ்டேஷனுக்கு எவ்ளோ?",
+     "tl": "Stationukku evlo?"
+    },
+    {
+     "id": "travel-6be75fd1",
+     "en": "That's too much, make it less.",
+     "ta": "ரொம்ப அதிகம், கொஞ்சம் குறைங்க.",
+     "tl": "Romba adhigam, konjam kurainga."
+    },
+    {
+     "id": "travel-ac0b6782",
+     "en": "Go slowly, please.",
+     "ta": "மெதுவா போங்க, ப்ளீஸ்.",
+     "tl": "Medhuvaa ponga, please."
+    },
+    {
+     "id": "travel-35e8f724",
+     "en": "Take the shortcut.",
+     "ta": "ஷார்ட்கட்ல போங்க.",
+     "tl": "Shortcutla ponga."
+    },
+    {
+     "id": "travel-72d2f95e",
+     "en": "Wait here for five minutes.",
+     "ta": "இங்க அஞ்சு நிமிஷம் வெயிட் பண்ணுங்க.",
+     "tl": "Inga anju nimisham wait pannunga."
+    },
+    {
+     "id": "travel-28ed5fd4",
+     "en": "We're going on a trip.",
+     "ta": "நாங்க ட்ரிப் போறோம்.",
+     "tl": "Naanga trip porom."
+    },
+    {
+     "id": "travel-582b6d49",
+     "en": "Let's go to Ooty.",
+     "ta": "ஊட்டிக்கு போலாம்.",
+     "tl": "Oottikku polaam."
+    },
+    {
+     "id": "travel-42c366e4",
+     "en": "Let's go to Kodaikanal this weekend.",
+     "ta": "இந்த வீக்கெண்ட் கொடைக்கானல் போலாம்.",
+     "tl": "Indha weekend kodaikkaanal polaam."
+    },
+    {
+     "id": "travel-300d8f56",
+     "en": "Pack your bags.",
+     "ta": "பேக் பண்ணு.",
+     "tl": "Pack pannu."
+    },
+    {
+     "id": "travel-4e3b4398",
+     "en": "Don't forget your charger.",
+     "ta": "சார்ஜர மறந்துடாத.",
+     "tl": "Chargera marandhudaadha."
+    },
+    {
+     "id": "travel-eb0dd1cf",
+     "en": "Did you take the tickets?",
+     "ta": "டிக்கெட் எடுத்துட்டியா?",
+     "tl": "Ticket eduthuttiyaa?"
+    },
+    {
+     "id": "travel-5dfb9f9b",
+     "en": "We'll leave early in the morning.",
+     "ta": "காலைல சீக்கிரம் கிளம்புவோம்.",
+     "tl": "Kaalaila seekkiram kilambuvom."
+    },
+    {
+     "id": "travel-aa35cef5",
+     "en": "Have a safe journey.",
+     "ta": "பத்திரமா போயிட்டு வா.",
+     "tl": "Pathiramaa poyittu vaa."
+    },
+    {
+     "id": "travel-82cf6b7b",
+     "en": "Call me when you reach.",
+     "ta": "போய் சேர்ந்ததும் கால் பண்ணு.",
+     "tl": "Poi serndhadhum call pannu."
+    },
+    {
+     "id": "travel-22b7192f",
+     "en": "We reached safely.",
+     "ta": "நாங்க பத்திரமா வந்து சேர்ந்துட்டோம்.",
+     "tl": "Naanga pathiramaa vandhu serndhuttom."
+    },
+    {
+     "id": "travel-46f83186",
+     "en": "I booked a hotel room.",
+     "ta": "ஹோட்டல்ல ரூம் புக் பண்ணிட்டேன்.",
+     "tl": "Hotella room book pannitten."
+    },
+    {
+     "id": "travel-40816f20",
+     "en": "Is breakfast included?",
+     "ta": "டிபன் சேர்த்தா?",
+     "tl": "Tiffin serthaa?"
+    },
+    {
+     "id": "travel-77507fff",
+     "en": "What time is checkout?",
+     "ta": "செக்கவுட் எத்தன மணிக்கு?",
+     "tl": "Checkout eththana manikku?"
+    },
+    {
+     "id": "travel-86b844ae",
+     "en": "The room is very clean.",
+     "ta": "ரூம் ரொம்ப சுத்தமா இருக்கு.",
+     "tl": "Room romba suththamaa irukku."
+    },
+    {
+     "id": "travel-6fd7a20d",
+     "en": "The AC isn't working.",
+     "ta": "ஏசி வேலை செய்யல.",
+     "tl": "AC velai seiyala."
+    },
+    {
+     "id": "travel-28c92f96",
+     "en": "Is there a good restaurant nearby?",
+     "ta": "பக்கத்துல நல்ல ஹோட்டல் இருக்கா?",
+     "tl": "Pakkathula nalla hotel irukkaa?"
+    },
+    {
+     "id": "travel-48c3116f",
+     "en": "Where can I buy a SIM card?",
+     "ta": "சிம் கார்டு எங்க வாங்கலாம்?",
+     "tl": "SIM card enga vaangalaam?"
+    },
+    {
+     "id": "travel-db377790",
+     "en": "Is there an ATM nearby?",
+     "ta": "பக்கத்துல ஏடிஎம் இருக்கா?",
+     "tl": "Pakkathula ATM irukkaa?"
+    },
+    {
+     "id": "travel-e40ebb89",
+     "en": "Take a photo of us.",
+     "ta": "எங்கள ஒரு ஃபோட்டோ எடுங்க.",
+     "tl": "Engala oru photo edunga."
+    },
+    {
+     "id": "travel-874aa457",
+     "en": "The view is beautiful.",
+     "ta": "வியூ செம்மையா இருக்கு.",
+     "tl": "View semmaiyaa irukku."
+    },
+    {
+     "id": "travel-9a80449c",
+     "en": "It's very crowded here.",
+     "ta": "இங்க ரொம்ப கூட்டமா இருக்கு.",
+     "tl": "Inga romba koottamaa irukku."
+    },
+    {
+     "id": "travel-c31df930",
+     "en": "Let's go before it gets dark.",
+     "ta": "இருட்டறதுக்கு முன்னாடி போலாம்.",
+     "tl": "Iruttaradhukku munnaadi polaam."
+    },
+    {
+     "id": "travel-786e371d",
+     "en": "The flight is delayed.",
+     "ta": "ஃப்ளைட் லேட் ஆகுது.",
+     "tl": "Flight late aagudhu."
+    },
+    {
+     "id": "travel-d6acb11e",
+     "en": "Where is the check-in counter?",
+     "ta": "செக்கின் கவுண்டர் எங்க?",
+     "tl": "Checkin counter enga?"
+    },
+    {
+     "id": "travel-ea330bfa",
+     "en": "My bag is missing.",
+     "ta": "என் பேக்க காணோம்.",
+     "tl": "En bag-a kaanom."
+    },
+    {
+     "id": "travel-21c74f46",
+     "en": "I'm going abroad.",
+     "ta": "நான் வெளிநாட்டுக்கு போறேன்.",
+     "tl": "Naan velinaattukku poren."
+    },
+    {
+     "id": "travel-ccaebd6d",
+     "en": "Is this the way to the temple?",
+     "ta": "கோயிலுக்கு இந்த வழியா?",
+     "tl": "Koyilukku indha vazhiyaa?"
+    },
+    {
+     "id": "travel-f285e5df",
+     "en": "How long is the drive?",
+     "ta": "கார்ல எவ்ளோ நேரம் ஆகும்?",
+     "tl": "Carla evlo neram aagum?"
+    },
+    {
+     "id": "travel-e99e0246",
+     "en": "The road is blocked.",
+     "ta": "ரோடு ப்ளாக் ஆயிருக்கு.",
+     "tl": "Rodu block aayirukku."
+    },
+    {
+     "id": "travel-dc7b36d7",
+     "en": "Let's take another route.",
+     "ta": "வேற வழில போலாம்.",
+     "tl": "Vera vazhila polaam."
+    },
+    {
+     "id": "travel-59d2a4d2",
+     "en": "I'm almost there.",
+     "ta": "கிட்ட வந்துட்டேன்.",
+     "tl": "Kitta vandhutten."
+    },
+    {
+     "id": "travel-ba0af7ff",
+     "en": "I'm here, come outside.",
+     "ta": "நான் வந்துட்டேன், வெளிய வா.",
+     "tl": "Naan vandhutten, veliya vaa."
+    },
+    {
+     "id": "travel-8270ec4f",
+     "en": "Park the car here.",
+     "ta": "கார இங்க பார்க் பண்ணு.",
+     "tl": "Kaara inga park pannu."
+    },
+    {
+     "id": "travel-6e43b550",
+     "en": "Is parking available?",
+     "ta": "பார்க்கிங் இருக்கா?",
+     "tl": "Parking irukkaa?"
+    },
+    {
+     "id": "travel-dddf1b98",
+     "en": "Drive carefully.",
+     "ta": "பாத்து ஓட்டு.",
+     "tl": "Paathu ottu."
+    },
+    {
+     "id": "travel-cc900ad1",
+     "en": "Wear your helmet.",
+     "ta": "ஹெல்மெட் போடு.",
+     "tl": "Helmet podu."
+    },
+    {
+     "id": "travel-254ce996",
+     "en": "Put on your seatbelt.",
+     "ta": "சீட் பெல்ட் போடு.",
+     "tl": "Seat belt podu."
+    }
+   ]
+  },
+  {
+   "id": "phone",
+   "name": "Phone Calls",
+   "ta": "ஃபோன்",
+   "tl": "Phone",
+   "emoji": "📞",
+   "colors": [
+    "#A5B4FC",
+    "#6366F1"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "phone-7e7b2212",
+     "en": "Hello, who is this?",
+     "ta": "ஹலோ, யாரு பேசறது?",
+     "tl": "Hello, yaaru pesaradhu?"
+    },
+    {
+     "id": "phone-6e1c544e",
+     "en": "Hello, this is Ravi speaking.",
+     "ta": "ஹலோ, நான் ரவி பேசறேன்.",
+     "tl": "Hello, naan Ravi pesaren."
+    },
+    {
+     "id": "phone-5346beae",
+     "en": "Can I speak to Kumar?",
+     "ta": "குமார்கிட்ட பேசலாமா?",
+     "tl": "Kumaarkitta pesalaamaa?"
+    },
+    {
+     "id": "phone-dc8b48d1",
+     "en": "He's not here right now.",
+     "ta": "அவரு இப்ப இல்ல.",
+     "tl": "Avaru ippa illa."
+    },
+    {
+     "id": "phone-75b40cec",
+     "en": "He'll call you back.",
+     "ta": "அவரு திரும்ப கால் பண்ணுவாரு.",
+     "tl": "Avaru thirumba call pannuvaaru."
+    },
+    {
+     "id": "phone-16623839",
+     "en": "Shall I give a message?",
+     "ta": "ஏதாவது சொல்லணுமா?",
+     "tl": "Edhaavadhu sollanumaa?"
+    },
+    {
+     "id": "phone-4736e244",
+     "en": "Tell him I called.",
+     "ta": "நான் கால் பண்ணேன்னு சொல்லுங்க.",
+     "tl": "Naan call pannennu sollunga."
+    },
+    {
+     "id": "phone-455a3706",
+     "en": "I can't hear you.",
+     "ta": "நீங்க பேசறது கேக்கல.",
+     "tl": "Neenga pesaradhu kekkala."
+    },
+    {
+     "id": "phone-bbb03248",
+     "en": "The signal is weak.",
+     "ta": "சிக்னல் இல்ல.",
+     "tl": "Signal illa."
+    },
+    {
+     "id": "phone-93f1b4c4",
+     "en": "You're breaking up.",
+     "ta": "வாய்ஸ் கட் ஆகுது.",
+     "tl": "Voice cut aagudhu."
+    },
+    {
+     "id": "phone-1f5c2d28",
+     "en": "Speak a little louder.",
+     "ta": "கொஞ்சம் சத்தமா பேசுங்க.",
+     "tl": "Konjam saththamaa pesunga."
+    },
+    {
+     "id": "phone-f42be64d",
+     "en": "Can you hear me now?",
+     "ta": "இப்ப கேக்குதா?",
+     "tl": "Ippa kekkudhaa?"
+    },
+    {
+     "id": "phone-eb959e3e",
+     "en": "Yes, I can hear you.",
+     "ta": "ஆமா, கேக்குது.",
+     "tl": "Aamaa, kekkudhu."
+    },
+    {
+     "id": "phone-0fabc8b5",
+     "en": "I'll call you later.",
+     "ta": "அப்புறம் கால் பண்றேன்.",
+     "tl": "Appuram call panren."
+    },
+    {
+     "id": "phone-6042c67f",
+     "en": "I'm driving, I'll call back.",
+     "ta": "டிரைவ் பண்ணிட்டு இருக்கேன், அப்புறம் கூப்பிடறேன்.",
+     "tl": "Drive pannittu irukken, appuram koopidaren."
+    },
+    {
+     "id": "phone-1e502042",
+     "en": "I'm busy, text me.",
+     "ta": "பிஸியா இருக்கேன், மெசேஜ் பண்ணு.",
+     "tl": "Busyaa irukken, message pannu."
+    },
+    {
+     "id": "phone-398671ff",
+     "en": "Why didn't you pick up?",
+     "ta": "ஏன் ஃபோன் எடுக்கல?",
+     "tl": "Yen phone edukkala?"
+    },
+    {
+     "id": "phone-fe6dc593",
+     "en": "I missed your call.",
+     "ta": "உன் கால மிஸ் பண்ணிட்டேன்.",
+     "tl": "Un kaala miss pannitten."
+    },
+    {
+     "id": "phone-a65ce17a",
+     "en": "I called you three times.",
+     "ta": "உனக்கு மூணு தடவ கால் பண்ணேன்.",
+     "tl": "Unakku moonu thadava call pannen."
+    },
+    {
+     "id": "phone-e266015d",
+     "en": "My phone was on silent.",
+     "ta": "என் ஃபோன் சைலண்ட்ல இருந்துச்சு.",
+     "tl": "En phone silentla irundhuchu."
+    },
+    {
+     "id": "phone-c1b4fe4a",
+     "en": "My phone was switched off.",
+     "ta": "என் ஃபோன் ஸ்விட்ச் ஆஃப் ஆயிருந்துச்சு.",
+     "tl": "En phone switch off aayirundhuchu."
+    },
+    {
+     "id": "phone-228d9076",
+     "en": "My battery is low.",
+     "ta": "என் ஃபோன்ல சார்ஜ் கம்மியா இருக்கு.",
+     "tl": "En phonela charge kammiyaa irukku."
+    },
+    {
+     "id": "phone-062839b2",
+     "en": "I'll call you on WhatsApp.",
+     "ta": "வாட்ஸ்அப்ல கால் பண்றேன்.",
+     "tl": "Whatsappla call panren."
+    },
+    {
+     "id": "phone-b15e8977",
+     "en": "Let's do a video call.",
+     "ta": "வீடியோ கால் பண்ணலாம்.",
+     "tl": "Video call pannalaam."
+    },
+    {
+     "id": "phone-eea5ba73",
+     "en": "Turn on your camera.",
+     "ta": "கேமரா ஆன் பண்ணு.",
+     "tl": "Camera on pannu."
+    },
+    {
+     "id": "phone-5a5e1e9c",
+     "en": "I can't see you.",
+     "ta": "நீ தெரியல.",
+     "tl": "Nee theriyala."
+    },
+    {
+     "id": "phone-a9994b03",
+     "en": "Your video is frozen.",
+     "ta": "உன் வீடியோ ஸ்டக் ஆயிடுச்சு.",
+     "tl": "Un video stuck aayiduchu."
+    },
+    {
+     "id": "phone-39e7270a",
+     "en": "What's your number?",
+     "ta": "உன் நம்பர் என்ன?",
+     "tl": "Un number enna?"
+    },
+    {
+     "id": "phone-1ed0dbe8",
+     "en": "Save my number.",
+     "ta": "என் நம்பர சேவ் பண்ணிக்கோ.",
+     "tl": "En numbera save pannikko."
+    },
+    {
+     "id": "phone-b4d5f2f9",
+     "en": "Give me a missed call.",
+     "ta": "ஒரு மிஸ்டு கால் குடு.",
+     "tl": "Oru missed call kudu."
+    },
+    {
+     "id": "phone-a30cd630",
+     "en": "Wrong number.",
+     "ta": "ராங் நம்பர்.",
+     "tl": "Wrong number."
+    },
+    {
+     "id": "phone-3037ead2",
+     "en": "Sorry, wrong number.",
+     "ta": "சாரி, ராங் நம்பர்.",
+     "tl": "Sorry, wrong number."
+    },
+    {
+     "id": "phone-ca834ba4",
+     "en": "Who gave you my number?",
+     "ta": "என் நம்பர் யாரு குடுத்தா?",
+     "tl": "En number yaaru kuduthaa?"
+    },
+    {
+     "id": "phone-2f8ed47a",
+     "en": "Hold on, one minute.",
+     "ta": "லைன்ல இருங்க, ஒரு நிமிஷம்.",
+     "tl": "Linela irunga, oru nimisham."
+    },
+    {
+     "id": "phone-b67dec05",
+     "en": "I'll put you on speaker.",
+     "ta": "ஸ்பீக்கர்ல போடறேன்.",
+     "tl": "Speakerla podaren."
+    },
+    {
+     "id": "phone-234c9da5",
+     "en": "Mom wants to talk to you.",
+     "ta": "அம்மா உன்கிட்ட பேசணுமாம்.",
+     "tl": "Amma unkitta pesanumaam."
+    },
+    {
+     "id": "phone-8d8926e9",
+     "en": "I'm giving the phone to Appa.",
+     "ta": "அப்பாகிட்ட ஃபோன் குடுக்கறேன்.",
+     "tl": "Appaakitta phone kudukkaren."
+    },
+    {
+     "id": "phone-c0744a69",
+     "en": "Did you reach home?",
+     "ta": "வீட்டுக்கு போய் சேர்ந்துட்டியா?",
+     "tl": "Veettukku poi serndhuttiyaa?"
+    },
+    {
+     "id": "phone-2e5f6e64",
+     "en": "Where are you now?",
+     "ta": "இப்ப எங்க இருக்க?",
+     "tl": "Ippa enga irukka?"
+    },
+    {
+     "id": "phone-018e1c4b",
+     "en": "I'm almost home.",
+     "ta": "வீட்டுக்கு கிட்ட வந்துட்டேன்.",
+     "tl": "Veettukku kitta vandhutten."
+    },
+    {
+     "id": "phone-ea198c46",
+     "en": "I'll be there in five minutes.",
+     "ta": "அஞ்சு நிமிஷத்துல வந்துடுவேன்.",
+     "tl": "Anju nimishathula vandhuduven."
+    },
+    {
+     "id": "phone-2e0617ac",
+     "en": "Call me when you're free.",
+     "ta": "ஃப்ரீ ஆனதும் கால் பண்ணு.",
+     "tl": "Free aanadhum call pannu."
+    },
+    {
+     "id": "phone-ab19116c",
+     "en": "Did you see my message?",
+     "ta": "என் மெசேஜ் பாத்தியா?",
+     "tl": "En message paathiyaa?"
+    },
+    {
+     "id": "phone-3635a84f",
+     "en": "Reply to my message.",
+     "ta": "என் மெசேஜுக்கு ரிப்ளை பண்ணு.",
+     "tl": "En messagekku reply pannu."
+    },
+    {
+     "id": "phone-006bd8d7",
+     "en": "Why are you not replying?",
+     "ta": "ஏன் ரிப்ளை பண்ணல?",
+     "tl": "Yen reply pannala?"
+    },
+    {
+     "id": "phone-58f03f87",
+     "en": "I'll send you the photos.",
+     "ta": "ஃபோட்டோஸ் அனுப்பறேன்.",
+     "tl": "Photos anupparen."
+    },
+    {
+     "id": "phone-59586199",
+     "en": "Send me a voice message.",
+     "ta": "வாய்ஸ் மெசேஜ் அனுப்பு.",
+     "tl": "Voice message anuppu."
+    },
+    {
+     "id": "phone-00b1453f",
+     "en": "Did you get my email?",
+     "ta": "என் மெயில் வந்துச்சா?",
+     "tl": "En mail vandhuchaa?"
+    },
+    {
+     "id": "phone-6f3e3e53",
+     "en": "My phone is not working.",
+     "ta": "என் ஃபோன் வேலை செய்யல.",
+     "tl": "En phone velai seiyala."
+    },
+    {
+     "id": "phone-e70948fd",
+     "en": "I lost my phone.",
+     "ta": "என் ஃபோன் தொலைஞ்சு போச்சு.",
+     "tl": "En phone tholainju pochu."
+    },
+    {
+     "id": "phone-585a0119",
+     "en": "Recharge my phone.",
+     "ta": "என் ஃபோனுக்கு ரீசார்ஜ் பண்ணு.",
+     "tl": "En phonukku recharge pannu."
+    },
+    {
+     "id": "phone-2d9b1092",
+     "en": "My data is over.",
+     "ta": "என் டேட்டா முடிஞ்சிடுச்சு.",
+     "tl": "En data mudinjiduchu."
+    },
+    {
+     "id": "phone-4ad25935",
+     "en": "Turn on your hotspot.",
+     "ta": "ஹாட்ஸ்பாட் ஆன் பண்ணு.",
+     "tl": "Hotspot on pannu."
+    },
+    {
+     "id": "phone-9ed1c920",
+     "en": "Please don't call at night.",
+     "ta": "ராத்திரில கால் பண்ணாதீங்க, ப்ளீஸ்.",
+     "tl": "Raathirila call pannaadheenga, please."
+    },
+    {
+     "id": "phone-a7244eff",
+     "en": "Customer care, please hold.",
+     "ta": "கஸ்டமர் கேர், கொஞ்சம் வெயிட் பண்ணுங்க.",
+     "tl": "Customer care, konjam wait pannunga."
+    },
+    {
+     "id": "phone-76c980c5",
+     "en": "I want to talk to the manager.",
+     "ta": "நான் மேனேஜர்கிட்ட பேசணும்.",
+     "tl": "Naan managerkitta pesanum."
+    },
+    {
+     "id": "phone-03456336",
+     "en": "I have a complaint.",
+     "ta": "எனக்கு ஒரு புகார் இருக்கு.",
+     "tl": "Enakku oru pugaar irukku."
+    },
+    {
+     "id": "phone-e0475f7b",
+     "en": "Please call back tomorrow.",
+     "ta": "நாளைக்கு கால் பண்ணுங்க.",
+     "tl": "Naalaikku call pannunga."
+    },
+    {
+     "id": "phone-c446f252",
+     "en": "Thanks for calling.",
+     "ta": "கால் பண்ணதுக்கு நன்றி.",
+     "tl": "Call pannadhukku nandri."
+    },
+    {
+     "id": "phone-169d02a2",
+     "en": "Okay, bye.",
+     "ta": "சரி, பை.",
+     "tl": "Sari, bye."
+    },
+    {
+     "id": "phone-09e57dff",
+     "en": "Talk to you soon.",
+     "ta": "சீக்கிரம் பேசலாம்.",
+     "tl": "Seekkiram pesalaam."
+    },
+    {
+     "id": "phone-0f409731",
+     "en": "Good night, I'll talk tomorrow.",
+     "ta": "குட் நைட், நாளைக்கு பேசறேன்.",
+     "tl": "Good night, naalaikku pesaren."
+    },
+    {
+     "id": "phone-bc80fc34",
+     "en": "Long time, how are you?",
+     "ta": "ரொம்ப நாளாச்சு, எப்படி இருக்க?",
+     "tl": "Romba naalaachu, eppadi irukka?"
+    },
+    {
+     "id": "phone-b483126a",
+     "en": "I was just thinking about you.",
+     "ta": "இப்பதான் உன்ன நினைச்சேன்.",
+     "tl": "Ippadhaan unna ninaichen."
+    },
+    {
+     "id": "phone-a74c2dc4",
+     "en": "I called to say happy birthday.",
+     "ta": "பிறந்தநாள் வாழ்த்து சொல்லத்தான் கால் பண்ணேன்.",
+     "tl": "Pirandhanaal vaazhthu sollathaan call pannen."
+    },
+    {
+     "id": "phone-687f8e07",
+     "en": "Is everyone fine at home?",
+     "ta": "வீட்ல எல்லாரும் நல்லா இருக்காங்களா?",
+     "tl": "Veetla ellaarum nallaa irukkaangalaa?"
+    },
+    {
+     "id": "phone-00e9d813",
+     "en": "Something urgent, call me now.",
+     "ta": "அவசரம், உடனே கால் பண்ணு.",
+     "tl": "Avasaram, udane call pannu."
+    },
+    {
+     "id": "phone-cba55ffe",
+     "en": "Don't hang up.",
+     "ta": "கட் பண்ணாத.",
+     "tl": "Cut pannaadha."
+    },
+    {
+     "id": "phone-a4213c48",
+     "en": "The call got cut.",
+     "ta": "கால் கட் ஆயிடுச்சு.",
+     "tl": "Call cut aayiduchu."
+    },
+    {
+     "id": "phone-575ffc9f",
+     "en": "I'll text you the address.",
+     "ta": "அட்ரஸ் மெசேஜ் பண்றேன்.",
+     "tl": "Address message panren."
+    }
+   ]
+  },
+  {
+   "id": "slang",
+   "name": "Slang & Expressions",
+   "ta": "பேச்சு வழக்கு",
+   "tl": "Pechu vazhakku",
+   "emoji": "😎",
+   "colors": [
+    "#F0ABFC",
+    "#C026D3"
+   ],
+   "adult": false,
+   "sentences": [
+    {
+     "id": "slang-58ebf30d",
+     "en": "Awesome!",
+     "ta": "செம்ம!",
+     "tl": "Semma!"
+    },
+    {
+     "id": "slang-aff53cb9",
+     "en": "That's mass!",
+     "ta": "செம்ம மாஸ்!",
+     "tl": "Semma mass!"
+    },
+    {
+     "id": "slang-433975cc",
+     "en": "Super cool.",
+     "ta": "கெத்து.",
+     "tl": "Gethu."
+    },
+    {
+     "id": "slang-4fb74a36",
+     "en": "He's a style king.",
+     "ta": "அவன் செம்ம கெத்து.",
+     "tl": "Avan semma gethu."
+    },
+    {
+     "id": "slang-8854b3d3",
+     "en": "Dude, what's up?",
+     "ta": "மச்சான், என்ன விஷயம்?",
+     "tl": "Machaan, enna vishayam?"
+    },
+    {
+     "id": "slang-fe4a88f9",
+     "en": "Hey buddy!",
+     "ta": "டேய் மச்சி!",
+     "tl": "Dei machi!"
+    },
+    {
+     "id": "slang-cc0c7bfa",
+     "en": "Bro, come here.",
+     "ta": "ப்ரோ, இங்க வா.",
+     "tl": "Bro, inga vaa."
+    },
+    {
+     "id": "slang-77190139",
+     "en": "Chill, relax.",
+     "ta": "ரிலாக்ஸ், கூல்.",
+     "tl": "Relax, cool."
+    },
+    {
+     "id": "slang-345ede2b",
+     "en": "No tension.",
+     "ta": "டென்ஷன் ஆகாத.",
+     "tl": "Tension aagaadha."
+    },
+    {
+     "id": "slang-a3a59f20",
+     "en": "Don't overdo it.",
+     "ta": "ஓவரா பண்ணாத.",
+     "tl": "Overaa pannaadha."
+    },
+    {
+     "id": "slang-19b31c2f",
+     "en": "Don't show off.",
+     "ta": "சீன் போடாத.",
+     "tl": "Scene podaadha."
+    },
+    {
+     "id": "slang-f9f67afa",
+     "en": "He's showing off.",
+     "ta": "அவன் சீன் போடறான்.",
+     "tl": "Avan scene podaraan."
+    },
+    {
+     "id": "slang-f4cf5859",
+     "en": "Stop the drama.",
+     "ta": "டிராமா பண்ணாத.",
+     "tl": "Drama pannaadha."
+    },
+    {
+     "id": "slang-35a11939",
+     "en": "Just kidding.",
+     "ta": "சும்மா சொன்னேன்.",
+     "tl": "Summaa sonnen."
+    },
+    {
+     "id": "slang-9c45e169",
+     "en": "For no reason.",
+     "ta": "சும்மாதான்.",
+     "tl": "Summaadhaan."
+    },
+    {
+     "id": "slang-7c30fa97",
+     "en": "Leave it, forget it.",
+     "ta": "விடு, விடு.",
+     "tl": "Vidu, vidu."
+    },
+    {
+     "id": "slang-4c9dad56",
+     "en": "Who cares?",
+     "ta": "யாருக்கு என்ன?",
+     "tl": "Yaarukku enna?"
+    },
+    {
+     "id": "slang-572107e4",
+     "en": "So what?",
+     "ta": "அதனால என்ன?",
+     "tl": "Adhanaala enna?"
+    },
+    {
+     "id": "slang-6770e1d6",
+     "en": "What nonsense!",
+     "ta": "என்ன கொடுமை இது!",
+     "tl": "Enna kodumai idhu!"
+    },
+    {
+     "id": "slang-e0588b39",
+     "en": "Oh my god, seriously!",
+     "ta": "அய்யோ, சாமி!",
+     "tl": "Ayyo, saami!"
+    },
+    {
+     "id": "slang-2fa10a84",
+     "en": "Wow, look at that!",
+     "ta": "அட, பாரேன்!",
+     "tl": "Ada, paaren!"
+    },
+    {
+     "id": "slang-291ae44a",
+     "en": "That's a joke.",
+     "ta": "அது காமெடி.",
+     "tl": "Adhu comedy."
+    },
+    {
+     "id": "slang-73d419ec",
+     "en": "He's a comedy piece.",
+     "ta": "அவன் ஒரு காமெடி பீஸ்.",
+     "tl": "Avan oru comedy piece."
+    },
+    {
+     "id": "slang-2cd142bd",
+     "en": "What a waste fellow.",
+     "ta": "வேஸ்ட் பையன்.",
+     "tl": "Waste paiyan."
+    },
+    {
+     "id": "slang-28c5cd98",
+     "en": "He talks too much.",
+     "ta": "அவன் ஓவரா பேசுவான்.",
+     "tl": "Avan overaa pesuvaan."
+    },
+    {
+     "id": "slang-745d7de0",
+     "en": "Shut up!",
+     "ta": "வாய மூடு!",
+     "tl": "Vaaya moodu!"
+    },
+    {
+     "id": "slang-db66f945",
+     "en": "Get lost!",
+     "ta": "போடா!",
+     "tl": "Podaa!"
+    },
+    {
+     "id": "slang-8d3d02fb",
+     "en": "Come on, man!",
+     "ta": "வாடா!",
+     "tl": "Vaadaa!"
+    },
+    {
+     "id": "slang-00fb224a",
+     "en": "Hurry up!",
+     "ta": "சீக்கிரம் வா!",
+     "tl": "Seekkiram vaa!"
+    },
+    {
+     "id": "slang-5afc0270",
+     "en": "Wait, wait!",
+     "ta": "இருடா, இருடா!",
+     "tl": "Irudaa, irudaa!"
+    },
+    {
+     "id": "slang-0d7f10c3",
+     "en": "It's all fine.",
+     "ta": "எல்லாம் ஓகே.",
+     "tl": "Ellaam oke."
+    },
+    {
+     "id": "slang-426d6618",
+     "en": "No problem at all.",
+     "ta": "ஒரு பிரச்சனையும் இல்ல.",
+     "tl": "Oru prachanaiyum illa."
+    },
+    {
+     "id": "slang-1ffba93e",
+     "en": "Same to same.",
+     "ta": "சேம் சேம்.",
+     "tl": "Same same."
+    },
+    {
+     "id": "slang-60e93af0",
+     "en": "Fully confused.",
+     "ta": "ஃபுல்லா குழப்பம்.",
+     "tl": "Fullaa kuzhappam."
+    },
+    {
+     "id": "slang-3c3a96c5",
+     "en": "I'm totally done.",
+     "ta": "நான் முடிஞ்சேன்.",
+     "tl": "Naan mudinjen."
+    },
+    {
+     "id": "slang-0670a85f",
+     "en": "I'm dead tired.",
+     "ta": "செத்து போயிட்டேன், அவ்ளோ டயர்டு.",
+     "tl": "Sethu poyitten, avlo tired."
+    },
+    {
+     "id": "slang-584af8d7",
+     "en": "That's very boring.",
+     "ta": "செம்ம மொக்கை.",
+     "tl": "Semma mokkai."
+    },
+    {
+     "id": "slang-f6e32dc5",
+     "en": "Don't crack lame jokes.",
+     "ta": "மொக்க போடாத.",
+     "tl": "Mokka podaadha."
+    },
+    {
+     "id": "slang-069ecb43",
+     "en": "That movie was lame.",
+     "ta": "அந்த படம் மொக்கை.",
+     "tl": "Andha padam mokkai."
+    },
+    {
+     "id": "slang-1febffc7",
+     "en": "That movie was a blockbuster.",
+     "ta": "அந்த படம் செம்ம ஹிட்.",
+     "tl": "Andha padam semma hit."
+    },
+    {
+     "id": "slang-7d066b8b",
+     "en": "Total waste of time.",
+     "ta": "டைம் வேஸ்ட்.",
+     "tl": "Time waste."
+    },
+    {
+     "id": "slang-c63764c8",
+     "en": "Everything is set.",
+     "ta": "எல்லாம் செட்.",
+     "tl": "Ellaam set."
+    },
+    {
+     "id": "slang-dff992fc",
+     "en": "Done deal.",
+     "ta": "டீல் ஓகே.",
+     "tl": "Deal oke."
+    },
+    {
+     "id": "slang-7fee41ff",
+     "en": "Promise?",
+     "ta": "சத்தியமா?",
+     "tl": "Saththiyamaa?"
+    },
+    {
+     "id": "slang-d7f5ea03",
+     "en": "I swear.",
+     "ta": "சத்தியமா சொல்றேன்.",
+     "tl": "Saththiyamaa solren."
+    },
+    {
+     "id": "slang-4f14038f",
+     "en": "On my mother's promise.",
+     "ta": "அம்மா சத்தியமா.",
+     "tl": "Amma saththiyamaa."
+    },
+    {
+     "id": "slang-8714d241",
+     "en": "Are you mad?",
+     "ta": "உனக்கு லூஸா?",
+     "tl": "Unakku loosaa?"
+    },
+    {
+     "id": "slang-7c9cc980",
+     "en": "He's crazy.",
+     "ta": "அவன் ஒரு லூசு.",
+     "tl": "Avan oru loosu."
+    },
+    {
+     "id": "slang-9c9b25f2",
+     "en": "Don't act smart.",
+     "ta": "ஸ்மார்ட்டா நடிக்காத.",
+     "tl": "Smartaa nadikkaadha."
+    },
+    {
+     "id": "slang-c754dc83",
+     "en": "Big deal!",
+     "ta": "பெரிய விஷயம்!",
+     "tl": "Periya vishayam!"
+    },
+    {
+     "id": "slang-cc050285",
+     "en": "That's the thing.",
+     "ta": "அதான் விஷயம்.",
+     "tl": "Adhaan vishayam."
+    },
+    {
+     "id": "slang-057db246",
+     "en": "Exactly!",
+     "ta": "கரெக்ட்டு!",
+     "tl": "Correctu!"
+    },
+    {
+     "id": "slang-97c1cae7",
+     "en": "That's right!",
+     "ta": "அதேதான்!",
+     "tl": "Adhedhaan!"
+    },
+    {
+     "id": "slang-b505aeb5",
+     "en": "Wonderful!",
+     "ta": "அருமை!",
+     "tl": "Arumai!"
+    },
+    {
+     "id": "slang-7455eea0",
+     "en": "Too good!",
+     "ta": "சூப்பரு!",
+     "tl": "Superu!"
+    },
+    {
+     "id": "slang-841c71da",
+     "en": "Nice one!",
+     "ta": "நச்சுன்னு இருக்கு!",
+     "tl": "Nachunnu irukku!"
+    },
+    {
+     "id": "slang-b799dfaf",
+     "en": "Not bad.",
+     "ta": "பரவால்ல.",
+     "tl": "Paravaalla."
+    },
+    {
+     "id": "slang-47ddc87d",
+     "en": "Just okay.",
+     "ta": "சுமாரா இருக்கு.",
+     "tl": "Sumaaraa irukku."
+    },
+    {
+     "id": "slang-cd26c2e3",
+     "en": "It's terrible.",
+     "ta": "மோசம்.",
+     "tl": "Mosam."
+    },
+    {
+     "id": "slang-3efc3201",
+     "en": "He got scolded badly.",
+     "ta": "அவனுக்கு செம்ம திட்டு.",
+     "tl": "Avanukku semma thittu."
+    },
+    {
+     "id": "slang-86072f4e",
+     "en": "I'm broke this month.",
+     "ta": "இந்த மாசம் காசு இல்ல, காலி.",
+     "tl": "Indha maasam kaasu illa, kaali."
+    },
+    {
+     "id": "slang-f8c25cb4",
+     "en": "Let's hang out.",
+     "ta": "ஊர் சுத்தலாம்.",
+     "tl": "Oor suththalaam."
+    },
+    {
+     "id": "slang-919f1eb6",
+     "en": "Let's go for a ride.",
+     "ta": "ஒரு ரவுண்ட் போலாம்.",
+     "tl": "Oru round polaam."
+    },
+    {
+     "id": "slang-17652a41",
+     "en": "He's my close friend.",
+     "ta": "அவன் என் உயிர் நண்பன்.",
+     "tl": "Avan en uyir nanban."
+    },
+    {
+     "id": "slang-98a344e1",
+     "en": "Friends are everything.",
+     "ta": "நண்பன்தான் எல்லாம்.",
+     "tl": "Nanbandhaan ellaam."
+    },
+    {
+     "id": "slang-318b6a75",
+     "en": "What a coincidence, man!",
+     "ta": "என்ன மச்சான், ஒரே மாதிரி!",
+     "tl": "Enna machaan, ore maadhiri!"
+    },
+    {
+     "id": "slang-e1ecf484",
+     "en": "Wait and watch.",
+     "ta": "பொறுத்திருந்து பாரு.",
+     "tl": "Poruthirundhu paaru."
+    },
+    {
+     "id": "slang-d1dc4866",
+     "en": "It happens.",
+     "ta": "நடக்கும், விடு.",
+     "tl": "Nadakkum, vidu."
+    },
+    {
+     "id": "slang-9911a2df",
+     "en": "Okay okay, I got it.",
+     "ta": "சரி சரி, புரிஞ்சுது.",
+     "tl": "Sari sari, purinjudhu."
+    },
+    {
+     "id": "slang-8a4f3b78",
+     "en": "Let's rock!",
+     "ta": "கலக்கலாம்!",
+     "tl": "Kalakkalaam!"
+    },
+    {
+     "id": "slang-771774d6",
+     "en": "You rocked it!",
+     "ta": "கலக்கிட்ட!",
+     "tl": "Kalakkitta!"
+    }
+   ]
   }
  ],
  "glossary": {
@@ -6839,6 +10299,273 @@ window.PP_DATA = {
   "போச்சு": "went / is gone",
   "வந்துட்டேன்": "I've come / I'm here",
   "கால்": "call",
-  "ஃபோன்": "phone"
+  "ஃபோன்": "phone",
+  "பண்ணு": "do (it) / make",
+  "பண்றேன்": "I'm doing / I do",
+  "பண்ணிட்டேன்": "I did (it)",
+  "பண்ணேன்": "I did",
+  "பண்ணல": "didn't do",
+  "பண்ண": "to do",
+  "பண்ணணும்": "must do / want to do",
+  "பண்ணுங்க": "please do (respectful)",
+  "பண்ணாத": "don't do",
+  "பண்ணலாம்": "let's do / can do",
+  "பண்றியா": "will you do? / are you doing?",
+  "பண்ணியா": "did you do?",
+  "இந்த": "this (before a noun)",
+  "அந்த": "that (before a noun)",
+  "இத": "this (as object)",
+  "அத": "that (as object)",
+  "அப்பா": "father",
+  "அம்மாவுக்கு": "to mother",
+  "அக்கா": "elder sister",
+  "அக்காவுக்கு": "to elder sister",
+  "அண்ணன்": "elder brother",
+  "தம்பி": "younger brother",
+  "பாட்டி": "grandmother",
+  "மச்சான்": "buddy / brother-in-law",
+  "பையன்": "boy / son",
+  "பொண்ணு": "girl / daughter",
+  "பசங்க": "kids / guys",
+  "பாப்பா": "baby",
+  "குடும்பம்": "family",
+  "குடும்பத்த": "family (as object)",
+  "ஃப்ரெண்ட்": "friend",
+  "ஃப்ரெண்ட": "friend (as object)",
+  "ஃப்ரெண்ட்ஸ்": "friends",
+  "ஆயிடுச்சு": "it became / it happened",
+  "ஆயிட்டேன்": "I became",
+  "ஆகுது": "is happening / is becoming",
+  "ஆகும்": "will take / will become",
+  "சாரி": "sorry",
+  "பக்கத்துல": "near / next to",
+  "குடுங்க": "please give",
+  "இருந்துச்சு": "it was",
+  "இருந்தேன்": "I was",
+  "இருக்காங்க": "they are / (she, he) is (respectful)",
+  "இருக்காரு": "he is (respectful)",
+  "இருக்கீங்க": "you are (respectful)",
+  "இருக்கணும்": "must be / want to be",
+  "இருக்கும்": "will be",
+  "இருக்கலாம்": "may be",
+  "இருக்கறது": "being / that which is",
+  "இருக்கும்போது": "when (someone) is",
+  "இருக்காங்களா": "are they? / is (she, he)?",
+  "இரு": "stay / be / wait",
+  "மாட்டேன்": "I won't",
+  "அப்புறம்": "later / then",
+  "வீட்ல": "at home",
+  "வீடு": "house",
+  "மணி": "o'clock / time",
+  "மணிக்கு": "at (time)",
+  "நிமிஷம்": "minute",
+  "வாழ்த்துக்கள்": "wishes / congratulations",
+  "புது": "new",
+  "என்கிட்ட": "with me / to me",
+  "உன்கிட்ட": "with you / to you",
+  "நீதான்": "it's you",
+  "நான்தான்": "it's me",
+  "நானும்": "me too / I also",
+  "எத்தன": "how many",
+  "பஸ்": "bus",
+  "என்னால": "by me / I (can)",
+  "வெளிய": "outside",
+  "வருது": "is coming",
+  "வரும்": "will come",
+  "வரேன்": "I'm coming",
+  "வராங்க": "they're coming",
+  "வரல": "didn't come / isn't coming",
+  "வந்துடுச்சு": "has come",
+  "வந்துச்சு": "came",
+  "வந்து": "coming / having come",
+  "லேட்": "late",
+  "லேட்டா": "late (adverb)",
+  "லவ்": "love",
+  "தடவ": "time (as in \"one time\")",
+  "உனக்காக": "for you",
+  "எல்லாருக்கும்": "to everyone",
+  "எல்லாரும்": "everyone",
+  "எல்லாத்தையும்": "everything (as object)",
+  "எல்லாத்துக்கும்": "for everything",
+  "மிஸ்": "miss",
+  "இன்னொரு": "another / one more",
+  "செம்மையா": "awesome / great",
+  "மெசேஜ்": "message",
+  "நம்பர்": "number",
+  "வாங்க": "come (respectful) / to buy",
+  "கல்யாணம்": "marriage / wedding",
+  "போல": "like / as if",
+  "போய்": "going / having gone",
+  "போயிட்டு": "go and (come back)",
+  "போகாத": "don't go",
+  "போன": "went / last (as in \"last year\")",
+  "போக": "to go",
+  "போற": "going / you're going",
+  "போங்க": "go (respectful)",
+  "போறேன்": "I'm going",
+  "போலாமா": "shall we go?",
+  "விடு": "leave it / let go",
+  "விட்டு": "leaving / away from",
+  "விட்டுட்டு": "leaving (someone, something)",
+  "இல்லாம": "without",
+  "வயசு": "age",
+  "ஞாபகம்": "memory / remembering",
+  "அப்படி": "like that",
+  "இப்படி": "like this",
+  "கூடாது": "shouldn't / mustn't",
+  "நிறைய": "a lot / many",
+  "சும்மா": "just / for no reason",
+  "இவ்ளோ": "this much",
+  "தமிழ்": "Tamil",
+  "முன்னாடி": "before / in front",
+  "பேசலாம்": "let's talk",
+  "பேச": "to talk",
+  "பேசுங்க": "please talk (respectful)",
+  "பேசறேன்": "I'm talking",
+  "பேசறது": "talking / speaking",
+  "குட்": "good",
+  "பெஸ்ட்": "best",
+  "டிக்கெட்": "ticket",
+  "பத்து": "ten",
+  "வழியா": "way / through",
+  "முக்கியம்": "important",
+  "பெரிய": "big",
+  "தெரியல": "don't know / can't see",
+  "தெரியுமா": "do you know?",
+  "திரும்ப": "again / back",
+  "விலை": "price",
+  "கரண்ட்": "electricity / power",
+  "கிஸ்": "kiss",
+  "நைட்": "night",
+  "கோபமா": "angry",
+  "அடுத்த": "next",
+  "என்னைக்கும்": "forever / always",
+  "எந்த": "which",
+  "போடுங்க": "please put (respectful)",
+  "மீட்டிங்": "meeting",
+  "அஞ்சு": "five",
+  "நினைச்சா": "when (I) think of",
+  "நினைச்சு": "thinking of",
+  "செய்தி": "news",
+  "வாழ்க்கை": "life",
+  "லீவு": "holiday / leave",
+  "முதல்": "first",
+  "முதல்ல": "first / at first",
+  "ஒண்ணா": "together",
+  "தப்பா": "wrongly / wrong",
+  "இதயம்": "heart",
+  "ஒருத்தர்": "one person / someone",
+  "சரியா": "right? / correctly",
+  "சண்டை": "fight",
+  "பரவாயில்ல": "it's okay / no problem",
+  "ஓகேவா": "okay?",
+  "வெட்கமா": "shy / embarrassed",
+  "இதுக்கு": "for this",
+  "ஓவரா": "too much",
+  "நம்பவே": "(can't) even believe",
+  "ஃப்ரீயா": "free",
+  "சாப்பிடலாம்": "let's eat",
+  "சாப்பிட": "to eat",
+  "சாப்பிடு": "eat",
+  "எட்டு": "eight",
+  "அனுப்பு": "send",
+  "ஒவ்வொரு": "each / every",
+  "தூங்கு": "sleep",
+  "பேரும்": "(both) people",
+  "பாக்கலாம்": "let's see / see you",
+  "பாத்தியா": "did you see?",
+  "பாத்து": "carefully / seeing",
+  "பாத்துட்டு": "after seeing",
+  "பிரச்சனை": "problem",
+  "ஏதாவது": "anything / something",
+  "தினமும்": "every day",
+  "படம்": "movie / picture",
+  "புக்": "book",
+  "செய்யல": "not working / didn't do",
+  "அதிகம்": "too much / more",
+  "விஷயம்": "matter / thing",
+  "மூணு": "three",
+  "நாலு": "four",
+  "ஆறு": "six",
+  "ஒம்பது": "nine",
+  "ஒண்ணு": "one",
+  "சொல்லுங்க": "please tell (respectful)",
+  "சொல்ல": "to say",
+  "சொன்ன": "said / you said",
+  "சொன்னது": "what was said",
+  "சாதம்": "rice (cooked)",
+  "எக்ஸாம்": "exam",
+  "முடிஞ்சுது": "it got over",
+  "முடிஞ்சிடுச்சு": "it's over / done",
+  "ஜாலியா": "fun / happily",
+  "சிரிப்பு": "smile / laughter",
+  "பிறந்தநாள்": "birthday",
+  "அருமை": "wonderful",
+  "அமைதியா": "calm / quietly",
+  "கிடைச்சுது": "got / received",
+  "சரியில்ல": "not right / not well",
+  "இப்பல்லாம்": "these days",
+  "தோணல": "don't feel like",
+  "தோணுது": "feel like / it seems",
+  "யாரும்": "anyone / no one",
+  "வேற": "other / different",
+  "ஊருக்கு": "to hometown",
+  "உடம்பு": "body / health",
+  "தூரமா": "far",
+  "ஆனா": "but",
+  "உணர்றேன்": "I feel",
+  "சான்ஸ்": "chance",
+  "கம்மி": "less",
+  "கம்மியா": "less / low",
+  "வேலைய": "job (as object)",
+  "உதவி": "help",
+  "பிஸியா": "busy",
+  "அதுக்குள்ள": "already / so soon",
+  "காணோம்": "missing / can't find",
+  "முடியாது": "can't / not possible",
+  "கண்ண": "eyes (as object)",
+  "மூடு": "close",
+  "கூட்டம்": "crowd / meeting",
+  "கிட்ட": "near / close",
+  "குரல்": "voice",
+  "உள்ள": "inside",
+  "உடனே": "immediately",
+  "மனசுல": "in (my) heart",
+  "அவசரம்": "hurry / urgent",
+  "வரைக்கும்": "until",
+  "எதுவும்": "anything",
+  "எதுவுமே": "nothing at all",
+  "கதவ": "door (as object)",
+  "சம்மதம்": "consent / agreement",
+  "பதில்": "answer",
+  "போடாத": "don't put / don't",
+  "புரியும்": "will understand",
+  "பத்திரமா": "safely",
+  "சேர்ந்து": "together",
+  "உயிர்": "life / soul (dearest)",
+  "பால்": "milk",
+  "உப்பு": "salt",
+  "சக்கரை": "sugar",
+  "கழுவு": "wash",
+  "வை": "put / keep",
+  "எது": "which one",
+  "ஹெல்ப்": "help",
+  "வெயிட்": "wait",
+  "கட்": "cut / hang up",
+  "சத்தியமா": "I swear / promise",
+  "சிறந்த": "best",
+  "அழகான": "beautiful",
+  "பெருமை": "pride",
+  "சம்பளம்": "salary",
+  "ஆசை": "wish / desire",
+  "முழுக்க": "whole / entire",
+  "நாய்": "dog",
+  "இப்பதான்": "just now",
+  "சின்ன": "small",
+  "அவர்": "he (respectful)",
+  "அவள": "her (as object)",
+  "மனச": "heart (as object)",
+  "வலிக்குது": "it hurts",
+  "பெய்யுது": "it's raining (pouring)"
  }
 };

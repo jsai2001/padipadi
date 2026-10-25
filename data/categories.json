@@ -9,5 +9,13 @@
   { "id": "general", "name": "General Communication", "ta": "பேச்சு", "tl": "Pechu", "emoji": "💬", "colors": ["#6EE7B7", "#059669"], "adult": false },
   { "id": "politics", "name": "Politics", "ta": "அரசியல்", "tl": "Arasiyal", "emoji": "🗳️", "colors": ["#A5B4FC", "#4F46E5"], "adult": false },
   { "id": "love", "name": "Love", "ta": "காதல்", "tl": "Kaadhal", "emoji": "❤️", "colors": ["#FECACA", "#EF4444"], "adult": false },
-  { "id": "daily", "name": "Everyday Things", "ta": "அன்றாடம்", "tl": "Andraadam", "emoji": "🏠", "colors": ["#7DD3FC", "#0891B2"], "adult": false }
+  { "id": "daily", "name": "Everyday Things", "ta": "அன்றாடம்", "tl": "Andraadam", "emoji": "🏠", "colors": ["#7DD3FC", "#0891B2"], "adult": false },
+  { "id": "questions", "name": "Questions", "ta": "கேள்விகள்", "tl": "Kelvigal", "emoji": "❓", "colors": ["#FDE047", "#CA8A04"], "adult": false },
+  { "id": "numbers", "name": "Numbers, Time & Money", "ta": "எண்கள்", "tl": "Engal", "emoji": "🔢", "colors": ["#86EFAC", "#16A34A"], "adult": false },
+  { "id": "family", "name": "Family & Relations", "ta": "குடும்பம்", "tl": "Kudumbam", "emoji": "👨‍👩‍👧", "colors": ["#FDBA74", "#EA580C"], "adult": false },
+  { "id": "food", "name": "Food & Restaurant", "ta": "சாப்பாடு", "tl": "Saappaadu", "emoji": "🍛", "colors": ["#FCD34D", "#D97706"], "adult": false },
+  { "id": "work", "name": "Work & Office", "ta": "வேலை", "tl": "Velai", "emoji": "💼", "colors": ["#94A3B8", "#475569"], "adult": false },
+  { "id": "travel", "name": "Travel & Directions", "ta": "பயணம்", "tl": "Payanam", "emoji": "🧭", "colors": ["#5EEAD4", "#0D9488"], "adult": false },
+  { "id": "phone", "name": "Phone Calls", "ta": "ஃபோன்", "tl": "Phone", "emoji": "📞", "colors": ["#A5B4FC", "#6366F1"], "adult": false },
+  { "id": "slang", "name": "Slang & Expressions", "ta": "பேச்சு வழக்கு", "tl": "Pechu vazhakku", "emoji": "😎", "colors": ["#F0ABFC", "#C026D3"], "adult": false }
 ]
