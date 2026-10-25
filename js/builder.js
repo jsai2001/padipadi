@@ -168,6 +168,65 @@
     };
   }
 
+  // ---------- Telugu reference (shown next to the English) ----------
+  const PIDX = {};
+  LEX.persons.forEach((p, i) => (PIDX[p.id] = i));
+  const KEYIDX = { pres: 0, negPres: 1, past: 2, negPast: 3, fut: 4, negFut: 5 };
+
+  function teVerb(vb, key, pid) {
+    const E = LEX.te.endings, i = PIDX[pid], she = pid === "ava";
+    if (key === "pres") return she ? vb.pres.slice(0, -1) + "ోంది" : vb.pres + E.pres[i];
+    if (key === "past") return she ? vb.shePast : vb.past + E.past[i];
+    if (key === "fut") return vb.fut + E.fut[i];
+    if (key === "negPres") return vb.negNow;
+    if (key === "negPast") return vb.negPast;
+    return vb.negFut + E.negFut[i];
+  }
+  function teBe(key, pid) {
+    const E = LEX.te.endings, i = PIDX[pid], she = pid === "ava";
+    if (key === "pres" || key === "past") return she ? "ఉంది" : "ఉన్న" + E.past[i];
+    if (key === "fut") return "ఉంట" + E.fut[i];
+    if (key === "negPres" || key === "negPast") return "లే" + E.beNeg[i];
+    return "ఉండ" + E.negFut[i];
+  }
+
+  // Returns the Telugu sentence for the same combination, or null if there's no Telugu data.
+  function generateTe(opts) {
+    const TE = LEX.te;
+    if (!TE) return null;
+    const ph = phraseById[opts.phrase];
+    const tense = opts.tense || "present";
+    if (!ph || !personAllowed(ph, opts.person) || !formAvailable(ph, tense, !!opts.neg)) return null;
+    const key = KEY[tense][opts.neg ? 1 : 0];
+    const [nom, dat] = TE.persons[opts.person];
+    const parts = [];
+    if (ph.kind === "feel") parts.push(dat); else parts.push(nom);
+    if (opts.time && timeAllowed(ph)) parts.push(TE.time[tense]);
+
+    if (ph.kind === "action") {
+      const a = TE.actions[ph.src.id];
+      if (!a) return null;
+      if (a[0]) parts.push(a[0]);
+      parts.push(teVerb(TE.verbs[a[1]], key, opts.person));
+    } else if (ph.kind === "state") {
+      const adv = TE.states[ph.src.id];
+      if (!adv) return null;
+      parts.push(adv, teBe(key, opts.person));
+    } else {
+      const forms = TE.feelings[ph.src.id];
+      const form = forms && forms[KEYIDX[key]];
+      if (!form) return null;
+      if (ph.obj) {
+        const i = ph.src.objects.indexOf(ph.obj);
+        const o = TE.objects[ph.src.id] && TE.objects[ph.src.id][i];
+        if (!o) return null;
+        parts.push(o);
+      }
+      parts.push(form);
+    }
+    return parts.join(" ") + ".";
+  }
+
   // Every valid combination, as option objects.
   function allCombos() {
     const out = [];
@@ -198,7 +257,7 @@
 
   const API = {
     persons: LEX.persons, phrases, phraseById, TENSES,
-    generate, allCombos, count, random, personAllowed, formAvailable, timeAllowed,
+    generate, generateTe, allCombos, count, random, personAllowed, formAvailable, timeAllowed,
   };
   root.PPBuilder = API;
   if (typeof module !== "undefined" && module.exports) module.exports = API;

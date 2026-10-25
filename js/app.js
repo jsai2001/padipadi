@@ -793,6 +793,7 @@
       tlLine2.append(".");
       return [
         h("p", { class: "en-out" }, r.en, r.tag ? h("span", { class: "muted small" }, `  (${r.tag})`) : null),
+        teLine({ te: B.generateTe(st) }),
         taLine,
         S.settings.showTl ? tlLine2 : null,
         h("div", { class: "chips" }, r.words.map((w) => h("span", { class: "chip" },
@@ -816,7 +817,9 @@
           if (score >= 4) confetti();
           return;
         }
-        const r = B.generate(B.random());
+        const combo = B.random();
+        const r = B.generate(combo);
+        const rTe = B.generateTe(combo);
         const target = r.words.map((w) => w.ta);
         const tiles = shuffle(r.words.map((w, k) => ({ w: w.ta, t: w.tl, k })));
         const placed = [];
@@ -844,7 +847,7 @@
         draw();
         practice.replaceChildren(h("div", { class: "card stack" },
           h("div", { class: "goal-top" }, h("span", { class: "label-chip" }, `Practice ${n + 1} / 5`), h("span", { class: "muted small" }, r.tag ? `you = ${r.tag}` : "")),
-          h("p", { class: "prompt" }, r.en), zone, bank, fb, h("div", { class: "btn-row" }, check, nextB)));
+          h("p", { class: "prompt" }, r.en), teLine({ te: rTe }), zone, bank, fb, h("div", { class: "btn-row" }, check, nextB)));
         practice.scrollIntoView({ behavior: "smooth", block: "start" });
       }
       round();

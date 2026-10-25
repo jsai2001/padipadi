@@ -3,6 +3,7 @@
 const assert = require("assert");
 const path = require("path");
 const LEX = require(path.join(__dirname, "..", "js", "lexicon.js"));
+require(path.join(__dirname, "..", "js", "lexicon-te.js"));
 const B = require(path.join(__dirname, "..", "js", "builder.js"));
 
 let failures = 0;
@@ -86,6 +87,38 @@ check("all combinations are well formed (and there are 10,000+)", () => {
   }
   console.log(`     ${all.length} combinations from ${B.phrases.length} phrases`);
   assert.ok(all.length >= 10000, "only " + all.length);
+});
+
+// ---------- Telugu reference ----------
+const te = (person, phrase, tense, neg, time) => B.generateTe({ person, phrase, tense, neg, time });
+check("Telugu: I'm eating rice", () => assert.strictEqual(te("naan", "a:eat-rice", "present", false), "నేను అన్నం తింటున్నాను."));
+check("Telugu: she is eating (…ోంది)", () => assert.strictEqual(te("ava", "a:eat-rice", "present", false), "ఆమె అన్నం తింటోంది."));
+check("Telugu: you went home", () => assert.strictEqual(te("nee", "a:go-home", "past", false), "నువ్వు ఇంటికి వెళ్ళావు."));
+check("Telugu: she went home (own past form)", () => assert.strictEqual(te("ava", "a:go-home", "past", false), "ఆమె ఇంటికి వెళ్ళింది."));
+check("Telugu: they'll come to the party", () => assert.strictEqual(te("avanga", "a:come-party", "future", false), "వాళ్ళు పార్టీకి వస్తారు."));
+check("Telugu: I didn't eat yesterday", () => assert.strictEqual(te("naan", "a:eat-rice", "past", true, true), "నేను నిన్న అన్నం తినలేదు."));
+check("Telugu: he won't drink coffee", () => assert.strictEqual(te("avan", "a:drink-coffee", "future", true), "వాడు కాఫీ తాగడు."));
+check("Telugu: we're happy / not happy / won't be", () => {
+  assert.strictEqual(te("naanga", "s:happy", "present", false), "మేము సంతోషంగా ఉన్నాం.");
+  assert.strictEqual(te("naan", "s:happy", "present", true), "నేను సంతోషంగా లేను.");
+  assert.strictEqual(te("ava", "s:tired", "future", true), "ఆమె అలసటగా ఉండదు.");
+});
+check("Telugu: dative feelings", () => {
+  assert.strictEqual(te("ava", "f:scared", "present", true), "ఆమెకి భయంగా లేదు.");
+  assert.strictEqual(te("avan", "f:like:0", "present", false), "వాడికి కాఫీ ఇష్టం.");
+  assert.strictEqual(te("naan", "f:know:0", "present", false), "నాకు తమిళం వచ్చు.");
+});
+check("Telugu: every combination has well-formed Telugu", () => {
+  const brokenSign = /[\u0C3E-\u0C4D][\u0C3E-\u0C4C]|[\u0C05-\u0C14][\u0C3E-\u0C4D]|^[\u0C3E-\u0C4D]|\s[\u0C3E-\u0C4D]/;
+  let n = 0;
+  for (const o of B.allCombos()) {
+    const t = B.generateTe(o);
+    assert.ok(t, "no Telugu for " + JSON.stringify(o));
+    assert.ok(/[\u0C00-\u0C7F]/.test(t) && !/[A-Za-z\u0B80-\u0BFF]|undefined|null/.test(t), "bad Telugu: " + t);
+    assert.ok(!brokenSign.test(t), "broken Telugu: " + t);
+    n++;
+  }
+  console.log(`     ${n} Telugu sentences`);
 });
 
 if (failures) { console.log(`\n${failures} failed`); process.exit(1); }
