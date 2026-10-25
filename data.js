@@ -8319,9 +8319,226 @@ window.PP_DATA = {
      "ta": "உனக்கு எப்படி தமிழ் தெரியும்?",
      "tl": "Unakku eppadi thamizh theriyum?",
      "te": "నీకు తమిళం ఎలా వచ్చు?"
+    },
+    {
+     "id": "questions-09e4c814",
+     "en": "What's your father's name?",
+     "ta": "உங்க அப்பா பேரு என்ன?",
+     "tl": "Unga appaa peru enna?",
+     "te": "మీ నాన్న పేరు ఏంటి?"
+    },
+    {
+     "id": "questions-2f945229",
+     "en": "Where are you from?",
+     "ta": "நீங்க எந்த ஊரு?",
+     "tl": "Neenga endha ooru?",
+     "te": "మీది ఏ ఊరు?"
+    },
+    {
+     "id": "questions-c6254cc2",
+     "en": "Which school do you study in?",
+     "ta": "நீ எந்த ஸ்கூல்ல படிக்கற?",
+     "tl": "Nee endha schoolla padikkara?",
+     "te": "నువ్వు ఏ స్కూల్‌లో చదువుతున్నావు?"
+    },
+    {
+     "id": "questions-d329333d",
+     "en": "What are you doing tomorrow?",
+     "ta": "நாளைக்கு என்ன பண்ற?",
+     "tl": "Naalaikku enna panra?",
+     "te": "రేపు ఏం చేస్తున్నావు?"
+    },
+    {
+     "id": "questions-cc847a46",
+     "en": "Where is the toilet?",
+     "ta": "டாய்லெட் எங்க இருக்கு?",
+     "tl": "Toilet enga irukku?",
+     "te": "టాయిలెట్ ఎక్కడ ఉంది?"
+    },
+    {
+     "id": "questions-e03b82de",
+     "en": "Why are you sad?",
+     "ta": "ஏன் சோகமா இருக்க?",
+     "tl": "Yen sogamaa irukka?",
+     "te": "ఎందుకు దిగులుగా ఉన్నావు?"
+    },
+    {
+     "id": "questions-d49db4fe",
+     "en": "Why is it so expensive?",
+     "ta": "ஏன் இவ்ளோ விலை?",
+     "tl": "Yen ivlo vilai?",
+     "te": "ఎందుకు ఇంత రేటు?"
+    },
+    {
+     "id": "questions-d751b2fc",
+     "en": "When does the shop open?",
+     "ta": "கடை எப்போ திறப்பாங்க?",
+     "tl": "Kadai eppo thirappaanga?",
+     "te": "షాప్ ఎప్పుడు తెరుస్తారు?"
+    },
+    {
+     "id": "questions-be022031",
+     "en": "When is your birthday?",
+     "ta": "உன் பர்த்டே எப்போ?",
+     "tl": "Un birthday eppo?",
+     "te": "నీ బర్త్‌డే ఎప్పుడు?"
+    },
+    {
+     "id": "questions-b8e81827",
+     "en": "What is this called in Tamil?",
+     "ta": "இதுக்கு தமிழ்ல என்ன பேரு?",
+     "tl": "Idhukku thamizhla enna peru?",
+     "te": "దీన్ని తమిళంలో ఏమంటారు?"
+    },
+    {
+     "id": "questions-26cb7f5f",
+     "en": "What does that word mean?",
+     "ta": "அந்த வார்த்தைக்கு என்ன அர்த்தம்?",
+     "tl": "Andha vaarthaikku enna artham?",
+     "te": "ఆ మాటకి అర్థం ఏంటి?"
+    },
+    {
+     "id": "questions-16ae31a8",
+     "en": "Can you say it once more?",
+     "ta": "இன்னொரு தடவ சொல்றீங்களா?",
+     "tl": "Innoru thadava solreengalaa?",
+     "te": "ఇంకోసారి చెప్తారా?"
+    },
+    {
+     "id": "questions-52f7b6ad",
+     "en": "Can you speak slowly?",
+     "ta": "கொஞ்சம் மெதுவா பேசறீங்களா?",
+     "tl": "Konjam medhuvaa pesareengalaa?",
+     "te": "కొంచెం నెమ్మదిగా మాట్లాడతారా?"
+    },
+    {
+     "id": "questions-e5b1c53c",
+     "en": "Do you speak English?",
+     "ta": "உங்களுக்கு இங்கிலீஷ் தெரியுமா?",
+     "tl": "Ungalukku English theriyumaa?",
+     "te": "మీకు ఇంగ్లీష్ వచ్చా?"
+    },
+    {
+     "id": "questions-a495e2f0",
+     "en": "Is there a hotel nearby?",
+     "ta": "பக்கத்துல ஹோட்டல் இருக்கா?",
+     "tl": "Pakkathula hotel irukkaa?",
+     "te": "దగ్గర్లో హోటల్ ఉందా?"
+    },
+    {
+     "id": "questions-512251e2",
+     "en": "Who is your favourite actor?",
+     "ta": "உனக்கு பிடிச்ச நடிகர் யாரு?",
+     "tl": "Unakku pidicha nadigar yaaru?",
+     "te": "నీకు ఇష్టమైన హీరో ఎవరు?"
+    },
+    {
+     "id": "questions-2af21eb5",
+     "en": "What did he say?",
+     "ta": "அவன் என்ன சொன்னான்?",
+     "tl": "Avan enna sonnaan?",
+     "te": "వాడు ఏం చెప్పాడు?"
+    },
+    {
+     "id": "questions-ffd44415",
+     "en": "Where did you keep the keys?",
+     "ta": "சாவிய எங்க வச்ச?",
+     "tl": "Saaviya enga vacha?",
+     "te": "తాళాలు ఎక్కడ పెట్టావు?"
+    },
+    {
+     "id": "questions-c64ffe25",
+     "en": "How long have you been waiting?",
+     "ta": "எவ்ளோ நேரமா வெயிட் பண்ற?",
+     "tl": "Evlo neramaa wait panra?",
+     "te": "ఎంత సేపటి నుంచి వెయిట్ చేస్తున్నావు?"
+    },
+    {
+     "id": "questions-a49b8883",
+     "en": "Is the bus stop near?",
+     "ta": "பஸ் ஸ்டாப் பக்கத்துலயா?",
+     "tl": "Bus stop pakkathulayaa?",
+     "te": "బస్ స్టాప్ దగ్గరేనా?"
+    },
+    {
+     "id": "questions-42e963a1",
+     "en": "Is everyone okay at home?",
+     "ta": "வீட்ல எல்லாரும் ஓகேவா?",
+     "tl": "Veetla ellaarum okayvaa?",
+     "te": "ఇంట్లో అందరూ ఓకేనా?"
+    },
+    {
+     "id": "questions-2633cda8",
+     "en": "Did you call him?",
+     "ta": "அவனுக்கு கால் பண்ணியா?",
+     "tl": "Avanukku call panniyaa?",
+     "te": "వాడికి కాల్ చేశావా?"
+    },
+    {
+     "id": "questions-1fe7ed73",
+     "en": "Have you been here before?",
+     "ta": "நீ முன்னாடி இங்க வந்திருக்கியா?",
+     "tl": "Nee munnaadi inga vandhirukkiyaa?",
+     "te": "నువ్వు ఇంతకుముందు ఇక్కడికి వచ్చావా?"
+    },
+    {
+     "id": "questions-cb27dfa2",
+     "en": "Why are you so quiet?",
+     "ta": "ஏன் இவ்ளோ அமைதியா இருக்க?",
+     "tl": "Yen ivlo amaidhiyaa irukka?",
+     "te": "ఎందుకు ఇంత మౌనంగా ఉన్నావు?"
+    },
+    {
+     "id": "questions-588ce701",
+     "en": "What shall we eat tonight?",
+     "ta": "இன்னைக்கு நைட் என்ன சாப்பிடலாம்?",
+     "tl": "Innaikku night enna saappidalaam?",
+     "te": "ఈ రాత్రి ఏం తిందాం?"
+    },
+    {
+     "id": "questions-4da8d0e3",
+     "en": "Which room?",
+     "ta": "எந்த ரூம்?",
+     "tl": "Endha room?",
+     "te": "ఏ రూమ్?"
+    },
+    {
+     "id": "questions-b0aba4b3",
+     "en": "Whose bag is this?",
+     "ta": "இது யாரோட பேக்?",
+     "tl": "Idhu yaaroda bag?",
+     "te": "ఈ బ్యాగ్ ఎవరిది?"
+    },
+    {
+     "id": "questions-845c34cc",
+     "en": "Should I wait?",
+     "ta": "நான் வெயிட் பண்ணணுமா?",
+     "tl": "Naan wait pannanumaa?",
+     "te": "నేను వెయిట్ చేయాలా?"
+    },
+    {
+     "id": "questions-e22ca997",
+     "en": "Can we talk?",
+     "ta": "நாம பேசலாமா?",
+     "tl": "Naama pesalaamaa?",
+     "te": "మనం మాట్లాడుకుందామా?"
+    },
+    {
+     "id": "questions-05000ce2",
+     "en": "Who is next?",
+     "ta": "அடுத்து யாரு?",
+     "tl": "Aduthu yaaru?",
+     "te": "తర్వాత ఎవరు?"
+    },
+    {
+     "id": "questions-09877665",
+     "en": "Why did you do that?",
+     "ta": "ஏன் அப்படி பண்ண?",
+     "tl": "Yen appadi panna?",
+     "te": "ఎందుకు అలా చేశావు?"
     }
    ],
-   "teCount": 69
+   "teCount": 100
   },
   {
    "id": "numbers",
@@ -9322,9 +9539,226 @@ window.PP_DATA = {
      "ta": "எங்க குடும்பம் சின்னது, ஆனா சந்தோஷமானது.",
      "tl": "Enga kudumbam chinnadhu, aanaa santhoshamaanadhu.",
      "te": "మా కుటుంబం చిన్నది, కానీ సంతోషంగా ఉంటుంది."
+    },
+    {
+     "id": "family-93e02c89",
+     "en": "How is your family?",
+     "ta": "உங்க குடும்பம் எப்படி இருக்கு?",
+     "tl": "Unga kudumbam eppadi irukku?",
+     "te": "మీ కుటుంబం ఎలా ఉంది?"
+    },
+    {
+     "id": "family-ab7ded45",
+     "en": "When is your sister's wedding?",
+     "ta": "உங்க அக்கா கல்யாணம் எப்போ?",
+     "tl": "Unga akkaa kalyaanam eppo?",
+     "te": "మీ అక్క పెళ్ళి ఎప్పుడు?"
+    },
+    {
+     "id": "family-d1b2325a",
+     "en": "How many kids does your brother have?",
+     "ta": "உங்க அண்ணனுக்கு எத்தன பசங்க?",
+     "tl": "Unga annanukku eththana pasanga?",
+     "te": "మీ అన్నయ్యకి ఎంతమంది పిల్లలు?"
+    },
+    {
+     "id": "family-53becdd1",
+     "en": "I have two kids.",
+     "ta": "எனக்கு ரெண்டு பசங்க.",
+     "tl": "Enakku rendu pasanga.",
+     "te": "నాకు ఇద్దరు పిల్లలు."
+    },
+    {
+     "id": "family-0a560997",
+     "en": "My son is five years old.",
+     "ta": "என் பையனுக்கு அஞ்சு வயசு.",
+     "tl": "En paiyanukku anju vayasu.",
+     "te": "మా అబ్బాయికి ఐదేళ్ళు."
+    },
+    {
+     "id": "family-a283fc8a",
+     "en": "My sister lives abroad.",
+     "ta": "என் அக்கா வெளிநாட்டுல இருக்காங்க.",
+     "tl": "En akkaa velinaattula irukkaanga.",
+     "te": "మా అక్క విదేశాల్లో ఉంటుంది."
+    },
+    {
+     "id": "family-39d27164",
+     "en": "My brother is studying in Chennai.",
+     "ta": "என் தம்பி சென்னைல படிக்கறான்.",
+     "tl": "En thambi chennaila padikkaraan.",
+     "te": "మా తమ్ముడు చెన్నైలో చదువుతున్నాడు."
+    },
+    {
+     "id": "family-90bf7b1e",
+     "en": "Mom, what's for lunch?",
+     "ta": "அம்மா, மதியம் என்ன சாப்பாடு?",
+     "tl": "Amma, madhiyam enna saappaadu?",
+     "te": "అమ్మా, మధ్యాహ్నం ఏం వంట?"
+    },
+    {
+     "id": "family-308706e6",
+     "en": "Appa, can I go out?",
+     "ta": "அப்பா, நான் வெளிய போகலாமா?",
+     "tl": "Appaa, naan veliya pogalaamaa?",
+     "te": "నాన్నా, నేను బయటకు వెళ్ళొచ్చా?"
+    },
+    {
+     "id": "family-75354b9d",
+     "en": "Grandpa is reading the newspaper.",
+     "ta": "தாத்தா பேப்பர் படிக்கறாரு.",
+     "tl": "Thaathaa paper padikkaraaru.",
+     "te": "తాతయ్య పేపర్ చదువుతున్నారు."
+    },
+    {
+     "id": "family-e16bb114",
+     "en": "Grandma made sweets.",
+     "ta": "பாட்டி ஸ்வீட் செஞ்சாங்க.",
+     "tl": "Paatti sweet senjaanga.",
+     "te": "నానమ్మ స్వీట్లు చేసింది."
+    },
+    {
+     "id": "family-a28d32f3",
+     "en": "My parents are coming next week.",
+     "ta": "அடுத்த வாரம் என் அப்பா அம்மா வராங்க.",
+     "tl": "Adutha vaaram en appaa ammaa varaanga.",
+     "te": "వచ్చే వారం మా అమ్మానాన్న వస్తున్నారు."
+    },
+    {
+     "id": "family-366e1d73",
+     "en": "My brother got married last year.",
+     "ta": "போன வருஷம் என் அண்ணனுக்கு கல்யாணம் ஆச்சு.",
+     "tl": "Pona varusham en annanukku kalyaanam aachu.",
+     "te": "పోయిన సంవత్సరం మా అన్నయ్యకి పెళ్ళైంది."
+    },
+    {
+     "id": "family-af32ce80",
+     "en": "My sister had a baby.",
+     "ta": "என் அக்காவுக்கு குழந்தை பொறந்திருக்கு.",
+     "tl": "En akkaavukku kuzhandhai porandhirukku.",
+     "te": "మా అక్కకి బిడ్డ పుట్టింది."
+    },
+    {
+     "id": "family-1252b18c",
+     "en": "I became an uncle!",
+     "ta": "நான் மாமா ஆயிட்டேன்!",
+     "tl": "Naan maamaa aayitten!",
+     "te": "నేను మామయ్య అయ్యాను!"
+    },
+    {
+     "id": "family-db48f2ea",
+     "en": "The baby is crying.",
+     "ta": "பாப்பா அழுதுட்டு இருக்கு.",
+     "tl": "Paappaa azhudhuttu irukku.",
+     "te": "పాప ఏడుస్తోంది."
+    },
+    {
+     "id": "family-2ffc45df",
+     "en": "Feed the baby.",
+     "ta": "பாப்பாவுக்கு சாப்பாடு குடு.",
+     "tl": "Paappaavukku saappaadu kudu.",
+     "te": "పాపకి అన్నం పెట్టు."
+    },
+    {
+     "id": "family-c0f5cc86",
+     "en": "Kids, go to sleep.",
+     "ta": "பசங்களா, போய் தூங்குங்க.",
+     "tl": "Pasangalaa, poi thoongunga.",
+     "te": "పిల్లలూ, వెళ్ళి పడుకోండి."
+    },
+    {
+     "id": "family-ea79310b",
+     "en": "Kids, do your homework.",
+     "ta": "பசங்களா, ஹோம்வொர்க் பண்ணுங்க.",
+     "tl": "Pasangalaa, homework pannunga.",
+     "te": "పిల్లలూ, హోంవర్క్ చేయండి."
+    },
+    {
+     "id": "family-98c7eaa5",
+     "en": "Don't fight with your brother.",
+     "ta": "தம்பி கூட சண்டை போடாத.",
+     "tl": "Thambi kooda sandai podaadha.",
+     "te": "తమ్ముడితో గొడవ పడకు."
+    },
+    {
+     "id": "family-58c235b0",
+     "en": "My mother is unwell.",
+     "ta": "அம்மாவுக்கு உடம்பு சரியில்ல.",
+     "tl": "Ammaavukku udambu sariyilla.",
+     "te": "అమ్మకి ఒంట్లో బాలేదు."
+    },
+    {
+     "id": "family-dc7a750d",
+     "en": "I'm taking my father to the hospital.",
+     "ta": "அப்பாவ ஆஸ்பத்திரிக்கு கூட்டிட்டு போறேன்.",
+     "tl": "Appaava aaspathirikku koottittu poren.",
+     "te": "నాన్నని హాస్పిటల్‌కి తీసుకెళ్తున్నాను."
+    },
+    {
+     "id": "family-1277e4ee",
+     "en": "My father retired last month.",
+     "ta": "போன மாசம் அப்பா ரிட்டையர் ஆனாரு.",
+     "tl": "Pona maasam appaa retire aanaaru.",
+     "te": "పోయిన నెల నాన్న రిటైర్ అయ్యారు."
+    },
+    {
+     "id": "family-8038f263",
+     "en": "We are four people at home.",
+     "ta": "வீட்ல நாங்க நாலு பேர்.",
+     "tl": "Veetla naanga naalu per.",
+     "te": "ఇంట్లో మేము నలుగురం."
+    },
+    {
+     "id": "family-7a6d355e",
+     "en": "My wife is from Madurai.",
+     "ta": "என் மனைவி மதுரை பொண்ணு.",
+     "tl": "En manaivi madhurai ponnu.",
+     "te": "మా ఆవిడ మధురై అమ్మాయి."
+    },
+    {
+     "id": "family-c1ac7be0",
+     "en": "My in-laws are visiting.",
+     "ta": "மாமனார் மாமியார் வராங்க.",
+     "tl": "Maamanaar maamiyaar varaanga.",
+     "te": "అత్తామామలు వస్తున్నారు."
+    },
+    {
+     "id": "family-4d4368ae",
+     "en": "My cousin is like my sister.",
+     "ta": "என் கஸின் என் தங்கச்சி மாதிரி.",
+     "tl": "En cousin en thangachi maadhiri.",
+     "te": "మా కజిన్ నాకు చెల్లెలి లాంటిది."
+    },
+    {
+     "id": "family-b7455be6",
+     "en": "Let's take a family photo!",
+     "ta": "ஃபேமிலி ஃபோட்டோ எடுக்கலாம்!",
+     "tl": "Family photo edukkalaam!",
+     "te": "ఫ్యామిలీ ఫోటో తీసుకుందాం!"
+    },
+    {
+     "id": "family-f8b32da5",
+     "en": "Call your grandma, she misses you.",
+     "ta": "பாட்டிக்கு கால் பண்ணு, உன்ன மிஸ் பண்றாங்க.",
+     "tl": "Paattikku call pannu, unna miss panraanga.",
+     "te": "నానమ్మకి కాల్ చెయ్యి, నిన్ను మిస్ అవుతోంది."
+    },
+    {
+     "id": "family-10b93231",
+     "en": "Mom, I'll be home late.",
+     "ta": "அம்மா, நான் லேட்டா வருவேன்.",
+     "tl": "Amma, naan late-aa varuven.",
+     "te": "అమ్మా, నేను లేట్‌గా వస్తాను."
+    },
+    {
+     "id": "family-f4fc5fd4",
+     "en": "My father taught me to drive.",
+     "ta": "அப்பாதான் எனக்கு டிரைவிங் சொல்லிக்குடுத்தாரு.",
+     "tl": "Appaadhaan enakku driving sollikkuduthaaru.",
+     "te": "నాన్నే నాకు డ్రైవింగ్ నేర్పించారు."
     }
    ],
-   "teCount": 69
+   "teCount": 100
   },
   {
    "id": "food",
@@ -10325,9 +10759,226 @@ window.PP_DATA = {
      "ta": "இன்னைக்கு அவ்ளோதான்.",
      "tl": "Innaikku avlodhaan.",
      "te": "ఈ రోజుకి ఇంతే."
+    },
+    {
+     "id": "work-d6a70eea",
+     "en": "What do you do for a living?",
+     "ta": "நீங்க என்ன வேலை பாக்கறீங்க?",
+     "tl": "Neenga enna velai paakkareenga?",
+     "te": "మీరు ఏం పని చేస్తారు?"
+    },
+    {
+     "id": "work-bd833e77",
+     "en": "How many years have you worked here?",
+     "ta": "எத்தன வருஷமா இங்க வேலை பாக்கறீங்க?",
+     "tl": "Eththana varushamaa inga velai paakkareenga?",
+     "te": "ఎన్ని సంవత్సరాలుగా ఇక్కడ పని చేస్తున్నారు?"
+    },
+    {
+     "id": "work-44193a20",
+     "en": "I start work at nine.",
+     "ta": "ஒன்பது மணிக்கு வேலை ஆரம்பிப்பேன்.",
+     "tl": "Onbadhu manikku velai aarambippen.",
+     "te": "తొమ్మిదింటికి పని మొదలుపెడతాను."
+    },
+    {
+     "id": "work-38022ae8",
+     "en": "The office is far from home.",
+     "ta": "ஆபீஸ் வீட்லேர்ந்து ரொம்ப தூரம்.",
+     "tl": "Office veetlerndhu romba dhooram.",
+     "te": "ఆఫీస్ ఇంటి నుంచి చాలా దూరం."
+    },
+    {
+     "id": "work-172ea9d6",
+     "en": "I take the metro to work.",
+     "ta": "நான் மெட்ரோல ஆபீஸ் போறேன்.",
+     "tl": "Naan metrola office poren.",
+     "te": "నేను మెట్రోలో ఆఫీస్‌కి వెళ్తాను."
+    },
+    {
+     "id": "work-1d4da9fa",
+     "en": "Please sign here.",
+     "ta": "இங்க கையெழுத்து போடுங்க.",
+     "tl": "Inga kaiyezhuthu podunga.",
+     "te": "ఇక్కడ సంతకం పెట్టండి."
+    },
+    {
+     "id": "work-d9cc4cc7",
+     "en": "Print this for me.",
+     "ta": "இத எனக்கு ப்ரிண்ட் எடுத்து குடுங்க.",
+     "tl": "Idha enakku print eduthu kudunga.",
+     "te": "ఇది నాకు ప్రింట్ తీసి ఇవ్వండి."
+    },
+    {
+     "id": "work-79ff0bd1",
+     "en": "The printer isn't working.",
+     "ta": "ப்ரிண்டர் வேலை செய்யல.",
+     "tl": "Printer velai seiyala.",
+     "te": "ప్రింటర్ పని చేయట్లేదు."
+    },
+    {
+     "id": "work-3ba17aef",
+     "en": "The Wi-Fi is slow.",
+     "ta": "வைஃபை ரொம்ப ஸ்லோவா இருக்கு.",
+     "tl": "Wifi romba slowvaa irukku.",
+     "te": "వైఫై చాలా స్లోగా ఉంది."
+    },
+    {
+     "id": "work-2283a85d",
+     "en": "I forgot my ID card.",
+     "ta": "என் ஐடி கார்டு மறந்துட்டேன்.",
+     "tl": "En ID card marandhutten.",
+     "te": "నా ఐడీ కార్డ్ మర్చిపోయాను."
+    },
+    {
+     "id": "work-5b1ae8c5",
+     "en": "Who is handling this?",
+     "ta": "இத யாரு பாத்துக்கறாங்க?",
+     "tl": "Idha yaaru paathukkaraanga?",
+     "te": "దీన్ని ఎవరు చూసుకుంటున్నారు?"
+    },
+    {
+     "id": "work-557bb896",
+     "en": "I'll handle it.",
+     "ta": "நான் பாத்துக்கறேன்.",
+     "tl": "Naan paathukkaren.",
+     "te": "నేను చూసుకుంటాను."
+    },
+    {
+     "id": "work-42f667da",
+     "en": "It's not my mistake.",
+     "ta": "இது என் தப்பு இல்ல.",
+     "tl": "Idhu en thappu illa.",
+     "te": "ఇది నా తప్పు కాదు."
+    },
+    {
+     "id": "work-e55ffb5c",
+     "en": "Sorry, it's my mistake.",
+     "ta": "சாரி, இது என் தப்புதான்.",
+     "tl": "Sorry, idhu en thappudhaan.",
+     "te": "సారీ, ఇది నా తప్పే."
+    },
+    {
+     "id": "work-406de2b7",
+     "en": "I'll fix it now.",
+     "ta": "இப்பவே சரி பண்றேன்.",
+     "tl": "Ippave sari panren.",
+     "te": "ఇప్పుడే సరి చేస్తాను."
+    },
+    {
+     "id": "work-736775c6",
+     "en": "Can we postpone the meeting?",
+     "ta": "மீட்டிங்க தள்ளி வைக்கலாமா?",
+     "tl": "Meetinga thalli vaikkalaamaa?",
+     "te": "మీటింగ్ వాయిదా వేద్దామా?"
+    },
+    {
+     "id": "work-d7b6d6dd",
+     "en": "The client is happy.",
+     "ta": "க்ளையன்ட் சந்தோஷமா இருக்காங்க.",
+     "tl": "Client santhoshamaa irukkaanga.",
+     "te": "క్లయింట్ హ్యాపీగా ఉన్నారు."
+    },
+    {
+     "id": "work-7f17a383",
+     "en": "We got the project!",
+     "ta": "ப்ராஜெக்ட் நமக்கு கிடைச்சிடுச்சு!",
+     "tl": "Project namakku kidaichiduchu!",
+     "te": "ప్రాజెక్ట్ మనకి వచ్చేసింది!"
+    },
+    {
+     "id": "work-e80d33d2",
+     "en": "Today is my last day.",
+     "ta": "இன்னைக்குதான் என் கடைசி நாள்.",
+     "tl": "Innaikkudhaan en kadaisi naal.",
+     "te": "ఈరోజే నా చివరి రోజు."
+    },
+    {
+     "id": "work-b236e504",
+     "en": "I'm working the night shift.",
+     "ta": "நான் நைட் ஷிஃப்ட் பாக்கறேன்.",
+     "tl": "Naan night shift paakkaren.",
+     "te": "నేను నైట్ షిఫ్ట్ చేస్తున్నాను."
+    },
+    {
+     "id": "work-2f9226b4",
+     "en": "I have a client call at eight.",
+     "ta": "எட்டு மணிக்கு க்ளையன்ட் கால் இருக்கு.",
+     "tl": "Ettu manikku client call irukku.",
+     "te": "ఎనిమిదింటికి క్లయింట్ కాల్ ఉంది."
+    },
+    {
+     "id": "work-0dc41a84",
+     "en": "Please send it by evening.",
+     "ta": "சாயங்காலத்துக்குள்ள அனுப்புங்க.",
+     "tl": "Saayangaalathukkulla anuppunga.",
+     "te": "సాయంత్రంలోపు పంపండి."
+    },
+    {
+     "id": "work-6a05abcd",
+     "en": "I'm on my way to the office.",
+     "ta": "ஆபீஸுக்கு வந்துட்டு இருக்கேன்.",
+     "tl": "Officekku vandhuttu irukken.",
+     "te": "ఆఫీస్‌కి వస్తున్నాను."
+    },
+    {
+     "id": "work-bb09e223",
+     "en": "My team is very good.",
+     "ta": "என் டீம் ரொம்ப நல்ல டீம்.",
+     "tl": "En team romba nalla team.",
+     "te": "మా టీమ్ చాలా మంచి టీమ్."
+    },
+    {
+     "id": "work-d7e17e60",
+     "en": "The work pressure is too much.",
+     "ta": "வேலை ப்ரஷர் ரொம்ப அதிகம்.",
+     "tl": "Velai pressure romba adhigam.",
+     "te": "పని ఒత్తిడి చాలా ఎక్కువ."
+    },
+    {
+     "id": "work-ed992d28",
+     "en": "I want to change my job.",
+     "ta": "நான் வேலை மாறணும்.",
+     "tl": "Naan velai maaranum.",
+     "te": "నేను జాబ్ మారాలి."
+    },
+    {
+     "id": "work-477d6707",
+     "en": "How much is the salary?",
+     "ta": "சம்பளம் எவ்ளோ?",
+     "tl": "Sambalam evlo?",
+     "te": "జీతం ఎంత?"
+    },
+    {
+     "id": "work-45d846d6",
+     "en": "The training starts tomorrow.",
+     "ta": "நாளைக்கு ட்ரெயினிங் ஆரம்பிக்குது.",
+     "tl": "Naalaikku training aarambikkudhu.",
+     "te": "రేపు ట్రైనింగ్ మొదలవుతుంది."
+    },
+    {
+     "id": "work-5e4e8f01",
+     "en": "I passed the exam.",
+     "ta": "நான் எக்ஸாம்ல பாஸ் ஆயிட்டேன்.",
+     "tl": "Naan examla pass aayitten.",
+     "te": "నేను ఎగ్జామ్‌లో పాస్ అయ్యాను."
+    },
+    {
+     "id": "work-3b65d5df",
+     "en": "The results come out tomorrow.",
+     "ta": "நாளைக்கு ரிசல்ட் வருது.",
+     "tl": "Naalaikku result varudhu.",
+     "te": "రేపు రిజల్ట్ వస్తుంది."
+    },
+    {
+     "id": "work-d626b118",
+     "en": "Let's go for lunch together.",
+     "ta": "எல்லாரும் சேர்ந்து லஞ்ச் போலாம்.",
+     "tl": "Ellaarum serndhu lunch polaam.",
+     "te": "అందరం కలిసి లంచ్‌కి వెళ్దాం."
     }
    ],
-   "teCount": 69
+   "teCount": 100
   },
   {
    "id": "travel",
@@ -16100,6 +16751,250 @@ window.PP_DATA = {
   "கான்ஃபிடன்ட்": {
    "m": "confident"
   },
+  "பேரு": {
+   "m": "name",
+   "te": "పేరు",
+   "sim": true
+  },
+  "படிக்கற": {
+   "m": "studying / you study",
+   "te": "చదువుతున్న"
+  },
+  "டாய்லெட்": {
+   "m": "toilet"
+  },
+  "திறப்பாங்க": {
+   "m": "(they) will open",
+   "te": "తెరుస్తారు"
+  },
+  "பர்த்டே": {
+   "m": "birthday"
+  },
+  "வார்த்தை": {
+   "m": "word",
+   "te": "మాట"
+  },
+  "சொல்றீங்களா": {
+   "m": "will you say? (respectful)",
+   "te": "చెప్తారా?"
+  },
+  "பேசறீங்களா": {
+   "m": "will you speak? (respectful)",
+   "te": "మాట్లాడతారా?"
+  },
+  "இங்கிலீஷ்": {
+   "m": "English"
+  },
+  "நடிகர்": {
+   "m": "actor",
+   "te": "నటుడు"
+  },
+  "சொன்னான்": {
+   "m": "he said",
+   "te": "చెప్పాడు"
+  },
+  "வச்ச": {
+   "m": "(you) kept / put",
+   "te": "పెట్టావు"
+  },
+  "வந்திருக்கியா": {
+   "m": "have you come (before)?",
+   "te": "వచ్చావా?"
+  },
+  "அடுத்து": {
+   "m": "next",
+   "te": "తర్వాత"
+  },
+  "வெளிநாட்டுல": {
+   "m": "abroad (in a foreign country)",
+   "te": "విదేశాల్లో"
+  },
+  "சென்னை": {
+   "m": "Chennai (a city)"
+  },
+  "படிக்கறான்": {
+   "m": "he studies / is studying",
+   "te": "చదువుతున్నాడు"
+  },
+  "போகலாமா": {
+   "m": "may (I) go? / shall we go?",
+   "te": "వెళ్ళొచ్చా?"
+  },
+  "தாத்தா": {
+   "m": "grandfather",
+   "te": "తాత",
+   "sim": true
+  },
+  "பேப்பர்": {
+   "m": "newspaper / paper"
+  },
+  "படிக்கறாரு": {
+   "m": "(he) is reading (respectful)",
+   "te": "చదువుతున్నారు"
+  },
+  "வருஷம்": {
+   "m": "year",
+   "te": "సంవత్సరం"
+  },
+  "குழந்தை": {
+   "m": "baby / child",
+   "te": "బిడ్డ"
+  },
+  "பொறந்திருக்கு": {
+   "m": "is born",
+   "te": "పుట్టింది"
+  },
+  "மாமா": {
+   "m": "uncle (mother's brother)",
+   "te": "మామయ్య",
+   "sim": true
+  },
+  "பசங்களா": {
+   "m": "kids! / guys! (calling)",
+   "te": "పిల్లలూ"
+  },
+  "தூங்குங்க": {
+   "m": "sleep (plural / respectful)",
+   "te": "పడుకోండి"
+  },
+  "ஹோம்வொர்க்": {
+   "m": "homework"
+  },
+  "கூட்டிட்டு": {
+   "m": "taking (someone) along",
+   "te": "తీసుకుని"
+  },
+  "ரிட்டையர்": {
+   "m": "retire(d)"
+  },
+  "ஆனாரு": {
+   "m": "(he) became (respectful)",
+   "te": "అయ్యారు"
+  },
+  "மனைவி": {
+   "m": "wife",
+   "te": "భార్య"
+  },
+  "மாமனார்": {
+   "m": "father-in-law",
+   "te": "మామగారు"
+  },
+  "மாமியார்": {
+   "m": "mother-in-law",
+   "te": "అత్తగారు"
+  },
+  "கஸின்": {
+   "m": "cousin"
+  },
+  "ஃபேமிலி": {
+   "m": "family"
+  },
+  "எடுக்கலாம்": {
+   "m": "let's take",
+   "te": "తీసుకుందాం"
+  },
+  "பண்றாங்க": {
+   "m": "they're doing / (she) is (respectful)",
+   "te": "చేస్తున్నారు"
+  },
+  "டிரைவிங்": {
+   "m": "driving"
+  },
+  "சொல்லிக்குடுத்தாரு": {
+   "m": "(he) taught",
+   "te": "నేర్పించారు"
+  },
+  "ஒன்பது": {
+   "m": "nine",
+   "te": "తొమ్మిది"
+  },
+  "ஆரம்பிப்பேன்": {
+   "m": "I'll start / I start",
+   "te": "మొదలుపెడతాను",
+   "sim": true
+  },
+  "ஆபீஸ்": {
+   "m": "office"
+  },
+  "மெட்ரோ": {
+   "m": "metro"
+  },
+  "கையெழுத்து": {
+   "m": "signature",
+   "te": "సంతకం"
+  },
+  "ப்ரிண்ட்": {
+   "m": "print"
+  },
+  "ப்ரிண்டர்": {
+   "m": "printer"
+  },
+  "ஐடி": {
+   "m": "ID / IT"
+  },
+  "மறந்துட்டேன்": {
+   "m": "I forgot",
+   "te": "మర్చిపోయాను"
+  },
+  "பாத்துக்கறாங்க": {
+   "m": "(they) are handling / looking after",
+   "te": "చూసుకుంటున్నారు"
+  },
+  "பாத்துக்கறேன்": {
+   "m": "I'll handle / look after it",
+   "te": "చూసుకుంటాను"
+  },
+  "இப்பவே": {
+   "m": "right now",
+   "te": "ఇప్పుడే"
+  },
+  "தள்ளி": {
+   "m": "pushing (put off)",
+   "te": "వాయిదా"
+  },
+  "க்ளையன்ட்": {
+   "m": "client"
+  },
+  "நமக்கு": {
+   "m": "to us (you and me)",
+   "te": "మనకి"
+  },
+  "கிடைச்சிடுச்சு": {
+   "m": "(we) got it",
+   "te": "దొరికేసింది / వచ్చేసింది"
+  },
+  "கடைசி": {
+   "m": "last",
+   "te": "చివరి / ఆఖరి"
+  },
+  "ஷிஃப்ட்": {
+   "m": "shift"
+  },
+  "சாயங்காலத்துக்குள்ள": {
+   "m": "by evening",
+   "te": "సాయంత్రంలోపు"
+  },
+  "வந்துட்டு": {
+   "m": "coming (on the way)",
+   "te": "వస్తూ"
+  },
+  "ப்ரஷர்": {
+   "m": "pressure"
+  },
+  "மாறணும்": {
+   "m": "want to / must change",
+   "te": "మారాలి",
+   "sim": true
+  },
+  "ட்ரெயினிங்": {
+   "m": "training"
+  },
+  "ரிசல்ட்": {
+   "m": "result"
+  },
+  "லஞ்ச்": {
+   "m": "lunch"
+  },
   "மேட்ச்ல": {
    "m": "match (game) + in",
    "base": "மேட்ச்",
@@ -16740,6 +17635,12 @@ window.PP_DATA = {
    "base": "நம்பர்",
    "end": "அ"
   },
+  "வார்த்தைய": {
+   "m": "word + (as object)",
+   "base": "வார்த்தை",
+   "end": "அ",
+   "te": "మాట + ని"
+  },
   "அடக்கு": {
    "m": "oh! / hey + to / for",
    "base": "அட",
@@ -16757,6 +17658,17 @@ window.PP_DATA = {
    "base": "பேசு",
    "end": "ும்",
    "te": "మాట్లాడు + కూడా"
+  },
+  "சென்னைலேர்ந்து": {
+   "m": "Chennai (a city) + from",
+   "base": "சென்னை",
+   "end": "லேர்ந்து"
+  },
+  "வந்துட்டே": {
+   "m": "coming (on the way) + (emphasis: even / itself)",
+   "base": "வந்துட்டு",
+   "end": "ே",
+   "te": "వస్తూ + ే"
   },
   "பக்கத்துலயா": {
    "m": "near / next to + (-ly / as, or a ? question)",
@@ -17060,6 +17972,35 @@ window.PP_DATA = {
    "end": "ா",
    "te": "తిందాం + ఆ?"
   },
+  "ஸ்கூல்ல": {
+   "m": "school + in",
+   "base": "ஸ்கூல்",
+   "end": "ல்ல"
+  },
+  "வார்த்தைக்கு": {
+   "m": "word + to / for",
+   "base": "வார்த்தை",
+   "end": "க்கு",
+   "te": "మాట + కి"
+  },
+  "நேரமா": {
+   "m": "time + (-ly / as, or a ? question)",
+   "base": "நேரம்",
+   "end": "ா",
+   "te": "సమయం + గా / ఆ?"
+  },
+  "பண்ணணுமா": {
+   "m": "must do / want to do + (? question)",
+   "base": "பண்ணணும்",
+   "end": "ா",
+   "te": "చేయాలి + ఆ?"
+  },
+  "பேசலாமா": {
+   "m": "let's talk + (? question)",
+   "base": "பேசலாம்",
+   "end": "ா",
+   "te": "మాట్లాడదాం + ఆ?"
+  },
   "நிமிஷத்துல": {
    "m": "minute + in",
    "base": "நிமிஷம்",
@@ -17078,6 +18019,12 @@ window.PP_DATA = {
    "end": "தான்",
    "te": "రూపాయలు + ే",
    "sim": true
+  },
+  "கடைசில": {
+   "m": "last + in",
+   "base": "கடைசி",
+   "end": "ல",
+   "te": "చివరి + లో"
   },
   "வாரத்துக்கு": {
    "m": "week + to / for",
@@ -17098,6 +18045,21 @@ window.PP_DATA = {
    "base": "நடுராத்திரி",
    "end": "ல",
    "te": "అర్ధరాత్రి + లో"
+  },
+  "கஸின்க்கு": {
+   "m": "cousin + to / for",
+   "base": "கஸின்",
+   "end": "க்கு"
+  },
+  "ஹோம்வொர்க்ல": {
+   "m": "homework + in",
+   "base": "ஹோம்வொர்க்",
+   "end": "ல"
+  },
+  "ஆபீஸுக்கு": {
+   "m": "office + to / for",
+   "base": "ஆபீஸ்",
+   "end": "ுக்கு"
   },
   "பொங்கலுக்கு": {
    "m": "Pongal (harvest festival) + to / for",
@@ -17131,6 +18093,36 @@ window.PP_DATA = {
    "end": "தான்",
    "te": "కుటుంబం + ే",
    "sim": true
+  },
+  "அண்ணனுக்கு": {
+   "m": "elder brother + to / for",
+   "base": "அண்ணன்",
+   "end": "ுக்கு",
+   "te": "అన్న + కి",
+   "sim": true
+  },
+  "பையனுக்கு": {
+   "m": "boy / son + to / for",
+   "base": "பையன்",
+   "end": "ுக்கு",
+   "te": "అబ్బాయి + కి"
+  },
+  "சென்னைல": {
+   "m": "Chennai (a city) + in",
+   "base": "சென்னை",
+   "end": "ல"
+  },
+  "பாட்டிக்கு": {
+   "m": "grandmother + to / for",
+   "base": "பாட்டி",
+   "end": "க்கு",
+   "te": "నానమ్మ + కి"
+  },
+  "அப்பாதான்": {
+   "m": "father + (emphasis: it's / only)",
+   "base": "அப்பா",
+   "end": "தான்",
+   "te": "నాన్న + ే"
   },
   "ராத்திரிக்கு": {
    "m": "night + to / for",
@@ -17238,6 +18230,11 @@ window.PP_DATA = {
    "end": "யா",
    "te": "సహాయం + గా / ఆ?"
   },
+  "ஐடில": {
+   "m": "ID / IT + in",
+   "base": "ஐடி",
+   "end": "ல"
+  },
   "எக்ஸாமுக்கு": {
    "m": "exam + to / for",
    "base": "எக்ஸாம்",
@@ -17247,6 +18244,28 @@ window.PP_DATA = {
    "m": "tension / stress + (as object)",
    "base": "டென்ஷன்",
    "end": "அ"
+  },
+  "வருஷமா": {
+   "m": "year + (-ly / as, or a ? question)",
+   "base": "வருஷம்",
+   "end": "ா",
+   "te": "సంవత్సరం + గా / ఆ?"
+  },
+  "மெட்ரோல": {
+   "m": "metro + in",
+   "base": "மெட்ரோ",
+   "end": "ல"
+  },
+  "வைக்கலாமா": {
+   "m": "let's keep / let's have (a party) + (? question)",
+   "base": "வைக்கலாம்",
+   "end": "ா",
+   "te": "పెడదాం + ఆ?"
+  },
+  "சென்னைக்கு": {
+   "m": "Chennai (a city) + to / for",
+   "base": "சென்னை",
+   "end": "க்கு"
   },
   "போகுமா": {
    "m": "will go + (? question)",
@@ -17270,12 +18289,6 @@ window.PP_DATA = {
    "m": "car + (as object)",
    "base": "கார்",
    "end": "அ"
-  },
-  "பேசலாமா": {
-   "m": "let's talk + (? question)",
-   "base": "பேசலாம்",
-   "end": "ா",
-   "te": "మాట్లాడదాం + ఆ?"
   },
   "பண்ணேன்னு": {
    "m": "I did + (saying) that",

@@ -6,8 +6,16 @@
     <meta name="robots" content="noindex, nofollow" />
     <meta name="theme-color" content="#7c3aed" />
     <title>PadiPadi · Learn spoken Tamil by playing</title>
-    <!-- Installable app: manifest + icons; sw.js (registered in app.js) makes it work offline. -->
-    <link rel="manifest" href="./manifest.webmanifest" />
+    <!-- Installable app: manifest + icons; sw.js (registered in app.js) makes it work offline.
+         The manifest is only linked over http(s): browsers refuse to load it from file://. -->
+    <script>
+      if (/^https?:$/.test(location.protocol)) {
+        var m = document.createElement("link");
+        m.rel = "manifest";
+        m.href = "./manifest.webmanifest";
+        document.head.appendChild(m);
+      }
+    </script>
     <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png" />
     <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
