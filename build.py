@@ -17,6 +17,8 @@ Rules checked here:
   - no duplicate English sentence within a category
 
 words.tsv: "Tamil word | meaning", used for tap-a-word meanings.
+Also stamps sw.js with a cache version (a hash of the files it caches), so the
+installed/offline app updates whenever any of them changes.
 No third-party dependencies; needs Python 3.8+.
 """
 
@@ -283,6 +285,32 @@ def build():
     return js, cats, total
 
 
+SW = ROOT / "sw.js"
+SW_VERSION = re.compile(r'const VERSION = "([^"]*)";')
+SW_SHELL = re.compile(r"const SHELL = \[(.*?)\];", re.S)
+
+
+def stamp_service_worker(sw, data_js):
+    """Set sw.js VERSION to a hash of every file it caches (data.js as just built),
+    so installed copies pick up any change and drop the old cache."""
+    shell = SW_SHELL.search(sw)
+    if not shell or not SW_VERSION.search(sw):
+        raise BuildError("sw.js: can't find the VERSION line or the SHELL list")
+    digest = hashlib.sha256()
+    for url in re.findall(r'"\./([^"]*)"', shell.group(1)):
+        if not url:
+            continue  # "./" is the same page as index.html
+        path = ROOT / url
+        if url == "data.js":
+            content = data_js.encode("utf-8")
+        elif path.is_file():
+            content = path.read_bytes()
+        else:
+            raise BuildError(f"sw.js caches a missing file: {url}")
+        digest.update(url.encode() + b"\0" + content + b"\0")
+    return SW_VERSION.sub(f'const VERSION = "pp-{digest.hexdigest()[:10]}";', sw, count=1)
+
+
 def main():
     check = "--check" in sys.argv[1:]
     try:
@@ -294,15 +322,26 @@ def main():
     te_total = sum(c["teCount"] for c in cats)
     summary += f"; Telugu reference for {te_total}/{total}" + getattr(build, "stats", "")
     current = OUT.read_text(encoding="utf-8") if OUT.exists() else None
+    try:
+        sw_current = SW.read_text(encoding="utf-8")
+        sw_new = stamp_service_worker(sw_current, js)
+    except (OSError, BuildError) as e:
+        print(f"build.py: error: {e}", file=sys.stderr)
+        return 2
     if check:
         if current != js:
             print("data.js is out of date. Run: python3 build.py", file=sys.stderr)
             return 1
-        print(f"data.js is up to date ({total} sentences: {summary}).")
+        if sw_current != sw_new:
+            print("sw.js cache version is out of date. Run: python3 build.py", file=sys.stderr)
+            return 1
+        print(f"data.js and sw.js are up to date ({total} sentences: {summary}).")
         return 0
     if current != js:
         OUT.write_text(js, encoding="utf-8")
-    print(f"Wrote data.js ({total} sentences: {summary}).")
+    if sw_current != sw_new:
+        SW.write_text(sw_new, encoding="utf-8")
+    print(f"Wrote data.js ({total} sentences: {summary}); offline cache {SW_VERSION.search(sw_new).group(1)}.")
     return 0
 
 

@@ -915,6 +915,7 @@
               h("span", { class: "bar", style: "display:block;margin-top:0.25rem" }, h("span", { style: `width:${p.pct}%` }))),
             h("span", { class: "muted small" }, `${p.m}/${p.total}`));
         })),
+      installCard(),
       h("div", { class: "card" },
         h("h2", { style: "margin-bottom:0.4rem" }, "Settings"),
         setting("Show Tanglish (romanized) text", tl),
@@ -924,6 +925,52 @@
         setting("Progress is saved in this browser only", reset)),
       h("p", { class: "muted small" },
         "Sentences are written in spoken Tamil. They were not reviewed by a native speaker yet, so some may sound unnatural. Audio uses your device's Tamil voice when it has one."));
+  }
+
+  // ---------- install & offline ----------
+  // Service workers only run over http(s); opened from file:// the app still works, just not installable.
+  const canOffline = "serviceWorker" in navigator && /^https?:$/.test(location.protocol);
+  let installPrompt = null;
+  let offlineReady = false;
+  const isInstalled = () => matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+  const isIOS = () => /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const rerenderMe = () => { if (location.hash.startsWith("#/me")) render(); };
+
+  if (canOffline) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("./sw.js")
+        .then(() => navigator.serviceWorker.ready)
+        .then(() => { offlineReady = true; rerenderMe(); })
+        .catch(() => { /* offline mode unavailable; the app still works online */ });
+    });
+  }
+  window.addEventListener("beforeinstallprompt", (e) => { e.preventDefault(); installPrompt = e; rerenderMe(); });
+  window.addEventListener("appinstalled", () => { installPrompt = null; toast("PadiPadi is installed"); rerenderMe(); });
+
+  function installCard() {
+    let body;
+    if (isInstalled()) {
+      body = h("p", { class: "muted" }, "✓ Installed. Open PadiPadi from your home screen or app list.");
+    } else if (installPrompt) {
+      body = h("button", { type: "button", class: "btn btn-primary", onclick: async () => {
+        const p = installPrompt;
+        installPrompt = null;
+        p.prompt();
+        await p.userChoice.catch(() => null);
+        render();
+      } }, "📲 Install PadiPadi");
+    } else if (!canOffline) {
+      body = h("p", { class: "muted" }, "Open PadiPadi from its web address (not a saved file) to install it and use it offline.");
+    } else if (isIOS()) {
+      body = h("p", { class: "muted" }, "In Safari, tap the Share button, then “Add to Home Screen”.");
+    } else {
+      body = h("p", { class: "muted" }, "Use your browser menu: “Install app” or “Add to Home screen”.");
+    }
+    const status = !canOffline ? null
+      : h("p", { class: "muted small" }, offlineReady
+        ? "✓ Ready offline: every sentence, game and the builder work without internet. Audio uses your device's voice, so it may need the Tamil voice downloaded."
+        : "Saving the app for offline use…");
+    return h("div", { class: "card stack" }, h("h2", {}, "Install the app"), body, status);
   }
 
   // ---------- start ----------
