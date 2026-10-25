@@ -1,0 +1,13 @@
+[
+  { "id": "happy", "name": "Happy", "ta": "சந்தோஷம்", "tl": "Santhosham", "emoji": "😊", "colors": ["#FDBA74", "#F59E0B"], "adult": false },
+  { "id": "sad", "name": "Sad", "ta": "சோகம்", "tl": "Sogam", "emoji": "😢", "colors": ["#93C5FD", "#3B82F6"], "adult": false },
+  { "id": "regret", "name": "Regret", "ta": "வருத்தம்", "tl": "Varutham", "emoji": "😔", "colors": ["#C4B5FD", "#7C3AED"], "adult": false },
+  { "id": "surprise", "name": "Surprise", "ta": "ஆச்சரியம்", "tl": "Aachariyam", "emoji": "😮", "colors": ["#FDE68A", "#EAB308"], "adult": false },
+  { "id": "lust", "name": "Lust", "ta": "மோகம்", "tl": "Mogam", "emoji": "🔥", "colors": ["#FDA4AF", "#E11D48"], "adult": true },
+  { "id": "sex", "name": "Sex", "ta": "நெருக்கம்", "tl": "Nerukkam", "emoji": "💋", "colors": ["#F9A8D4", "#DB2777"], "adult": true },
+  { "id": "revenge", "name": "Revenge", "ta": "பழிவாங்கல்", "tl": "Pazhivaangal", "emoji": "😤", "colors": ["#FCA5A5", "#B91C1C"], "adult": false },
+  { "id": "general", "name": "General Communication", "ta": "பேச்சு", "tl": "Pechu", "emoji": "💬", "colors": ["#6EE7B7", "#059669"], "adult": false },
+  { "id": "politics", "name": "Politics", "ta": "அரசியல்", "tl": "Arasiyal", "emoji": "🗳️", "colors": ["#A5B4FC", "#4F46E5"], "adult": false },
+  { "id": "love", "name": "Love", "ta": "காதல்", "tl": "Kaadhal", "emoji": "❤️", "colors": ["#FECACA", "#EF4444"], "adult": false },
+  { "id": "daily", "name": "Everyday Things", "ta": "அன்றாடம்", "tl": "Andraadam", "emoji": "🏠", "colors": ["#7DD3FC", "#0891B2"], "adult": false }
+]
