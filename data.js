@@ -9041,9 +9041,219 @@ window.PP_DATA = {
      "ta": "கடை ஒம்பது மணிக்கு திறக்கும்.",
      "tl": "Kadai ombadhu manikku thirakkum.",
      "te": "షాప్ తొమ్మిదింటికి తెరుస్తారు."
+    },
+    {
+     "id": "numbers-4883010c",
+     "en": "Eleven, twelve, thirteen.",
+     "ta": "பதினொண்ணு, பன்னெண்டு, பதிமூணு.",
+     "tl": "Padhinonnu, pannendu, padhimoonu.",
+     "te": "పదకొండు, పన్నెండు, పదమూడు."
+    },
+    {
+     "id": "numbers-9acbdfd4",
+     "en": "Fourteen, fifteen, sixteen.",
+     "ta": "பதினாலு, பதினஞ்சு, பதினாறு.",
+     "tl": "Padhinaalu, padhinanju, padhinaaru.",
+     "te": "పద్నాలుగు, పదిహేను, పదహారు."
+    },
+    {
+     "id": "numbers-96190a33",
+     "en": "Seventeen, eighteen, nineteen.",
+     "ta": "பதினேழு, பதினெட்டு, பத்தொம்பது.",
+     "tl": "Padhinezhu, padhinettu, paththombadhu.",
+     "te": "పదిహేడు, పద్దెనిమిది, పందొమ్మిది."
+    },
+    {
+     "id": "numbers-ede57917",
+     "en": "Thirty, forty.",
+     "ta": "முப்பது, நாப்பது.",
+     "tl": "Muppadhu, naappadhu.",
+     "te": "ముప్పై, నలభై."
+    },
+    {
+     "id": "numbers-3545ae57",
+     "en": "Sixty, seventy.",
+     "ta": "அறுபது, எழுபது.",
+     "tl": "Arubadhu, ezhubadhu.",
+     "te": "అరవై, డెబ్బై."
+    },
+    {
+     "id": "numbers-74e9d058",
+     "en": "Eighty, ninety.",
+     "ta": "எம்பது, தொண்ணூறு.",
+     "tl": "Embadhu, thonnooru.",
+     "te": "ఎనభై, తొంభై."
+    },
+    {
+     "id": "numbers-8926fb8b",
+     "en": "Five hundred.",
+     "ta": "அஞ்சுநூறு.",
+     "tl": "Anjunooru.",
+     "te": "ఐదు వందలు."
+    },
+    {
+     "id": "numbers-7bd853f6",
+     "en": "Ten thousand.",
+     "ta": "பத்தாயிரம்.",
+     "tl": "Paththaayiram.",
+     "te": "పది వేలు."
+    },
+    {
+     "id": "numbers-6e80bc96",
+     "en": "One crore.",
+     "ta": "ஒரு கோடி.",
+     "tl": "Oru kodi.",
+     "te": "ఒక కోటి."
+    },
+    {
+     "id": "numbers-fb063e16",
+     "en": "It's exactly six o'clock.",
+     "ta": "சரியா ஆறு மணி.",
+     "tl": "Sariyaa aaru mani.",
+     "te": "సరిగ్గా ఆరు గంటలు."
+    },
+    {
+     "id": "numbers-e25ec014",
+     "en": "It's almost nine.",
+     "ta": "கிட்டத்தட்ட ஒம்பது மணி.",
+     "tl": "Kittaththatta ombadhu mani.",
+     "te": "దాదాపు తొమ్మిది అయింది."
+    },
+    {
+     "id": "numbers-6f4b26cf",
+     "en": "I'll come at seven thirty.",
+     "ta": "ஏழரை மணிக்கு வரேன்.",
+     "tl": "Ezharai manikku varen.",
+     "te": "ఏడున్నరకి వస్తాను."
+    },
+    {
+     "id": "numbers-f18e8eb6",
+     "en": "The movie starts at six.",
+     "ta": "படம் ஆறு மணிக்கு ஆரம்பிக்கும்.",
+     "tl": "Padam aaru manikku aarambikkum.",
+     "te": "సినిమా ఆరింటికి మొదలవుతుంది."
+    },
+    {
+     "id": "numbers-eec07dfd",
+     "en": "I wake up at six every day.",
+     "ta": "நான் தினமும் ஆறு மணிக்கு எந்திரிப்பேன்.",
+     "tl": "Naan dhinamum aaru manikku endhirippen.",
+     "te": "నేను రోజూ ఆరింటికి లేస్తాను."
+    },
+    {
+     "id": "numbers-5f52497e",
+     "en": "It's already late.",
+     "ta": "ஏற்கனவே லேட் ஆயிடுச்சு.",
+     "tl": "Erkanave late aayiduchu.",
+     "te": "ఇప్పటికే లేట్ అయింది."
+    },
+    {
+     "id": "numbers-5d51afe6",
+     "en": "Friday.",
+     "ta": "வெள்ளிக்கிழமை.",
+     "tl": "Vellikkizhamai.",
+     "te": "శుక్రవారం."
+    },
+    {
+     "id": "numbers-64a583be",
+     "en": "See you on Sunday.",
+     "ta": "ஞாயிற்றுக்கிழமை பாக்கலாம்.",
+     "tl": "Gnaayitrukkizhamai paakkalaam.",
+     "te": "ఆదివారం కలుద్దాం."
+    },
+    {
+     "id": "numbers-a39ad54b",
+     "en": "This month is January.",
+     "ta": "இது ஜனவரி மாசம்.",
+     "tl": "Idhu janavari maasam.",
+     "te": "ఇది జనవరి నెల."
+    },
+    {
+     "id": "numbers-6d2d85bc",
+     "en": "Next year I'll buy a car.",
+     "ta": "அடுத்த வருஷம் கார் வாங்குவேன்.",
+     "tl": "Adutha varusham car vaanguven.",
+     "te": "వచ్చే సంవత్సరం కారు కొంటాను."
+    },
+    {
+     "id": "numbers-ec8d1a42",
+     "en": "Two years ago.",
+     "ta": "ரெண்டு வருஷத்துக்கு முன்னாடி.",
+     "tl": "Rendu varushathukku munnaadi.",
+     "te": "రెండేళ్ళ క్రితం."
+    },
+    {
+     "id": "numbers-b290cf5f",
+     "en": "It costs a hundred rupees.",
+     "ta": "இது நூறு ரூபா.",
+     "tl": "Idhu nooru roobaa.",
+     "te": "ఇది వంద రూపాయలు."
+    },
+    {
+     "id": "numbers-b1c17e1c",
+     "en": "Give me a discount.",
+     "ta": "கொஞ்சம் டிஸ்கவுண்ட் குடுங்க.",
+     "tl": "Konjam discount kudunga.",
+     "te": "కొంచెం డిస్కౌంట్ ఇవ్వండి."
+    },
+    {
+     "id": "numbers-603636de",
+     "en": "Fifty rupees is too much.",
+     "ta": "அம்பது ரூபா ரொம்ப அதிகம்.",
+     "tl": "Ambadhu roobaa romba adhigam.",
+     "te": "యాభై రూపాయలు చాలా ఎక్కువ."
+    },
+    {
+     "id": "numbers-2bfcb25a",
+     "en": "Twenty five rupees.",
+     "ta": "இருபத்தஞ்சு ரூபா.",
+     "tl": "Irubaththanju roobaa.",
+     "te": "ఇరవై ఐదు రూపాయలు."
+    },
+    {
+     "id": "numbers-d113751c",
+     "en": "Count the money.",
+     "ta": "காச எண்ணு.",
+     "tl": "Kaasa ennu.",
+     "te": "డబ్బులు లెక్కపెట్టు."
+    },
+    {
+     "id": "numbers-b4bbae76",
+     "en": "My house number is twenty two.",
+     "ta": "என் வீட்டு நம்பர் இருபத்தி ரெண்டு.",
+     "tl": "En veettu number irubaththi rendu.",
+     "te": "మా ఇంటి నంబర్ ఇరవై రెండు."
+    },
+    {
+     "id": "numbers-364de30f",
+     "en": "I'm the first.",
+     "ta": "நான்தான் முதல்.",
+     "tl": "Naandhaan mudhal.",
+     "te": "నేనే మొదటి."
+    },
+    {
+     "id": "numbers-4a8899cc",
+     "en": "Double.",
+     "ta": "ரெண்டு மடங்கு.",
+     "tl": "Rendu madangu.",
+     "te": "రెట్టింపు."
+    },
+    {
+     "id": "numbers-83353c8c",
+     "en": "Three times.",
+     "ta": "மூணு தடவ.",
+     "tl": "Moonu thadava.",
+     "te": "మూడు సార్లు."
+    },
+    {
+     "id": "numbers-d53c0747",
+     "en": "Every week.",
+     "ta": "ஒவ்வொரு வாரமும்.",
+     "tl": "Ovvoru vaaramum.",
+     "te": "ప్రతి వారం."
     }
    ],
-   "teCount": 70
+   "teCount": 100
   },
   {
    "id": "family",
@@ -10261,9 +10471,219 @@ window.PP_DATA = {
      "ta": "டிப்ஸ் வச்சுக்கோங்க.",
      "tl": "Tips vachukkonga.",
      "te": "టిప్ ఉంచుకోండి."
+    },
+    {
+     "id": "food-4242e23c",
+     "en": "Give me one plate of pongal.",
+     "ta": "ஒரு ப்ளேட் பொங்கல் குடுங்க.",
+     "tl": "Oru plate pongal kudunga.",
+     "te": "ఒక ప్లేట్ పొంగల్ ఇవ్వండి."
+    },
+    {
+     "id": "food-6b3f723b",
+     "en": "Two vadas, please.",
+     "ta": "ரெண்டு வடை குடுங்க.",
+     "tl": "Rendu vadai kudunga.",
+     "te": "రెండు వడలు ఇవ్వండి."
+    },
+    {
+     "id": "food-21c8d200",
+     "en": "One onion uttapam.",
+     "ta": "ஒரு ஆனியன் ஊத்தப்பம்.",
+     "tl": "Oru onion oothappam.",
+     "te": "ఒక ఆనియన్ ఊతప్పం."
+    },
+    {
+     "id": "food-677d4ff2",
+     "en": "Is the chutney spicy?",
+     "ta": "சட்னி காரமா இருக்கா?",
+     "tl": "Chutney kaaramaa irukkaa?",
+     "te": "చట్నీ కారంగా ఉందా?"
+    },
+    {
+     "id": "food-efdcb122",
+     "en": "Give me some more chutney.",
+     "ta": "இன்னும் கொஞ்சம் சட்னி குடுங்க.",
+     "tl": "Innum konjam chutney kudunga.",
+     "te": "ఇంకొంచెం చట్నీ ఇవ్వండి."
+    },
+    {
+     "id": "food-7beea988",
+     "en": "I want a full meals.",
+     "ta": "எனக்கு ஒரு ஃபுல் மீல்ஸ்.",
+     "tl": "Enakku oru full meals.",
+     "te": "నాకు ఒక ఫుల్ మీల్స్."
+    },
+    {
+     "id": "food-c87e4319",
+     "en": "Unlimited meals?",
+     "ta": "அன்லிமிடெட் மீல்ஸா?",
+     "tl": "Unlimited mealsaa?",
+     "te": "అన్‌లిమిటెడ్ మీల్సా?"
+    },
+    {
+     "id": "food-05fa67be",
+     "en": "The fish curry is very tasty.",
+     "ta": "மீன் குழம்பு செம்ம டேஸ்ட்.",
+     "tl": "Meen kuzhambu semma taste.",
+     "te": "చేపల పులుసు చాలా రుచిగా ఉంది."
+    },
+    {
+     "id": "food-ccaf82a3",
+     "en": "I don't eat egg.",
+     "ta": "நான் முட்டை சாப்பிட மாட்டேன்.",
+     "tl": "Naan muttai saappida maatten.",
+     "te": "నేను గుడ్డు తినను."
+    },
+    {
+     "id": "food-b929f13d",
+     "en": "Is it hot?",
+     "ta": "சூடா இருக்கா?",
+     "tl": "Soodaa irukkaa?",
+     "te": "వేడిగా ఉందా?"
+    },
+    {
+     "id": "food-3aad8a4e",
+     "en": "Heat it up, please.",
+     "ta": "கொஞ்சம் சூடு பண்ணி குடுங்க.",
+     "tl": "Konjam soodu panni kudunga.",
+     "te": "కొంచెం వేడి చేసి ఇవ్వండి."
+    },
+    {
+     "id": "food-d1506ab3",
+     "en": "Give me a spoon.",
+     "ta": "ஒரு ஸ்பூன் குடுங்க.",
+     "tl": "Oru spoon kudunga.",
+     "te": "ఒక స్పూన్ ఇవ్వండి."
+    },
+    {
+     "id": "food-11d6c3ec",
+     "en": "I'll eat with my hand.",
+     "ta": "நான் கையால சாப்பிடறேன்.",
+     "tl": "Naan kaiyaala saappidaren.",
+     "te": "నేను చేత్తో తింటాను."
+    },
+    {
+     "id": "food-80fe79f4",
+     "en": "The coffee is too hot.",
+     "ta": "காபி ரொம்ப சூடா இருக்கு.",
+     "tl": "Kaapi romba soodaa irukku.",
+     "te": "కాఫీ చాలా వేడిగా ఉంది."
+    },
+    {
+     "id": "food-a004fba0",
+     "en": "One cold coffee.",
+     "ta": "ஒரு கோல்ட் காபி.",
+     "tl": "Oru cold coffee.",
+     "te": "ఒక కోల్డ్ కాఫీ."
+    },
+    {
+     "id": "food-f863465c",
+     "en": "Buttermilk, please.",
+     "ta": "மோர் குடுங்க.",
+     "tl": "Mor kudunga.",
+     "te": "మజ్జిగ ఇవ్వండి."
+    },
+    {
+     "id": "food-adb52719",
+     "en": "I'm thirsty.",
+     "ta": "தாகமா இருக்கு.",
+     "tl": "Thaagamaa irukku.",
+     "te": "దాహంగా ఉంది."
+    },
+    {
+     "id": "food-f305fe90",
+     "en": "Let's have snacks.",
+     "ta": "ஏதாவது ஸ்நாக்ஸ் சாப்பிடலாம்.",
+     "tl": "Edhaavadhu snacks saappidalaam.",
+     "te": "ఏదైనా స్నాక్స్ తిందాం."
+    },
+    {
+     "id": "food-49c6b96f",
+     "en": "Bajji with tea is super.",
+     "ta": "பஜ்ஜியும் டீயும் சூப்பர்.",
+     "tl": "Bajjiyum teayum super.",
+     "te": "బజ్జీ, టీ సూపర్."
+    },
+    {
+     "id": "food-e118aff9",
+     "en": "Cut the vegetables.",
+     "ta": "காய்கறிய நறுக்கு.",
+     "tl": "Kaaikariya narukku.",
+     "te": "కూరగాయలు కోయి."
+    },
+    {
+     "id": "food-a940aa1e",
+     "en": "Grind the chutney.",
+     "ta": "சட்னி அரை.",
+     "tl": "Chutney arai.",
+     "te": "చట్నీ రుబ్బు."
+    },
+    {
+     "id": "food-760e5763",
+     "en": "The dosa is crispy.",
+     "ta": "தோசை மொறுமொறுன்னு இருக்கு.",
+     "tl": "Dhosai morumorunnu irukku.",
+     "te": "దోసె కరకరలాడుతోంది."
+    },
+    {
+     "id": "food-c222599e",
+     "en": "Switch off the stove.",
+     "ta": "அடுப்ப அணைச்சிடு.",
+     "tl": "Aduppa anaichidu.",
+     "te": "స్టవ్ ఆపేయి."
+    },
+    {
+     "id": "food-1f3690e2",
+     "en": "Dinner is ready, come.",
+     "ta": "டின்னர் ரெடி, வாங்க.",
+     "tl": "Dinner ready, vaanga.",
+     "te": "డిన్నర్ రెడీ, రండి."
+    },
+    {
+     "id": "food-ceeef392",
+     "en": "Who cooked today?",
+     "ta": "இன்னைக்கு யாரு சமைச்சது?",
+     "tl": "Innaikku yaaru samaichadhu?",
+     "te": "ఈరోజు ఎవరు వండారు?"
+    },
+    {
+     "id": "food-94d8f821",
+     "en": "Let's buy vegetables.",
+     "ta": "காய்கறி வாங்கலாம்.",
+     "tl": "Kaaikari vaangalaam.",
+     "te": "కూరగాయలు కొందాం."
+    },
+    {
+     "id": "food-deed2870",
+     "en": "How much are onions per kilo?",
+     "ta": "வெங்காயம் கிலோ எவ்ளோ?",
+     "tl": "Vengaayam kilo evlo?",
+     "te": "ఉల్లిపాయలు కిలో ఎంత?"
+    },
+    {
+     "id": "food-02b0339e",
+     "en": "Give me one kilo of rice.",
+     "ta": "ஒரு கிலோ அரிசி குடுங்க.",
+     "tl": "Oru kilo arisi kudunga.",
+     "te": "ఒక కిలో బియ్యం ఇవ్వండి."
+    },
+    {
+     "id": "food-410fc0a1",
+     "en": "These bananas are ripe.",
+     "ta": "இந்த வாழைப்பழம் நல்லா பழுத்திருக்கு.",
+     "tl": "Indha vaazhaippazham nallaa pazhuthirukku.",
+     "te": "ఈ అరటిపండ్లు బాగా పండాయి."
+    },
+    {
+     "id": "food-613525e6",
+     "en": "Let's eat out tonight.",
+     "ta": "இன்னைக்கு ராத்திரி வெளிய சாப்பிடலாம்.",
+     "tl": "Innaikku raathiri veliya saappidalaam.",
+     "te": "ఈరోజు రాత్రి బయట తిందాం."
     }
    ],
-   "teCount": 70
+   "teCount": 100
   },
   {
    "id": "work",
@@ -11481,9 +11901,219 @@ window.PP_DATA = {
      "ta": "சீட் பெல்ட் போடு.",
      "tl": "Seat belt podu.",
      "te": "సీట్ బెల్ట్ పెట్టుకో."
+    },
+    {
+     "id": "travel-dc7246eb",
+     "en": "Where is the nearest hospital?",
+     "ta": "பக்கத்துல ஆஸ்பத்திரி எங்க இருக்கு?",
+     "tl": "Pakkathula aaspathiri enga irukku?",
+     "te": "దగ్గర్లో హాస్పిటల్ ఎక్కడ ఉంది?"
+    },
+    {
+     "id": "travel-d626e588",
+     "en": "Where is the metro station?",
+     "ta": "மெட்ரோ ஸ்டேஷன் எங்க?",
+     "tl": "Metro station enga?",
+     "te": "మెట్రో స్టేషన్ ఎక్కడ?"
+    },
+    {
+     "id": "travel-57965526",
+     "en": "Turn right at the signal.",
+     "ta": "சிக்னல்ல ரைட் திரும்புங்க.",
+     "tl": "Signalla right thirumbunga.",
+     "te": "సిగ్నల్ దగ్గర రైట్ తిరగండి."
+    },
+    {
+     "id": "travel-f5565229",
+     "en": "Go back a little.",
+     "ta": "கொஞ்சம் பின்னாடி போங்க.",
+     "tl": "Konjam pinnaadi ponga.",
+     "te": "కొంచెం వెనక్కి వెళ్ళండి."
+    },
+    {
+     "id": "travel-2ff18533",
+     "en": "It's on the main road.",
+     "ta": "மெயின் ரோட்ல இருக்கு.",
+     "tl": "Main rodla irukku.",
+     "te": "మెయిన్ రోడ్ మీద ఉంది."
+    },
+    {
+     "id": "travel-32115b85",
+     "en": "It's behind the school.",
+     "ta": "ஸ்கூலுக்கு பின்னாடி இருக்கு.",
+     "tl": "Schoolukku pinnaadi irukku.",
+     "te": "స్కూల్ వెనకాల ఉంది."
+    },
+    {
+     "id": "travel-bf9f4958",
+     "en": "Take a U-turn.",
+     "ta": "யூ டர்ன் போடுங்க.",
+     "tl": "U turn podunga.",
+     "te": "యూ టర్న్ తీసుకోండి."
+    },
+    {
+     "id": "travel-eb6a0865",
+     "en": "Book an auto for me.",
+     "ta": "எனக்கு ஒரு ஆட்டோ புக் பண்ணு.",
+     "tl": "Enakku oru auto book pannu.",
+     "te": "నాకు ఒక ఆటో బుక్ చెయ్యి."
+    },
+    {
+     "id": "travel-449b3140",
+     "en": "The cab is coming.",
+     "ta": "கேப் வந்துட்டு இருக்கு.",
+     "tl": "Cab vandhuttu irukku.",
+     "te": "క్యాబ్ వస్తోంది."
+    },
+    {
+     "id": "travel-551496ae",
+     "en": "Put the meter on.",
+     "ta": "மீட்டர் போடுங்க.",
+     "tl": "Meter podunga.",
+     "te": "మీటర్ వేయండి."
+    },
+    {
+     "id": "travel-d3613eb7",
+     "en": "How many stops?",
+     "ta": "எத்தன ஸ்டாப்?",
+     "tl": "Eththana stop?",
+     "te": "ఎన్ని స్టాప్‌లు?"
+    },
+    {
+     "id": "travel-7a5e44f0",
+     "en": "Get down at the next stop.",
+     "ta": "அடுத்த ஸ்டாப்ல இறங்குங்க.",
+     "tl": "Adutha stopla irangunga.",
+     "te": "తర్వాతి స్టాప్‌లో దిగండి."
+    },
+    {
+     "id": "travel-75452586",
+     "en": "Which coach is this?",
+     "ta": "இது எந்த கோச்?",
+     "tl": "Idhu endha coach?",
+     "te": "ఇది ఏ కోచ్?"
+    },
+    {
+     "id": "travel-4ac7e002",
+     "en": "My seat is near the window.",
+     "ta": "என் சீட் ஜன்னல் பக்கம்.",
+     "tl": "En seat jannal pakkam.",
+     "te": "నా సీటు కిటికీ దగ్గర."
+    },
+    {
+     "id": "travel-7ee3d718",
+     "en": "Can we exchange seats?",
+     "ta": "சீட் மாத்திக்கலாமா?",
+     "tl": "Seat maathikkalaamaa?",
+     "te": "సీట్లు మార్చుకుందామా?"
+    },
+    {
+     "id": "travel-0bb7851d",
+     "en": "The train is crowded.",
+     "ta": "ட்ரெயின்ல செம்ம கூட்டம்.",
+     "tl": "Trainla semma koottam.",
+     "te": "ట్రైన్‌లో చాలా రద్దీ."
+    },
+    {
+     "id": "travel-12b449f9",
+     "en": "We missed the bus.",
+     "ta": "பஸ்ஸ மிஸ் பண்ணிட்டோம்.",
+     "tl": "Bussa miss pannittom.",
+     "te": "బస్ మిస్ అయ్యాం."
+    },
+    {
+     "id": "travel-4ab4bfd7",
+     "en": "Is there a waiting room?",
+     "ta": "வெயிட்டிங் ரூம் இருக்கா?",
+     "tl": "Waiting room irukkaa?",
+     "te": "వెయిటింగ్ రూమ్ ఉందా?"
+    },
+    {
+     "id": "travel-dce347db",
+     "en": "Keep your luggage safe.",
+     "ta": "உன் லக்கேஜ பத்திரமா வச்சுக்கோ.",
+     "tl": "Un luggage-a bathiramaa vachukko.",
+     "te": "నీ లగేజీ జాగ్రత్తగా పెట్టుకో."
+    },
+    {
+     "id": "travel-0577b66f",
+     "en": "I need a taxi to the airport.",
+     "ta": "ஏர்போர்ட்டுக்கு டாக்ஸி வேணும்.",
+     "tl": "Airportukku taxi venum.",
+     "te": "ఎయిర్‌పోర్ట్‌కి టాక్సీ కావాలి."
+    },
+    {
+     "id": "travel-2db788a1",
+     "en": "The flight is at six in the morning.",
+     "ta": "ஃப்ளைட் காலைல ஆறு மணிக்கு.",
+     "tl": "Flight kaalaila aaru manikku.",
+     "te": "ఫ్లైట్ ఉదయం ఆరింటికి."
+    },
+    {
+     "id": "travel-ce1eb7f6",
+     "en": "Show your boarding pass.",
+     "ta": "போர்டிங் பாஸ் காட்டுங்க.",
+     "tl": "Boarding pass kaattunga.",
+     "te": "బోర్డింగ్ పాస్ చూపించండి."
+    },
+    {
+     "id": "travel-be12f1c1",
+     "en": "Is there a room available?",
+     "ta": "ரூம் இருக்கா?",
+     "tl": "Room irukkaa?",
+     "te": "రూమ్ ఉందా?"
+    },
+    {
+     "id": "travel-dc21cb58",
+     "en": "I want to stay one more day.",
+     "ta": "இன்னும் ஒரு நாள் தங்கணும்.",
+     "tl": "Innum oru naal thanganum.",
+     "te": "ఇంకో రోజు ఉండాలి."
+    },
+    {
+     "id": "travel-4d315c3c",
+     "en": "Where can I get good coffee here?",
+     "ta": "இங்க நல்ல காபி எங்க கிடைக்கும்?",
+     "tl": "Inga nalla kaapi enga kidaikkum?",
+     "te": "ఇక్కడ మంచి కాఫీ ఎక్కడ దొరుకుతుంది?"
+    },
+    {
+     "id": "travel-99109492",
+     "en": "What's famous in this town?",
+     "ta": "இந்த ஊர்ல என்ன ஃபேமஸ்?",
+     "tl": "Indha oorla enna famous?",
+     "te": "ఈ ఊర్లో ఏది ఫేమస్?"
+    },
+    {
+     "id": "travel-dcc7187a",
+     "en": "Let's go to the beach in the evening.",
+     "ta": "சாயங்காலம் பீச்சுக்கு போலாம்.",
+     "tl": "Saayangaalam beachukku polaam.",
+     "te": "సాయంత్రం బీచ్‌కి వెళ్దాం."
+    },
+    {
+     "id": "travel-4e7e637a",
+     "en": "Fill petrol for five hundred.",
+     "ta": "அஞ்சுநூறுக்கு பெட்ரோல் போடுங்க.",
+     "tl": "Anjunoorukku petrol podunga.",
+     "te": "ఐదు వందలకి పెట్రోల్ కొట్టండి."
+    },
+    {
+     "id": "travel-0d9a1df2",
+     "en": "The tyre is punctured.",
+     "ta": "டயர் பஞ்சர் ஆயிடுச்சு.",
+     "tl": "Tyre puncture aayiduchu.",
+     "te": "టైర్ పంక్చర్ అయింది."
+    },
+    {
+     "id": "travel-69a82a45",
+     "en": "There's a lot of traffic today.",
+     "ta": "இன்னைக்கு செம்ம ட்ராஃபிக்.",
+     "tl": "Innaikku semma traffic.",
+     "te": "ఈరోజు చాలా ట్రాఫిక్."
     }
    ],
-   "teCount": 70
+   "teCount": 100
   },
   {
    "id": "phone",
@@ -11986,9 +12616,219 @@ window.PP_DATA = {
      "ta": "அட்ரஸ் மெசேஜ் பண்றேன்.",
      "tl": "Address message panren.",
      "te": "అడ్రస్ మెసేజ్ చేస్తాను."
+    },
+    {
+     "id": "phone-7a1297d7",
+     "en": "Who called me?",
+     "ta": "எனக்கு யாரு கால் பண்ணது?",
+     "tl": "Enakku yaaru call pannadhu?",
+     "te": "నాకు ఎవరు కాల్ చేశారు?"
+    },
+    {
+     "id": "phone-781fb33c",
+     "en": "Call me in the evening.",
+     "ta": "சாயங்காலம் கால் பண்ணு.",
+     "tl": "Saayangaalam call pannu.",
+     "te": "సాయంత్రం కాల్ చెయ్యి."
+    },
+    {
+     "id": "phone-b882f5a8",
+     "en": "I'm in a meeting, I'll call back.",
+     "ta": "மீட்டிங்ல இருக்கேன், அப்புறம் கூப்பிடறேன்.",
+     "tl": "Meetingla irukken, appuram koopidaren.",
+     "te": "మీటింగ్‌లో ఉన్నాను, తర్వాత చేస్తాను."
+    },
+    {
+     "id": "phone-ec9061b1",
+     "en": "Your phone is busy.",
+     "ta": "உன் ஃபோன் பிஸியா இருக்கு.",
+     "tl": "Un phone busyaa irukku.",
+     "te": "నీ ఫోన్ బిజీగా ఉంది."
+    },
+    {
+     "id": "phone-1722518e",
+     "en": "Who were you talking to?",
+     "ta": "யார்கூட பேசிட்டு இருந்த?",
+     "tl": "Yaarkooda pesittu irundha?",
+     "te": "ఎవరితో మాట్లాడుతున్నావు?"
+    },
+    {
+     "id": "phone-c5e6681b",
+     "en": "I'll call you in ten minutes.",
+     "ta": "பத்து நிமிஷத்துல கால் பண்றேன்.",
+     "tl": "Paththu nimishathula call panren.",
+     "te": "పది నిమిషాల్లో కాల్ చేస్తాను."
+    },
+    {
+     "id": "phone-85d6f824",
+     "en": "Your number is not reachable.",
+     "ta": "உன் நம்பர் ரீச் ஆகல.",
+     "tl": "Un number reach aagala.",
+     "te": "నీ నంబర్ కలవట్లేదు."
+    },
+    {
+     "id": "phone-213c335c",
+     "en": "Charge your phone.",
+     "ta": "ஃபோன சார்ஜ் போடு.",
+     "tl": "Phone-a charge podu.",
+     "te": "ఫోన్ ఛార్జ్ పెట్టు."
+    },
+    {
+     "id": "phone-67870c7a",
+     "en": "Can I borrow your charger?",
+     "ta": "உன் சார்ஜர் குடுக்கறியா?",
+     "tl": "Un charger kudukkariyaa?",
+     "te": "నీ ఛార్జర్ ఇస్తావా?"
+    },
+    {
+     "id": "phone-5d9d7623",
+     "en": "My screen is broken.",
+     "ta": "என் ஸ்க்ரீன் உடைஞ்சிடுச்சு.",
+     "tl": "En screen udainjiduchu.",
+     "te": "నా స్క్రీన్ పగిలిపోయింది."
+    },
+    {
+     "id": "phone-c6558633",
+     "en": "I bought a new phone.",
+     "ta": "நான் புது ஃபோன் வாங்கினேன்.",
+     "tl": "Naan pudhu phone vaanginen.",
+     "te": "నేను కొత్త ఫోన్ కొన్నాను."
+    },
+    {
+     "id": "phone-8f94db2c",
+     "en": "Turn off your data.",
+     "ta": "டேட்டாவ ஆஃப் பண்ணு.",
+     "tl": "Dataava off pannu.",
+     "te": "డేటా ఆఫ్ చెయ్యి."
+    },
+    {
+     "id": "phone-e86660a4",
+     "en": "Send me the link.",
+     "ta": "லிங்க் அனுப்பு.",
+     "tl": "Link anuppu.",
+     "te": "లింక్ పంపు."
+    },
+    {
+     "id": "phone-3ce32ea9",
+     "en": "Check the group.",
+     "ta": "க்ரூப்ப பாரு.",
+     "tl": "Group-a paaru.",
+     "te": "గ్రూప్ చూడు."
+    },
+    {
+     "id": "phone-e67148b8",
+     "en": "Add me to the group.",
+     "ta": "என்ன க்ரூப்ல சேர்த்துடு.",
+     "tl": "Enna groupla serthudu.",
+     "te": "నన్ను గ్రూప్‌లో యాడ్ చెయ్యి."
+    },
+    {
+     "id": "phone-33e6d6dc",
+     "en": "Don't forward that message.",
+     "ta": "அந்த மெசேஜ ஃபார்வர்ட் பண்ணாத.",
+     "tl": "Andha message-a forward pannaadha.",
+     "te": "ఆ మెసేజ్ ఫార్వర్డ్ చేయకు."
+    },
+    {
+     "id": "phone-3b8d32e1",
+     "en": "I'll share my location.",
+     "ta": "என் லொகேஷன் ஷேர் பண்றேன்.",
+     "tl": "En location share panren.",
+     "te": "నా లొకేషన్ షేర్ చేస్తాను."
+    },
+    {
+     "id": "phone-eda844bb",
+     "en": "Your voice is not clear.",
+     "ta": "உன் வாய்ஸ் க்ளியரா இல்ல.",
+     "tl": "Un voice clearaa illa.",
+     "te": "నీ వాయిస్ క్లియర్‌గా లేదు."
+    },
+    {
+     "id": "phone-0fbe9825",
+     "en": "I'll call from another number.",
+     "ta": "வேற நம்பர்லேர்ந்து கால் பண்றேன்.",
+     "tl": "Vera numberlerndhu call panren.",
+     "te": "వేరే నంబర్ నుంచి కాల్ చేస్తాను."
+    },
+    {
+     "id": "phone-01e99e2b",
+     "en": "Block that number.",
+     "ta": "அந்த நம்பர ப்ளாக் பண்ணு.",
+     "tl": "Andha numbera block pannu.",
+     "te": "ఆ నంబర్ బ్లాక్ చెయ్యి."
+    },
+    {
+     "id": "phone-852e163e",
+     "en": "Someone keeps calling me.",
+     "ta": "யாரோ திரும்ப திரும்ப கால் பண்றாங்க.",
+     "tl": "Yaaro thirumba thirumba call panraanga.",
+     "te": "ఎవరో మళ్ళీ మళ్ళీ కాల్ చేస్తున్నారు."
+    },
+    {
+     "id": "phone-0ca36da7",
+     "en": "It's a spam call.",
+     "ta": "இது ஸ்பேம் கால்.",
+     "tl": "Idhu spam call.",
+     "te": "ఇది స్పామ్ కాల్."
+    },
+    {
+     "id": "phone-ab4488e2",
+     "en": "Don't share the OTP.",
+     "ta": "ஓடிபி யாருக்கும் சொல்லாத.",
+     "tl": "OTP yaarukkum sollaadha.",
+     "te": "ఓటీపీ ఎవరికీ చెప్పకు."
+    },
+    {
+     "id": "phone-b767d6ef",
+     "en": "I'm on another call.",
+     "ta": "நான் வேற கால்ல இருக்கேன்.",
+     "tl": "Naan vera callla irukken.",
+     "te": "నేను వేరే కాల్‌లో ఉన్నాను."
+    },
+    {
+     "id": "phone-12d17571",
+     "en": "Call me after lunch.",
+     "ta": "லஞ்ச் முடிஞ்சதும் கால் பண்ணு.",
+     "tl": "Lunch mudinjadhum call pannu.",
+     "te": "లంచ్ అయ్యాక కాల్ చెయ్యి."
+    },
+    {
+     "id": "phone-b98a5aa4",
+     "en": "Your phone was not reachable all day.",
+     "ta": "நாள் முழுக்க உன் ஃபோன் கிடைக்கல.",
+     "tl": "Naal muzhukka un phone kidaikkala.",
+     "te": "రోజంతా నీ ఫోన్ కలవలేదు."
+    },
+    {
+     "id": "phone-69c9ec69",
+     "en": "Send me the trip photos.",
+     "ta": "ட்ரிப் ஃபோட்டோ அனுப்பு.",
+     "tl": "Trip photo anuppu.",
+     "te": "ట్రిప్ ఫోటోలు పంపు."
+    },
+    {
+     "id": "phone-36d5bc2f",
+     "en": "Update your app.",
+     "ta": "உன் ஆப்ப அப்டேட் பண்ணு.",
+     "tl": "Un appa update pannu.",
+     "te": "నీ యాప్ అప్‌డేట్ చెయ్యి."
+    },
+    {
+     "id": "phone-2b498938",
+     "en": "Your phone is ringing.",
+     "ta": "உன் ஃபோன் அடிக்குது.",
+     "tl": "Un phone adikkudhu.",
+     "te": "నీ ఫోన్ మోగుతోంది."
+    },
+    {
+     "id": "phone-a2d49797",
+     "en": "Pick up the phone.",
+     "ta": "ஃபோன எடு.",
+     "tl": "Phone-a edu.",
+     "te": "ఫోన్ ఎత్తు."
     }
    ],
-   "teCount": 70
+   "teCount": 100
   },
   {
    "id": "slang",
@@ -12498,9 +13338,212 @@ window.PP_DATA = {
      "ta": "கலக்கிட்ட!",
      "tl": "Kalakkitta!",
      "te": "అదరగొట్టావు!"
+    },
+    {
+     "id": "slang-fd338536",
+     "en": "Simply superb!",
+     "ta": "சும்மா அதிருதுல்ல!",
+     "tl": "Summaa adhirudhulla!",
+     "te": "అదిరిపోయింది!"
+    },
+    {
+     "id": "slang-01ea9cb0",
+     "en": "He's a big shot.",
+     "ta": "அவன் பெரிய ஆளு.",
+     "tl": "Avan periya aalu.",
+     "te": "వాడు పెద్ద మనిషి."
+    },
+    {
+     "id": "slang-e897e823",
+     "en": "Don't act cool.",
+     "ta": "கெத்து காட்டாத.",
+     "tl": "Gethu kaattaadha.",
+     "te": "బిల్డప్ ఇవ్వకు."
+    },
+    {
+     "id": "slang-3e1a319b",
+     "en": "You have to give a treat.",
+     "ta": "ட்ரீட் வைக்கணும்.",
+     "tl": "Treat vaikkanum.",
+     "te": "ట్రీట్ ఇవ్వాలి."
+    },
+    {
+     "id": "slang-b8150aea",
+     "en": "Not my problem.",
+     "ta": "என் பிரச்சனை இல்ல.",
+     "tl": "En prachanai illa.",
+     "te": "నా సమస్య కాదు."
+    },
+    {
+     "id": "slang-603de46f",
+     "en": "Mind your business.",
+     "ta": "உன் வேலைய பாரு.",
+     "tl": "Un velaiya paaru.",
+     "te": "నీ పని చూసుకో."
+    },
+    {
+     "id": "slang-cfcc247a",
+     "en": "Don't irritate me.",
+     "ta": "கடுப்பேத்தாத.",
+     "tl": "Kaduppethaadha.",
+     "te": "చిరాకు పెట్టకు."
+    },
+    {
+     "id": "slang-b443b9a5",
+     "en": "I'm irritated.",
+     "ta": "செம்ம கடுப்பா இருக்கு.",
+     "tl": "Semma kaduppaa irukku.",
+     "te": "చాలా చిరాకుగా ఉంది."
+    },
+    {
+     "id": "slang-4f345d77",
+     "en": "He's a fraud.",
+     "ta": "அவன் ஒரு ஃப்ராடு.",
+     "tl": "Avan oru fraadu.",
+     "te": "వాడు ఒక ఫ్రాడ్."
+    },
+    {
+     "id": "slang-c8d8049b",
+     "en": "Don't fool me.",
+     "ta": "என்ன ஏமாத்தாத.",
+     "tl": "Enna emaathaadha.",
+     "te": "నన్ను మోసం చేయకు."
+    },
+    {
+     "id": "slang-c8fb1654",
+     "en": "He bluffs a lot.",
+     "ta": "அவன் நிறைய ரீல் விடுவான்.",
+     "tl": "Avan niraiya reel viduvaan.",
+     "te": "వాడు చాలా కోతలు కోస్తాడు."
+    },
+    {
+     "id": "slang-f224ecbe",
+     "en": "Stop bluffing.",
+     "ta": "ரீல் விடாத.",
+     "tl": "Reel vidaadha.",
+     "te": "కోతలు కోయకు."
+    },
+    {
+     "id": "slang-650c9d52",
+     "en": "Time for gossip!",
+     "ta": "கிசுகிசு டைம்!",
+     "tl": "Kisukisu time!",
+     "te": "గాసిప్ టైమ్!"
+    },
+    {
+     "id": "slang-5d3374cd",
+     "en": "He's a good guy.",
+     "ta": "அவன் நல்ல பையன்.",
+     "tl": "Avan nalla paiyan.",
+     "te": "వాడు మంచి అబ్బాయి."
+    },
+    {
+     "id": "slang-fd7b2cbb",
+     "en": "She's very bold.",
+     "ta": "அவ செம்ம தைரியம்.",
+     "tl": "Ava semma dhairiyam.",
+     "te": "ఆమెకి చాలా ధైర్యం."
+    },
+    {
+     "id": "slang-fe667a7b",
+     "en": "It's a long story.",
+     "ta": "அது பெரிய கதை.",
+     "tl": "Adhu periya kadhai.",
+     "te": "అది పెద్ద కథ."
+    },
+    {
+     "id": "slang-ebb1a46d",
+     "en": "Okay buddy, see you.",
+     "ta": "சரி மச்சி, பாக்கலாம்.",
+     "tl": "Sari machi, paakkalaam.",
+     "te": "సరే రా, కలుద్దాం."
+    },
+    {
+     "id": "slang-9bc6bfdb",
+     "en": "You're a legend!",
+     "ta": "நீ ஒரு லெஜண்ட்!",
+     "tl": "Nee oru legend!",
+     "te": "నువ్వు ఒక లెజెండ్!"
+    },
+    {
+     "id": "slang-9578d81f",
+     "en": "What a scene!",
+     "ta": "என்ன சீன்!",
+     "tl": "Enna scene!",
+     "te": "ఏం సీన్!"
+    },
+    {
+     "id": "slang-9b72c1ae",
+     "en": "I'm starving.",
+     "ta": "செம்ம பசி.",
+     "tl": "Semma pasi.",
+     "te": "చాలా ఆకలి."
+    },
+    {
+     "id": "slang-b6a8e6d8",
+     "en": "I'm sleepy.",
+     "ta": "தூக்கம் வருது.",
+     "tl": "Thookkam varudhu.",
+     "te": "నిద్ర వస్తోంది."
+    },
+    {
+     "id": "slang-98d82046",
+     "en": "Let's party!",
+     "ta": "பார்ட்டி பண்ணலாம்!",
+     "tl": "Party pannalaam!",
+     "te": "పార్టీ చేసుకుందాం!"
+    },
+    {
+     "id": "slang-ca947e4b",
+     "en": "Don't be late, ok?",
+     "ta": "லேட் பண்ணாத, சரியா?",
+     "tl": "Late pannaadha, sariyaa?",
+     "te": "లేట్ చేయకు, సరేనా?"
+    },
+    {
+     "id": "slang-42a1be4f",
+     "en": "Tell me the full matter.",
+     "ta": "முழு விஷயத்தையும் சொல்லு.",
+     "tl": "Muzhu vishayathaiyum sollu.",
+     "te": "మొత్తం విషయం చెప్పు."
+    },
+    {
+     "id": "slang-36fe3bfc",
+     "en": "He ditched us.",
+     "ta": "அவன் நம்மள கழட்டி விட்டுட்டான்.",
+     "tl": "Avan nammala kazhatti vittuttaan.",
+     "te": "వాడు మనల్ని వదిలేశాడు."
+    },
+    {
+     "id": "slang-55e55eed",
+     "en": "That's too much, man!",
+     "ta": "இது ஓவர் மச்சான்!",
+     "tl": "Idhu over machaan!",
+     "te": "ఇది ఓవర్ రా!"
+    },
+    {
+     "id": "slang-0fb9e911",
+     "en": "He's totally drunk.",
+     "ta": "அவன் ஃபுல் மப்புல இருக்கான்.",
+     "tl": "Avan full mappula irukkaan.",
+     "te": "వాడు ఫుల్‌గా తాగి ఉన్నాడు."
+    },
+    {
+     "id": "slang-b21c7416",
+     "en": "Keep it a secret.",
+     "ta": "யாருக்கும் சொல்லாத.",
+     "tl": "Yaarukkum sollaadha.",
+     "te": "ఎవరికీ చెప్పకు."
+    },
+    {
+     "id": "slang-be29ae17",
+     "en": "Trust me.",
+     "ta": "என்ன நம்பு.",
+     "tl": "Enna nambu.",
+     "te": "నన్ను నమ్ము."
     }
    ],
-   "teCount": 71
+   "teCount": 100
   }
  ],
  "glossary": {
@@ -16995,6 +18038,587 @@ window.PP_DATA = {
   "லஞ்ச்": {
    "m": "lunch"
   },
+  "பதினொண்ணு": {
+   "m": "eleven",
+   "te": "పదకొండు"
+  },
+  "பன்னெண்டு": {
+   "m": "twelve",
+   "te": "పన్నెండు",
+   "sim": true
+  },
+  "பதிமூணு": {
+   "m": "thirteen",
+   "te": "పదమూడు",
+   "sim": true
+  },
+  "பதினாலு": {
+   "m": "fourteen",
+   "te": "పద్నాలుగు",
+   "sim": true
+  },
+  "பதினஞ்சு": {
+   "m": "fifteen",
+   "te": "పదిహేను"
+  },
+  "பதினாறு": {
+   "m": "sixteen",
+   "te": "పదహారు",
+   "sim": true
+  },
+  "பதினேழு": {
+   "m": "seventeen",
+   "te": "పదిహేడు"
+  },
+  "பதினெட்டு": {
+   "m": "eighteen",
+   "te": "పద్దెనిమిది"
+  },
+  "பத்தொம்பது": {
+   "m": "nineteen",
+   "te": "పందొమ్మిది"
+  },
+  "முப்பது": {
+   "m": "thirty",
+   "te": "ముప్పై",
+   "sim": true
+  },
+  "நாப்பது": {
+   "m": "forty",
+   "te": "నలభై"
+  },
+  "அறுபது": {
+   "m": "sixty",
+   "te": "అరవై"
+  },
+  "எழுபது": {
+   "m": "seventy",
+   "te": "డెబ్బై"
+  },
+  "எம்பது": {
+   "m": "eighty",
+   "te": "ఎనభై"
+  },
+  "தொண்ணூறு": {
+   "m": "ninety",
+   "te": "తొంభై"
+  },
+  "நூறு": {
+   "m": "hundred",
+   "te": "వంద / నూరు",
+   "sim": true
+  },
+  "அஞ்சுநூறு": {
+   "m": "five hundred",
+   "te": "ఐదు వందలు"
+  },
+  "பத்தாயிரம்": {
+   "m": "ten thousand",
+   "te": "పది వేలు"
+  },
+  "கோடி": {
+   "m": "crore (ten million)",
+   "te": "కోటి",
+   "sim": true
+  },
+  "அம்பது": {
+   "m": "fifty",
+   "te": "యాభై"
+  },
+  "இருபத்தஞ்சு": {
+   "m": "twenty-five",
+   "te": "ఇరవై ఐదు"
+  },
+  "இருபத்தி": {
+   "m": "twenty- (as in twenty-two)",
+   "te": "ఇరవై"
+  },
+  "கிட்டத்தட்ட": {
+   "m": "almost / about",
+   "te": "దాదాపు"
+  },
+  "ஏழரை": {
+   "m": "seven thirty (seven and a half)",
+   "te": "ఏడున్నర"
+  },
+  "ஆரம்பிக்கும்": {
+   "m": "will start",
+   "te": "మొదలవుతుంది"
+  },
+  "எந்திரிப்பேன்": {
+   "m": "I get up / wake up",
+   "te": "లేస్తాను"
+  },
+  "ஏற்கனவே": {
+   "m": "already",
+   "te": "ఇప్పటికే"
+  },
+  "ஞாயிற்றுக்கிழமை": {
+   "m": "Sunday",
+   "te": "ఆదివారం"
+  },
+  "ஜனவரி": {
+   "m": "January",
+   "te": "జనవరి",
+   "sim": true
+  },
+  "வாங்குவேன்": {
+   "m": "I'll buy",
+   "te": "కొంటాను"
+  },
+  "டிஸ்கவுண்ட்": {
+   "m": "discount"
+  },
+  "காச": {
+   "m": "money (as object)",
+   "te": "డబ్బుని"
+  },
+  "எண்ணு": {
+   "m": "count",
+   "te": "లెక్కపెట్టు"
+  },
+  "மடங்கு": {
+   "m": "times (twice as much)",
+   "te": "రెట్లు"
+  },
+  "வாரமும்": {
+   "m": "every week / the week also",
+   "te": "ప్రతి వారం"
+  },
+  "ப்ளேட்": {
+   "m": "plate"
+  },
+  "வடை": {
+   "m": "vada (fried snack)",
+   "te": "వడ",
+   "sim": true
+  },
+  "ஆனியன்": {
+   "m": "onion"
+  },
+  "ஊத்தப்பம்": {
+   "m": "uttapam",
+   "te": "ఊతప్పం",
+   "sim": true
+  },
+  "சட்னி": {
+   "m": "chutney",
+   "te": "చట్నీ",
+   "sim": true
+  },
+  "ஃபுல்": {
+   "m": "full"
+  },
+  "மீல்ஸ்": {
+   "m": "meals (a full South Indian meal)"
+  },
+  "அன்லிமிடெட்": {
+   "m": "unlimited"
+  },
+  "மீன்": {
+   "m": "fish",
+   "te": "చేప"
+  },
+  "குழம்பு": {
+   "m": "curry / gravy",
+   "te": "పులుసు"
+  },
+  "டேஸ்ட்": {
+   "m": "taste / tasty"
+  },
+  "முட்டை": {
+   "m": "egg",
+   "te": "గుడ్డు"
+  },
+  "சூடு": {
+   "m": "heat / hot",
+   "te": "వేడి"
+  },
+  "பண்ணி": {
+   "m": "doing / having done",
+   "te": "చేసి"
+  },
+  "ஸ்பூன்": {
+   "m": "spoon"
+  },
+  "கையால": {
+   "m": "with the hand",
+   "te": "చేత్తో"
+  },
+  "சாப்பிடறேன்": {
+   "m": "I eat / I'm eating",
+   "te": "తింటున్నాను"
+  },
+  "கோல்ட்": {
+   "m": "cold"
+  },
+  "மோர்": {
+   "m": "buttermilk",
+   "te": "మజ్జిగ"
+  },
+  "தாகம்": {
+   "m": "thirst",
+   "te": "దాహం",
+   "sim": true
+  },
+  "ஸ்நாக்ஸ்": {
+   "m": "snacks"
+  },
+  "பஜ்ஜியும்": {
+   "m": "bajji (fritters) and",
+   "te": "బజ్జీ కూడా"
+  },
+  "டீயும்": {
+   "m": "tea and",
+   "te": "టీ కూడా"
+  },
+  "காய்கறி": {
+   "m": "vegetables",
+   "te": "కూరగాయలు"
+  },
+  "காய்கறிய": {
+   "m": "vegetables (as object)",
+   "te": "కూరగాయలని"
+  },
+  "நறுக்கு": {
+   "m": "chop / cut",
+   "te": "కోయి"
+  },
+  "மொறுமொறுன்னு": {
+   "m": "crispy",
+   "te": "కరకరలాడుతూ"
+  },
+  "அடுப்ப": {
+   "m": "stove (as object)",
+   "te": "పొయ్యిని"
+  },
+  "வாங்கலாம்": {
+   "m": "let's buy",
+   "te": "కొందాం"
+  },
+  "வெங்காயம்": {
+   "m": "onion",
+   "te": "ఉల్లిపాయ"
+  },
+  "அரிசி": {
+   "m": "rice (uncooked)",
+   "te": "బియ్యం"
+  },
+  "வாழைப்பழம்": {
+   "m": "banana",
+   "te": "అరటిపండు"
+  },
+  "பழுத்திருக்கு": {
+   "m": "is ripe",
+   "te": "పండింది"
+  },
+  "சிக்னல்": {
+   "m": "traffic signal"
+  },
+  "ரைட்": {
+   "m": "right"
+  },
+  "பின்னாடி": {
+   "m": "behind / back",
+   "te": "వెనకాల"
+  },
+  "மெயின்": {
+   "m": "main"
+  },
+  "ரோட்ல": {
+   "m": "on the road",
+   "te": "రోడ్ మీద"
+  },
+  "யூ": {
+   "m": "U (as in U-turn)"
+  },
+  "டர்ன்": {
+   "m": "turn"
+  },
+  "கேப்": {
+   "m": "cab"
+  },
+  "மீட்டர்": {
+   "m": "meter"
+  },
+  "இறங்குங்க": {
+   "m": "get down (respectful)",
+   "te": "దిగండి"
+  },
+  "கோச்": {
+   "m": "coach (train)"
+  },
+  "சீட்": {
+   "m": "seat"
+  },
+  "பக்கம்": {
+   "m": "side / near",
+   "te": "పక్క / దగ్గర"
+  },
+  "மாத்திக்கலாமா": {
+   "m": "shall we swap?",
+   "te": "మార్చుకుందామా?"
+  },
+  "பண்ணிட்டோம்": {
+   "m": "we did (it)",
+   "te": "చేసేశాం"
+  },
+  "வெயிட்டிங்": {
+   "m": "waiting"
+  },
+  "லக்கேஜ": {
+   "m": "luggage (as object)",
+   "te": "లగేజీని"
+  },
+  "வச்சுக்கோ": {
+   "m": "keep (it)",
+   "te": "పెట్టుకో"
+  },
+  "ஏர்போர்ட்": {
+   "m": "airport"
+  },
+  "டாக்ஸி": {
+   "m": "taxi"
+  },
+  "போர்டிங்": {
+   "m": "boarding"
+  },
+  "காட்டுங்க": {
+   "m": "show (respectful)",
+   "te": "చూపించండి"
+  },
+  "தங்கணும்": {
+   "m": "want to stay",
+   "te": "ఉండాలి"
+  },
+  "கிடைக்கும்": {
+   "m": "will be available / can get",
+   "te": "దొరుకుతుంది"
+  },
+  "ஊர்": {
+   "m": "town / hometown",
+   "te": "ఊరు",
+   "sim": true
+  },
+  "ஃபேமஸ்": {
+   "m": "famous"
+  },
+  "பீச்": {
+   "m": "beach"
+  },
+  "டயர்": {
+   "m": "tyre"
+  },
+  "பஞ்சர்": {
+   "m": "puncture"
+  },
+  "கூப்பிடறேன்": {
+   "m": "I'll call",
+   "te": "పిలుస్తాను"
+  },
+  "யார்கூட": {
+   "m": "with whom",
+   "te": "ఎవరితో"
+  },
+  "பேசிட்டு": {
+   "m": "talking",
+   "te": "మాట్లాడుతూ"
+  },
+  "இருந்த": {
+   "m": "(you) were",
+   "te": "ఉన్నావు"
+  },
+  "ரீச்": {
+   "m": "reach"
+  },
+  "ஆகல": {
+   "m": "didn't happen / isn't going",
+   "te": "అవ్వలేదు"
+  },
+  "சார்ஜர்": {
+   "m": "charger"
+  },
+  "குடுக்கறியா": {
+   "m": "will you give?",
+   "te": "ఇస్తావా?"
+  },
+  "ஸ்க்ரீன்": {
+   "m": "screen"
+  },
+  "உடைஞ்சிடுச்சு": {
+   "m": "broke",
+   "te": "పగిలిపోయింది"
+  },
+  "வாங்கினேன்": {
+   "m": "I bought",
+   "te": "కొన్నాను"
+  },
+  "டேட்டா": {
+   "m": "(mobile) data"
+  },
+  "லிங்க்": {
+   "m": "link"
+  },
+  "க்ரூப்": {
+   "m": "group"
+  },
+  "சேர்த்துடு": {
+   "m": "add (me)",
+   "te": "చేర్చు"
+  },
+  "ஃபார்வர்ட்": {
+   "m": "forward"
+  },
+  "ஷேர்": {
+   "m": "share"
+  },
+  "க்ளியர்": {
+   "m": "clear"
+  },
+  "யாரோ": {
+   "m": "someone",
+   "te": "ఎవరో",
+   "sim": true
+  },
+  "ஸ்பேம்": {
+   "m": "spam"
+  },
+  "ஓடிபி": {
+   "m": "OTP (one-time password)"
+  },
+  "சொல்லாத": {
+   "m": "don't tell",
+   "te": "చెప్పకు"
+  },
+  "முடிஞ்சதும்": {
+   "m": "as soon as (it) ends",
+   "te": "అయిపోగానే"
+  },
+  "ஆப்": {
+   "m": "app"
+  },
+  "அப்டேட்": {
+   "m": "update"
+  },
+  "அடிக்குது": {
+   "m": "is ringing / hitting",
+   "te": "మోగుతోంది"
+  },
+  "எடு": {
+   "m": "take / pick up",
+   "te": "తీయి / ఎత్తు"
+  },
+  "அதிருதுல்ல": {
+   "m": "it's rocking, isn't it!",
+   "te": "అదిరిపోతోంది కదా"
+  },
+  "ஆளு": {
+   "m": "person / guy",
+   "te": "మనిషి"
+  },
+  "காட்டாத": {
+   "m": "don't show",
+   "te": "చూపించకు"
+  },
+  "ட்ரீட்": {
+   "m": "treat (party)"
+  },
+  "வைக்கணும்": {
+   "m": "must keep / give",
+   "te": "పెట్టాలి"
+  },
+  "கடுப்பேத்தாத": {
+   "m": "don't irritate",
+   "te": "చిరాకు పెట్టకు"
+  },
+  "கடுப்பு": {
+   "m": "irritation",
+   "te": "చిరాకు"
+  },
+  "ஃப்ராடு": {
+   "m": "fraud"
+  },
+  "ஏமாத்தாத": {
+   "m": "don't cheat / fool",
+   "te": "మోసం చేయకు"
+  },
+  "ரீல்": {
+   "m": "bluff (lit. reel)"
+  },
+  "விடுவான்": {
+   "m": "(he) will let out / release",
+   "te": "వదులుతాడు"
+  },
+  "விடாத": {
+   "m": "don't let out / don't leave",
+   "te": "వదలకు"
+  },
+  "கிசுகிசு": {
+   "m": "gossip"
+  },
+  "தைரியம்": {
+   "m": "courage / bold",
+   "te": "ధైర్యం",
+   "sim": true
+  },
+  "மச்சி": {
+   "m": "buddy / dude"
+  },
+  "லெஜண்ட்": {
+   "m": "legend"
+  },
+  "பசி": {
+   "m": "hunger",
+   "te": "ఆకలి"
+  },
+  "விஷயத்தையும்": {
+   "m": "the matter too",
+   "te": "విషయం కూడా"
+  },
+  "நம்மள": {
+   "m": "us (as object)",
+   "te": "మనల్ని"
+  },
+  "கழட்டி": {
+   "m": "removing / ditching",
+   "te": "వదిలించుకుని"
+  },
+  "விட்டுட்டான்": {
+   "m": "he left (it) / he quit",
+   "te": "వదిలేశాడు"
+  },
+  "ஓவர்": {
+   "m": "over / too much"
+  },
+  "மப்புல": {
+   "m": "(in a) drunk (state)",
+   "te": "మత్తులో"
+  },
+  "இருக்கான்": {
+   "m": "he is",
+   "te": "ఉన్నాడు"
+  },
+  "நம்பு": {
+   "m": "trust / believe",
+   "te": "నమ్ము",
+   "sim": true
+  },
+  "ஏர்போர்ட்டுக்கு": {
+   "m": "to the airport",
+   "te": "ఎయిర్‌పోర్ట్‌కి"
+  },
+  "கடுப்பா": {
+   "m": "irritated",
+   "te": "చిరాకుగా"
+  },
+  "டேட்டாவ": {
+   "m": "(mobile) data (as object)",
+   "te": "డేటాని"
+  },
+  "பீச்சுக்கு": {
+   "m": "to the beach",
+   "te": "బీచ్‌కి"
+  },
   "மேட்ச்ல": {
    "m": "match (game) + in",
    "base": "மேட்ச்",
@@ -17677,6 +19301,11 @@ window.PP_DATA = {
    "te": "పక్కన + గా / ఆ?",
    "sim": true
   },
+  "ரைட்ல": {
+   "m": "right + in",
+   "base": "ரைட்",
+   "end": "ல"
+  },
   "அவசரத்துல": {
    "m": "hurry / urgent + in",
    "base": "அவசரம்",
@@ -17972,6 +19601,12 @@ window.PP_DATA = {
    "end": "ா",
    "te": "తిందాం + ఆ?"
   },
+  "இருக்கானா": {
+   "m": "he is + (-ly / as, or a ? question)",
+   "base": "இருக்கான்",
+   "end": "ா",
+   "te": "ఉన్నాడు + గా / ఆ?"
+  },
   "ஸ்கூல்ல": {
    "m": "school + in",
    "base": "ஸ்கூல்",
@@ -18020,6 +19655,12 @@ window.PP_DATA = {
    "te": "రూపాయలు + ే",
    "sim": true
   },
+  "அஞ்சுநூறுக்கு": {
+   "m": "five hundred + to / for",
+   "base": "அஞ்சுநூறு",
+   "end": "க்கு",
+   "te": "ఐదు వందలు + కి"
+  },
   "கடைசில": {
    "m": "last + in",
    "base": "கடைசி",
@@ -18046,6 +19687,12 @@ window.PP_DATA = {
    "end": "ல",
    "te": "అర్ధరాత్రి + లో"
   },
+  "வருஷத்துக்கு": {
+   "m": "year + to / for",
+   "base": "வருஷம்",
+   "end": "த்துக்கு",
+   "te": "సంవత్సరం + కి"
+  },
   "கஸின்க்கு": {
    "m": "cousin + to / for",
    "base": "கஸின்",
@@ -18060,6 +19707,13 @@ window.PP_DATA = {
    "m": "office + to / for",
    "base": "ஆபீஸ்",
    "end": "ுக்கு"
+  },
+  "ஊர்ல": {
+   "m": "town / hometown + in",
+   "base": "ஊர்",
+   "end": "ல",
+   "te": "ఊరు + లో",
+   "sim": true
   },
   "பொங்கலுக்கு": {
    "m": "Pongal (harvest festival) + to / for",
@@ -18150,6 +19804,12 @@ window.PP_DATA = {
    "te": "ఉప్పు + ే",
    "sim": true
   },
+  "வெங்காயத்த": {
+   "m": "onion + (as object)",
+   "base": "வெங்காயம்",
+   "end": "அ",
+   "te": "ఉల్లిపాయ + ని"
+  },
   "தண்ணிய": {
    "m": "water + (as object)",
    "base": "தண்ணி",
@@ -18160,6 +19820,18 @@ window.PP_DATA = {
    "m": "hotel / restaurant + in",
    "base": "ஹோட்டல்",
    "end": "ல்ல"
+  },
+  "மீல்ஸா": {
+   "m": "meals (a full South Indian meal) + (-ly / as, or a ? question)",
+   "base": "மீல்ஸ்",
+   "end": "ா"
+  },
+  "தாகமா": {
+   "m": "thirst + (-ly / as, or a ? question)",
+   "base": "தாகம்",
+   "end": "ா",
+   "te": "దాహం + గా / ఆ?",
+   "sim": true
   },
   "வேலைக்கு": {
    "m": "work / job + to / for",
@@ -18262,6 +19934,11 @@ window.PP_DATA = {
    "end": "ா",
    "te": "పెడదాం + ఆ?"
   },
+  "சிக்னல": {
+   "m": "traffic signal + (as object)",
+   "base": "சிக்னல்",
+   "end": "அ"
+  },
   "சென்னைக்கு": {
    "m": "Chennai (a city) + to / for",
    "base": "சென்னை",
@@ -18273,6 +19950,11 @@ window.PP_DATA = {
    "end": "ா",
    "te": "వెళ్తుంది + ఆ?",
    "sim": true
+  },
+  "சார்ஜர": {
+   "m": "charger + (as object)",
+   "base": "சார்ஜர்",
+   "end": "அ"
   },
   "கூட்டமா": {
    "m": "crowd / meeting + (-ly / as, or a ? question)",
@@ -18289,6 +19971,21 @@ window.PP_DATA = {
    "m": "car + (as object)",
    "base": "கார்",
    "end": "அ"
+  },
+  "சிக்னல்ல": {
+   "m": "traffic signal + in",
+   "base": "சிக்னல்",
+   "end": "ல்ல"
+  },
+  "ஸ்டாப்ல": {
+   "m": "stop + in",
+   "base": "ஸ்டாப்",
+   "end": "ல"
+  },
+  "ட்ரெயின்ல": {
+   "m": "train + in",
+   "base": "ட்ரெயின்",
+   "end": "ல"
   },
   "பண்ணேன்னு": {
    "m": "I did + (saying) that",
@@ -18324,6 +20021,36 @@ window.PP_DATA = {
    "end": "ல",
    "te": "రాత్రి + లో",
    "sim": true
+  },
+  "க்ரூப்ப": {
+   "m": "group + (as object)",
+   "base": "க்ரூப்",
+   "end": "அ"
+  },
+  "க்ரூப்ல": {
+   "m": "group + in",
+   "base": "க்ரூப்",
+   "end": "ல"
+  },
+  "மெசேஜ": {
+   "m": "message + (as object)",
+   "base": "மெசேஜ்",
+   "end": "அ"
+  },
+  "க்ளியரா": {
+   "m": "clear + (-ly / as, or a ? question)",
+   "base": "க்ளியர்",
+   "end": "ா"
+  },
+  "நம்பர்லேர்ந்து": {
+   "m": "number + from",
+   "base": "நம்பர்",
+   "end": "லேர்ந்து"
+  },
+  "ஆப்ப": {
+   "m": "app + (as object)",
+   "base": "ஆப்",
+   "end": "அ"
   },
   "சும்மாதான்": {
    "m": "just / for no reason + (emphasis: it's / only)",

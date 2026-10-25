@@ -6,13 +6,13 @@ It's a static site with no server. Open `index.html` in a browser, or deploy the
 
 ## What's inside
 
-- **1,745 sentences in 19 categories**:
+- **1,894 sentences in 19 categories** (about 100 each):
   - Moods: Happy, Sad, Regret, Surprise, Love, Revenge, Lust (18+), Sex (18+)
   - Topics: General Communication, Questions, Numbers/Time/Money, Family, Food & Restaurant, Work & Office, Travel & Directions, Phone Calls, Slang & Expressions, Politics, Everyday Things
 
   The two 18+ categories are hidden until you turn them on in **Me → Settings**. They cover attraction, flirting, intimacy, boundaries and consent, and are not explicit.
 - **Telugu reference**: every sentence also shows its spoken-Telugu meaning under the English, so Telugu speakers can compare (Tamil is still what you learn; answers are always Tamil). Turn it off in **Me → Settings**. Stored in `data/telugu/<category>.tsv` as `English | Telugu`, matched to the Tamil sentence by its English text.
-- **Tap-a-word meanings** for about 1,330 words (about 85% of all word taps), with the Telugu equivalent and ≈ / ⚠ notes. About 200 of them are worked out by `build.py` from a known word plus a common ending (எக்ஸாம்ல = exam + in).
+- **Tap-a-word meanings** for about 1,500 words (about 87% of all word taps), with the Telugu equivalent and ≈ / ⚠ notes. About 200 of them are worked out by `build.py` from a known word plus a common ending (எக்ஸாம்ல = exam + in).
 - **Every sentence** shows English, Tamil script and Tanglish (romanized), with tap-a-word meanings and 🔊 audio (uses your device's Tamil voice when it has one).
 - **Games**: Flashcards (tap to flip, swipe right/left), Quiz (both directions, combo bonus), Build it (put the Tamil words in order), Match (pairs against the clock).
 - **Sentence builder**: who × what × past/present/future × positive/negative × optional time word, **10,926 combinations**. The part of the verb that changes with the person is highlighted, with a one-line rule.

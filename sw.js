@@ -1,7 +1,7 @@
 // PadiPadi service worker: keeps the whole app on the device so it works offline.
 // `python3 build.py` rewrites VERSION from a hash of the SHELL files, so every content
 // change ships as a new cache and old caches are deleted on activate.
-const VERSION = "pp-65d1cf114b";
+const VERSION = "pp-22d178551c";
 const FONT_CACHE = "pp-fonts";
 const SHELL = [
   "./",
