@@ -11853,390 +11853,1647 @@ window.PP_DATA = {
   }
  ],
  "glossary": {
-  "நான்": "I",
-  "நீ": "you (informal)",
-  "நீங்க": "you (respectful)",
-  "அவன்": "he",
-  "அவ": "she",
-  "அவங்க": "they / he, she (respectful)",
-  "நாங்க": "we",
-  "நாம": "we (you and me)",
-  "நம்ம": "our (yours and mine)",
-  "என்": "my",
-  "உன்": "your",
-  "உங்க": "your (respectful)",
-  "எங்க": "where / our",
-  "எனக்கு": "to me (I feel / I have)",
-  "உனக்கு": "to you",
-  "உங்களுக்கு": "to you (respectful)",
-  "அவனுக்கு": "to him",
-  "அவளுக்கு": "to her",
-  "என்ன": "me / what",
-  "உன்ன": "you (as object)",
-  "இது": "this",
-  "அது": "that",
-  "இங்க": "here",
-  "அங்க": "there",
-  "இப்ப": "now",
-  "இன்னைக்கு": "today",
-  "நாளைக்கு": "tomorrow",
-  "நேத்து": "yesterday",
-  "ராத்திரி": "night",
-  "காலை": "morning",
-  "ரொம்ப": "very / a lot",
-  "கொஞ்சம்": "a little",
-  "செம்ம": "super / awesome",
-  "நல்லா": "well / nicely",
-  "நல்ல": "good",
-  "இன்னும்": "still / more",
-  "எப்பவும்": "always",
-  "இனிமே": "from now on",
-  "மறுபடியும்": "again",
-  "ஒரு": "one / a",
-  "ரெண்டு": "two",
-  "எல்லாம்": "everything",
-  "எல்லாமே": "everything",
-  "யாரு": "who",
-  "ஏன்": "why",
-  "எப்படி": "how",
-  "எப்போ": "when",
-  "எவ்ளோ": "how much",
-  "ஆமா": "yes",
-  "இல்ல": "no / not",
-  "சரி": "okay",
-  "ப்ளீஸ்": "please",
-  "நன்றி": "thank you",
-  "வணக்கம்": "hello (respectful greeting)",
-  "மன்னிச்சிடு": "forgive me / sorry",
-  "இருக்கேன்": "I am",
-  "இருக்கு": "is / there is",
-  "இருக்கா": "is there? / she is",
-  "இருக்க": "you are / to be",
-  "வேணும்": "want / need",
-  "வேண்டாம்": "don't want / no",
-  "பிடிக்கும்": "like",
-  "பிடிச்சிருக்கு": "like (this, right now)",
-  "தெரியும்": "know",
-  "தெரியாது": "don't know",
-  "புரியல": "don't understand",
-  "முடியல": "can't",
-  "வா": "come",
-  "போ": "go",
-  "போலாம்": "let's go",
-  "பாரு": "look",
-  "சொல்லு": "tell / say",
-  "குடு": "give",
-  "போடு": "put / switch on",
-  "மனசு": "heart / mind",
-  "சந்தோஷமா": "happy / happily",
-  "சந்தோஷம்": "happiness",
-  "சோகமா": "sad",
-  "அழகா": "beautiful / beautifully",
-  "அழகு": "beauty / beautiful",
-  "காதல்": "love",
-  "கூட": "with",
-  "மேல": "on / towards",
-  "பத்தி": "about",
-  "மாதிரி": "like (similar to)",
-  "அம்மா": "mother",
-  "வீட்டுக்கு": "to home",
-  "வேலை": "work / job",
-  "தண்ணி": "water",
-  "சாப்பாடு": "food",
-  "சோறு": "cooked rice",
-  "டீ": "tea",
-  "காபி": "coffee",
-  "மழை": "rain",
-  "பசிக்குது": "(I'm) hungry",
-  "தூக்கம்": "sleep",
-  "தப்பு": "mistake / wrong",
-  "உண்மை": "truth",
-  "பொய்": "lie",
-  "கனவு": "dream",
-  "நாள்": "day",
-  "நேரம்": "time",
-  "பேர்": "name",
-  "ஊரு": "town / hometown",
-  "காசு": "money",
-  "ஓட்டு": "vote",
-  "தேர்தல்": "election",
-  "அரசியல்": "politics",
-  "செல்லம்": "dear / darling",
-  "நிஜமா": "really",
-  "சீக்கிரம்": "soon / quickly",
-  "மெதுவா": "slowly",
-  "தனியா": "alone",
-  "பயமா": "scared",
-  "போச்சு": "went / is gone",
-  "வந்துட்டேன்": "I've come / I'm here",
-  "கால்": "call",
-  "ஃபோன்": "phone",
-  "பண்ணு": "do (it) / make",
-  "பண்றேன்": "I'm doing / I do",
-  "பண்ணிட்டேன்": "I did (it)",
-  "பண்ணேன்": "I did",
-  "பண்ணல": "didn't do",
-  "பண்ண": "to do",
-  "பண்ணணும்": "must do / want to do",
-  "பண்ணுங்க": "please do (respectful)",
-  "பண்ணாத": "don't do",
-  "பண்ணலாம்": "let's do / can do",
-  "பண்றியா": "will you do? / are you doing?",
-  "பண்ணியா": "did you do?",
-  "இந்த": "this (before a noun)",
-  "அந்த": "that (before a noun)",
-  "இத": "this (as object)",
-  "அத": "that (as object)",
-  "அப்பா": "father",
-  "அம்மாவுக்கு": "to mother",
-  "அக்கா": "elder sister",
-  "அக்காவுக்கு": "to elder sister",
-  "அண்ணன்": "elder brother",
-  "தம்பி": "younger brother",
-  "பாட்டி": "grandmother",
-  "மச்சான்": "buddy / brother-in-law",
-  "பையன்": "boy / son",
-  "பொண்ணு": "girl / daughter",
-  "பசங்க": "kids / guys",
-  "பாப்பா": "baby",
-  "குடும்பம்": "family",
-  "குடும்பத்த": "family (as object)",
-  "ஃப்ரெண்ட்": "friend",
-  "ஃப்ரெண்ட": "friend (as object)",
-  "ஃப்ரெண்ட்ஸ்": "friends",
-  "ஆயிடுச்சு": "it became / it happened",
-  "ஆயிட்டேன்": "I became",
-  "ஆகுது": "is happening / is becoming",
-  "ஆகும்": "will take / will become",
-  "சாரி": "sorry",
-  "பக்கத்துல": "near / next to",
-  "குடுங்க": "please give",
-  "இருந்துச்சு": "it was",
-  "இருந்தேன்": "I was",
-  "இருக்காங்க": "they are / (she, he) is (respectful)",
-  "இருக்காரு": "he is (respectful)",
-  "இருக்கீங்க": "you are (respectful)",
-  "இருக்கணும்": "must be / want to be",
-  "இருக்கும்": "will be",
-  "இருக்கலாம்": "may be",
-  "இருக்கறது": "being / that which is",
-  "இருக்கும்போது": "when (someone) is",
-  "இருக்காங்களா": "are they? / is (she, he)?",
-  "இரு": "stay / be / wait",
-  "மாட்டேன்": "I won't",
-  "அப்புறம்": "later / then",
-  "வீட்ல": "at home",
-  "வீடு": "house",
-  "மணி": "o'clock / time",
-  "மணிக்கு": "at (time)",
-  "நிமிஷம்": "minute",
-  "வாழ்த்துக்கள்": "wishes / congratulations",
-  "புது": "new",
-  "என்கிட்ட": "with me / to me",
-  "உன்கிட்ட": "with you / to you",
-  "நீதான்": "it's you",
-  "நான்தான்": "it's me",
-  "நானும்": "me too / I also",
-  "எத்தன": "how many",
-  "பஸ்": "bus",
-  "என்னால": "by me / I (can)",
-  "வெளிய": "outside",
-  "வருது": "is coming",
-  "வரும்": "will come",
-  "வரேன்": "I'm coming",
-  "வராங்க": "they're coming",
-  "வரல": "didn't come / isn't coming",
-  "வந்துடுச்சு": "has come",
-  "வந்துச்சு": "came",
-  "வந்து": "coming / having come",
-  "லேட்": "late",
-  "லேட்டா": "late (adverb)",
-  "லவ்": "love",
-  "தடவ": "time (as in \"one time\")",
-  "உனக்காக": "for you",
-  "எல்லாருக்கும்": "to everyone",
-  "எல்லாரும்": "everyone",
-  "எல்லாத்தையும்": "everything (as object)",
-  "எல்லாத்துக்கும்": "for everything",
-  "மிஸ்": "miss",
-  "இன்னொரு": "another / one more",
-  "செம்மையா": "awesome / great",
-  "மெசேஜ்": "message",
-  "நம்பர்": "number",
-  "வாங்க": "come (respectful) / to buy",
-  "கல்யாணம்": "marriage / wedding",
-  "போல": "like / as if",
-  "போய்": "going / having gone",
-  "போயிட்டு": "go and (come back)",
-  "போகாத": "don't go",
-  "போன": "went / last (as in \"last year\")",
-  "போக": "to go",
-  "போற": "going / you're going",
-  "போங்க": "go (respectful)",
-  "போறேன்": "I'm going",
-  "போலாமா": "shall we go?",
-  "விடு": "leave it / let go",
-  "விட்டு": "leaving / away from",
-  "விட்டுட்டு": "leaving (someone, something)",
-  "இல்லாம": "without",
-  "வயசு": "age",
-  "ஞாபகம்": "memory / remembering",
-  "அப்படி": "like that",
-  "இப்படி": "like this",
-  "கூடாது": "shouldn't / mustn't",
-  "நிறைய": "a lot / many",
-  "சும்மா": "just / for no reason",
-  "இவ்ளோ": "this much",
-  "தமிழ்": "Tamil",
-  "முன்னாடி": "before / in front",
-  "பேசலாம்": "let's talk",
-  "பேச": "to talk",
-  "பேசுங்க": "please talk (respectful)",
-  "பேசறேன்": "I'm talking",
-  "பேசறது": "talking / speaking",
-  "குட்": "good",
-  "பெஸ்ட்": "best",
-  "டிக்கெட்": "ticket",
-  "பத்து": "ten",
-  "வழியா": "way / through",
-  "முக்கியம்": "important",
-  "பெரிய": "big",
-  "தெரியல": "don't know / can't see",
-  "தெரியுமா": "do you know?",
-  "திரும்ப": "again / back",
-  "விலை": "price",
-  "கரண்ட்": "electricity / power",
-  "கிஸ்": "kiss",
-  "நைட்": "night",
-  "கோபமா": "angry",
-  "அடுத்த": "next",
-  "என்னைக்கும்": "forever / always",
-  "எந்த": "which",
-  "போடுங்க": "please put (respectful)",
-  "மீட்டிங்": "meeting",
-  "அஞ்சு": "five",
-  "நினைச்சா": "when (I) think of",
-  "நினைச்சு": "thinking of",
-  "செய்தி": "news",
-  "வாழ்க்கை": "life",
-  "லீவு": "holiday / leave",
-  "முதல்": "first",
-  "முதல்ல": "first / at first",
-  "ஒண்ணா": "together",
-  "தப்பா": "wrongly / wrong",
-  "இதயம்": "heart",
-  "ஒருத்தர்": "one person / someone",
-  "சரியா": "right? / correctly",
-  "சண்டை": "fight",
-  "பரவாயில்ல": "it's okay / no problem",
-  "ஓகேவா": "okay?",
-  "வெட்கமா": "shy / embarrassed",
-  "இதுக்கு": "for this",
-  "ஓவரா": "too much",
-  "நம்பவே": "(can't) even believe",
-  "ஃப்ரீயா": "free",
-  "சாப்பிடலாம்": "let's eat",
-  "சாப்பிட": "to eat",
-  "சாப்பிடு": "eat",
-  "எட்டு": "eight",
-  "அனுப்பு": "send",
-  "ஒவ்வொரு": "each / every",
-  "தூங்கு": "sleep",
-  "பேரும்": "(both) people",
-  "பாக்கலாம்": "let's see / see you",
-  "பாத்தியா": "did you see?",
-  "பாத்து": "carefully / seeing",
-  "பாத்துட்டு": "after seeing",
-  "பிரச்சனை": "problem",
-  "ஏதாவது": "anything / something",
-  "தினமும்": "every day",
-  "படம்": "movie / picture",
-  "புக்": "book",
-  "செய்யல": "not working / didn't do",
-  "அதிகம்": "too much / more",
-  "விஷயம்": "matter / thing",
-  "மூணு": "three",
-  "நாலு": "four",
-  "ஆறு": "six",
-  "ஒம்பது": "nine",
-  "ஒண்ணு": "one",
-  "சொல்லுங்க": "please tell (respectful)",
-  "சொல்ல": "to say",
-  "சொன்ன": "said / you said",
-  "சொன்னது": "what was said",
-  "சாதம்": "rice (cooked)",
-  "எக்ஸாம்": "exam",
-  "முடிஞ்சுது": "it got over",
-  "முடிஞ்சிடுச்சு": "it's over / done",
-  "ஜாலியா": "fun / happily",
-  "சிரிப்பு": "smile / laughter",
-  "பிறந்தநாள்": "birthday",
-  "அருமை": "wonderful",
-  "அமைதியா": "calm / quietly",
-  "கிடைச்சுது": "got / received",
-  "சரியில்ல": "not right / not well",
-  "இப்பல்லாம்": "these days",
-  "தோணல": "don't feel like",
-  "தோணுது": "feel like / it seems",
-  "யாரும்": "anyone / no one",
-  "வேற": "other / different",
-  "ஊருக்கு": "to hometown",
-  "உடம்பு": "body / health",
-  "தூரமா": "far",
-  "ஆனா": "but",
-  "உணர்றேன்": "I feel",
-  "சான்ஸ்": "chance",
-  "கம்மி": "less",
-  "கம்மியா": "less / low",
-  "வேலைய": "job (as object)",
-  "உதவி": "help",
-  "பிஸியா": "busy",
-  "அதுக்குள்ள": "already / so soon",
-  "காணோம்": "missing / can't find",
-  "முடியாது": "can't / not possible",
-  "கண்ண": "eyes (as object)",
-  "மூடு": "close",
-  "கூட்டம்": "crowd / meeting",
-  "கிட்ட": "near / close",
-  "குரல்": "voice",
-  "உள்ள": "inside",
-  "உடனே": "immediately",
-  "மனசுல": "in (my) heart",
-  "அவசரம்": "hurry / urgent",
-  "வரைக்கும்": "until",
-  "எதுவும்": "anything",
-  "எதுவுமே": "nothing at all",
-  "கதவ": "door (as object)",
-  "சம்மதம்": "consent / agreement",
-  "பதில்": "answer",
-  "போடாத": "don't put / don't",
-  "புரியும்": "will understand",
-  "பத்திரமா": "safely",
-  "சேர்ந்து": "together",
-  "உயிர்": "life / soul (dearest)",
-  "பால்": "milk",
-  "உப்பு": "salt",
-  "சக்கரை": "sugar",
-  "கழுவு": "wash",
-  "வை": "put / keep",
-  "எது": "which one",
-  "ஹெல்ப்": "help",
-  "வெயிட்": "wait",
-  "கட்": "cut / hang up",
-  "சத்தியமா": "I swear / promise",
-  "சிறந்த": "best",
-  "அழகான": "beautiful",
-  "பெருமை": "pride",
-  "சம்பளம்": "salary",
-  "ஆசை": "wish / desire",
-  "முழுக்க": "whole / entire",
-  "நாய்": "dog",
-  "இப்பதான்": "just now",
-  "சின்ன": "small",
-  "அவர்": "he (respectful)",
-  "அவள": "her (as object)",
-  "மனச": "heart (as object)",
-  "வலிக்குது": "it hurts",
-  "பெய்யுது": "it's raining (pouring)"
+  "நான்": {
+   "m": "I",
+   "te": "నేను",
+   "sim": true
+  },
+  "நீ": {
+   "m": "you (informal)",
+   "te": "నువ్వు",
+   "warn": "Tamil நீ (nee) means \"you\", but Telugu నీ (nee) means \"your\""
+  },
+  "நீங்க": {
+   "m": "you (respectful)",
+   "te": "మీరు"
+  },
+  "அவன்": {
+   "m": "he",
+   "te": "వాడు / అతను"
+  },
+  "அவ": {
+   "m": "she",
+   "te": "ఆమె"
+  },
+  "அவங்க": {
+   "m": "they / he, she (respectful)",
+   "te": "వాళ్ళు / ఆయన"
+  },
+  "நாங்க": {
+   "m": "we",
+   "te": "మేము"
+  },
+  "நாம": {
+   "m": "we (you and me)",
+   "te": "మనం"
+  },
+  "நம்ம": {
+   "m": "our (yours and mine)",
+   "te": "మన"
+  },
+  "என்": {
+   "m": "my",
+   "te": "నా"
+  },
+  "உன்": {
+   "m": "your",
+   "te": "నీ"
+  },
+  "உங்க": {
+   "m": "your (respectful)",
+   "te": "మీ"
+  },
+  "எங்க": {
+   "m": "where / our",
+   "te": "ఎక్కడ / మా"
+  },
+  "எனக்கு": {
+   "m": "to me (I feel / I have)",
+   "te": "నాకు",
+   "sim": true
+  },
+  "உனக்கு": {
+   "m": "to you",
+   "te": "నీకు",
+   "sim": true
+  },
+  "உங்களுக்கு": {
+   "m": "to you (respectful)",
+   "te": "మీకు"
+  },
+  "அவனுக்கு": {
+   "m": "to him",
+   "te": "వాడికి"
+  },
+  "அவளுக்கு": {
+   "m": "to her",
+   "te": "ఆమెకి"
+  },
+  "என்ன": {
+   "m": "me / what",
+   "te": "నన్ను / ఏంటి"
+  },
+  "உன்ன": {
+   "m": "you (as object)",
+   "te": "నిన్ను",
+   "sim": true
+  },
+  "என்கிட்ட": {
+   "m": "with me / to me",
+   "te": "నా దగ్గర"
+  },
+  "உன்கிட்ட": {
+   "m": "with you / to you",
+   "te": "నీ దగ్గర"
+  },
+  "நீதான்": {
+   "m": "it's you",
+   "te": "నువ్వే"
+  },
+  "நான்தான்": {
+   "m": "it's me",
+   "te": "నేనే"
+  },
+  "நானும்": {
+   "m": "me too / I also",
+   "te": "నేనూ",
+   "sim": true
+  },
+  "என்னால": {
+   "m": "by me / I (can)",
+   "te": "నా వల్ల"
+  },
+  "அவர்": {
+   "m": "he (respectful)",
+   "te": "ఆయన"
+  },
+  "அவள": {
+   "m": "her (as object)",
+   "te": "ఆమెను"
+  },
+  "யாரு": {
+   "m": "who",
+   "te": "ఎవరు",
+   "sim": true
+  },
+  "யாரும்": {
+   "m": "anyone / no one",
+   "te": "ఎవరూ",
+   "sim": true
+  },
+  "ஒருத்தர்": {
+   "m": "one person / someone",
+   "te": "ఒకరు",
+   "sim": true
+  },
+  "எல்லாரும்": {
+   "m": "everyone",
+   "te": "అందరూ"
+  },
+  "எல்லாருக்கும்": {
+   "m": "to everyone",
+   "te": "అందరికీ"
+  },
+  "உனக்காக": {
+   "m": "for you",
+   "te": "నీ కోసం"
+  },
+  "இது": {
+   "m": "this",
+   "te": "ఇది",
+   "sim": true
+  },
+  "அது": {
+   "m": "that",
+   "te": "అది",
+   "sim": true
+  },
+  "இந்த": {
+   "m": "this (before a noun)",
+   "te": "ఈ"
+  },
+  "அந்த": {
+   "m": "that (before a noun)",
+   "te": "ఆ"
+  },
+  "இத": {
+   "m": "this (as object)",
+   "te": "దీన్ని"
+  },
+  "அத": {
+   "m": "that (as object)",
+   "te": "దాన్ని"
+  },
+  "இதுக்கு": {
+   "m": "for this",
+   "te": "దీనికి",
+   "sim": true
+  },
+  "அதுக்குள்ள": {
+   "m": "already / so soon",
+   "te": "అప్పుడే"
+  },
+  "இங்க": {
+   "m": "here",
+   "te": "ఇక్కడ",
+   "sim": true
+  },
+  "அங்க": {
+   "m": "there",
+   "te": "అక్కడ",
+   "sim": true
+  },
+  "எந்த": {
+   "m": "which",
+   "te": "ఏ"
+  },
+  "எது": {
+   "m": "which one",
+   "te": "ఏది",
+   "sim": true
+  },
+  "இப்ப": {
+   "m": "now",
+   "te": "ఇప్పుడు",
+   "sim": true
+  },
+  "இப்பதான்": {
+   "m": "just now",
+   "te": "ఇప్పుడే",
+   "sim": true
+  },
+  "இப்பல்லாம்": {
+   "m": "these days",
+   "te": "ఈ మధ్య"
+  },
+  "எப்போ": {
+   "m": "when",
+   "te": "ఎప్పుడు",
+   "sim": true
+  },
+  "எப்பவும்": {
+   "m": "always",
+   "te": "ఎప్పుడూ",
+   "sim": true
+  },
+  "என்னைக்கும்": {
+   "m": "forever / always",
+   "te": "ఎప్పటికీ"
+  },
+  "ஏன்": {
+   "m": "why",
+   "te": "ఎందుకు"
+  },
+  "எப்படி": {
+   "m": "how",
+   "te": "ఎలా"
+  },
+  "எவ்ளோ": {
+   "m": "how much",
+   "te": "ఎంత"
+  },
+  "இவ்ளோ": {
+   "m": "this much",
+   "te": "ఇంత"
+  },
+  "எத்தன": {
+   "m": "how many",
+   "te": "ఎన్ని"
+  },
+  "இன்னைக்கு": {
+   "m": "today",
+   "te": "ఈ రోజు"
+  },
+  "நாளைக்கு": {
+   "m": "tomorrow",
+   "te": "రేపు"
+  },
+  "நேத்து": {
+   "m": "yesterday",
+   "te": "నిన్న"
+  },
+  "ராத்திரி": {
+   "m": "night",
+   "te": "రాత్రి",
+   "sim": true
+  },
+  "காலை": {
+   "m": "morning",
+   "te": "ఉదయం"
+  },
+  "நாள்": {
+   "m": "day",
+   "te": "రోజు / నాడు",
+   "sim": true
+  },
+  "நேரம்": {
+   "m": "time",
+   "te": "సమయం",
+   "warn": "Telugu నేరం (neram) means \"crime\""
+  },
+  "மணி": {
+   "m": "o'clock / time",
+   "te": "గంట"
+  },
+  "மணிக்கு": {
+   "m": "at (time)",
+   "te": "గంటలకి"
+  },
+  "நிமிஷம்": {
+   "m": "minute",
+   "te": "నిమిషం",
+   "sim": true
+  },
+  "முன்னாடி": {
+   "m": "before / in front",
+   "te": "ముందు",
+   "sim": true
+  },
+  "அப்புறம்": {
+   "m": "later / then",
+   "te": "తర్వాత"
+  },
+  "அடுத்த": {
+   "m": "next",
+   "te": "వచ్చే / తర్వాతి"
+  },
+  "முதல்": {
+   "m": "first",
+   "te": "మొదటి",
+   "sim": true
+  },
+  "முதல்ல": {
+   "m": "first / at first",
+   "te": "మొదట",
+   "sim": true
+  },
+  "இனிமே": {
+   "m": "from now on",
+   "te": "ఇక మీదట"
+  },
+  "மறுபடியும்": {
+   "m": "again",
+   "te": "మళ్ళీ"
+  },
+  "திரும்ப": {
+   "m": "again / back",
+   "te": "తిరిగి",
+   "sim": true
+  },
+  "உடனே": {
+   "m": "immediately",
+   "te": "వెంటనే"
+  },
+  "சீக்கிரம்": {
+   "m": "soon / quickly",
+   "te": "త్వరగా"
+  },
+  "வரைக்கும்": {
+   "m": "until",
+   "te": "వరకు",
+   "sim": true
+  },
+  "தினமும்": {
+   "m": "every day",
+   "te": "రోజూ / ప్రతి రోజూ"
+  },
+  "தடவ": {
+   "m": "time (as in \"one time\")",
+   "te": "సారి"
+  },
+  "ஆமா": {
+   "m": "yes",
+   "te": "అవును",
+   "sim": true
+  },
+  "இல்ல": {
+   "m": "no / not",
+   "te": "లేదు"
+  },
+  "சரி": {
+   "m": "okay",
+   "te": "సరే",
+   "sim": true
+  },
+  "சரியா": {
+   "m": "right? / correctly",
+   "te": "సరేనా / సరిగ్గా",
+   "sim": true
+  },
+  "ஒரு": {
+   "m": "one / a",
+   "te": "ఒక",
+   "sim": true
+  },
+  "ரொம்ப": {
+   "m": "very / a lot",
+   "te": "చాలా"
+  },
+  "கொஞ்சம்": {
+   "m": "a little",
+   "te": "కొంచెం",
+   "sim": true
+  },
+  "நிறைய": {
+   "m": "a lot / many",
+   "te": "చాలా / ఎక్కువ"
+  },
+  "செம்ம": {
+   "m": "super / awesome",
+   "te": "సూపర్ / కేక"
+  },
+  "நல்லா": {
+   "m": "well / nicely",
+   "te": "బాగా"
+  },
+  "நல்ல": {
+   "m": "good",
+   "te": "మంచి"
+  },
+  "இன்னும்": {
+   "m": "still / more",
+   "te": "ఇంకా / ఇంకొంచెం",
+   "sim": true
+  },
+  "இன்னொரு": {
+   "m": "another / one more",
+   "te": "ఇంకొక",
+   "sim": true
+  },
+  "எல்லாம்": {
+   "m": "everything",
+   "te": "అన్నీ / అంతా"
+  },
+  "எல்லாமே": {
+   "m": "everything",
+   "te": "అన్నీ"
+  },
+  "எல்லாத்தையும்": {
+   "m": "everything (as object)",
+   "te": "అన్నిటినీ"
+  },
+  "எல்லாத்துக்கும்": {
+   "m": "for everything",
+   "te": "అన్నిటికీ"
+  },
+  "ஏதாவது": {
+   "m": "anything / something",
+   "te": "ఏదైనా",
+   "sim": true
+  },
+  "எதுவும்": {
+   "m": "anything",
+   "te": "ఏదీ",
+   "sim": true
+  },
+  "எதுவுமே": {
+   "m": "nothing at all",
+   "te": "ఏమీ"
+  },
+  "கூட": {
+   "m": "with",
+   "te": "తో / కూడా",
+   "sim": true
+  },
+  "மேல": {
+   "m": "on / towards",
+   "te": "మీద"
+  },
+  "பத்தி": {
+   "m": "about",
+   "te": "గురించి"
+  },
+  "மாதிரி": {
+   "m": "like (similar to)",
+   "te": "లాగా"
+  },
+  "போல": {
+   "m": "like / as if",
+   "te": "లాగా"
+  },
+  "இல்லாம": {
+   "m": "without",
+   "te": "లేకుండా",
+   "sim": true
+  },
+  "சும்மா": {
+   "m": "just / for no reason",
+   "te": "ఊరికే"
+  },
+  "ஆனா": {
+   "m": "but",
+   "te": "కానీ"
+  },
+  "அப்படி": {
+   "m": "like that",
+   "te": "అలా"
+  },
+  "இப்படி": {
+   "m": "like this",
+   "te": "ఇలా"
+  },
+  "வெளிய": {
+   "m": "outside",
+   "te": "బయట"
+  },
+  "உள்ள": {
+   "m": "inside",
+   "te": "లోపల"
+  },
+  "பக்கத்துல": {
+   "m": "near / next to",
+   "te": "పక్కన",
+   "sim": true
+  },
+  "கிட்ட": {
+   "m": "near / close",
+   "te": "దగ్గర"
+  },
+  "வழியா": {
+   "m": "way / through",
+   "te": "దారి / ద్వారా"
+  },
+  "ஒண்ணா": {
+   "m": "together",
+   "te": "కలిసి"
+  },
+  "சேர்ந்து": {
+   "m": "together",
+   "te": "కలిసి"
+  },
+  "வேற": {
+   "m": "other / different",
+   "te": "వేరే",
+   "sim": true
+  },
+  "ஓவரா": {
+   "m": "too much",
+   "te": "ఓవర్‌గా"
+  },
+  "அதிகம்": {
+   "m": "too much / more",
+   "te": "అధికం / ఎక్కువ",
+   "sim": true
+  },
+  "கம்மி": {
+   "m": "less",
+   "te": "తక్కువ"
+  },
+  "கம்மியா": {
+   "m": "less / low",
+   "te": "తక్కువగా"
+  },
+  "பெரிய": {
+   "m": "big",
+   "te": "పెద్ద",
+   "sim": true
+  },
+  "சின்ன": {
+   "m": "small",
+   "te": "చిన్న",
+   "sim": true
+  },
+  "புது": {
+   "m": "new",
+   "te": "కొత్త"
+  },
+  "சிறந்த": {
+   "m": "best",
+   "te": "ఉత్తమ / మంచి"
+  },
+  "அழகான": {
+   "m": "beautiful",
+   "te": "అందమైన"
+  },
+  "முக்கியம்": {
+   "m": "important",
+   "te": "ముఖ్యం",
+   "sim": true
+  },
+  "நன்றி": {
+   "m": "thank you",
+   "te": "ధన్యవాదాలు / థ్యాంక్స్"
+  },
+  "வணக்கம்": {
+   "m": "hello (respectful greeting)",
+   "te": "నమస్కారం"
+  },
+  "மன்னிச்சிடு": {
+   "m": "forgive me / sorry",
+   "te": "క్షమించు"
+  },
+  "பரவாயில்ல": {
+   "m": "it's okay / no problem",
+   "te": "పర్వాలేదు",
+   "sim": true
+  },
+  "வாழ்த்துக்கள்": {
+   "m": "wishes / congratulations",
+   "te": "శుభాకాంక్షలు"
+  },
+  "மனசு": {
+   "m": "heart / mind",
+   "te": "మనసు",
+   "sim": true
+  },
+  "மனசுல": {
+   "m": "in (my) heart",
+   "te": "మనసులో",
+   "sim": true
+  },
+  "மனச": {
+   "m": "heart (as object)",
+   "te": "మనసుని",
+   "sim": true
+  },
+  "இதயம்": {
+   "m": "heart",
+   "te": "హృదయం / గుండె",
+   "sim": true
+  },
+  "சந்தோஷமா": {
+   "m": "happy / happily",
+   "te": "సంతోషంగా",
+   "sim": true
+  },
+  "சந்தோஷம்": {
+   "m": "happiness",
+   "te": "సంతోషం",
+   "sim": true
+  },
+  "சோகமா": {
+   "m": "sad",
+   "te": "బాధగా / దుఃఖంగా"
+  },
+  "கோபமா": {
+   "m": "angry",
+   "te": "కోపంగా",
+   "sim": true
+  },
+  "பயமா": {
+   "m": "scared",
+   "te": "భయంగా",
+   "sim": true
+  },
+  "வெட்கமா": {
+   "m": "shy / embarrassed",
+   "te": "సిగ్గుగా"
+  },
+  "அமைதியா": {
+   "m": "calm / quietly",
+   "te": "ప్రశాంతంగా"
+  },
+  "தனியா": {
+   "m": "alone",
+   "te": "ఒంటరిగా"
+  },
+  "ஜாலியா": {
+   "m": "fun / happily",
+   "te": "సరదాగా / జాలీగా"
+  },
+  "அழகா": {
+   "m": "beautiful / beautifully",
+   "te": "అందంగా"
+  },
+  "அழகு": {
+   "m": "beauty / beautiful",
+   "te": "అందం"
+  },
+  "அருமை": {
+   "m": "wonderful",
+   "te": "అద్భుతం / అదుర్స్"
+  },
+  "காதல்": {
+   "m": "love",
+   "te": "ప్రేమ"
+  },
+  "ஆசை": {
+   "m": "wish / desire",
+   "te": "ఆశ / కోరిక",
+   "sim": true
+  },
+  "பெருமை": {
+   "m": "pride",
+   "te": "గర్వం"
+  },
+  "செல்லம்": {
+   "m": "dear / darling",
+   "te": "బంగారం / చిన్నా"
+  },
+  "உயிர்": {
+   "m": "life / soul (dearest)",
+   "te": "ప్రాణం"
+  },
+  "சிரிப்பு": {
+   "m": "smile / laughter",
+   "te": "నవ్వు"
+  },
+  "கனவு": {
+   "m": "dream",
+   "te": "కల"
+  },
+  "உண்மை": {
+   "m": "truth",
+   "te": "నిజం"
+  },
+  "பொய்": {
+   "m": "lie",
+   "te": "అబద్ధం"
+  },
+  "தப்பு": {
+   "m": "mistake / wrong",
+   "te": "తప్పు",
+   "sim": true
+  },
+  "தப்பா": {
+   "m": "wrongly / wrong",
+   "te": "తప్పుగా",
+   "sim": true
+  },
+  "நிஜமா": {
+   "m": "really",
+   "te": "నిజంగా",
+   "sim": true
+  },
+  "சத்தியமா": {
+   "m": "I swear / promise",
+   "te": "ఒట్టు / సత్యంగా",
+   "sim": true
+  },
+  "ஞாபகம்": {
+   "m": "memory / remembering",
+   "te": "జ్ఞాపకం / గుర్తు",
+   "sim": true
+  },
+  "சம்மதம்": {
+   "m": "consent / agreement",
+   "te": "సమ్మతి / అంగీకారం",
+   "sim": true
+  },
+  "சண்டை": {
+   "m": "fight",
+   "te": "గొడవ"
+  },
+  "பிரச்சனை": {
+   "m": "problem",
+   "te": "సమస్య"
+  },
+  "விஷயம்": {
+   "m": "matter / thing",
+   "te": "విషయం",
+   "sim": true
+  },
+  "உதவி": {
+   "m": "help",
+   "te": "సహాయం"
+  },
+  "பதில்": {
+   "m": "answer",
+   "te": "జవాబు"
+  },
+  "அவசரம்": {
+   "m": "hurry / urgent",
+   "te": "అవసరం / తొందర",
+   "warn": "Telugu అవసరం (avasaram) means \"need\", not \"hurry\""
+  },
+  "இருக்கேன்": {
+   "m": "I am",
+   "te": "ఉన్నాను"
+  },
+  "இருக்கு": {
+   "m": "is / there is",
+   "te": "ఉంది"
+  },
+  "இருக்கா": {
+   "m": "is there? / she is",
+   "te": "ఉందా? / ఉంది"
+  },
+  "இருக்க": {
+   "m": "you are / to be",
+   "te": "ఉన్నావు / ఉండటానికి"
+  },
+  "இருந்துச்சு": {
+   "m": "it was",
+   "te": "ఉండేది / ఉంది"
+  },
+  "இருந்தேன்": {
+   "m": "I was",
+   "te": "ఉన్నాను"
+  },
+  "இருக்காங்க": {
+   "m": "they are / (she, he) is (respectful)",
+   "te": "ఉన్నారు"
+  },
+  "இருக்காரு": {
+   "m": "he is (respectful)",
+   "te": "ఉన్నారు"
+  },
+  "இருக்கீங்க": {
+   "m": "you are (respectful)",
+   "te": "ఉన్నారు"
+  },
+  "இருக்கணும்": {
+   "m": "must be / want to be",
+   "te": "ఉండాలి"
+  },
+  "இருக்கும்": {
+   "m": "will be",
+   "te": "ఉంటుంది"
+  },
+  "இருக்கலாம்": {
+   "m": "may be",
+   "te": "ఉండొచ్చు"
+  },
+  "இருக்கறது": {
+   "m": "being / that which is",
+   "te": "ఉండటం"
+  },
+  "இருக்கும்போது": {
+   "m": "when (someone) is",
+   "te": "ఉన్నప్పుడు"
+  },
+  "இருக்காங்களா": {
+   "m": "are they? / is (she, he)?",
+   "te": "ఉన్నారా?"
+  },
+  "இரு": {
+   "m": "stay / be / wait",
+   "te": "ఉండు"
+  },
+  "வேணும்": {
+   "m": "want / need",
+   "te": "కావాలి"
+  },
+  "வேண்டாம்": {
+   "m": "don't want / no",
+   "te": "వద్దు"
+  },
+  "பிடிக்கும்": {
+   "m": "like",
+   "te": "ఇష్టం / నచ్చుతుంది"
+  },
+  "பிடிச்சிருக்கு": {
+   "m": "like (this, right now)",
+   "te": "నచ్చింది"
+  },
+  "தெரியும்": {
+   "m": "know",
+   "te": "తెలుసు",
+   "sim": true
+  },
+  "தெரியாது": {
+   "m": "don't know",
+   "te": "తెలియదు",
+   "sim": true
+  },
+  "தெரியல": {
+   "m": "don't know / can't see",
+   "te": "తెలియట్లేదు",
+   "sim": true
+  },
+  "தெரியுமா": {
+   "m": "do you know?",
+   "te": "తెలుసా?",
+   "sim": true
+  },
+  "புரியல": {
+   "m": "don't understand",
+   "te": "అర్థం కాలేదు"
+  },
+  "புரியும்": {
+   "m": "will understand",
+   "te": "అర్థమవుతుంది"
+  },
+  "முடியல": {
+   "m": "can't",
+   "te": "కుదరట్లేదు / లేకపోతున్నాను"
+  },
+  "முடியாது": {
+   "m": "can't / not possible",
+   "te": "కుదరదు"
+  },
+  "மாட்டேன்": {
+   "m": "I won't",
+   "te": "చేయను / నేను ...ను"
+  },
+  "கூடாது": {
+   "m": "shouldn't / mustn't",
+   "te": "కూడదు",
+   "sim": true
+  },
+  "பசிக்குது": {
+   "m": "(I'm) hungry",
+   "te": "ఆకలిగా ఉంది"
+  },
+  "தோணுது": {
+   "m": "feel like / it seems",
+   "te": "అనిపిస్తోంది"
+  },
+  "தோணல": {
+   "m": "don't feel like",
+   "te": "అనిపించట్లేదు"
+  },
+  "உணர்றேன்": {
+   "m": "I feel",
+   "te": "అనుభవిస్తున్నాను / అనిపిస్తోంది"
+  },
+  "வலிக்குது": {
+   "m": "it hurts",
+   "te": "నొప్పిగా ఉంది"
+  },
+  "சரியில்ல": {
+   "m": "not right / not well",
+   "te": "సరిగా లేదు / బాలేదు",
+   "sim": true
+  },
+  "காணோம்": {
+   "m": "missing / can't find",
+   "te": "కనిపించట్లేదు"
+  },
+  "பண்ணு": {
+   "m": "do (it) / make",
+   "te": "చెయ్"
+  },
+  "பண்றேன்": {
+   "m": "I'm doing / I do",
+   "te": "చేస్తున్నాను"
+  },
+  "பண்ணிட்டேன்": {
+   "m": "I did (it)",
+   "te": "చేసేశాను"
+  },
+  "பண்ணேன்": {
+   "m": "I did",
+   "te": "చేశాను"
+  },
+  "பண்ணல": {
+   "m": "didn't do",
+   "te": "చేయలేదు"
+  },
+  "பண்ண": {
+   "m": "to do",
+   "te": "చేయడానికి"
+  },
+  "பண்ணணும்": {
+   "m": "must do / want to do",
+   "te": "చేయాలి"
+  },
+  "பண்ணுங்க": {
+   "m": "please do (respectful)",
+   "te": "చేయండి"
+  },
+  "பண்ணாத": {
+   "m": "don't do",
+   "te": "చేయకు"
+  },
+  "பண்ணலாம்": {
+   "m": "let's do / can do",
+   "te": "చేద్దాం / చేయొచ్చు"
+  },
+  "பண்றியா": {
+   "m": "will you do? / are you doing?",
+   "te": "చేస్తావా?"
+  },
+  "பண்ணியா": {
+   "m": "did you do?",
+   "te": "చేశావా?"
+  },
+  "செய்யல": {
+   "m": "not working / didn't do",
+   "te": "చేయలేదు / పనిచేయట్లేదు",
+   "sim": true
+  },
+  "வா": {
+   "m": "come",
+   "te": "రా"
+  },
+  "வாங்க": {
+   "m": "come (respectful) / to buy",
+   "te": "రండి / కొనడానికి"
+  },
+  "வரேன்": {
+   "m": "I'm coming",
+   "te": "వస్తున్నాను",
+   "sim": true
+  },
+  "வருது": {
+   "m": "is coming",
+   "te": "వస్తోంది",
+   "sim": true
+  },
+  "வரும்": {
+   "m": "will come",
+   "te": "వస్తుంది",
+   "sim": true
+  },
+  "வராங்க": {
+   "m": "they're coming",
+   "te": "వస్తున్నారు",
+   "sim": true
+  },
+  "வரல": {
+   "m": "didn't come / isn't coming",
+   "te": "రాలేదు"
+  },
+  "வந்துடுச்சு": {
+   "m": "has come",
+   "te": "వచ్చేసింది",
+   "sim": true
+  },
+  "வந்துச்சு": {
+   "m": "came",
+   "te": "వచ్చింది",
+   "sim": true
+  },
+  "வந்து": {
+   "m": "coming / having come",
+   "te": "వచ్చి",
+   "sim": true
+  },
+  "வந்துட்டேன்": {
+   "m": "I've come / I'm here",
+   "te": "వచ్చేశాను",
+   "sim": true
+  },
+  "போ": {
+   "m": "go",
+   "te": "పో / వెళ్ళు",
+   "sim": true
+  },
+  "போலாம்": {
+   "m": "let's go",
+   "te": "వెళ్దాం / పోదాం",
+   "sim": true
+  },
+  "போலாமா": {
+   "m": "shall we go?",
+   "te": "వెళ్దామా? / పోదామా?",
+   "sim": true
+  },
+  "போறேன்": {
+   "m": "I'm going",
+   "te": "వెళ్తున్నాను / పోతున్నాను",
+   "sim": true
+  },
+  "போற": {
+   "m": "going / you're going",
+   "te": "వెళ్తున్న / పోతున్న",
+   "sim": true
+  },
+  "போங்க": {
+   "m": "go (respectful)",
+   "te": "వెళ్ళండి / పొండి",
+   "sim": true
+  },
+  "போக": {
+   "m": "to go",
+   "te": "వెళ్ళడానికి / పోవడానికి",
+   "sim": true
+  },
+  "போய்": {
+   "m": "going / having gone",
+   "te": "వెళ్ళి / పోయి",
+   "sim": true
+  },
+  "போயிட்டு": {
+   "m": "go and (come back)",
+   "te": "వెళ్ళి / పోయి",
+   "sim": true
+  },
+  "போகாத": {
+   "m": "don't go",
+   "te": "వెళ్ళకు / పోకు",
+   "sim": true
+  },
+  "போன": {
+   "m": "went / last (as in \"last year\")",
+   "te": "పోయిన",
+   "sim": true
+  },
+  "போச்சு": {
+   "m": "went / is gone",
+   "te": "పోయింది",
+   "sim": true
+  },
+  "விடு": {
+   "m": "leave it / let go",
+   "te": "వదిలేయ్ / విడిచిపెట్టు",
+   "sim": true
+  },
+  "விட்டு": {
+   "m": "leaving / away from",
+   "te": "వదిలి / విడిచి",
+   "sim": true
+  },
+  "விட்டுட்டு": {
+   "m": "leaving (someone, something)",
+   "te": "వదిలేసి",
+   "sim": true
+  },
+  "பாரு": {
+   "m": "look",
+   "te": "చూడు"
+  },
+  "பாக்கலாம்": {
+   "m": "let's see / see you",
+   "te": "చూద్దాం"
+  },
+  "பாத்தியா": {
+   "m": "did you see?",
+   "te": "చూశావా?"
+  },
+  "பாத்து": {
+   "m": "carefully / seeing",
+   "te": "జాగ్రత్తగా / చూసి"
+  },
+  "பாத்துட்டு": {
+   "m": "after seeing",
+   "te": "చూసి"
+  },
+  "சொல்லு": {
+   "m": "tell / say",
+   "te": "చెప్పు"
+  },
+  "சொல்லுங்க": {
+   "m": "please tell (respectful)",
+   "te": "చెప్పండి"
+  },
+  "சொல்ல": {
+   "m": "to say",
+   "te": "చెప్పడానికి"
+  },
+  "சொன்ன": {
+   "m": "said / you said",
+   "te": "చెప్పిన / చెప్పావు"
+  },
+  "சொன்னது": {
+   "m": "what was said",
+   "te": "చెప్పింది"
+  },
+  "குடு": {
+   "m": "give",
+   "te": "ఇవ్వు"
+  },
+  "குடுங்க": {
+   "m": "please give",
+   "te": "ఇవ్వండి"
+  },
+  "போடு": {
+   "m": "put / switch on",
+   "te": "వెయ్ / పెట్టు"
+  },
+  "போடுங்க": {
+   "m": "please put (respectful)",
+   "te": "వేయండి"
+  },
+  "போடாத": {
+   "m": "don't put / don't",
+   "te": "వేయకు"
+  },
+  "வை": {
+   "m": "put / keep",
+   "te": "పెట్టు / ఉంచు"
+  },
+  "பேச": {
+   "m": "to talk",
+   "te": "మాట్లాడటానికి"
+  },
+  "பேசலாம்": {
+   "m": "let's talk",
+   "te": "మాట్లాడదాం"
+  },
+  "பேசுங்க": {
+   "m": "please talk (respectful)",
+   "te": "మాట్లాడండి"
+  },
+  "பேசறேன்": {
+   "m": "I'm talking",
+   "te": "మాట్లాడుతున్నాను"
+  },
+  "பேசறது": {
+   "m": "talking / speaking",
+   "te": "మాట్లాడటం"
+  },
+  "சாப்பிடு": {
+   "m": "eat",
+   "te": "తిను"
+  },
+  "சாப்பிட": {
+   "m": "to eat",
+   "te": "తినడానికి"
+  },
+  "சாப்பிடலாம்": {
+   "m": "let's eat",
+   "te": "తిందాం"
+  },
+  "தூங்கு": {
+   "m": "sleep",
+   "te": "నిద్రపో"
+  },
+  "அனுப்பு": {
+   "m": "send",
+   "te": "పంపు"
+  },
+  "மூடு": {
+   "m": "close",
+   "te": "మూసేయ్",
+   "sim": true
+  },
+  "கழுவு": {
+   "m": "wash",
+   "te": "కడుగు"
+  },
+  "நினைச்சா": {
+   "m": "when (I) think of",
+   "te": "తలుచుకుంటే"
+  },
+  "நினைச்சு": {
+   "m": "thinking of",
+   "te": "తలుచుకుని"
+  },
+  "நம்பவே": {
+   "m": "(can't) even believe",
+   "te": "నమ్మలేకపోవడం",
+   "sim": true
+  },
+  "கிடைச்சுது": {
+   "m": "got / received",
+   "te": "దొరికింది / వచ్చింది"
+  },
+  "ஆயிடுச்சு": {
+   "m": "it became / it happened",
+   "te": "అయిపోయింది",
+   "sim": true
+  },
+  "ஆயிட்டேன்": {
+   "m": "I became",
+   "te": "అయ్యాను",
+   "sim": true
+  },
+  "ஆகுது": {
+   "m": "is happening / is becoming",
+   "te": "అవుతోంది",
+   "sim": true
+  },
+  "ஆகும்": {
+   "m": "will take / will become",
+   "te": "అవుతుంది",
+   "sim": true
+  },
+  "முடிஞ்சுது": {
+   "m": "it got over",
+   "te": "అయిపోయింది / ముగిసింది",
+   "sim": true
+  },
+  "முடிஞ்சிடுச்சு": {
+   "m": "it's over / done",
+   "te": "అయిపోయింది / ముగిసింది",
+   "sim": true
+  },
+  "அம்மா": {
+   "m": "mother",
+   "te": "అమ్మ",
+   "sim": true
+  },
+  "அம்மாவுக்கு": {
+   "m": "to mother",
+   "te": "అమ్మకి",
+   "sim": true
+  },
+  "அப்பா": {
+   "m": "father",
+   "te": "నాన్న"
+  },
+  "அக்கா": {
+   "m": "elder sister",
+   "te": "అక్క",
+   "sim": true
+  },
+  "அக்காவுக்கு": {
+   "m": "to elder sister",
+   "te": "అక్కకి",
+   "sim": true
+  },
+  "அண்ணன்": {
+   "m": "elder brother",
+   "te": "అన్న / అన్నయ్య",
+   "sim": true
+  },
+  "தம்பி": {
+   "m": "younger brother",
+   "te": "తమ్ముడు",
+   "sim": true
+  },
+  "பாட்டி": {
+   "m": "grandmother",
+   "te": "నానమ్మ / అమ్మమ్మ"
+  },
+  "மச்சான்": {
+   "m": "buddy / brother-in-law",
+   "te": "బావ / మామా"
+  },
+  "பையன்": {
+   "m": "boy / son",
+   "te": "అబ్బాయి / కొడుకు"
+  },
+  "பொண்ணு": {
+   "m": "girl / daughter",
+   "te": "అమ్మాయి / కూతురు"
+  },
+  "பசங்க": {
+   "m": "kids / guys",
+   "te": "పిల్లలు"
+  },
+  "பாப்பா": {
+   "m": "baby",
+   "te": "పాప",
+   "sim": true
+  },
+  "குடும்பம்": {
+   "m": "family",
+   "te": "కుటుంబం",
+   "sim": true
+  },
+  "குடும்பத்த": {
+   "m": "family (as object)",
+   "te": "కుటుంబాన్ని",
+   "sim": true
+  },
+  "கல்யாணம்": {
+   "m": "marriage / wedding",
+   "te": "పెళ్ళి / కల్యాణం",
+   "sim": true
+  },
+  "வீடு": {
+   "m": "house",
+   "te": "ఇల్లు",
+   "warn": "Telugu వీడు (veedu) means \"this guy\", not \"house\""
+  },
+  "வீட்டுக்கு": {
+   "m": "to home",
+   "te": "ఇంటికి"
+  },
+  "வீட்ல": {
+   "m": "at home",
+   "te": "ఇంట్లో"
+  },
+  "ஊரு": {
+   "m": "town / hometown",
+   "te": "ఊరు",
+   "sim": true
+  },
+  "ஊருக்கு": {
+   "m": "to hometown",
+   "te": "ఊరికి",
+   "sim": true
+  },
+  "வேலை": {
+   "m": "work / job",
+   "te": "పని / ఉద్యోగం"
+  },
+  "வேலைய": {
+   "m": "job (as object)",
+   "te": "పనిని / ఉద్యోగాన్ని"
+  },
+  "தண்ணி": {
+   "m": "water",
+   "te": "నీళ్ళు"
+  },
+  "சாப்பாடு": {
+   "m": "food",
+   "te": "భోజనం / తిండి"
+  },
+  "சோறு": {
+   "m": "cooked rice",
+   "te": "అన్నం"
+  },
+  "சாதம்": {
+   "m": "rice (cooked)",
+   "te": "అన్నం"
+  },
+  "பால்": {
+   "m": "milk",
+   "te": "పాలు",
+   "sim": true
+  },
+  "உப்பு": {
+   "m": "salt",
+   "te": "ఉప్పు",
+   "sim": true
+  },
+  "சக்கரை": {
+   "m": "sugar",
+   "te": "చక్కెర",
+   "sim": true
+  },
+  "மழை": {
+   "m": "rain",
+   "te": "వర్షం / వాన"
+  },
+  "பெய்யுது": {
+   "m": "it's raining (pouring)",
+   "te": "పడుతోంది / కురుస్తోంది"
+  },
+  "தூக்கம்": {
+   "m": "sleep",
+   "te": "నిద్ర"
+  },
+  "பேர்": {
+   "m": "name",
+   "te": "పేరు",
+   "sim": true
+  },
+  "காசு": {
+   "m": "money",
+   "te": "డబ్బులు / కాసు",
+   "sim": true
+  },
+  "விலை": {
+   "m": "price",
+   "te": "ధర / వెల",
+   "sim": true
+  },
+  "கதவ": {
+   "m": "door (as object)",
+   "te": "తలుపుని"
+  },
+  "கண்ண": {
+   "m": "eyes (as object)",
+   "te": "కళ్ళని / కన్నుని",
+   "sim": true
+  },
+  "குரல்": {
+   "m": "voice",
+   "te": "గొంతు / స్వరం"
+  },
+  "உடம்பு": {
+   "m": "body / health",
+   "te": "ఒళ్ళు / శరీరం"
+  },
+  "வயசு": {
+   "m": "age",
+   "te": "వయసు",
+   "sim": true
+  },
+  "நாய்": {
+   "m": "dog",
+   "te": "కుక్క"
+  },
+  "படம்": {
+   "m": "movie / picture",
+   "te": "సినిమా / పటం",
+   "sim": true
+  },
+  "செய்தி": {
+   "m": "news",
+   "te": "వార్త"
+  },
+  "வாழ்க்கை": {
+   "m": "life",
+   "te": "జీవితం / బతుకు"
+  },
+  "லீவு": {
+   "m": "holiday / leave",
+   "te": "సెలవు"
+  },
+  "கூட்டம்": {
+   "m": "crowd / meeting",
+   "te": "జనం / సభ / గుంపు"
+  },
+  "சம்பளம்": {
+   "m": "salary",
+   "te": "జీతం"
+  },
+  "பிறந்தநாள்": {
+   "m": "birthday",
+   "te": "పుట్టినరోజు"
+  },
+  "தமிழ்": {
+   "m": "Tamil",
+   "te": "తమిళం",
+   "sim": true
+  },
+  "ஓட்டு": {
+   "m": "vote",
+   "te": "ఓటు",
+   "sim": true
+  },
+  "தேர்தல்": {
+   "m": "election",
+   "te": "ఎన్నికలు"
+  },
+  "அரசியல்": {
+   "m": "politics",
+   "te": "రాజకీయం"
+  },
+  "ஒண்ணு": {
+   "m": "one",
+   "te": "ఒకటి"
+  },
+  "ரெண்டு": {
+   "m": "two",
+   "te": "రెండు",
+   "sim": true
+  },
+  "மூணு": {
+   "m": "three",
+   "te": "మూడు",
+   "sim": true
+  },
+  "நாலு": {
+   "m": "four",
+   "te": "నాలుగు",
+   "sim": true
+  },
+  "அஞ்சு": {
+   "m": "five",
+   "te": "ఐదు",
+   "sim": true
+  },
+  "ஆறு": {
+   "m": "six",
+   "te": "ఆరు",
+   "sim": true
+  },
+  "எட்டு": {
+   "m": "eight",
+   "te": "ఎనిమిది"
+  },
+  "ஒம்பது": {
+   "m": "nine",
+   "te": "తొమ్మిది"
+  },
+  "பத்து": {
+   "m": "ten",
+   "te": "పది",
+   "sim": true
+  },
+  "மெதுவா": {
+   "m": "slowly",
+   "te": "మెల్లగా / నెమ్మదిగా",
+   "sim": true
+  },
+  "பத்திரமா": {
+   "m": "safely",
+   "te": "భద్రంగా / జాగ్రత్తగా",
+   "sim": true
+  },
+  "தூரமா": {
+   "m": "far",
+   "te": "దూరంగా",
+   "sim": true
+  },
+  "முழுக்க": {
+   "m": "whole / entire",
+   "te": "మొత్తం / అంతా"
+  },
+  "ஒவ்வொரு": {
+   "m": "each / every",
+   "te": "ప్రతి / ఒక్కో",
+   "sim": true
+  },
+  "ப்ளீஸ்": {
+   "m": "please"
+  },
+  "டீ": {
+   "m": "tea"
+  },
+  "காபி": {
+   "m": "coffee"
+  },
+  "கால்": {
+   "m": "call"
+  },
+  "ஃபோன்": {
+   "m": "phone"
+  },
+  "சாரி": {
+   "m": "sorry"
+  },
+  "பஸ்": {
+   "m": "bus"
+  },
+  "லேட்": {
+   "m": "late"
+  },
+  "லேட்டா": {
+   "m": "late (adverb)"
+  },
+  "லவ்": {
+   "m": "love"
+  },
+  "மிஸ்": {
+   "m": "miss"
+  },
+  "மெசேஜ்": {
+   "m": "message"
+  },
+  "நம்பர்": {
+   "m": "number"
+  },
+  "குட்": {
+   "m": "good"
+  },
+  "பெஸ்ட்": {
+   "m": "best"
+  },
+  "டிக்கெட்": {
+   "m": "ticket"
+  },
+  "கரண்ட்": {
+   "m": "electricity / power"
+  },
+  "கிஸ்": {
+   "m": "kiss"
+  },
+  "நைட்": {
+   "m": "night"
+  },
+  "மீட்டிங்": {
+   "m": "meeting"
+  },
+  "ஓகேவா": {
+   "m": "okay?"
+  },
+  "ஃப்ரீயா": {
+   "m": "free"
+  },
+  "புக்": {
+   "m": "book"
+  },
+  "எக்ஸாம்": {
+   "m": "exam"
+  },
+  "சான்ஸ்": {
+   "m": "chance"
+  },
+  "பிஸியா": {
+   "m": "busy"
+  },
+  "ஹெல்ப்": {
+   "m": "help"
+  },
+  "வெயிட்": {
+   "m": "wait"
+  },
+  "கட்": {
+   "m": "cut / hang up"
+  },
+  "ஃப்ரெண்ட்": {
+   "m": "friend"
+  },
+  "ஃப்ரெண்ட": {
+   "m": "friend (as object)"
+  },
+  "ஃப்ரெண்ட்ஸ்": {
+   "m": "friends"
+  },
+  "செம்மையா": {
+   "m": "awesome / great"
+  },
+  "பேரும்": {
+   "m": "(both) people",
+   "te": "ఇద్దరూ"
+  }
  }
 };

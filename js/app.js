@@ -334,17 +334,34 @@
   }
 
   // ---------- category ----------
+  // "நான் · naan · I", then the Telugu equivalent with a ≈ (sounds alike) or ⚠ (false friend) note.
+  function glossLine(ta, tl, g) {
+    const out = [h("p", {}, h("b", { lang: "ta" }, ta), ` · ${tl} · ${g ? g.m : "not in the word list yet"}`)];
+    if (g && g.te && S.settings.showTe) {
+      out.push(h("p", { class: "te-compare" },
+        "Telugu: ", h("b", { lang: "te", class: "te" }, g.te),
+        g.sim ? h("span", { class: "sim-badge" }, "≈ sounds alike") : null));
+      if (g.warn) out.push(h("p", { class: "warn-line" }, "⚠ False friend: " + g.warn));
+    }
+    return out;
+  }
+
   function sentenceCard(s) {
-    const gloss = h("p", { class: "gloss-line", "aria-live": "polite" }, "Tap a word to see what it means.");
+    const gloss = h("div", { class: "gloss-line", "aria-live": "polite" }, "Tap a word to see what it means.");
     const taWords = s.ta.split(" ");
     const tlWords = s.tl.split(" ");
     const chips = h("div", { class: "chips" }, taWords.map((w, i) => {
+      const g = DATA.glossary[stripPunct(w)];
+      const showTe = S.settings.showTe && g && g.te;
       const chip = h("button", { type: "button", class: "chip", "aria-pressed": "false", onclick: () => {
         chips.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", "false"));
         chip.setAttribute("aria-pressed", "true");
-        const meaning = DATA.glossary[stripPunct(w)];
-        gloss.textContent = `${stripPunct(w)} · ${stripPunct(tlWords[i])} · ${meaning || "not in the word list yet"}`;
-      } }, h("span", { class: "ta", lang: "ta" }, w), h("span", { class: "tl" }, tlWords[i]));
+        gloss.replaceChildren(...glossLine(stripPunct(w), stripPunct(tlWords[i]), g));
+      } },
+        h("span", { class: "ta", lang: "ta" }, w),
+        h("span", { class: "tl" }, tlWords[i]),
+        showTe && g.sim ? h("span", { class: "sim-badge", title: "Sounds like the Telugu word" }, "≈ తె") : null,
+        showTe && g.warn ? h("span", { class: "warn-badge", title: "False friend: different meaning in Telugu" }, "⚠") : null);
       return chip;
     }));
     const words = h("div", { class: "words", hidden: true }, chips, gloss);

@@ -1,388 +1,413 @@
-# Tamil word | meaning (shown when you tap a word)
-நான் | I
-நீ | you (informal)
-நீங்க | you (respectful)
-அவன் | he
-அவ | she
-அவங்க | they / he, she (respectful)
-நாங்க | we
-நாம | we (you and me)
-நம்ம | our (yours and mine)
-என் | my
-உன் | your
-உங்க | your (respectful)
-எங்க | where / our
-எனக்கு | to me (I feel / I have)
-உனக்கு | to you
-உங்களுக்கு | to you (respectful)
-அவனுக்கு | to him
-அவளுக்கு | to her
-என்ன | me / what
-உன்ன | you (as object)
-இது | this
-அது | that
-இங்க | here
-அங்க | there
-இப்ப | now
-இன்னைக்கு | today
-நாளைக்கு | tomorrow
-நேத்து | yesterday
-ராத்திரி | night
-காலை | morning
-ரொம்ப | very / a lot
-கொஞ்சம் | a little
-செம்ம | super / awesome
-நல்லா | well / nicely
-நல்ல | good
-இன்னும் | still / more
-எப்பவும் | always
-இனிமே | from now on
-மறுபடியும் | again
-ஒரு | one / a
-ரெண்டு | two
-எல்லாம் | everything
-எல்லாமே | everything
-யாரு | who
-ஏன் | why
-எப்படி | how
-எப்போ | when
-எவ்ளோ | how much
-ஆமா | yes
-இல்ல | no / not
-சரி | okay
+# Tamil word | meaning [| Telugu equivalent [| ≈ if it sounds alike, or ⚠ note for a false friend]]
+# Shown when you tap a word. English loanwords (டீ, பஸ், ...) have no Telugu column.
+
+# --- people & pronouns ---
+நான் | I | నేను | ≈
+நீ | you (informal) | నువ్వు | ⚠ Tamil நீ (nee) means "you", but Telugu నీ (nee) means "your"
+நீங்க | you (respectful) | మీరు
+அவன் | he | వాడు / అతను
+அவ | she | ఆమె
+அவங்க | they / he, she (respectful) | వాళ్ళు / ఆయన
+நாங்க | we | మేము
+நாம | we (you and me) | మనం
+நம்ம | our (yours and mine) | మన
+என் | my | నా
+உன் | your | నీ
+உங்க | your (respectful) | మీ
+எங்க | where / our | ఎక్కడ / మా
+எனக்கு | to me (I feel / I have) | నాకు | ≈
+உனக்கு | to you | నీకు | ≈
+உங்களுக்கு | to you (respectful) | మీకు
+அவனுக்கு | to him | వాడికి
+அவளுக்கு | to her | ఆమెకి
+என்ன | me / what | నన్ను / ఏంటి
+உன்ன | you (as object) | నిన్ను | ≈
+என்கிட்ட | with me / to me | నా దగ్గర
+உன்கிட்ட | with you / to you | నీ దగ్గర
+நீதான் | it's you | నువ్వే
+நான்தான் | it's me | నేనే
+நானும் | me too / I also | నేనూ | ≈
+என்னால | by me / I (can) | నా వల్ల
+அவர் | he (respectful) | ఆయన
+அவள | her (as object) | ఆమెను
+யாரு | who | ఎవరు | ≈
+யாரும் | anyone / no one | ఎవరూ | ≈
+ஒருத்தர் | one person / someone | ఒకరు | ≈
+எல்லாரும் | everyone | అందరూ
+எல்லாருக்கும் | to everyone | అందరికీ
+உனக்காக | for you | నీ కోసం
+
+# --- this, that, where, when ---
+இது | this | ఇది | ≈
+அது | that | అది | ≈
+இந்த | this (before a noun) | ఈ
+அந்த | that (before a noun) | ఆ
+இத | this (as object) | దీన్ని
+அத | that (as object) | దాన్ని
+இதுக்கு | for this | దీనికి | ≈
+அதுக்குள்ள | already / so soon | అప్పుడే
+இங்க | here | ఇక్కడ | ≈
+அங்க | there | అక్కడ | ≈
+எந்த | which | ఏ
+எது | which one | ఏది | ≈
+இப்ப | now | ఇప్పుడు | ≈
+இப்பதான் | just now | ఇప్పుడే | ≈
+இப்பல்லாம் | these days | ఈ మధ్య
+எப்போ | when | ఎప్పుడు | ≈
+எப்பவும் | always | ఎప్పుడూ | ≈
+என்னைக்கும் | forever / always | ఎప్పటికీ
+ஏன் | why | ఎందుకు
+எப்படி | how | ఎలా
+எவ்ளோ | how much | ఎంత
+இவ்ளோ | this much | ఇంత
+எத்தன | how many | ఎన్ని
+இன்னைக்கு | today | ఈ రోజు
+நாளைக்கு | tomorrow | రేపు
+நேத்து | yesterday | నిన్న
+ராத்திரி | night | రాత్రి | ≈
+காலை | morning | ఉదయం
+நாள் | day | రోజు / నాడు | ≈
+நேரம் | time | సమయం | ⚠ Telugu నేరం (neram) means "crime"
+மணி | o'clock / time | గంట
+மணிக்கு | at (time) | గంటలకి
+நிமிஷம் | minute | నిమిషం | ≈
+முன்னாடி | before / in front | ముందు | ≈
+அப்புறம் | later / then | తర్వాత
+அடுத்த | next | వచ్చే / తర్వాతి
+முதல் | first | మొదటి | ≈
+முதல்ல | first / at first | మొదట | ≈
+இனிமே | from now on | ఇక మీదట
+மறுபடியும் | again | మళ్ళీ
+திரும்ப | again / back | తిరిగి | ≈
+உடனே | immediately | వెంటనే
+சீக்கிரம் | soon / quickly | త్వరగా
+வரைக்கும் | until | వరకు | ≈
+தினமும் | every day | రోజూ / ప్రతి రోజూ
+தடவ | time (as in "one time") | సారి
+
+# --- yes, no, little words ---
+ஆமா | yes | అవును | ≈
+இல்ல | no / not | లేదు
+சரி | okay | సరే | ≈
+சரியா | right? / correctly | సరేనా / సరిగ్గా | ≈
+ஒரு | one / a | ఒక | ≈
+ரொம்ப | very / a lot | చాలా
+கொஞ்சம் | a little | కొంచెం | ≈
+நிறைய | a lot / many | చాలా / ఎక్కువ
+செம்ம | super / awesome | సూపర్ / కేక
+நல்லா | well / nicely | బాగా
+நல்ல | good | మంచి
+இன்னும் | still / more | ఇంకా / ఇంకొంచెం | ≈
+இன்னொரு | another / one more | ఇంకొక | ≈
+எல்லாம் | everything | అన్నీ / అంతా
+எல்லாமே | everything | అన్నీ
+எல்லாத்தையும் | everything (as object) | అన్నిటినీ
+எல்லாத்துக்கும் | for everything | అన్నిటికీ
+ஏதாவது | anything / something | ఏదైనా | ≈
+எதுவும் | anything | ఏదీ | ≈
+எதுவுமே | nothing at all | ఏమీ
+கூட | with | తో / కూడా | ≈
+மேல | on / towards | మీద
+பத்தி | about | గురించి
+மாதிரி | like (similar to) | లాగా
+போல | like / as if | లాగా
+இல்லாம | without | లేకుండా | ≈
+சும்மா | just / for no reason | ఊరికే
+ஆனா | but | కానీ
+அப்படி | like that | అలా
+இப்படி | like this | ఇలా
+வெளிய | outside | బయట
+உள்ள | inside | లోపల
+பக்கத்துல | near / next to | పక్కన | ≈
+கிட்ட | near / close | దగ్గర
+வழியா | way / through | దారి / ద్వారా
+ஒண்ணா | together | కలిసి
+சேர்ந்து | together | కలిసి
+வேற | other / different | వేరే | ≈
+ஓவரா | too much | ఓవర్‌గా
+அதிகம் | too much / more | అధికం / ఎక్కువ | ≈
+கம்மி | less | తక్కువ
+கம்மியா | less / low | తక్కువగా
+பெரிய | big | పెద్ద | ≈
+சின்ன | small | చిన్న | ≈
+புது | new | కొత్త
+சிறந்த | best | ఉత్తమ / మంచి
+அழகான | beautiful | అందమైన
+முக்கியம் | important | ముఖ్యం | ≈
+
+# --- greetings & feelings ---
+நன்றி | thank you | ధన్యవాదాలు / థ్యాంక్స్
+வணக்கம் | hello (respectful greeting) | నమస్కారం
+மன்னிச்சிடு | forgive me / sorry | క్షమించు
+பரவாயில்ல | it's okay / no problem | పర్వాలేదు | ≈
+வாழ்த்துக்கள் | wishes / congratulations | శుభాకాంక్షలు
+மனசு | heart / mind | మనసు | ≈
+மனசுல | in (my) heart | మనసులో | ≈
+மனச | heart (as object) | మనసుని | ≈
+இதயம் | heart | హృదయం / గుండె | ≈
+சந்தோஷமா | happy / happily | సంతోషంగా | ≈
+சந்தோஷம் | happiness | సంతోషం | ≈
+சோகமா | sad | బాధగా / దుఃఖంగా
+கோபமா | angry | కోపంగా | ≈
+பயமா | scared | భయంగా | ≈
+வெட்கமா | shy / embarrassed | సిగ్గుగా
+அமைதியா | calm / quietly | ప్రశాంతంగా
+தனியா | alone | ఒంటరిగా
+ஜாலியா | fun / happily | సరదాగా / జాలీగా
+அழகா | beautiful / beautifully | అందంగా
+அழகு | beauty / beautiful | అందం
+அருமை | wonderful | అద్భుతం / అదుర్స్
+காதல் | love | ప్రేమ
+ஆசை | wish / desire | ఆశ / కోరిక | ≈
+பெருமை | pride | గర్వం
+செல்லம் | dear / darling | బంగారం / చిన్నా
+உயிர் | life / soul (dearest) | ప్రాణం
+சிரிப்பு | smile / laughter | నవ్వు
+கனவு | dream | కల
+உண்மை | truth | నిజం
+பொய் | lie | అబద్ధం
+தப்பு | mistake / wrong | తప్పు | ≈
+தப்பா | wrongly / wrong | తప్పుగా | ≈
+நிஜமா | really | నిజంగా | ≈
+சத்தியமா | I swear / promise | ఒట్టు / సత్యంగా | ≈
+ஞாபகம் | memory / remembering | జ్ఞాపకం / గుర్తు | ≈
+சம்மதம் | consent / agreement | సమ్మతి / అంగీకారం | ≈
+சண்டை | fight | గొడవ
+பிரச்சனை | problem | సమస్య
+விஷயம் | matter / thing | విషయం | ≈
+உதவி | help | సహాయం
+பதில் | answer | జవాబు
+அவசரம் | hurry / urgent | అవసరం / తొందర | ⚠ Telugu అవసరం (avasaram) means "need", not "hurry"
+
+# --- being, wanting, knowing ---
+இருக்கேன் | I am | ఉన్నాను
+இருக்கு | is / there is | ఉంది
+இருக்கா | is there? / she is | ఉందా? / ఉంది
+இருக்க | you are / to be | ఉన్నావు / ఉండటానికి
+இருந்துச்சு | it was | ఉండేది / ఉంది
+இருந்தேன் | I was | ఉన్నాను
+இருக்காங்க | they are / (she, he) is (respectful) | ఉన్నారు
+இருக்காரு | he is (respectful) | ఉన్నారు
+இருக்கீங்க | you are (respectful) | ఉన్నారు
+இருக்கணும் | must be / want to be | ఉండాలి
+இருக்கும் | will be | ఉంటుంది
+இருக்கலாம் | may be | ఉండొచ్చు
+இருக்கறது | being / that which is | ఉండటం
+இருக்கும்போது | when (someone) is | ఉన్నప్పుడు
+இருக்காங்களா | are they? / is (she, he)? | ఉన్నారా?
+இரு | stay / be / wait | ఉండు
+வேணும் | want / need | కావాలి
+வேண்டாம் | don't want / no | వద్దు
+பிடிக்கும் | like | ఇష్టం / నచ్చుతుంది
+பிடிச்சிருக்கு | like (this, right now) | నచ్చింది
+தெரியும் | know | తెలుసు | ≈
+தெரியாது | don't know | తెలియదు | ≈
+தெரியல | don't know / can't see | తెలియట్లేదు | ≈
+தெரியுமா | do you know? | తెలుసా? | ≈
+புரியல | don't understand | అర్థం కాలేదు
+புரியும் | will understand | అర్థమవుతుంది
+முடியல | can't | కుదరట్లేదు / లేకపోతున్నాను
+முடியாது | can't / not possible | కుదరదు
+மாட்டேன் | I won't | చేయను / నేను ...ను
+கூடாது | shouldn't / mustn't | కూడదు | ≈
+பசிக்குது | (I'm) hungry | ఆకలిగా ఉంది
+தோணுது | feel like / it seems | అనిపిస్తోంది
+தோணல | don't feel like | అనిపించట్లేదు
+உணர்றேன் | I feel | అనుభవిస్తున్నాను / అనిపిస్తోంది
+வலிக்குது | it hurts | నొప్పిగా ఉంది
+சரியில்ல | not right / not well | సరిగా లేదు / బాలేదు | ≈
+காணோம் | missing / can't find | కనిపించట్లేదు
+
+# --- doing: பண்ணு (do) ---
+பண்ணு | do (it) / make | చెయ్
+பண்றேன் | I'm doing / I do | చేస్తున్నాను
+பண்ணிட்டேன் | I did (it) | చేసేశాను
+பண்ணேன் | I did | చేశాను
+பண்ணல | didn't do | చేయలేదు
+பண்ண | to do | చేయడానికి
+பண்ணணும் | must do / want to do | చేయాలి
+பண்ணுங்க | please do (respectful) | చేయండి
+பண்ணாத | don't do | చేయకు
+பண்ணலாம் | let's do / can do | చేద్దాం / చేయొచ్చు
+பண்றியா | will you do? / are you doing? | చేస్తావా?
+பண்ணியா | did you do? | చేశావా?
+செய்யல | not working / didn't do | చేయలేదు / పనిచేయట్లేదు | ≈
+
+# --- coming & going ---
+வா | come | రా
+வாங்க | come (respectful) / to buy | రండి / కొనడానికి
+வரேன் | I'm coming | వస్తున్నాను | ≈
+வருது | is coming | వస్తోంది | ≈
+வரும் | will come | వస్తుంది | ≈
+வராங்க | they're coming | వస్తున్నారు | ≈
+வரல | didn't come / isn't coming | రాలేదు
+வந்துடுச்சு | has come | వచ్చేసింది | ≈
+வந்துச்சு | came | వచ్చింది | ≈
+வந்து | coming / having come | వచ్చి | ≈
+வந்துட்டேன் | I've come / I'm here | వచ్చేశాను | ≈
+போ | go | పో / వెళ్ళు | ≈
+போலாம் | let's go | వెళ్దాం / పోదాం | ≈
+போலாமா | shall we go? | వెళ్దామా? / పోదామా? | ≈
+போறேன் | I'm going | వెళ్తున్నాను / పోతున్నాను | ≈
+போற | going / you're going | వెళ్తున్న / పోతున్న | ≈
+போங்க | go (respectful) | వెళ్ళండి / పొండి | ≈
+போக | to go | వెళ్ళడానికి / పోవడానికి | ≈
+போய் | going / having gone | వెళ్ళి / పోయి | ≈
+போயிட்டு | go and (come back) | వెళ్ళి / పోయి | ≈
+போகாத | don't go | వెళ్ళకు / పోకు | ≈
+போன | went / last (as in "last year") | పోయిన | ≈
+போச்சு | went / is gone | పోయింది | ≈
+விடு | leave it / let go | వదిలేయ్ / విడిచిపెట్టు | ≈
+விட்டு | leaving / away from | వదిలి / విడిచి | ≈
+விட்டுட்டு | leaving (someone, something) | వదిలేసి | ≈
+
+# --- other everyday verbs ---
+பாரு | look | చూడు
+பாக்கலாம் | let's see / see you | చూద్దాం
+பாத்தியா | did you see? | చూశావా?
+பாத்து | carefully / seeing | జాగ్రత్తగా / చూసి
+பாத்துட்டு | after seeing | చూసి
+சொல்லு | tell / say | చెప్పు
+சொல்லுங்க | please tell (respectful) | చెప్పండి
+சொல்ல | to say | చెప్పడానికి
+சொன்ன | said / you said | చెప్పిన / చెప్పావు
+சொன்னது | what was said | చెప్పింది
+குடு | give | ఇవ్వు
+குடுங்க | please give | ఇవ్వండి
+போடு | put / switch on | వెయ్ / పెట్టు
+போடுங்க | please put (respectful) | వేయండి
+போடாத | don't put / don't | వేయకు
+வை | put / keep | పెట్టు / ఉంచు
+பேச | to talk | మాట్లాడటానికి
+பேசலாம் | let's talk | మాట్లాడదాం
+பேசுங்க | please talk (respectful) | మాట్లాడండి
+பேசறேன் | I'm talking | మాట్లాడుతున్నాను
+பேசறது | talking / speaking | మాట్లాడటం
+சாப்பிடு | eat | తిను
+சாப்பிட | to eat | తినడానికి
+சாப்பிடலாம் | let's eat | తిందాం
+தூங்கு | sleep | నిద్రపో
+அனுப்பு | send | పంపు
+மூடு | close | మూసేయ్ | ≈
+கழுவு | wash | కడుగు
+நினைச்சா | when (I) think of | తలుచుకుంటే
+நினைச்சு | thinking of | తలుచుకుని
+நம்பவே | (can't) even believe | నమ్మలేకపోవడం | ≈
+கிடைச்சுது | got / received | దొరికింది / వచ్చింది
+ஆயிடுச்சு | it became / it happened | అయిపోయింది | ≈
+ஆயிட்டேன் | I became | అయ్యాను | ≈
+ஆகுது | is happening / is becoming | అవుతోంది | ≈
+ஆகும் | will take / will become | అవుతుంది | ≈
+முடிஞ்சுது | it got over | అయిపోయింది / ముగిసింది | ≈
+முடிஞ்சிடுச்சு | it's over / done | అయిపోయింది / ముగిసింది | ≈
+
+# --- family ---
+அம்மா | mother | అమ్మ | ≈
+அம்மாவுக்கு | to mother | అమ్మకి | ≈
+அப்பா | father | నాన్న
+அக்கா | elder sister | అక్క | ≈
+அக்காவுக்கு | to elder sister | అక్కకి | ≈
+அண்ணன் | elder brother | అన్న / అన్నయ్య | ≈
+தம்பி | younger brother | తమ్ముడు | ≈
+பாட்டி | grandmother | నానమ్మ / అమ్మమ్మ
+மச்சான் | buddy / brother-in-law | బావ / మామా
+பையன் | boy / son | అబ్బాయి / కొడుకు
+பொண்ணு | girl / daughter | అమ్మాయి / కూతురు
+பசங்க | kids / guys | పిల్లలు
+பாப்பா | baby | పాప | ≈
+குடும்பம் | family | కుటుంబం | ≈
+குடும்பத்த | family (as object) | కుటుంబాన్ని | ≈
+கல்யாணம் | marriage / wedding | పెళ్ళి / కల్యాణం | ≈
+
+# --- home & things ---
+வீடு | house | ఇల్లు | ⚠ Telugu వీడు (veedu) means "this guy", not "house"
+வீட்டுக்கு | to home | ఇంటికి
+வீட்ல | at home | ఇంట్లో
+ஊரு | town / hometown | ఊరు | ≈
+ஊருக்கு | to hometown | ఊరికి | ≈
+வேலை | work / job | పని / ఉద్యోగం
+வேலைய | job (as object) | పనిని / ఉద్యోగాన్ని
+தண்ணி | water | నీళ్ళు
+சாப்பாடு | food | భోజనం / తిండి
+சோறு | cooked rice | అన్నం
+சாதம் | rice (cooked) | అన్నం
+பால் | milk | పాలు | ≈
+உப்பு | salt | ఉప్పు | ≈
+சக்கரை | sugar | చక్కెర | ≈
+மழை | rain | వర్షం / వాన
+பெய்யுது | it's raining (pouring) | పడుతోంది / కురుస్తోంది
+தூக்கம் | sleep | నిద్ర
+பேர் | name | పేరు | ≈
+காசு | money | డబ్బులు / కాసు | ≈
+விலை | price | ధర / వెల | ≈
+கதவ | door (as object) | తలుపుని
+கண்ண | eyes (as object) | కళ్ళని / కన్నుని | ≈
+குரல் | voice | గొంతు / స్వరం
+உடம்பு | body / health | ఒళ్ళు / శరీరం
+வயசு | age | వయసు | ≈
+நாய் | dog | కుక్క
+படம் | movie / picture | సినిమా / పటం | ≈
+செய்தி | news | వార్త
+வாழ்க்கை | life | జీవితం / బతుకు
+லீவு | holiday / leave | సెలవు
+கூட்டம் | crowd / meeting | జనం / సభ / గుంపు
+சம்பளம் | salary | జీతం
+பிறந்தநாள் | birthday | పుట్టినరోజు
+தமிழ் | Tamil | తమిళం | ≈
+ஓட்டு | vote | ఓటు | ≈
+தேர்தல் | election | ఎన్నికలు
+அரசியல் | politics | రాజకీయం
+
+# --- numbers ---
+ஒண்ணு | one | ఒకటి
+ரெண்டு | two | రెండు | ≈
+மூணு | three | మూడు | ≈
+நாலு | four | నాలుగు | ≈
+அஞ்சு | five | ఐదు | ≈
+ஆறு | six | ఆరు | ≈
+எட்டு | eight | ఎనిమిది
+ஒம்பது | nine | తొమ్మిది
+பத்து | ten | పది | ≈
+
+# --- other descriptions ---
+மெதுவா | slowly | మెల్లగా / నెమ్మదిగా | ≈
+பத்திரமா | safely | భద్రంగా / జాగ్రత్తగా | ≈
+தூரமா | far | దూరంగా | ≈
+முழுக்க | whole / entire | మొత్తం / అంతా
+ஒவ்வொரு | each / every | ప్రతి / ఒక్కో | ≈
+
+# --- English loanwords (same in Telugu) ---
 ப்ளீஸ் | please
-நன்றி | thank you
-வணக்கம் | hello (respectful greeting)
-மன்னிச்சிடு | forgive me / sorry
-இருக்கேன் | I am
-இருக்கு | is / there is
-இருக்கா | is there? / she is
-இருக்க | you are / to be
-வேணும் | want / need
-வேண்டாம் | don't want / no
-பிடிக்கும் | like
-பிடிச்சிருக்கு | like (this, right now)
-தெரியும் | know
-தெரியாது | don't know
-புரியல | don't understand
-முடியல | can't
-வா | come
-போ | go
-போலாம் | let's go
-பாரு | look
-சொல்லு | tell / say
-குடு | give
-போடு | put / switch on
-மனசு | heart / mind
-சந்தோஷமா | happy / happily
-சந்தோஷம் | happiness
-சோகமா | sad
-அழகா | beautiful / beautifully
-அழகு | beauty / beautiful
-காதல் | love
-கூட | with
-மேல | on / towards
-பத்தி | about
-மாதிரி | like (similar to)
-அம்மா | mother
-வீட்டுக்கு | to home
-வேலை | work / job
-தண்ணி | water
-சாப்பாடு | food
-சோறு | cooked rice
 டீ | tea
 காபி | coffee
-மழை | rain
-பசிக்குது | (I'm) hungry
-தூக்கம் | sleep
-தப்பு | mistake / wrong
-உண்மை | truth
-பொய் | lie
-கனவு | dream
-நாள் | day
-நேரம் | time
-பேர் | name
-ஊரு | town / hometown
-காசு | money
-ஓட்டு | vote
-தேர்தல் | election
-அரசியல் | politics
-செல்லம் | dear / darling
-நிஜமா | really
-சீக்கிரம் | soon / quickly
-மெதுவா | slowly
-தனியா | alone
-பயமா | scared
-போச்சு | went / is gone
-வந்துட்டேன் | I've come / I'm here
 கால் | call
 ஃபோன் | phone
-
-# --- added: most frequent words in the sentences ---
-பண்ணு | do (it) / make
-பண்றேன் | I'm doing / I do
-பண்ணிட்டேன் | I did (it)
-பண்ணேன் | I did
-பண்ணல | didn't do
-பண்ண | to do
-பண்ணணும் | must do / want to do
-பண்ணுங்க | please do (respectful)
-பண்ணாத | don't do
-பண்ணலாம் | let's do / can do
-பண்றியா | will you do? / are you doing?
-பண்ணியா | did you do?
-இந்த | this (before a noun)
-அந்த | that (before a noun)
-இத | this (as object)
-அத | that (as object)
-அப்பா | father
-அம்மாவுக்கு | to mother
-அக்கா | elder sister
-அக்காவுக்கு | to elder sister
-அண்ணன் | elder brother
-தம்பி | younger brother
-பாட்டி | grandmother
-மச்சான் | buddy / brother-in-law
-பையன் | boy / son
-பொண்ணு | girl / daughter
-பசங்க | kids / guys
-பாப்பா | baby
-குடும்பம் | family
-குடும்பத்த | family (as object)
-ஃப்ரெண்ட் | friend
-ஃப்ரெண்ட | friend (as object)
-ஃப்ரெண்ட்ஸ் | friends
-ஆயிடுச்சு | it became / it happened
-ஆயிட்டேன் | I became
-ஆகுது | is happening / is becoming
-ஆகும் | will take / will become
 சாரி | sorry
-பக்கத்துல | near / next to
-குடுங்க | please give
-இருந்துச்சு | it was
-இருந்தேன் | I was
-இருக்காங்க | they are / (she, he) is (respectful)
-இருக்காரு | he is (respectful)
-இருக்கீங்க | you are (respectful)
-இருக்கணும் | must be / want to be
-இருக்கும் | will be
-இருக்கலாம் | may be
-இருக்கறது | being / that which is
-இருக்கும்போது | when (someone) is
-இருக்காங்களா | are they? / is (she, he)?
-இரு | stay / be / wait
-மாட்டேன் | I won't
-அப்புறம் | later / then
-வீட்ல | at home
-வீடு | house
-மணி | o'clock / time
-மணிக்கு | at (time)
-நிமிஷம் | minute
-வாழ்த்துக்கள் | wishes / congratulations
-புது | new
-என்கிட்ட | with me / to me
-உன்கிட்ட | with you / to you
-நீதான் | it's you
-நான்தான் | it's me
-நானும் | me too / I also
-எத்தன | how many
 பஸ் | bus
-என்னால | by me / I (can)
-வெளிய | outside
-வருது | is coming
-வரும் | will come
-வரேன் | I'm coming
-வராங்க | they're coming
-வரல | didn't come / isn't coming
-வந்துடுச்சு | has come
-வந்துச்சு | came
-வந்து | coming / having come
 லேட் | late
 லேட்டா | late (adverb)
 லவ் | love
-தடவ | time (as in "one time")
-உனக்காக | for you
-எல்லாருக்கும் | to everyone
-எல்லாரும் | everyone
-எல்லாத்தையும் | everything (as object)
-எல்லாத்துக்கும் | for everything
 மிஸ் | miss
-இன்னொரு | another / one more
-செம்மையா | awesome / great
 மெசேஜ் | message
 நம்பர் | number
-வாங்க | come (respectful) / to buy
-கல்யாணம் | marriage / wedding
-போல | like / as if
-போய் | going / having gone
-போயிட்டு | go and (come back)
-போகாத | don't go
-போன | went / last (as in "last year")
-போக | to go
-போற | going / you're going
-போங்க | go (respectful)
-போறேன் | I'm going
-போலாமா | shall we go?
-விடு | leave it / let go
-விட்டு | leaving / away from
-விட்டுட்டு | leaving (someone, something)
-இல்லாம | without
-வயசு | age
-ஞாபகம் | memory / remembering
-அப்படி | like that
-இப்படி | like this
-கூடாது | shouldn't / mustn't
-நிறைய | a lot / many
-சும்மா | just / for no reason
-இவ்ளோ | this much
-தமிழ் | Tamil
-முன்னாடி | before / in front
-பேசலாம் | let's talk
-பேச | to talk
-பேசுங்க | please talk (respectful)
-பேசறேன் | I'm talking
-பேசறது | talking / speaking
 குட் | good
 பெஸ்ட் | best
 டிக்கெட் | ticket
-பத்து | ten
-வழியா | way / through
-முக்கியம் | important
-பெரிய | big
-தெரியல | don't know / can't see
-தெரியுமா | do you know?
-திரும்ப | again / back
-விலை | price
 கரண்ட் | electricity / power
 கிஸ் | kiss
 நைட் | night
-கோபமா | angry
-அடுத்த | next
-என்னைக்கும் | forever / always
-எந்த | which
-போடுங்க | please put (respectful)
 மீட்டிங் | meeting
-அஞ்சு | five
-நினைச்சா | when (I) think of
-நினைச்சு | thinking of
-செய்தி | news
-வாழ்க்கை | life
-லீவு | holiday / leave
-முதல் | first
-முதல்ல | first / at first
-ஒண்ணா | together
-தப்பா | wrongly / wrong
-இதயம் | heart
-ஒருத்தர் | one person / someone
-சரியா | right? / correctly
-சண்டை | fight
-பரவாயில்ல | it's okay / no problem
 ஓகேவா | okay?
-வெட்கமா | shy / embarrassed
-இதுக்கு | for this
-ஓவரா | too much
-நம்பவே | (can't) even believe
 ஃப்ரீயா | free
-சாப்பிடலாம் | let's eat
-சாப்பிட | to eat
-சாப்பிடு | eat
-எட்டு | eight
-அனுப்பு | send
-ஒவ்வொரு | each / every
-தூங்கு | sleep
-பேரும் | (both) people
-பாக்கலாம் | let's see / see you
-பாத்தியா | did you see?
-பாத்து | carefully / seeing
-பாத்துட்டு | after seeing
-பிரச்சனை | problem
-ஏதாவது | anything / something
-தினமும் | every day
-படம் | movie / picture
 புக் | book
-செய்யல | not working / didn't do
-அதிகம் | too much / more
-விஷயம் | matter / thing
-மூணு | three
-நாலு | four
-ஆறு | six
-ஒம்பது | nine
-ஒண்ணு | one
-சொல்லுங்க | please tell (respectful)
-சொல்ல | to say
-சொன்ன | said / you said
-சொன்னது | what was said
-சாதம் | rice (cooked)
 எக்ஸாம் | exam
-முடிஞ்சுது | it got over
-முடிஞ்சிடுச்சு | it's over / done
-ஜாலியா | fun / happily
-சிரிப்பு | smile / laughter
-பிறந்தநாள் | birthday
-அருமை | wonderful
-அமைதியா | calm / quietly
-கிடைச்சுது | got / received
-சரியில்ல | not right / not well
-இப்பல்லாம் | these days
-தோணல | don't feel like
-தோணுது | feel like / it seems
-யாரும் | anyone / no one
-வேற | other / different
-ஊருக்கு | to hometown
-உடம்பு | body / health
-தூரமா | far
-ஆனா | but
-உணர்றேன் | I feel
 சான்ஸ் | chance
-கம்மி | less
-கம்மியா | less / low
-வேலைய | job (as object)
-உதவி | help
 பிஸியா | busy
-அதுக்குள்ள | already / so soon
-காணோம் | missing / can't find
-முடியாது | can't / not possible
-கண்ண | eyes (as object)
-மூடு | close
-கூட்டம் | crowd / meeting
-கிட்ட | near / close
-குரல் | voice
-உள்ள | inside
-உடனே | immediately
-மனசுல | in (my) heart
-அவசரம் | hurry / urgent
-வரைக்கும் | until
-எதுவும் | anything
-எதுவுமே | nothing at all
-கதவ | door (as object)
-சம்மதம் | consent / agreement
-பதில் | answer
-போடாத | don't put / don't
-புரியும் | will understand
-பத்திரமா | safely
-சேர்ந்து | together
-உயிர் | life / soul (dearest)
-பால் | milk
-உப்பு | salt
-சக்கரை | sugar
-கழுவு | wash
-வை | put / keep
-எது | which one
 ஹெல்ப் | help
 வெயிட் | wait
 கட் | cut / hang up
-சத்தியமா | I swear / promise
-சிறந்த | best
-அழகான | beautiful
-பெருமை | pride
-சம்பளம் | salary
-ஆசை | wish / desire
-முழுக்க | whole / entire
-நாய் | dog
-இப்பதான் | just now
-சின்ன | small
-அவர் | he (respectful)
-அவள | her (as object)
-மனச | heart (as object)
-வலிக்குது | it hurts
-பெய்யுது | it's raining (pouring)
+ஃப்ரெண்ட் | friend
+ஃப்ரெண்ட | friend (as object)
+ஃப்ரெண்ட்ஸ் | friends
+செம்மையா | awesome / great
+பேரும் | (both) people | ఇద్దరూ

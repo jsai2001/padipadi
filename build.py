@@ -31,6 +31,7 @@ DATA = ROOT / "data"
 OUT = ROOT / "data.js"
 
 TAMIL = re.compile(r"[\u0B80-\u0BFF]")
+TELUGU = re.compile(r"[\u0C00-\u0C7F]")
 LATIN = re.compile(r"[A-Za-z]")
 ZERO_WIDTH = re.compile(r"[\u200B-\u200D\uFEFF]")
 TANGLISH_OK = re.compile(r"^[A-Za-z0-9 ,.!?'\-]+$")
@@ -103,17 +104,31 @@ def load_glossary():
         line = raw.strip()
         if not line or line.startswith("#"):
             continue
+        where = f"data/words.tsv:{number}"
         parts = [p.strip() for p in line.split(" | ")]
-        if len(parts) != 2 or not all(parts):
-            raise BuildError(f"data/words.tsv:{number}: expected 'Tamil | meaning'")
-        word, meaning = parts
+        if not 2 <= len(parts) <= 4 or not all(parts):
+            raise BuildError(f"{where}: expected 'Tamil | meaning [| Telugu [| ≈ or ⚠ note]]'")
+        word, meaning = parts[0], parts[1]
         if LATIN.search(word) or not TAMIL.search(word) or any(ch in word for ch in EDGE_PUNCT):
-            raise BuildError(f"data/words.tsv:{number}: bad Tamil word: {word}")
-        glossary[word] = meaning
+            raise BuildError(f"{where}: bad Tamil word: {word}")
+        if word in glossary:
+            raise BuildError(f"{where}: duplicate word: {word}")
+        entry = {"m": meaning}
+        if len(parts) >= 3:
+            te = parts[2]
+            if not TELUGU.search(te) or LATIN.search(te) or TAMIL.search(te):
+                raise BuildError(f"{where}: the Telugu field must be Telugu script only: {te}")
+            entry["te"] = te
+        if len(parts) == 4:
+            mark = parts[3]
+            if mark == "≈":
+                entry["sim"] = True  # sounds like the Telugu word
+            elif mark.startswith("⚠"):
+                entry["warn"] = mark.lstrip("⚠ ").strip()  # false friend: explain the trap
+            else:
+                raise BuildError(f"{where}: 4th field must be '≈' or '⚠ note'")
+        glossary[word] = entry
     return glossary
-
-
-TELUGU = re.compile(r"[\u0C00-\u0C7F]")
 
 
 def load_telugu(cat_id, sentences):
