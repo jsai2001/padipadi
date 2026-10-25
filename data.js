@@ -18,597 +18,697 @@ window.PP_DATA = {
      "id": "happy-b3f18f54",
      "en": "I'm very happy today.",
      "ta": "இன்னைக்கு நான் ரொம்ப சந்தோஷமா இருக்கேன்.",
-     "tl": "Innaikku naan romba santhoshamaa irukken."
+     "tl": "Innaikku naan romba santhoshamaa irukken.",
+     "te": "ఈ రోజు నేను చాలా సంతోషంగా ఉన్నాను."
     },
     {
      "id": "happy-5de762f7",
      "en": "This is the best day of my life.",
      "ta": "இது என் வாழ்க்கையிலேயே சிறந்த நாள்.",
-     "tl": "Idhu en vaazhkkaiyileye sirandha naal."
+     "tl": "Idhu en vaazhkkaiyileye sirandha naal.",
+     "te": "ఇది నా జీవితంలోనే మంచి రోజు."
     },
     {
      "id": "happy-2f510075",
      "en": "I got the job!",
      "ta": "எனக்கு வேலை கிடைச்சிருச்சு!",
-     "tl": "Enakku velai kidaichiruchu!"
+     "tl": "Enakku velai kidaichiruchu!",
+     "te": "నాకు ఉద్యోగం వచ్చింది!"
     },
     {
      "id": "happy-d9eefcb2",
      "en": "You made me so happy today.",
      "ta": "இன்னைக்கு நீ என்ன ரொம்ப சந்தோஷப்படுத்திட்ட.",
-     "tl": "Innaikku nee enna romba santhoshappaduthitta."
+     "tl": "Innaikku nee enna romba santhoshappaduthitta.",
+     "te": "ఈ రోజు నువ్వు నన్ను చాలా సంతోషపెట్టావు."
     },
     {
      "id": "happy-79ad716c",
      "en": "I can't stop smiling.",
      "ta": "என்னால சிரிப்ப நிறுத்தவே முடியல.",
-     "tl": "Ennaala sirippa niruthave mudiyala."
+     "tl": "Ennaala sirippa niruthave mudiyala.",
+     "te": "నా నవ్వు ఆపలేకపోతున్నాను."
     },
     {
      "id": "happy-4b7dadd9",
      "en": "We won the match!",
      "ta": "நாங்க மேட்ச்ல ஜெயிச்சிட்டோம்!",
-     "tl": "Naanga matchla jeyichittom!"
+     "tl": "Naanga matchla jeyichittom!",
+     "te": "మేము మ్యాచ్ గెలిచాం!"
     },
     {
      "id": "happy-c788496a",
      "en": "I'm so proud of you.",
      "ta": "உன்ன நினைச்சா எனக்கு ரொம்ப பெருமையா இருக்கு.",
-     "tl": "Unna ninaichaa enakku romba perumaiyaa irukku."
+     "tl": "Unna ninaichaa enakku romba perumaiyaa irukku.",
+     "te": "నిన్ను చూసి నాకు చాలా గర్వంగా ఉంది."
     },
     {
      "id": "happy-37e8354e",
      "en": "What a beautiful morning!",
      "ta": "எவ்ளோ அழகான காலை!",
-     "tl": "Evlo azhagaana kaalai!"
+     "tl": "Evlo azhagaana kaalai!",
+     "te": "ఎంత అందమైన ఉదయం!"
     },
     {
      "id": "happy-9304ce89",
      "en": "Finally, the exams are over!",
      "ta": "ஒரு வழியா எக்ஸாம் முடிஞ்சுது!",
-     "tl": "Oru vazhiyaa exam mudinjudhu!"
+     "tl": "Oru vazhiyaa exam mudinjudhu!",
+     "te": "ఎట్టకేలకు పరీక్షలు అయిపోయాయి!"
     },
     {
      "id": "happy-acf7317c",
      "en": "I'm really excited about the trip.",
      "ta": "ட்ரிப்ப நினைச்சாலே செம்ம ஜாலியா இருக்கு.",
-     "tl": "Trippa ninaichaale semma jaaliyaa irukku."
+     "tl": "Trippa ninaichaale semma jaaliyaa irukku.",
+     "te": "ట్రిప్ గురించి తలుచుకుంటేనే హుషారుగా ఉంది."
     },
     {
      "id": "happy-00fdff6d",
      "en": "Everything is going well.",
      "ta": "எல்லாம் நல்லா போயிட்டு இருக்கு.",
-     "tl": "Ellaam nallaa poyittu irukku."
+     "tl": "Ellaam nallaa poyittu irukku.",
+     "te": "అంతా బాగా జరుగుతోంది."
     },
     {
      "id": "happy-337c0992",
      "en": "That's great news!",
      "ta": "இது செம்ம நல்ல செய்தி!",
-     "tl": "Idhu semma nalla seidhi!"
+     "tl": "Idhu semma nalla seidhi!",
+     "te": "ఇది చాలా మంచి వార్త!"
     },
     {
      "id": "happy-31e942e7",
      "en": "I passed the exam!",
      "ta": "நான் எக்ஸாம்ல பாஸ் ஆயிட்டேன்!",
-     "tl": "Naan examla pass aayitten!"
+     "tl": "Naan examla pass aayitten!",
+     "te": "నేను పరీక్షలో పాస్ అయ్యాను!"
     },
     {
      "id": "happy-9f52d244",
      "en": "Let's celebrate tonight.",
      "ta": "இன்னைக்கு ராத்திரி கொண்டாடலாம்.",
-     "tl": "Innaikku raathiri kondaadalaam."
+     "tl": "Innaikku raathiri kondaadalaam.",
+     "te": "ఈ రాత్రి సెలబ్రేట్ చేసుకుందాం."
     },
     {
      "id": "happy-e963c3be",
      "en": "My heart feels so light today.",
      "ta": "இன்னைக்கு மனசு ரொம்ப லேசா இருக்கு.",
-     "tl": "Innaikku manasu romba lesaa irukku."
+     "tl": "Innaikku manasu romba lesaa irukku.",
+     "te": "ఈ రోజు మనసు చాలా తేలికగా ఉంది."
     },
     {
      "id": "happy-65d094db",
      "en": "Your smile makes me happy.",
      "ta": "உன் சிரிப்பு என்ன சந்தோஷப்படுத்துது.",
-     "tl": "Un sirippu enna santhoshappaduthudhu."
+     "tl": "Un sirippu enna santhoshappaduthudhu.",
+     "te": "నీ నవ్వు నన్ను సంతోషపెడుతుంది."
     },
     {
      "id": "happy-726a04ea",
      "en": "My mom is very happy.",
      "ta": "என் அம்மா ரொம்ப சந்தோஷமா இருக்காங்க.",
-     "tl": "En amma romba santhoshamaa irukkaanga."
+     "tl": "En amma romba santhoshamaa irukkaanga.",
+     "te": "మా అమ్మ చాలా సంతోషంగా ఉంది."
     },
     {
      "id": "happy-11ef7ba8",
      "en": "It feels like a dream.",
      "ta": "இது கனவு மாதிரி இருக்கு.",
-     "tl": "Idhu kanavu maadhiri irukku."
+     "tl": "Idhu kanavu maadhiri irukku.",
+     "te": "ఇది కలలా ఉంది."
     },
     {
      "id": "happy-5bab7ff7",
      "en": "I feel like I'm flying.",
      "ta": "எனக்கு வானத்துல பறக்கற மாதிரி இருக்கு.",
-     "tl": "Enakku vaanathula parakkara maadhiri irukku."
+     "tl": "Enakku vaanathula parakkara maadhiri irukku.",
+     "te": "నాకు ఆకాశంలో ఎగురుతున్నట్టు ఉంది."
     },
     {
      "id": "happy-d1689a11",
      "en": "We had so much fun.",
      "ta": "நாங்க செம்மயா ஜாலி பண்ணோம்.",
-     "tl": "Naanga semmaiyaa jaali pannom."
+     "tl": "Naanga semmaiyaa jaali pannom.",
+     "te": "మేము బాగా ఎంజాయ్ చేశాం."
     },
     {
      "id": "happy-0550ce15",
      "en": "Thank you so much, this means a lot to me.",
      "ta": "ரொம்ப நன்றி, இது எனக்கு ரொம்ப முக்கியம்.",
-     "tl": "Romba nandri, idhu enakku romba mukkiyam."
+     "tl": "Romba nandri, idhu enakku romba mukkiyam.",
+     "te": "చాలా థ్యాంక్స్, ఇది నాకు చాలా ముఖ్యం."
     },
     {
      "id": "happy-937cc059",
      "en": "My dream came true.",
      "ta": "என் கனவு நனவாயிடுச்சு.",
-     "tl": "En kanavu nanavaayiduchu."
+     "tl": "En kanavu nanavaayiduchu.",
+     "te": "నా కల నిజమైంది."
     },
     {
      "id": "happy-2815fc02",
      "en": "The baby is laughing.",
      "ta": "பாப்பா சிரிக்குது.",
-     "tl": "Paappaa sirikkudhu."
+     "tl": "Paappaa sirikkudhu.",
+     "te": "పాప నవ్వుతోంది."
     },
     {
      "id": "happy-a585357e",
      "en": "It's Friday!",
      "ta": "இன்னைக்கு வெள்ளிக்கிழமை!",
-     "tl": "Innaikku vellikkizhamai!"
+     "tl": "Innaikku vellikkizhamai!",
+     "te": "ఈ రోజు శుక్రవారం!"
     },
     {
      "id": "happy-2f925de5",
      "en": "I love this weather.",
      "ta": "இந்த க்ளைமேட் எனக்கு ரொம்ப பிடிச்சிருக்கு.",
-     "tl": "Indha climate enakku romba pidichirukku."
+     "tl": "Indha climate enakku romba pidichirukku.",
+     "te": "ఈ వాతావరణం నాకు చాలా నచ్చింది."
     },
     {
      "id": "happy-ffe269d6",
      "en": "Today was a good day.",
      "ta": "இன்னைக்கு நல்ல நாளா இருந்துச்சு.",
-     "tl": "Innaikku nalla naalaa irundhuchu."
+     "tl": "Innaikku nalla naalaa irundhuchu.",
+     "te": "ఈ రోజు మంచి రోజు."
     },
     {
      "id": "happy-3ce990ac",
      "en": "I got a promotion!",
      "ta": "எனக்கு ப்ரமோஷன் கிடைச்சிருச்சு!",
-     "tl": "Enakku promotion kidaichiruchu!"
+     "tl": "Enakku promotion kidaichiruchu!",
+     "te": "నాకు ప్రమోషన్ వచ్చింది!"
     },
     {
      "id": "happy-ac0a7f08",
      "en": "Happy birthday!",
      "ta": "பிறந்தநாள் வாழ்த்துக்கள்!",
-     "tl": "Pirandhanaal vaazhthukkal!"
+     "tl": "Pirandhanaal vaazhthukkal!",
+     "te": "పుట్టినరోజు శుభాకాంక్షలు!"
     },
     {
      "id": "happy-010d916d",
      "en": "Congratulations!",
      "ta": "வாழ்த்துக்கள்!",
-     "tl": "Vaazhthukkal!"
+     "tl": "Vaazhthukkal!",
+     "te": "అభినందనలు!"
     },
     {
      "id": "happy-b247cf62",
      "en": "I'm finally home.",
      "ta": "ஒரு வழியா வீட்டுக்கு வந்துட்டேன்.",
-     "tl": "Oru vazhiyaa veettukku vandhutten."
+     "tl": "Oru vazhiyaa veettukku vandhutten.",
+     "te": "ఎట్టకేలకు ఇంటికి వచ్చేశాను."
     },
     {
      "id": "happy-0baa59b9",
      "en": "I feel wonderful.",
      "ta": "எனக்கு ரொம்ப நல்லா இருக்கு.",
-     "tl": "Enakku romba nallaa irukku."
+     "tl": "Enakku romba nallaa irukku.",
+     "te": "నాకు చాలా బాగుంది."
     },
     {
      "id": "happy-ff688959",
      "en": "Today I'm in a good mood.",
      "ta": "இன்னைக்கு என் மூட் நல்லா இருக்கு.",
-     "tl": "Innaikku en mood nallaa irukku."
+     "tl": "Innaikku en mood nallaa irukku.",
+     "te": "ఈ రోజు నా మూడ్ బాగుంది."
     },
     {
      "id": "happy-96fc53be",
      "en": "This made my day.",
      "ta": "இது என் நாள சூப்பரா ஆக்கிடுச்சு.",
-     "tl": "Idhu en naala superaa aakkiduchu."
+     "tl": "Idhu en naala superaa aakkiduchu.",
+     "te": "దీంతో నా రోజు సూపర్ అయిపోయింది."
     },
     {
      "id": "happy-1fb9a3ff",
      "en": "I'm on cloud nine.",
      "ta": "நான் ஆகாசத்துல மிதக்கறேன்.",
-     "tl": "Naan aagaasathula midhakkaren."
+     "tl": "Naan aagaasathula midhakkaren.",
+     "te": "నేను గాల్లో తేలుతున్నాను."
     },
     {
      "id": "happy-3a420ed9",
      "en": "Life is beautiful.",
      "ta": "வாழ்க்கை அழகா இருக்கு.",
-     "tl": "Vaazhkkai azhagaa irukku."
+     "tl": "Vaazhkkai azhagaa irukku.",
+     "te": "జీవితం అందంగా ఉంది."
     },
     {
      "id": "happy-84b23ba8",
      "en": "I got good marks.",
      "ta": "எனக்கு நல்ல மார்க் வந்துச்சு.",
-     "tl": "Enakku nalla mark vandhuchu."
+     "tl": "Enakku nalla mark vandhuchu.",
+     "te": "నాకు మంచి మార్కులు వచ్చాయి."
     },
     {
      "id": "happy-0fde5198",
      "en": "My friends threw me a surprise party.",
      "ta": "என் ஃப்ரெண்ட்ஸ் எனக்கு சர்ப்ரைஸ் பார்ட்டி வச்சாங்க.",
-     "tl": "En friends enakku surprise party vachaanga."
+     "tl": "En friends enakku surprise party vachaanga.",
+     "te": "నా ఫ్రెండ్స్ నాకు సర్‌ప్రైజ్ పార్టీ ఇచ్చారు."
     },
     {
      "id": "happy-99c372e9",
      "en": "I'm so lucky.",
      "ta": "நான் ரொம்ப அதிர்ஷ்டசாலி.",
-     "tl": "Naan romba adhirshtasaali."
+     "tl": "Naan romba adhirshtasaali.",
+     "te": "నేను చాలా అదృష్టవంతుడిని."
     },
     {
      "id": "happy-e2fbdb52",
      "en": "I bought a new car!",
      "ta": "நான் புது கார் வாங்கிட்டேன்!",
-     "tl": "Naan pudhu car vaangitten!"
+     "tl": "Naan pudhu car vaangitten!",
+     "te": "నేను కొత్త కారు కొన్నాను!"
     },
     {
      "id": "happy-a5914918",
      "en": "We're going on a holiday.",
      "ta": "நாங்க ஹாலிடேக்கு போறோம்.",
-     "tl": "Naanga holidaykku porom."
+     "tl": "Naanga holidaykku porom.",
+     "te": "మేము హాలిడేకి వెళ్తున్నాం."
     },
     {
      "id": "happy-d3c8adcc",
      "en": "This food is delicious.",
      "ta": "இந்த சாப்பாடு செம்ம ருசியா இருக்கு.",
-     "tl": "Indha saappaadu semma rusiyaa irukku."
+     "tl": "Indha saappaadu semma rusiyaa irukku.",
+     "te": "ఈ భోజనం చాలా రుచిగా ఉంది."
     },
     {
      "id": "happy-7fd0d4b3",
      "en": "I'm happy for you.",
      "ta": "உனக்காக நான் சந்தோஷப்படறேன்.",
-     "tl": "Unakkaaga naan santhoshappadaren."
+     "tl": "Unakkaaga naan santhoshappadaren.",
+     "te": "నీ కోసం నేను సంతోషిస్తున్నాను."
     },
     {
      "id": "happy-16f93b2f",
      "en": "You look happy today.",
      "ta": "இன்னைக்கு நீ சந்தோஷமா தெரியற.",
-     "tl": "Innaikku nee santhoshamaa theriyara."
+     "tl": "Innaikku nee santhoshamaa theriyara.",
+     "te": "ఈ రోజు నువ్వు సంతోషంగా కనిపిస్తున్నావు."
     },
     {
      "id": "happy-3e4d76d5",
      "en": "What's the good news?",
      "ta": "என்ன நல்ல செய்தி?",
-     "tl": "Enna nalla seidhi?"
+     "tl": "Enna nalla seidhi?",
+     "te": "మంచి వార్త ఏంటి?"
     },
     {
      "id": "happy-b1528976",
      "en": "I'm going to be a father!",
      "ta": "நான் அப்பா ஆகப்போறேன்!",
-     "tl": "Naan appaa aagapporen!"
+     "tl": "Naan appaa aagapporen!",
+     "te": "నేను నాన్న కాబోతున్నాను!"
     },
     {
      "id": "happy-22d9b1bf",
      "en": "My sister got married.",
      "ta": "என் அக்காவுக்கு கல்யாணம் ஆயிடுச்சு.",
-     "tl": "En akkaavukku kalyaanam aayiduchu."
+     "tl": "En akkaavukku kalyaanam aayiduchu.",
+     "te": "మా అక్కకి పెళ్లి అయింది."
     },
     {
      "id": "happy-95c2bd49",
      "en": "Everyone liked my cooking.",
      "ta": "நான் சமைச்சது எல்லாருக்கும் பிடிச்சிருந்துச்சு.",
-     "tl": "Naan samaichadhu ellaarukkum pidichirundhuchu."
+     "tl": "Naan samaichadhu ellaarukkum pidichirundhuchu.",
+     "te": "నా వంట అందరికీ నచ్చింది."
     },
     {
      "id": "happy-76ab2c81",
      "en": "I finished the project.",
      "ta": "நான் ப்ராஜெக்ட்ட முடிச்சிட்டேன்.",
-     "tl": "Naan projecta mudichitten."
+     "tl": "Naan projecta mudichitten.",
+     "te": "నేను ప్రాజెక్ట్ పూర్తి చేశాను."
     },
     {
      "id": "happy-e386d056",
      "en": "It's a holiday tomorrow!",
      "ta": "நாளைக்கு லீவு!",
-     "tl": "Naalaikku leevu!"
+     "tl": "Naalaikku leevu!",
+     "te": "రేపు సెలవు!"
     },
     {
      "id": "happy-18c354c3",
      "en": "Let's have a party.",
      "ta": "ஒரு பார்ட்டி வைக்கலாம்.",
-     "tl": "Oru party vaikkalaam."
+     "tl": "Oru party vaikkalaam.",
+     "te": "ఒక పార్టీ చేసుకుందాం."
     },
     {
      "id": "happy-51c7d6e6",
      "en": "I'm enjoying this a lot.",
      "ta": "நான் இத ரொம்ப என்ஜாய் பண்றேன்.",
-     "tl": "Naan idha romba enjoy panren."
+     "tl": "Naan idha romba enjoy panren.",
+     "te": "నేను దీన్ని బాగా ఎంజాయ్ చేస్తున్నాను."
     },
     {
      "id": "happy-3e72f83a",
      "en": "That was so much fun!",
      "ta": "அது செம்ம ஜாலியா இருந்துச்சு!",
-     "tl": "Adhu semma jaaliyaa irundhuchu!"
+     "tl": "Adhu semma jaaliyaa irundhuchu!",
+     "te": "అది చాలా సరదాగా ఉంది!"
     },
     {
      "id": "happy-cab35a02",
      "en": "The weather is lovely today.",
      "ta": "இன்னைக்கு வானிலை அருமையா இருக்கு.",
-     "tl": "Innaikku vaanilai arumaiyaa irukku."
+     "tl": "Innaikku vaanilai arumaiyaa irukku.",
+     "te": "ఈ రోజు వాతావరణం చాలా బాగుంది."
     },
     {
      "id": "happy-b4fc0daf",
      "en": "My team won the cup.",
      "ta": "என் டீம் கப் ஜெயிச்சுது.",
-     "tl": "En team cup jeyichudhu."
+     "tl": "En team cup jeyichudhu.",
+     "te": "మా టీమ్ కప్ గెలిచింది."
     },
     {
      "id": "happy-be30f2ec",
      "en": "Thank god!",
      "ta": "கடவுளுக்கு நன்றி!",
-     "tl": "Kadavulukku nandri!"
+     "tl": "Kadavulukku nandri!",
+     "te": "దేవుడికి థ్యాంక్స్!"
     },
     {
      "id": "happy-f78f4842",
      "en": "Finally, some good news.",
      "ta": "ஒரு வழியா நல்ல செய்தி வந்துச்சு.",
-     "tl": "Oru vazhiyaa nalla seidhi vandhuchu."
+     "tl": "Oru vazhiyaa nalla seidhi vandhuchu.",
+     "te": "ఎట్టకేలకు ఒక మంచి వార్త వచ్చింది."
     },
     {
      "id": "happy-66db6ee3",
      "en": "I'm smiling because of you.",
      "ta": "உன்னாலதான் நான் சிரிக்கறேன்.",
-     "tl": "Unnaaladhaan naan sirikkaren."
+     "tl": "Unnaaladhaan naan sirikkaren.",
+     "te": "నీ వల్లే నేను నవ్వుతున్నాను."
     },
     {
      "id": "happy-65c485eb",
      "en": "My parents are proud of me.",
      "ta": "என் அப்பா அம்மாவுக்கு என்ன நினைச்சு பெருமை.",
-     "tl": "En appaa ammaavukku enna ninaichu perumai."
+     "tl": "En appaa ammaavukku enna ninaichu perumai.",
+     "te": "మా అమ్మానాన్నలకు నన్ను చూసి గర్వం."
     },
     {
      "id": "happy-10e54718",
      "en": "I got my salary today.",
      "ta": "இன்னைக்கு சம்பளம் வந்துச்சு.",
-     "tl": "Innaikku sambalam vandhuchu."
+     "tl": "Innaikku sambalam vandhuchu.",
+     "te": "ఈ రోజు జీతం వచ్చింది."
     },
     {
      "id": "happy-69f34b17",
      "en": "The baby took its first steps.",
      "ta": "பாப்பா முதல் அடி எடுத்து வச்சுது.",
-     "tl": "Paappaa mudhal adi eduthu vachudhu."
+     "tl": "Paappaa mudhal adi eduthu vachudhu.",
+     "te": "పాప మొదటి అడుగులు వేసింది."
     },
     {
      "id": "happy-c05177a5",
      "en": "I'm full of energy today.",
      "ta": "இன்னைக்கு செம்ம எனர்ஜியா இருக்கேன்.",
-     "tl": "Innaikku semma energyaa irukken."
+     "tl": "Innaikku semma energyaa irukken.",
+     "te": "ఈ రోజు చాలా ఎనర్జీగా ఉన్నాను."
     },
     {
      "id": "happy-f46cf443",
      "en": "I love my life.",
      "ta": "எனக்கு என் வாழ்க்கை ரொம்ப பிடிக்கும்.",
-     "tl": "Enakku en vaazhkkai romba pidikkum."
+     "tl": "Enakku en vaazhkkai romba pidikkum.",
+     "te": "నా జీవితం నాకు చాలా ఇష్టం."
     },
     {
      "id": "happy-923ee7c1",
      "en": "This song makes me happy.",
      "ta": "இந்த பாட்டு என்ன சந்தோஷப்படுத்துது.",
-     "tl": "Indha paattu enna santhoshappaduthudhu."
+     "tl": "Indha paattu enna santhoshappaduthudhu.",
+     "te": "ఈ పాట నన్ను సంతోషపెడుతుంది."
     },
     {
      "id": "happy-2ed9f41b",
      "en": "Today I feel like dancing.",
      "ta": "இன்னைக்கு டான்ஸ் ஆடணும் போல இருக்கு.",
-     "tl": "Innaikku dance aadanum pola irukku."
+     "tl": "Innaikku dance aadanum pola irukku.",
+     "te": "ఈ రోజు డ్యాన్స్ చేయాలనిపిస్తోంది."
     },
     {
      "id": "happy-11971b38",
      "en": "I met my old friend today.",
      "ta": "இன்னைக்கு என் பழைய ஃப்ரெண்ட பாத்தேன்.",
-     "tl": "Innaikku en pazhaiya frienda paathen."
+     "tl": "Innaikku en pazhaiya frienda paathen.",
+     "te": "ఈ రోజు నా పాత ఫ్రెండ్‌ని కలిశాను."
     },
     {
      "id": "happy-4c16fe37",
      "en": "We're all together again.",
      "ta": "நாம எல்லாரும் மறுபடியும் ஒண்ணா இருக்கோம்.",
-     "tl": "Naama ellaarum marubadiyum onnaa irukkom."
+     "tl": "Naama ellaarum marubadiyum onnaa irukkom.",
+     "te": "మనమందరం మళ్ళీ కలిసి ఉన్నాం."
     },
     {
      "id": "happy-dda3a200",
      "en": "My wish came true.",
      "ta": "என் ஆசை நிறைவேறிடுச்சு.",
-     "tl": "En aasai niraiveriduchu."
+     "tl": "En aasai niraiveriduchu.",
+     "te": "నా కోరిక తీరింది."
     },
     {
      "id": "happy-14141448",
      "en": "I'm really looking forward to it.",
      "ta": "நான் அதுக்காக ஆவலா காத்திருக்கேன்.",
-     "tl": "Naan adhukkaaga aavalaa kaathirukken."
+     "tl": "Naan adhukkaaga aavalaa kaathirukken.",
+     "te": "దాని కోసం ఆత్రంగా ఎదురుచూస్తున్నాను."
     },
     {
      "id": "happy-6b1da7c1",
      "en": "Good things are happening.",
      "ta": "நல்ல விஷயங்கள் நடக்குது.",
-     "tl": "Nalla vishayangal nadakkudhu."
+     "tl": "Nalla vishayangal nadakkudhu.",
+     "te": "మంచి విషయాలు జరుగుతున్నాయి."
     },
     {
      "id": "happy-47aa2927",
      "en": "You did it!",
      "ta": "நீ சாதிச்சிட்ட!",
-     "tl": "Nee saadhichitta!"
+     "tl": "Nee saadhichitta!",
+     "te": "నువ్వు సాధించావు!"
     },
     {
      "id": "happy-dc370a1a",
      "en": "Well done!",
      "ta": "சூப்பர், நல்லா பண்ண!",
-     "tl": "Super, nallaa panna!"
+     "tl": "Super, nallaa panna!",
+     "te": "సూపర్, బాగా చేశావు!"
     },
     {
      "id": "happy-d6e6ce3b",
      "en": "I'm so excited!",
      "ta": "எனக்கு செம்ம எக்சைட்டிங்கா இருக்கு!",
-     "tl": "Enakku semma excitingaa irukku!"
+     "tl": "Enakku semma excitingaa irukku!",
+     "te": "నాకు చాలా ఎక్సైటింగ్‌గా ఉంది!"
     },
     {
      "id": "happy-c2f00f1a",
      "en": "We laughed all night.",
      "ta": "நாங்க ராத்திரி முழுக்க சிரிச்சோம்.",
-     "tl": "Naanga raathiri muzhukka sirichom."
+     "tl": "Naanga raathiri muzhukka sirichom.",
+     "te": "మేము రాత్రంతా నవ్వుకున్నాం."
     },
     {
      "id": "happy-da728acb",
      "en": "Happy new year!",
      "ta": "புத்தாண்டு வாழ்த்துக்கள்!",
-     "tl": "Puthaandu vaazhthukkal!"
+     "tl": "Puthaandu vaazhthukkal!",
+     "te": "నూతన సంవత్సర శుభాకాంక్షలు!"
     },
     {
      "id": "happy-edbfacf6",
      "en": "Happy Pongal!",
      "ta": "பொங்கல் வாழ்த்துக்கள்!",
-     "tl": "Pongal vaazhthukkal!"
+     "tl": "Pongal vaazhthukkal!",
+     "te": "సంక్రాంతి శుభాకాంక్షలు!"
     },
     {
      "id": "happy-62499acf",
      "en": "Happy Diwali!",
      "ta": "தீபாவளி வாழ்த்துக்கள்!",
-     "tl": "Deepaavali vaazhthukkal!"
+     "tl": "Deepaavali vaazhthukkal!",
+     "te": "దీపావళి శుభాకాంక్షలు!"
     },
     {
      "id": "happy-18614644",
      "en": "My heart is full.",
      "ta": "என் மனசு நிறைஞ்சிருக்கு.",
-     "tl": "En manasu nirainjirukku."
+     "tl": "En manasu nirainjirukku.",
+     "te": "నా మనసు నిండిపోయింది."
     },
     {
      "id": "happy-23ff0f54",
      "en": "That's wonderful!",
      "ta": "அது அருமை!",
-     "tl": "Adhu arumai!"
+     "tl": "Adhu arumai!",
+     "te": "అది అద్భుతం!"
     },
     {
      "id": "happy-1d3f2987",
      "en": "I'm feeling peaceful.",
      "ta": "மனசு அமைதியா இருக்கு.",
-     "tl": "Manasu amaidhiyaa irukku."
+     "tl": "Manasu amaidhiyaa irukku.",
+     "te": "మనసు ప్రశాంతంగా ఉంది."
     },
     {
      "id": "happy-0c48f108",
      "en": "I slept well last night.",
      "ta": "நேத்து ராத்திரி நல்லா தூங்குனேன்.",
-     "tl": "Nethu raathiri nallaa thoongunen."
+     "tl": "Nethu raathiri nallaa thoongunen.",
+     "te": "నిన్న రాత్రి బాగా నిద్రపోయాను."
     },
     {
      "id": "happy-2f7e126e",
      "en": "I'm happy with my new job.",
      "ta": "என் புது வேலை எனக்கு பிடிச்சிருக்கு.",
-     "tl": "En pudhu velai enakku pidichirukku."
+     "tl": "En pudhu velai enakku pidichirukku.",
+     "te": "నా కొత్త ఉద్యోగం నాకు నచ్చింది."
     },
     {
      "id": "happy-7a681eda",
      "en": "Everything worked out.",
      "ta": "எல்லாம் நல்லபடியா முடிஞ்சுது.",
-     "tl": "Ellaam nallapadiyaa mudinjudhu."
+     "tl": "Ellaam nallapadiyaa mudinjudhu.",
+     "te": "అంతా మంచిగా జరిగిపోయింది."
     },
     {
      "id": "happy-70d36cbb",
      "en": "I'm grateful for everything.",
      "ta": "எல்லாத்துக்கும் நன்றியா இருக்கேன்.",
-     "tl": "Ellaathukkum nandriyaa irukken."
+     "tl": "Ellaathukkum nandriyaa irukken.",
+     "te": "అన్నిటికీ కృతజ్ఞతతో ఉన్నాను."
     },
     {
      "id": "happy-b6fce079",
      "en": "My dog is so happy to see me.",
      "ta": "என்ன பாத்ததும் என் நாய் செம்ம குஷியாயிடுச்சு.",
-     "tl": "Enna paathadhum en naai semma kushiyaayiduchu."
+     "tl": "Enna paathadhum en naai semma kushiyaayiduchu.",
+     "te": "నన్ను చూడగానే మా కుక్క చాలా హ్యాపీ అయిపోయింది."
     },
     {
      "id": "happy-bdac1cf1",
      "en": "The house looks beautiful.",
      "ta": "வீடு அழகா இருக்கு.",
-     "tl": "Veedu azhagaa irukku."
+     "tl": "Veedu azhagaa irukku.",
+     "te": "ఇల్లు అందంగా ఉంది."
     },
     {
      "id": "happy-11e5dc59",
      "en": "I'm so relieved.",
      "ta": "இப்பதான் நிம்மதியா இருக்கு.",
-     "tl": "Ippadhaan nimmadhiyaa irukku."
+     "tl": "Ippadhaan nimmadhiyaa irukku.",
+     "te": "ఇప్పుడే ప్రశాంతంగా ఉంది."
     },
     {
      "id": "happy-415f1412",
      "en": "Yay!",
      "ta": "ஹைய்யா!",
-     "tl": "Haiyyaa!"
+     "tl": "Haiyyaa!",
+     "te": "హాయ్యా!"
     },
     {
      "id": "happy-8c7fff28",
      "en": "We bought a new house.",
      "ta": "நாங்க புது வீடு வாங்கிட்டோம்.",
-     "tl": "Naanga pudhu veedu vaangittom."
+     "tl": "Naanga pudhu veedu vaangittom.",
+     "te": "మేము కొత్త ఇల్లు కొన్నాం."
     },
     {
      "id": "happy-184e2890",
      "en": "It's the weekend!",
      "ta": "வீக்கெண்ட் வந்துடுச்சு!",
-     "tl": "Weekend vandhuduchu!"
+     "tl": "Weekend vandhuduchu!",
+     "te": "వీకెండ్ వచ్చేసింది!"
     },
     {
      "id": "happy-12e525d5",
      "en": "Mom made my favorite food.",
      "ta": "அம்மா எனக்கு பிடிச்ச சாப்பாடு செஞ்சாங்க.",
-     "tl": "Amma enakku pidicha saappaadu senjaanga."
+     "tl": "Amma enakku pidicha saappaadu senjaanga.",
+     "te": "అమ్మ నాకు ఇష్టమైన వంట చేసింది."
     },
     {
      "id": "happy-ceb43670",
      "en": "I'm happy to see you.",
      "ta": "உன்ன பாத்ததுல சந்தோஷம்.",
-     "tl": "Unna paathadhula santhosham."
+     "tl": "Unna paathadhula santhosham.",
+     "te": "నిన్ను చూసి సంతోషంగా ఉంది."
     },
     {
      "id": "happy-19450706",
      "en": "Smile more!",
      "ta": "இன்னும் கொஞ்சம் சிரி!",
-     "tl": "Innum konjam siri!"
+     "tl": "Innum konjam siri!",
+     "te": "ఇంకొంచెం నవ్వు!"
     },
     {
      "id": "happy-6a188b01",
      "en": "Let's go out and have fun.",
      "ta": "வெளிய போய் ஜாலியா இருக்கலாம்.",
-     "tl": "Veliya poi jaaliyaa irukkalaam."
+     "tl": "Veliya poi jaaliyaa irukkalaam.",
+     "te": "బయటకి వెళ్ళి సరదాగా గడుపుదాం."
     },
     {
      "id": "happy-8f915d8d",
      "en": "I'm in love with this place.",
      "ta": "இந்த இடம் எனக்கு ரொம்ப பிடிச்சிருக்கு.",
-     "tl": "Indha idam enakku romba pidichirukku."
+     "tl": "Indha idam enakku romba pidichirukku.",
+     "te": "ఈ ప్లేస్ నాకు చాలా నచ్చింది."
     },
     {
      "id": "happy-fff32cda",
      "en": "That joke was so funny.",
      "ta": "அந்த ஜோக் செம்ம காமெடியா இருந்துச்சு.",
-     "tl": "Andha joke semma comedyaa irundhuchu."
+     "tl": "Andha joke semma comedyaa irundhuchu.",
+     "te": "ఆ జోక్ చాలా కామెడీగా ఉంది."
     },
     {
      "id": "happy-2d2d82f7",
      "en": "I couldn't stop laughing.",
      "ta": "என்னால சிரிப்ப அடக்கவே முடியல.",
-     "tl": "Ennaala sirippa adakkave mudiyala."
+     "tl": "Ennaala sirippa adakkave mudiyala.",
+     "te": "నవ్వు ఆపుకోలేకపోయాను."
     },
     {
      "id": "happy-a076cead",
      "en": "I won a prize!",
      "ta": "எனக்கு பரிசு கிடைச்சுது!",
-     "tl": "Enakku parisu kidaichudhu!"
+     "tl": "Enakku parisu kidaichudhu!",
+     "te": "నాకు బహుమతి వచ్చింది!"
     },
     {
      "id": "happy-7702759b",
      "en": "Everyone is happy at home.",
      "ta": "வீட்ல எல்லாரும் சந்தோஷமா இருக்காங்க.",
-     "tl": "Veetla ellaarum santhoshamaa irukkaanga."
+     "tl": "Veetla ellaarum santhoshamaa irukkaanga.",
+     "te": "ఇంట్లో అందరూ సంతోషంగా ఉన్నారు."
     },
     {
      "id": "happy-ca65d902",
      "en": "I'm so happy I could cry.",
      "ta": "சந்தோஷத்துல அழுகையே வருது.",
-     "tl": "Santhoshathula azhugaiye varudhu."
+     "tl": "Santhoshathula azhugaiye varudhu.",
+     "te": "సంతోషంతో ఏడుపు వస్తోంది."
     }
-   ]
+   ],
+   "teCount": 99
   },
   {
    "id": "sad",
@@ -626,603 +726,704 @@ window.PP_DATA = {
      "id": "sad-8d2a1d91",
      "en": "I'm feeling low today.",
      "ta": "இன்னைக்கு மனசு சரியில்ல.",
-     "tl": "Innaikku manasu sariyilla."
+     "tl": "Innaikku manasu sariyilla.",
+     "te": "ఈ రోజు మనసు బాలేదు."
     },
     {
      "id": "sad-82970f0c",
      "en": "I'm very sad.",
      "ta": "நான் ரொம்ப சோகமா இருக்கேன்.",
-     "tl": "Naan romba sogamaa irukken."
+     "tl": "Naan romba sogamaa irukken.",
+     "te": "నేను చాలా బాధగా ఉన్నాను."
     },
     {
      "id": "sad-b30ac298",
      "en": "I miss you a lot.",
      "ta": "உன்ன ரொம்ப மிஸ் பண்றேன்.",
-     "tl": "Unna romba miss panren."
+     "tl": "Unna romba miss panren.",
+     "te": "నిన్ను చాలా మిస్ అవుతున్నాను."
     },
     {
      "id": "sad-bad66b16",
      "en": "I miss home.",
      "ta": "எனக்கு வீட்டு ஞாபகமா இருக்கு.",
-     "tl": "Enakku veettu nyaabagamaa irukku."
+     "tl": "Enakku veettu nyaabagamaa irukku.",
+     "te": "ఇల్లు గుర్తొస్తోంది."
     },
     {
      "id": "sad-a83b0037",
      "en": "Nobody understands me.",
      "ta": "யாருக்கும் என்ன புரியல.",
-     "tl": "Yaarukkum enna puriyala."
+     "tl": "Yaarukkum enna puriyala.",
+     "te": "నన్ను ఎవరూ అర్థం చేసుకోవట్లేదు."
     },
     {
      "id": "sad-813a327d",
      "en": "I feel lonely.",
      "ta": "தனிமையா இருக்கு.",
-     "tl": "Thanimaiyaa irukku."
+     "tl": "Thanimaiyaa irukku.",
+     "te": "ఒంటరిగా అనిపిస్తోంది."
     },
     {
      "id": "sad-877c7b18",
      "en": "I couldn't sleep last night.",
      "ta": "நேத்து ராத்திரி தூக்கமே வரல.",
-     "tl": "Nethu raathiri thookkame varala."
+     "tl": "Nethu raathiri thookkame varala.",
+     "te": "నిన్న రాత్రి నిద్రే పట్టలేదు."
     },
     {
      "id": "sad-05ca05b8",
      "en": "He left without saying a word.",
      "ta": "அவன் சொல்லாம கொள்ளாம போயிட்டான்.",
-     "tl": "Avan sollaama kollaama poyittaan."
+     "tl": "Avan sollaama kollaama poyittaan.",
+     "te": "వాడు ఒక్క మాట కూడా చెప్పకుండా వెళ్ళిపోయాడు."
     },
     {
      "id": "sad-20d857c6",
      "en": "My heart is broken.",
      "ta": "என் மனசு உடைஞ்சு போச்சு.",
-     "tl": "En manasu udainju pochu."
+     "tl": "En manasu udainju pochu.",
+     "te": "నా మనసు విరిగిపోయింది."
     },
     {
      "id": "sad-31ce9e4f",
      "en": "I failed the exam.",
      "ta": "நான் எக்ஸாம்ல ஃபெயில் ஆயிட்டேன்.",
-     "tl": "Naan examla fail aayitten."
+     "tl": "Naan examla fail aayitten.",
+     "te": "నేను పరీక్షలో ఫెయిల్ అయ్యాను."
     },
     {
      "id": "sad-02b293cc",
      "en": "I lost my job.",
      "ta": "என் வேலை போயிடுச்சு.",
-     "tl": "En velai poyiduchu."
+     "tl": "En velai poyiduchu.",
+     "te": "నా ఉద్యోగం పోయింది."
     },
     {
      "id": "sad-738a2058",
      "en": "Everything went wrong today.",
      "ta": "இன்னைக்கு எல்லாமே தப்பா போச்சு.",
-     "tl": "Innaikku ellaame thappaa pochu."
+     "tl": "Innaikku ellaame thappaa pochu.",
+     "te": "ఈ రోజు అంతా తప్పుగా జరిగింది."
     },
     {
      "id": "sad-d030012d",
      "en": "Don't cry.",
      "ta": "அழாத.",
-     "tl": "Azhaadha."
+     "tl": "Azhaadha.",
+     "te": "ఏడవకు."
     },
     {
      "id": "sad-994bb045",
      "en": "Why are you crying?",
      "ta": "ஏன் அழுற?",
-     "tl": "Yen azhura?"
+     "tl": "Yen azhura?",
+     "te": "ఎందుకు ఏడుస్తున్నావు?"
     },
     {
      "id": "sad-2c1ebdae",
      "en": "I feel like crying.",
      "ta": "எனக்கு அழணும் போல இருக்கு.",
-     "tl": "Enakku azhanum pola irukku."
+     "tl": "Enakku azhanum pola irukku.",
+     "te": "నాకు ఏడవాలనిపిస్తోంది."
     },
     {
      "id": "sad-38554b4e",
      "en": "My heart hurts.",
      "ta": "மனசு வலிக்குது.",
-     "tl": "Manasu valikkudhu."
+     "tl": "Manasu valikkudhu.",
+     "te": "మనసు నొప్పిగా ఉంది."
     },
     {
      "id": "sad-6cde9e6a",
      "en": "I'm tired of everything.",
      "ta": "எல்லாத்தையும் நினைச்சா சோர்வா இருக்கு.",
-     "tl": "Ellaathaiyum ninaichaa sorvaa irukku."
+     "tl": "Ellaathaiyum ninaichaa sorvaa irukku.",
+     "te": "అన్నిటితో అలసిపోయాను."
     },
     {
      "id": "sad-d2cf4c59",
      "en": "Nothing makes me happy anymore.",
      "ta": "இப்பல்லாம் எதுவுமே சந்தோஷம் தரல.",
-     "tl": "Ippallaam edhuvume santhosham tharala."
+     "tl": "Ippallaam edhuvume santhosham tharala.",
+     "te": "ఇప్పుడు ఏదీ సంతోషం ఇవ్వట్లేదు."
     },
     {
      "id": "sad-831bb3e8",
      "en": "I wish you were here.",
      "ta": "நீ இங்க இருந்திருக்கலாம்னு தோணுது.",
-     "tl": "Nee inga irundhirukkalaamnu thonudhu."
+     "tl": "Nee inga irundhirukkalaamnu thonudhu.",
+     "te": "నువ్వు ఇక్కడ ఉంటే బాగుండేదనిపిస్తోంది."
     },
     {
      "id": "sad-5a31e7ff",
      "en": "Our dog passed away.",
      "ta": "எங்க நாய் இறந்துடுச்சு.",
-     "tl": "Enga naai irandhuduchu."
+     "tl": "Enga naai irandhuduchu.",
+     "te": "మా కుక్క చనిపోయింది."
     },
     {
      "id": "sad-73e95b9e",
      "en": "I'm sorry for your loss.",
      "ta": "உங்க இழப்புக்கு வருந்தறேன்.",
-     "tl": "Unga izhappukku varundharen."
+     "tl": "Unga izhappukku varundharen.",
+     "te": "మీ నష్టానికి బాధపడుతున్నాను."
     },
     {
      "id": "sad-cecc6563",
      "en": "I don't feel like talking.",
      "ta": "எனக்கு பேசவே தோணல.",
-     "tl": "Enakku pesave thonala."
+     "tl": "Enakku pesave thonala.",
+     "te": "నాకు మాట్లాడాలనిపించట్లేదు."
     },
     {
      "id": "sad-13667aa7",
      "en": "Leave me alone.",
      "ta": "என்ன தனியா விடு.",
-     "tl": "Enna thaniyaa vidu."
+     "tl": "Enna thaniyaa vidu.",
+     "te": "నన్ను ఒంటరిగా వదిలేయ్."
     },
     {
      "id": "sad-22df6793",
      "en": "I feel empty.",
      "ta": "மனசு வெறுமையா இருக்கு.",
-     "tl": "Manasu verumaiyaa irukku."
+     "tl": "Manasu verumaiyaa irukku.",
+     "te": "మనసు ఖాళీగా ఉంది."
     },
     {
      "id": "sad-24a341b3",
      "en": "She didn't call me.",
      "ta": "அவ எனக்கு கால் பண்ணல.",
-     "tl": "Ava enakku call pannala."
+     "tl": "Ava enakku call pannala.",
+     "te": "ఆమె నాకు కాల్ చేయలేదు."
     },
     {
      "id": "sad-d237651c",
      "en": "I'm disappointed.",
      "ta": "எனக்கு ஏமாற்றமா இருக்கு.",
-     "tl": "Enakku emaatramaa irukku."
+     "tl": "Enakku emaatramaa irukku.",
+     "te": "నాకు నిరాశగా ఉంది."
     },
     {
      "id": "sad-8e4e75d8",
      "en": "It's raining and I'm alone.",
      "ta": "மழை பெய்யுது, நான் தனியா இருக்கேன்.",
-     "tl": "Mazhai peyyudhu, naan thaniyaa irukken."
+     "tl": "Mazhai peyyudhu, naan thaniyaa irukken.",
+     "te": "వర్షం పడుతోంది, నేను ఒంటరిగా ఉన్నాను."
     },
     {
      "id": "sad-bee58396",
      "en": "Things will get better.",
      "ta": "எல்லாம் சரியாயிடும்.",
-     "tl": "Ellaam sariyaayidum."
+     "tl": "Ellaam sariyaayidum.",
+     "te": "అంతా సర్దుకుంటుంది."
     },
     {
      "id": "sad-62d022d3",
      "en": "I'm here for you.",
      "ta": "நான் உனக்காக இருக்கேன்.",
-     "tl": "Naan unakkaaga irukken."
+     "tl": "Naan unakkaaga irukken.",
+     "te": "నీ కోసం నేను ఉన్నాను."
     },
     {
      "id": "sad-6dda2e49",
      "en": "Please don't leave me.",
      "ta": "ப்ளீஸ், என்ன விட்டுட்டு போகாத.",
-     "tl": "Please, enna vittuttu pogaadha."
+     "tl": "Please, enna vittuttu pogaadha.",
+     "te": "ప్లీజ్, నన్ను వదిలి వెళ్ళకు."
     },
     {
      "id": "sad-24d19727",
      "en": "I'm heartbroken.",
      "ta": "என் இதயம் நொறுங்கிடுச்சு.",
-     "tl": "En idhayam norungiduchu."
+     "tl": "En idhayam norungiduchu.",
+     "te": "నా గుండె పగిలిపోయింది."
     },
     {
      "id": "sad-595e80e3",
      "en": "She broke up with me.",
      "ta": "அவ என்ன விட்டு பிரிஞ்சு போயிட்டா.",
-     "tl": "Ava enna vittu pirinju poyittaa."
+     "tl": "Ava enna vittu pirinju poyittaa.",
+     "te": "ఆమె నాతో బ్రేకప్ చేసుకుంది."
     },
     {
      "id": "sad-0087feb2",
      "en": "I feel like giving up.",
      "ta": "எல்லாத்தையும் விட்டுடலாம்னு தோணுது.",
-     "tl": "Ellaathaiyum vittudalaamnu thonudhu."
+     "tl": "Ellaathaiyum vittudalaamnu thonudhu.",
+     "te": "అన్నీ వదిలేయాలనిపిస్తోంది."
     },
     {
      "id": "sad-7f7f39b4",
      "en": "No one cares about me.",
      "ta": "என்ன யாரும் கண்டுக்கல.",
-     "tl": "Enna yaarum kandukkala."
+     "tl": "Enna yaarum kandukkala.",
+     "te": "నన్ను ఎవరూ పట్టించుకోవట్లేదు."
     },
     {
      "id": "sad-86ae1280",
      "en": "I'm crying inside.",
      "ta": "உள்ளுக்குள்ள அழுதுட்டு இருக்கேன்.",
-     "tl": "Ullukkulla azhudhuttu irukken."
+     "tl": "Ullukkulla azhudhuttu irukken.",
+     "te": "లోలోపల ఏడుస్తున్నాను."
     },
     {
      "id": "sad-6476f952",
      "en": "I lost my wallet.",
      "ta": "என் பர்ஸ் தொலைஞ்சு போச்சு.",
-     "tl": "En purse tholainju pochu."
+     "tl": "En purse tholainju pochu.",
+     "te": "నా పర్స్ పోయింది."
     },
     {
      "id": "sad-f1236162",
      "en": "My grandmother passed away.",
      "ta": "என் பாட்டி இறந்துட்டாங்க.",
-     "tl": "En paatti irandhuttaanga."
+     "tl": "En paatti irandhuttaanga.",
+     "te": "మా నానమ్మ చనిపోయారు."
     },
     {
      "id": "sad-acc0d4a0",
      "en": "I feel hopeless.",
      "ta": "நம்பிக்கையே இல்லாம இருக்கு.",
-     "tl": "Nambikkaiye illaama irukku."
+     "tl": "Nambikkaiye illaama irukku.",
+     "te": "ఆశే లేనట్టు ఉంది."
     },
     {
      "id": "sad-f2a04eb4",
      "en": "Why does this always happen to me?",
      "ta": "ஏன் எனக்கு மட்டும் எப்பவும் இப்படி நடக்குது?",
-     "tl": "Yen enakku mattum eppavum ippadi nadakkudhu?"
+     "tl": "Yen enakku mattum eppavum ippadi nadakkudhu?",
+     "te": "ఎప్పుడూ నాకే ఎందుకు ఇలా జరుగుతుంది?"
     },
     {
      "id": "sad-f77c1115",
      "en": "I'm not okay.",
      "ta": "நான் நல்லா இல்ல.",
-     "tl": "Naan nallaa illa."
+     "tl": "Naan nallaa illa.",
+     "te": "నేను బాగా లేను."
     },
     {
      "id": "sad-1e6d9589",
      "en": "I need someone to talk to.",
      "ta": "பேசறதுக்கு எனக்கு ஒருத்தர் வேணும்.",
-     "tl": "Pesaradhukku enakku oruthar venum."
+     "tl": "Pesaradhukku enakku oruthar venum.",
+     "te": "మాట్లాడటానికి నాకు ఎవరైనా కావాలి."
     },
     {
      "id": "sad-d68ed139",
      "en": "My friend moved away.",
      "ta": "என் ஃப்ரெண்ட் வேற ஊருக்கு போயிட்டான்.",
-     "tl": "En friend vera oorukku poyittaan."
+     "tl": "En friend vera oorukku poyittaan.",
+     "te": "నా ఫ్రెండ్ వేరే ఊరికి వెళ్ళిపోయాడు."
     },
     {
      "id": "sad-48602c01",
      "en": "I'm so tired of life.",
      "ta": "வாழ்க்கையே சலிச்சு போச்சு.",
-     "tl": "Vaazhkkaiye salichu pochu."
+     "tl": "Vaazhkkaiye salichu pochu.",
+     "te": "జీవితమే విసుగొచ్చేసింది."
     },
     {
      "id": "sad-be0222c9",
      "en": "It hurts so much.",
      "ta": "ரொம்ப வலிக்குது.",
-     "tl": "Romba valikkudhu."
+     "tl": "Romba valikkudhu.",
+     "te": "చాలా నొప్పిగా ఉంది."
     },
     {
      "id": "sad-40352202",
      "en": "I wasn't invited.",
      "ta": "என்ன யாரும் கூப்பிடல.",
-     "tl": "Enna yaarum koopidala."
+     "tl": "Enna yaarum koopidala.",
+     "te": "నన్ను ఎవరూ పిలవలేదు."
     },
     {
      "id": "sad-94b56289",
      "en": "They forgot my birthday.",
      "ta": "அவங்க என் பிறந்தநாள மறந்துட்டாங்க.",
-     "tl": "Avanga en pirandhanaala marandhuttaanga."
+     "tl": "Avanga en pirandhanaala marandhuttaanga.",
+     "te": "వాళ్ళు నా పుట్టినరోజు మర్చిపోయారు."
     },
     {
      "id": "sad-0d35fbb0",
      "en": "Everyone left.",
      "ta": "எல்லாரும் போயிட்டாங்க.",
-     "tl": "Ellaarum poyittaanga."
+     "tl": "Ellaarum poyittaanga.",
+     "te": "అందరూ వెళ్ళిపోయారు."
     },
     {
      "id": "sad-b18872d6",
      "en": "I'm all alone now.",
      "ta": "இப்ப நான் தனியா இருக்கேன்.",
-     "tl": "Ippa naan thaniyaa irukken."
+     "tl": "Ippa naan thaniyaa irukken.",
+     "te": "ఇప్పుడు నేను ఒంటరిగా ఉన్నాను."
     },
     {
      "id": "sad-d0ff6d39",
      "en": "I don't want to eat.",
      "ta": "எனக்கு சாப்பிட தோணல.",
-     "tl": "Enakku saappida thonala."
+     "tl": "Enakku saappida thonala.",
+     "te": "నాకు తినాలనిపించట్లేదు."
     },
     {
      "id": "sad-ce70a334",
      "en": "My plans got cancelled.",
      "ta": "என் ப்ளான் கேன்சல் ஆயிடுச்சு.",
-     "tl": "En plan cancel aayiduchu."
+     "tl": "En plan cancel aayiduchu.",
+     "te": "నా ప్లాన్ క్యాన్సిల్ అయిపోయింది."
     },
     {
      "id": "sad-f8117b34",
      "en": "I didn't get the job.",
      "ta": "எனக்கு வேலை கிடைக்கல.",
-     "tl": "Enakku velai kidaikkala."
+     "tl": "Enakku velai kidaikkala.",
+     "te": "నాకు ఉద్యోగం రాలేదు."
     },
     {
      "id": "sad-03c02b40",
      "en": "I'm worried about my father.",
      "ta": "அப்பாவ நினைச்சா கவலையா இருக்கு.",
-     "tl": "Appaava ninaichaa kavalaiyaa irukku."
+     "tl": "Appaava ninaichaa kavalaiyaa irukku.",
+     "te": "నాన్న గురించి దిగులుగా ఉంది."
     },
     {
      "id": "sad-39a36eb5",
      "en": "He is in the hospital.",
      "ta": "அவர் ஆஸ்பத்திரில இருக்காரு.",
-     "tl": "Avar aaspathirila irukkaaru."
+     "tl": "Avar aaspathirila irukkaaru.",
+     "te": "ఆయన హాస్పిటల్‌లో ఉన్నారు."
     },
     {
      "id": "sad-b22b9ac9",
      "en": "I feel useless.",
      "ta": "நான் எதுக்கும் உதவாத மாதிரி இருக்கு.",
-     "tl": "Naan edhukkum udhavaadha maadhiri irukku."
+     "tl": "Naan edhukkum udhavaadha maadhiri irukku.",
+     "te": "నేను దేనికీ పనికిరానట్టు ఉంది."
     },
     {
      "id": "sad-64cebaf7",
      "en": "My tears won't stop.",
      "ta": "கண்ணீர் நிக்கவே மாட்டேங்குது.",
-     "tl": "Kanneer nikkave maattengudhu."
+     "tl": "Kanneer nikkave maattengudhu.",
+     "te": "కన్నీళ్ళు ఆగట్లేదు."
     },
     {
      "id": "sad-398ba422",
      "en": "I can't forget her.",
      "ta": "என்னால அவள மறக்க முடியல.",
-     "tl": "Ennaala avala marakka mudiyala."
+     "tl": "Ennaala avala marakka mudiyala.",
+     "te": "ఆమెను మర్చిపోలేకపోతున్నాను."
     },
     {
      "id": "sad-36874c42",
      "en": "Those days were better.",
      "ta": "அந்த நாள் நல்லா இருந்துச்சு.",
-     "tl": "Andha naal nallaa irundhuchu."
+     "tl": "Andha naal nallaa irundhuchu.",
+     "te": "ఆ రోజులు బాగుండేవి."
     },
     {
      "id": "sad-765e19fb",
      "en": "I miss my childhood.",
      "ta": "என் சின்ன வயசு ஞாபகம் வருது.",
-     "tl": "En chinna vayasu nyaabagam varudhu."
+     "tl": "En chinna vayasu nyaabagam varudhu.",
+     "te": "నా చిన్నతనం గుర్తొస్తోంది."
     },
     {
      "id": "sad-8d770e1c",
      "en": "Nothing is going right.",
      "ta": "எதுவுமே சரியா போகல.",
-     "tl": "Edhuvume sariyaa pogala."
+     "tl": "Edhuvume sariyaa pogala.",
+     "te": "ఏదీ సరిగ్గా జరగట్లేదు."
     },
     {
      "id": "sad-e545274c",
      "en": "I'm feeling down.",
      "ta": "கொஞ்சம் டல்லா இருக்கேன்.",
-     "tl": "Konjam dullaa irukken."
+     "tl": "Konjam dullaa irukken.",
+     "te": "కొంచెం డల్‌గా ఉన్నాను."
     },
     {
      "id": "sad-0bf225d0",
      "en": "You hurt my feelings.",
      "ta": "நீ என் மனச காயப்படுத்திட்ட.",
-     "tl": "Nee en manasa kaayappaduthitta."
+     "tl": "Nee en manasa kaayappaduthitta.",
+     "te": "నువ్వు నా మనసు నొప్పించావు."
     },
     {
      "id": "sad-1f52c75a",
      "en": "I trusted you.",
      "ta": "நான் உன்ன நம்புனேன்.",
-     "tl": "Naan unna nambunen."
+     "tl": "Naan unna nambunen.",
+     "te": "నేను నిన్ను నమ్మాను."
     },
     {
      "id": "sad-59890a3b",
      "en": "I feel betrayed.",
      "ta": "ஏமாந்து போன மாதிரி இருக்கு.",
-     "tl": "Emaandhu pona maadhiri irukku."
+     "tl": "Emaandhu pona maadhiri irukku.",
+     "te": "మోసపోయినట్టు ఉంది."
     },
     {
      "id": "sad-f0933361",
      "en": "We had a big fight.",
      "ta": "எங்களுக்குள்ள பெரிய சண்டை.",
-     "tl": "Engalukkulla periya sandai."
+     "tl": "Engalukkulla periya sandai.",
+     "te": "మా మధ్య పెద్ద గొడవ అయింది."
     },
     {
      "id": "sad-b54a25aa",
      "en": "I can't stop thinking about it.",
      "ta": "அத பத்தியே யோசிச்சுட்டு இருக்கேன்.",
-     "tl": "Adha pathiye yosichuttu irukken."
+     "tl": "Adha pathiye yosichuttu irukken.",
+     "te": "దాని గురించే ఆలోచిస్తున్నాను."
     },
     {
      "id": "sad-03d04ee1",
      "en": "I just want to sleep.",
      "ta": "எனக்கு தூங்கணும், அவ்ளோதான்.",
-     "tl": "Enakku thoonganum, avlodhaan."
+     "tl": "Enakku thoonganum, avlodhaan.",
+     "te": "నాకు నిద్రపోవాలి, అంతే."
     },
     {
      "id": "sad-e7ea5b09",
      "en": "Today was a bad day.",
      "ta": "இன்னைக்கு மோசமான நாள்.",
-     "tl": "Innaikku mosamaana naal."
+     "tl": "Innaikku mosamaana naal.",
+     "te": "ఈ రోజు చెడ్డ రోజు."
     },
     {
      "id": "sad-9012a86a",
      "en": "I'm sick.",
      "ta": "எனக்கு உடம்பு சரியில்ல.",
-     "tl": "Enakku udambu sariyilla."
+     "tl": "Enakku udambu sariyilla.",
+     "te": "నాకు ఒంట్లో బాలేదు."
     },
     {
      "id": "sad-3204b91c",
      "en": "My phone broke.",
      "ta": "என் ஃபோன் உடைஞ்சு போச்சு.",
-     "tl": "En phone udainju pochu."
+     "tl": "En phone udainju pochu.",
+     "te": "నా ఫోన్ పగిలిపోయింది."
     },
     {
      "id": "sad-d3573faa",
      "en": "I feel invisible.",
      "ta": "என்ன யாரும் கவனிக்கவே இல்ல.",
-     "tl": "Enna yaarum kavanikkave illa."
+     "tl": "Enna yaarum kavanikkave illa.",
+     "te": "నన్ను ఎవరూ గమనించట్లేదు."
     },
     {
      "id": "sad-aec2d485",
      "en": "Don't be sad.",
      "ta": "சோகமா இருக்காத.",
-     "tl": "Sogamaa irukkaadha."
+     "tl": "Sogamaa irukkaadha.",
+     "te": "బాధపడకు."
     },
     {
      "id": "sad-3a90e6cd",
      "en": "Cheer up.",
      "ta": "கவலைப்படாத.",
-     "tl": "Kavalaippadaadha."
+     "tl": "Kavalaippadaadha.",
+     "te": "దిగులు పడకు."
     },
     {
      "id": "sad-0be84a8d",
      "en": "It's okay to cry.",
      "ta": "அழுதா பரவாயில்ல.",
-     "tl": "Azhudhaa paravaayilla."
+     "tl": "Azhudhaa paravaayilla.",
+     "te": "ఏడిస్తే పర్వాలేదు."
     },
     {
      "id": "sad-a60e28ac",
      "en": "Tell me what happened.",
      "ta": "என்ன ஆச்சுன்னு சொல்லு.",
-     "tl": "Enna aachunnu sollu."
+     "tl": "Enna aachunnu sollu.",
+     "te": "ఏం జరిగిందో చెప్పు."
     },
     {
      "id": "sad-01070dcd",
      "en": "Are you okay?",
      "ta": "நீ ஓகேவா?",
-     "tl": "Nee okevaa?"
+     "tl": "Nee okevaa?",
+     "te": "నువ్వు ఓకేనా?"
     },
     {
      "id": "sad-4db4375e",
      "en": "You're not alone.",
      "ta": "நீ தனியா இல்ல.",
-     "tl": "Nee thaniyaa illa."
+     "tl": "Nee thaniyaa illa.",
+     "te": "నువ్వు ఒంటరివి కాదు."
     },
     {
      "id": "sad-9a518cbf",
      "en": "I'm sorry this happened.",
      "ta": "இப்படி ஆனதுக்கு வருத்தமா இருக்கு.",
-     "tl": "Ippadi aanadhukku varuthamaa irukku."
+     "tl": "Ippadi aanadhukku varuthamaa irukku.",
+     "te": "ఇలా జరిగినందుకు బాధగా ఉంది."
     },
     {
      "id": "sad-f76ea892",
      "en": "Time will heal it.",
      "ta": "காலம் எல்லாத்தையும் சரி பண்ணும்.",
-     "tl": "Kaalam ellaathaiyum sari pannum."
+     "tl": "Kaalam ellaathaiyum sari pannum.",
+     "te": "కాలమే అన్నీ సరిచేస్తుంది."
     },
     {
      "id": "sad-6cc8ce0b",
      "en": "I'm far from my family.",
      "ta": "நான் குடும்பத்த விட்டு தூரமா இருக்கேன்.",
-     "tl": "Naan kudumbatha vittu thooramaa irukken."
+     "tl": "Naan kudumbatha vittu thooramaa irukken.",
+     "te": "నేను కుటుంబానికి దూరంగా ఉన్నాను."
     },
     {
      "id": "sad-9089278f",
      "en": "I couldn't say goodbye.",
      "ta": "என்னால பை சொல்ல முடியல.",
-     "tl": "Ennaala bye solla mudiyala."
+     "tl": "Ennaala bye solla mudiyala.",
+     "te": "బై కూడా చెప్పలేకపోయాను."
     },
     {
      "id": "sad-fc5d701d",
      "en": "The house feels empty.",
      "ta": "வீடு வெறிச்சோடி இருக்கு.",
-     "tl": "Veedu verichodi irukku."
+     "tl": "Veedu verichodi irukku.",
+     "te": "ఇల్లు బోసిపోయినట్టు ఉంది."
     },
     {
      "id": "sad-c2e6c1d4",
      "en": "I feel lost.",
      "ta": "எங்க போறதுன்னே தெரியல.",
-     "tl": "Enga poradhunne theriyala."
+     "tl": "Enga poradhunne theriyala.",
+     "te": "ఎటు వెళ్ళాలో తెలియట్లేదు."
     },
     {
      "id": "sad-4f535195",
      "en": "My heart is heavy.",
      "ta": "மனசு கனமா இருக்கு.",
-     "tl": "Manasu ganamaa irukku."
+     "tl": "Manasu ganamaa irukku.",
+     "te": "మనసు బరువుగా ఉంది."
     },
     {
      "id": "sad-9d3c6c8c",
      "en": "I was left out.",
      "ta": "என்ன ஒதுக்கிட்டாங்க.",
-     "tl": "Enna odhukkittaanga."
+     "tl": "Enna odhukkittaanga.",
+     "te": "నన్ను పక్కన పెట్టేశారు."
     },
     {
      "id": "sad-0d1db90f",
      "en": "Nobody called me today.",
      "ta": "இன்னைக்கு யாருமே கால் பண்ணல.",
-     "tl": "Innaikku yaarume call pannala."
+     "tl": "Innaikku yaarume call pannala.",
+     "te": "ఈ రోజు ఎవరూ కాల్ చేయలేదు."
     },
     {
      "id": "sad-d36cd481",
      "en": "I'm broke.",
      "ta": "கையில காசே இல்ல.",
-     "tl": "Kaiyila kaase illa."
+     "tl": "Kaiyila kaase illa.",
+     "te": "చేతిలో డబ్బులే లేవు."
     },
     {
      "id": "sad-c167c5ef",
      "en": "I wanted to be there.",
      "ta": "நான் அங்க இருக்கணும்னு ஆசைப்பட்டேன்.",
-     "tl": "Naan anga irukkanumnu aasaippatten."
+     "tl": "Naan anga irukkanumnu aasaippatten.",
+     "te": "నేను అక్కడ ఉండాలనుకున్నాను."
     },
     {
      "id": "sad-695ddd9c",
      "en": "It's hard to smile.",
      "ta": "சிரிக்கவே கஷ்டமா இருக்கு.",
-     "tl": "Sirikkave kashtamaa irukku."
+     "tl": "Sirikkave kashtamaa irukku.",
+     "te": "నవ్వడం కూడా కష్టంగా ఉంది."
     },
     {
      "id": "sad-3cb428b4",
      "en": "I'm scared of being alone.",
      "ta": "தனியா இருக்க பயமா இருக்கு.",
-     "tl": "Thaniyaa irukka bayamaa irukku."
+     "tl": "Thaniyaa irukka bayamaa irukku.",
+     "te": "ఒంటరిగా ఉండాలంటే భయంగా ఉంది."
     },
     {
      "id": "sad-281a6610",
      "en": "I gave my best, but it wasn't enough.",
      "ta": "நான் முழு முயற்சி பண்ணேன், ஆனா போதல.",
-     "tl": "Naan muzhu muyarchi pannen, aanaa podhala."
+     "tl": "Naan muzhu muyarchi pannen, aanaa podhala.",
+     "te": "నేను పూర్తిగా ప్రయత్నించాను, కానీ సరిపోలేదు."
     },
     {
      "id": "sad-3dee84b2",
      "en": "She doesn't talk to me anymore.",
      "ta": "அவ இப்பல்லாம் என்கிட்ட பேசறதில்ல.",
-     "tl": "Ava ippallaam enkitta pesaradhilla."
+     "tl": "Ava ippallaam enkitta pesaradhilla.",
+     "te": "ఆమె ఇప్పుడు నాతో మాట్లాడట్లేదు."
     },
     {
      "id": "sad-a080749e",
      "en": "He didn't keep his promise.",
      "ta": "அவன் சொன்ன சொல்ல காப்பாத்தல.",
-     "tl": "Avan sonna solla kaappaathala."
+     "tl": "Avan sonna solla kaappaathala.",
+     "te": "వాడు ఇచ్చిన మాట నిలబెట్టుకోలేదు."
     },
     {
      "id": "sad-753d79c8",
      "en": "My flight got cancelled.",
      "ta": "என் ஃப்ளைட் கேன்சல் ஆயிடுச்சு.",
-     "tl": "En flight cancel aayiduchu."
+     "tl": "En flight cancel aayiduchu.",
+     "te": "నా ఫ్లైట్ క్యాన్సిల్ అయింది."
     },
     {
      "id": "sad-901170ae",
      "en": "I feel so small.",
      "ta": "ரொம்ப சின்னதா உணர்றேன்.",
-     "tl": "Romba chinnadhaa unarren."
+     "tl": "Romba chinnadhaa unarren.",
+     "te": "చాలా చిన్నగా అనిపిస్తోంది."
     },
     {
      "id": "sad-ed5373e0",
      "en": "Life is unfair.",
      "ta": "வாழ்க்கை நியாயமே இல்ல.",
-     "tl": "Vaazhkkai nyaayame illa."
+     "tl": "Vaazhkkai nyaayame illa.",
+     "te": "జీవితం న్యాయంగా లేదు."
     },
     {
      "id": "sad-0ebf94cc",
      "en": "I don't know what to do.",
      "ta": "என்ன பண்றதுன்னே தெரியல.",
-     "tl": "Enna panradhunne theriyala."
+     "tl": "Enna panradhunne theriyala.",
+     "te": "ఏం చేయాలో తెలియట్లేదు."
     },
     {
      "id": "sad-dbefdd30",
      "en": "I'm tired of pretending.",
      "ta": "நடிச்சு நடிச்சு அலுத்து போச்சு.",
-     "tl": "Nadichu nadichu aluthu pochu."
+     "tl": "Nadichu nadichu aluthu pochu.",
+     "te": "నటించి నటించి అలసిపోయాను."
     },
     {
      "id": "sad-d90e4e1c",
      "en": "I can't sleep without you.",
      "ta": "நீ இல்லாம தூக்கம் வரல.",
-     "tl": "Nee illaama thookkam varala."
+     "tl": "Nee illaama thookkam varala.",
+     "te": "నువ్వు లేకుండా నిద్ర పట్టట్లేదు."
     },
     {
      "id": "sad-0132c9ef",
      "en": "Hug me.",
      "ta": "என்ன கட்டிக்கோ.",
-     "tl": "Enna kattikko."
+     "tl": "Enna kattikko.",
+     "te": "నన్ను హత్తుకో."
     },
     {
      "id": "sad-c587de1c",
      "en": "I'll be fine.",
      "ta": "நான் சரியாயிடுவேன்.",
-     "tl": "Naan sariyaayiduven."
+     "tl": "Naan sariyaayiduven.",
+     "te": "నేను బాగానే ఉంటాను."
     }
-   ]
+   ],
+   "teCount": 100
   },
   {
    "id": "regret",
@@ -1240,603 +1441,704 @@ window.PP_DATA = {
      "id": "regret-afb6f2bc",
      "en": "I'm sorry.",
      "ta": "மன்னிச்சிடு.",
-     "tl": "Mannichidu."
+     "tl": "Mannichidu.",
+     "te": "క్షమించు."
     },
     {
      "id": "regret-f25c3048",
      "en": "Please forgive me.",
      "ta": "என்ன மன்னிச்சிடு, ப்ளீஸ்.",
-     "tl": "Enna mannichidu, please."
+     "tl": "Enna mannichidu, please.",
+     "te": "నన్ను క్షమించు, ప్లీజ్."
     },
     {
      "id": "regret-7e549e62",
      "en": "I shouldn't have said that.",
      "ta": "நான் அப்படி சொல்லியிருக்க கூடாது.",
-     "tl": "Naan appadi solliyirukka koodaadhu."
+     "tl": "Naan appadi solliyirukka koodaadhu.",
+     "te": "నేను అలా అనకుండా ఉండాల్సింది."
     },
     {
      "id": "regret-8084598e",
      "en": "It was my mistake.",
      "ta": "அது என் தப்புதான்.",
-     "tl": "Adhu en thappudhaan."
+     "tl": "Adhu en thappudhaan.",
+     "te": "అది నా తప్పే."
     },
     {
      "id": "regret-ab2e83bb",
      "en": "I should have listened to you.",
      "ta": "நீ சொன்னத கேட்டிருக்கலாம்.",
-     "tl": "Nee sonnadha kettirukkalaam."
+     "tl": "Nee sonnadha kettirukkalaam.",
+     "te": "నువ్వు చెప్పింది వినాల్సింది."
     },
     {
      "id": "regret-224309a5",
      "en": "I made a big mistake.",
      "ta": "நான் பெரிய தப்பு பண்ணிட்டேன்.",
-     "tl": "Naan periya thappu pannitten."
+     "tl": "Naan periya thappu pannitten.",
+     "te": "నేను పెద్ద తప్పు చేశాను."
     },
     {
      "id": "regret-e345810c",
      "en": "I regret it.",
      "ta": "அத நினைச்சு வருத்தப்படறேன்.",
-     "tl": "Adha ninaichu varuthappadaren."
+     "tl": "Adha ninaichu varuthappadaren.",
+     "te": "దాని గురించి బాధపడుతున్నాను."
     },
     {
      "id": "regret-b61d9c2c",
      "en": "If only I had studied.",
      "ta": "நான் படிச்சிருந்தா நல்லா இருந்திருக்கும்.",
-     "tl": "Naan padichirundhaa nallaa irundhirukkum."
+     "tl": "Naan padichirundhaa nallaa irundhirukkum.",
+     "te": "నేను చదువుకుని ఉంటే బాగుండేది."
     },
     {
      "id": "regret-e9196aeb",
      "en": "I wasted so much time.",
      "ta": "நிறைய நேரத்த வீணாக்கிட்டேன்.",
-     "tl": "Niraiya neratha veenaakkitten."
+     "tl": "Niraiya neratha veenaakkitten.",
+     "te": "చాలా టైమ్ వేస్ట్ చేశాను."
     },
     {
      "id": "regret-c3122c31",
      "en": "I hurt you, I'm sorry.",
      "ta": "உன்ன காயப்படுத்திட்டேன், மன்னிச்சிடு.",
-     "tl": "Unna kaayappaduthitten, mannichidu."
+     "tl": "Unna kaayappaduthitten, mannichidu.",
+     "te": "నిన్ను బాధపెట్టాను, క్షమించు."
     },
     {
      "id": "regret-31692d62",
      "en": "I didn't mean it that way.",
      "ta": "நான் அந்த அர்த்தத்துல சொல்லல.",
-     "tl": "Naan andha arthathula sollala."
+     "tl": "Naan andha arthathula sollala.",
+     "te": "నేను ఆ అర్థంలో అనలేదు."
     },
     {
      "id": "regret-efb85c61",
      "en": "Can we start again?",
      "ta": "நாம மறுபடியும் ஆரம்பிக்கலாமா?",
-     "tl": "Naama marubadiyum aarambikkalaamaa?"
+     "tl": "Naama marubadiyum aarambikkalaamaa?",
+     "te": "మనం మళ్ళీ మొదలుపెడదామా?"
     },
     {
      "id": "regret-7a9f1ca4",
      "en": "I should have called you.",
      "ta": "உனக்கு கால் பண்ணியிருக்கணும்.",
-     "tl": "Unakku call panniyirukkanum."
+     "tl": "Unakku call panniyirukkanum.",
+     "te": "నీకు కాల్ చేయాల్సింది."
     },
     {
      "id": "regret-f08abe62",
      "en": "What I said was wrong.",
      "ta": "நான் சொன்னது தப்பு.",
-     "tl": "Naan sonnadhu thappu."
+     "tl": "Naan sonnadhu thappu.",
+     "te": "నేను అన్నది తప్పు."
     },
     {
      "id": "regret-6f150d95",
      "en": "My ego stopped me from apologizing.",
      "ta": "மன்னிப்பு கேக்க என் ஈகோ தடுத்துச்சு.",
-     "tl": "Mannippu kekka en ego thaduthuchu."
+     "tl": "Mannippu kekka en ego thaduthuchu.",
+     "te": "సారీ చెప్పకుండా నా ఈగో అడ్డొచ్చింది."
     },
     {
      "id": "regret-f5ca4bd3",
      "en": "Let's forget what happened.",
      "ta": "நடந்தத மறந்துடலாம்.",
-     "tl": "Nadandhadha marandhudalaam."
+     "tl": "Nadandhadha marandhudalaam.",
+     "te": "జరిగింది మర్చిపోదాం."
     },
     {
      "id": "regret-99adc7b5",
      "en": "I'll never do this again.",
      "ta": "இனிமே இப்படி பண்ணவே மாட்டேன்.",
-     "tl": "Inime ippadi pannave maatten."
+     "tl": "Inime ippadi pannave maatten.",
+     "te": "ఇంకెప్పుడూ ఇలా చేయను."
     },
     {
      "id": "regret-eb4ebf97",
      "en": "I lost a good friend.",
      "ta": "ஒரு நல்ல ஃப்ரெண்ட இழந்துட்டேன்.",
-     "tl": "Oru nalla frienda izhandhutten."
+     "tl": "Oru nalla frienda izhandhutten.",
+     "te": "ఒక మంచి ఫ్రెండ్‌ని పోగొట్టుకున్నాను."
     },
     {
      "id": "regret-e3e9e2be",
      "en": "I didn't realize your worth.",
      "ta": "நான் உன் மதிப்ப புரிஞ்சுக்கல.",
-     "tl": "Naan un madhippa purinjukkala."
+     "tl": "Naan un madhippa purinjukkala.",
+     "te": "నీ విలువ నాకు అర్థం కాలేదు."
     },
     {
      "id": "regret-67382e49",
      "en": "Lost time won't come back.",
      "ta": "போன நேரம் திரும்ப வராது.",
-     "tl": "Pona neram thirumba varaadhu."
+     "tl": "Pona neram thirumba varaadhu.",
+     "te": "పోయిన టైమ్ మళ్ళీ రాదు."
     },
     {
      "id": "regret-b473a566",
      "en": "I spent too much money.",
      "ta": "நான் ரொம்ப காசு செலவு பண்ணிட்டேன்.",
-     "tl": "Naan romba kaasu selavu pannitten."
+     "tl": "Naan romba kaasu selavu pannitten.",
+     "te": "చాలా డబ్బులు ఖర్చు పెట్టేశాను."
     },
     {
      "id": "regret-e50c5a19",
      "en": "I should have been there.",
      "ta": "நான் அங்க இருந்திருக்கணும்.",
-     "tl": "Naan anga irundhirukkanum."
+     "tl": "Naan anga irundhirukkanum.",
+     "te": "నేను అక్కడ ఉండాల్సింది."
     },
     {
      "id": "regret-cc48342d",
      "en": "Forgive me, Amma.",
      "ta": "அம்மா, என்ன மன்னிச்சிடுங்க.",
-     "tl": "Amma, enna mannichidunga."
+     "tl": "Amma, enna mannichidunga.",
+     "te": "అమ్మా, నన్ను క్షమించు."
     },
     {
      "id": "regret-fc463b21",
      "en": "I spoke without thinking.",
      "ta": "யோசிக்காம பேசிட்டேன்.",
-     "tl": "Yosikkaama pesitten."
+     "tl": "Yosikkaama pesitten.",
+     "te": "ఆలోచించకుండా మాట్లాడేశాను."
     },
     {
      "id": "regret-f54e77bd",
      "en": "Why did I do that?",
      "ta": "நான் ஏன் அப்படி பண்ணேன்?",
-     "tl": "Naan yen appadi pannen?"
+     "tl": "Naan yen appadi pannen?",
+     "te": "నేను అలా ఎందుకు చేశాను?"
     },
     {
      "id": "regret-ff0835af",
      "en": "It's too late now.",
      "ta": "இப்ப ரொம்ப லேட் ஆயிடுச்சு.",
-     "tl": "Ippa romba late aayiduchu."
+     "tl": "Ippa romba late aayiduchu.",
+     "te": "ఇప్పుడు చాలా లేట్ అయిపోయింది."
     },
     {
      "id": "regret-fc932d64",
      "en": "I'm ashamed of myself.",
      "ta": "என்ன நினைச்சா எனக்கே வெட்கமா இருக்கு.",
-     "tl": "Enna ninaichaa enakke vetkamaa irukku."
+     "tl": "Enna ninaichaa enakke vetkamaa irukku.",
+     "te": "నన్ను చూసి నాకే సిగ్గుగా ఉంది."
     },
     {
      "id": "regret-bff18d0c",
      "en": "I missed that chance.",
      "ta": "நான் அந்த சான்ஸ மிஸ் பண்ணிட்டேன்.",
-     "tl": "Naan andha chance-a miss pannitten."
+     "tl": "Naan andha chance-a miss pannitten.",
+     "te": "ఆ ఛాన్స్ మిస్ చేసుకున్నాను."
     },
     {
      "id": "regret-51fc3971",
      "en": "I'll make it up to you.",
      "ta": "இதுக்கு நான் ஈடு பண்றேன்.",
-     "tl": "Idhukku naan eedu panren."
+     "tl": "Idhukku naan eedu panren.",
+     "te": "దీనికి నేను సరిచేస్తాను."
     },
     {
      "id": "regret-90d1c39c",
      "en": "I learned my lesson.",
      "ta": "நல்ல பாடம் கத்துக்கிட்டேன்.",
-     "tl": "Nalla paadam kathukkitten."
+     "tl": "Nalla paadam kathukkitten.",
+     "te": "మంచి గుణపాఠం నేర్చుకున్నాను."
     },
     {
      "id": "regret-b4d11689",
      "en": "I'm really sorry.",
      "ta": "ரொம்ப சாரி.",
-     "tl": "Romba sorry."
+     "tl": "Romba sorry.",
+     "te": "చాలా సారీ."
     },
     {
      "id": "regret-45ef184b",
      "en": "I didn't mean to hurt you.",
      "ta": "உன்ன காயப்படுத்தணும்னு நினைக்கல.",
-     "tl": "Unna kaayappaduthanumnu ninaikkala."
+     "tl": "Unna kaayappaduthanumnu ninaikkala.",
+     "te": "నిన్ను బాధపెట్టాలనుకోలేదు."
     },
     {
      "id": "regret-19271a39",
      "en": "I was wrong.",
      "ta": "நான் தப்பா இருந்தேன்.",
-     "tl": "Naan thappaa irundhen."
+     "tl": "Naan thappaa irundhen.",
+     "te": "నేను తప్పుగా ఉన్నాను."
     },
     {
      "id": "regret-f579f196",
      "en": "That was stupid of me.",
      "ta": "நான் முட்டாள்தனமா நடந்துக்கிட்டேன்.",
-     "tl": "Naan muttaalthanamaa nadandhukkitten."
+     "tl": "Naan muttaalthanamaa nadandhukkitten.",
+     "te": "నేను పిచ్చిగా ప్రవర్తించాను."
     },
     {
      "id": "regret-e5891d29",
      "en": "I should have told you earlier.",
      "ta": "உன்கிட்ட முன்னாடியே சொல்லியிருக்கணும்.",
-     "tl": "Unkitta munnaadiye solliyirukkanum."
+     "tl": "Unkitta munnaadiye solliyirukkanum.",
+     "te": "నీకు ముందే చెప్పాల్సింది."
     },
     {
      "id": "regret-7ebb9a1c",
      "en": "I'm sorry I'm late.",
      "ta": "லேட்டா வந்ததுக்கு சாரி.",
-     "tl": "Late-aa vandhadhukku sorry."
+     "tl": "Late-aa vandhadhukku sorry.",
+     "te": "లేట్ అయినందుకు సారీ."
     },
     {
      "id": "regret-30627390",
      "en": "I'm sorry I forgot.",
      "ta": "மறந்ததுக்கு மன்னிச்சிடு.",
-     "tl": "Marandhadhukku mannichidu."
+     "tl": "Marandhadhukku mannichidu.",
+     "te": "మర్చిపోయినందుకు క్షమించు."
     },
     {
      "id": "regret-9e238e23",
      "en": "I lied to you, I'm sorry.",
      "ta": "உன்கிட்ட பொய் சொல்லிட்டேன், மன்னிச்சிடு.",
-     "tl": "Unkitta poi sollitten, mannichidu."
+     "tl": "Unkitta poi sollitten, mannichidu.",
+     "te": "నీతో అబద్ధం చెప్పాను, క్షమించు."
     },
     {
      "id": "regret-55ca978a",
      "en": "I shouldn't have left.",
      "ta": "நான் போயிருக்க கூடாது.",
-     "tl": "Naan poyirukka koodaadhu."
+     "tl": "Naan poyirukka koodaadhu.",
+     "te": "నేను వెళ్ళకుండా ఉండాల్సింది."
     },
     {
      "id": "regret-a3523daf",
      "en": "I wish I could go back.",
      "ta": "திரும்ப போக முடிஞ்சா நல்லா இருக்கும்.",
-     "tl": "Thirumba poga mudinjaa nallaa irukkum."
+     "tl": "Thirumba poga mudinjaa nallaa irukkum.",
+     "te": "వెనక్కి వెళ్ళగలిగితే బాగుండు."
     },
     {
      "id": "regret-1e7467bf",
      "en": "I wish I hadn't done that.",
      "ta": "அத பண்ணாம இருந்திருக்கலாம்.",
-     "tl": "Adha pannaama irundhirukkalaam."
+     "tl": "Adha pannaama irundhirukkalaam.",
+     "te": "అది చేయకుండా ఉంటే బాగుండేది."
     },
     {
      "id": "regret-937c4cf5",
      "en": "I took you for granted.",
      "ta": "உன்ன நான் சாதாரணமா எடுத்துக்கிட்டேன்.",
-     "tl": "Unna naan saadhaaranamaa eduthukkitten."
+     "tl": "Unna naan saadhaaranamaa eduthukkitten.",
+     "te": "నిన్ను తేలిగ్గా తీసుకున్నాను."
     },
     {
      "id": "regret-a72132e2",
      "en": "I let you down.",
      "ta": "நான் உன்ன ஏமாத்திட்டேன்.",
-     "tl": "Naan unna emaathitten."
+     "tl": "Naan unna emaathitten.",
+     "te": "నిన్ను నిరాశపరిచాను."
     },
     {
      "id": "regret-9162c682",
      "en": "It's all my fault.",
      "ta": "எல்லாம் என் தப்புதான்.",
-     "tl": "Ellaam en thappudhaan."
+     "tl": "Ellaam en thappudhaan.",
+     "te": "అంతా నా తప్పే."
     },
     {
      "id": "regret-38a4c0e3",
      "en": "I should have been more careful.",
      "ta": "இன்னும் கவனமா இருந்திருக்கணும்.",
-     "tl": "Innum kavanamaa irundhirukkanum."
+     "tl": "Innum kavanamaa irundhirukkanum.",
+     "te": "ఇంకా జాగ్రత్తగా ఉండాల్సింది."
     },
     {
      "id": "regret-57710cce",
      "en": "I didn't listen to my parents.",
      "ta": "அப்பா அம்மா சொன்னத கேக்கல.",
-     "tl": "Appaa ammaa sonnadha kekkala."
+     "tl": "Appaa ammaa sonnadha kekkala.",
+     "te": "అమ్మానాన్న చెప్పింది వినలేదు."
     },
     {
      "id": "regret-26464e30",
      "en": "I quit too early.",
      "ta": "ரொம்ப சீக்கிரமே விட்டுட்டேன்.",
-     "tl": "Romba seekkirame vittutten."
+     "tl": "Romba seekkirame vittutten.",
+     "te": "చాలా త్వరగా వదిలేశాను."
     },
     {
      "id": "regret-3bbf2447",
      "en": "I should have tried harder.",
      "ta": "இன்னும் கஷ்டப்பட்டு முயற்சி பண்ணியிருக்கணும்.",
-     "tl": "Innum kashtappattu muyarchi panniyirukkanum."
+     "tl": "Innum kashtappattu muyarchi panniyirukkanum.",
+     "te": "ఇంకా కష్టపడి ప్రయత్నించాల్సింది."
     },
     {
      "id": "regret-978a861f",
      "en": "I'm sorry for shouting.",
      "ta": "கத்துனதுக்கு சாரி.",
-     "tl": "Kathunadhukku sorry."
+     "tl": "Kathunadhukku sorry.",
+     "te": "అరిచినందుకు సారీ."
     },
     {
      "id": "regret-b155fcdb",
      "en": "I was angry, I'm sorry.",
      "ta": "கோபத்துல இருந்தேன், மன்னிச்சிடு.",
-     "tl": "Kobathula irundhen, mannichidu."
+     "tl": "Kobathula irundhen, mannichidu.",
+     "te": "కోపంలో ఉన్నాను, క్షమించు."
     },
     {
      "id": "regret-5e47978b",
      "en": "I didn't think it through.",
      "ta": "நான் சரியா யோசிக்கல.",
-     "tl": "Naan sariyaa yosikkala."
+     "tl": "Naan sariyaa yosikkala.",
+     "te": "నేను సరిగ్గా ఆలోచించలేదు."
     },
     {
      "id": "regret-e4b68390",
      "en": "I broke your phone, sorry.",
      "ta": "உன் ஃபோன உடைச்சிட்டேன், சாரி.",
-     "tl": "Un phone-a udaichitten, sorry."
+     "tl": "Un phone-a udaichitten, sorry.",
+     "te": "నీ ఫోన్ పగలగొట్టాను, సారీ."
     },
     {
      "id": "regret-dcfebd73",
      "en": "Will you forgive me?",
      "ta": "என்ன மன்னிப்பியா?",
-     "tl": "Enna mannippiyaa?"
+     "tl": "Enna mannippiyaa?",
+     "te": "నన్ను క్షమిస్తావా?"
     },
     {
      "id": "regret-a76cfb74",
      "en": "Give me one more chance.",
      "ta": "எனக்கு இன்னொரு சான்ஸ் குடு.",
-     "tl": "Enakku innoru chance kudu."
+     "tl": "Enakku innoru chance kudu.",
+     "te": "నాకు ఇంకొక ఛాన్స్ ఇవ్వు."
     },
     {
      "id": "regret-2ed6f023",
      "en": "I'll change.",
      "ta": "நான் மாறுவேன்.",
-     "tl": "Naan maaruven."
+     "tl": "Naan maaruven.",
+     "te": "నేను మారతాను."
     },
     {
      "id": "regret-7cbc2dd7",
      "en": "I'm sorry, Appa.",
      "ta": "அப்பா, மன்னிச்சிடுங்க.",
-     "tl": "Appaa, mannichidunga."
+     "tl": "Appaa, mannichidunga.",
+     "te": "నాన్నా, క్షమించండి."
     },
     {
      "id": "regret-0b192d70",
      "en": "I should have said thank you.",
      "ta": "நன்றி சொல்லியிருக்கணும்.",
-     "tl": "Nandri solliyirukkanum."
+     "tl": "Nandri solliyirukkanum.",
+     "te": "థ్యాంక్స్ చెప్పాల్సింది."
     },
     {
      "id": "regret-c2dd5409",
      "en": "I never told her I loved her.",
      "ta": "அவள லவ் பண்றேன்னு நான் சொல்லவே இல்ல.",
-     "tl": "Avala love panrennu naan sollave illa."
+     "tl": "Avala love panrennu naan sollave illa.",
+     "te": "ఆమెను ప్రేమిస్తున్నానని ఎప్పుడూ చెప్పలేదు."
     },
     {
      "id": "regret-7e83e184",
      "en": "I miss what we had.",
      "ta": "நமக்குள்ள இருந்தது ஞாபகம் வருது.",
-     "tl": "Namakkulla irundhadhu nyaabagam varudhu."
+     "tl": "Namakkulla irundhadhu nyaabagam varudhu.",
+     "te": "మన మధ్య ఉన్నది గుర్తొస్తోంది."
     },
     {
      "id": "regret-1beaa6b7",
      "en": "I sold it too cheap.",
      "ta": "ரொம்ப கம்மி விலைக்கு வித்துட்டேன்.",
-     "tl": "Romba kammi vilaikku vithutten."
+     "tl": "Romba kammi vilaikku vithutten.",
+     "te": "చాలా తక్కువ రేటుకి అమ్మేశాను."
     },
     {
      "id": "regret-31c34bbe",
      "en": "I trusted the wrong person.",
      "ta": "தப்பான ஆள நம்பிட்டேன்.",
-     "tl": "Thappaana aala nambitten."
+     "tl": "Thappaana aala nambitten.",
+     "te": "తప్పు మనిషిని నమ్మాను."
     },
     {
      "id": "regret-4b2aac70",
      "en": "I shouldn't have trusted him.",
      "ta": "அவன நம்பியிருக்க கூடாது.",
-     "tl": "Avana nambiyirukka koodaadhu."
+     "tl": "Avana nambiyirukka koodaadhu.",
+     "te": "వాడిని నమ్మకుండా ఉండాల్సింది."
     },
     {
      "id": "regret-b4a9be7e",
      "en": "I wasted my youth.",
      "ta": "என் இளமைய வீணாக்கிட்டேன்.",
-     "tl": "En ilamaiya veenaakkitten."
+     "tl": "En ilamaiya veenaakkitten.",
+     "te": "నా యవ్వనాన్ని వృథా చేసుకున్నాను."
     },
     {
      "id": "regret-5e921689",
      "en": "I should have saved money.",
      "ta": "காசு சேர்த்து வச்சிருக்கணும்.",
-     "tl": "Kaasu serthu vachirukkanum."
+     "tl": "Kaasu serthu vachirukkanum.",
+     "te": "డబ్బులు దాచుకోవాల్సింది."
     },
     {
      "id": "regret-f7f2b63c",
      "en": "I ate too much.",
      "ta": "ரொம்ப சாப்பிட்டுட்டேன்.",
-     "tl": "Romba saappittutten."
+     "tl": "Romba saappittutten.",
+     "te": "చాలా ఎక్కువ తినేశాను."
     },
     {
      "id": "regret-0ad15c2a",
      "en": "I shouldn't have come.",
      "ta": "நான் வந்திருக்க கூடாது.",
-     "tl": "Naan vandhirukka koodaadhu."
+     "tl": "Naan vandhirukka koodaadhu.",
+     "te": "నేను రాకుండా ఉండాల్సింది."
     },
     {
      "id": "regret-a9aa141a",
      "en": "I wish I had taken that job.",
      "ta": "அந்த வேலைய எடுத்திருக்கலாம்.",
-     "tl": "Andha velaiya eduthirukkalaam."
+     "tl": "Andha velaiya eduthirukkalaam.",
+     "te": "ఆ ఉద్యోగం తీసుకుని ఉంటే బాగుండేది."
     },
     {
      "id": "regret-ac7875ac",
      "en": "I'm sorry for everything.",
      "ta": "எல்லாத்துக்கும் மன்னிச்சிடு.",
-     "tl": "Ellaathukkum mannichidu."
+     "tl": "Ellaathukkum mannichidu.",
+     "te": "అన్నిటికీ క్షమించు."
     },
     {
      "id": "regret-3551a3d9",
      "en": "I didn't keep my word.",
      "ta": "நான் சொன்ன சொல்ல காப்பாத்தல.",
-     "tl": "Naan sonna solla kaappaathala."
+     "tl": "Naan sonna solla kaappaathala.",
+     "te": "ఇచ్చిన మాట నిలబెట్టుకోలేదు."
     },
     {
      "id": "regret-65d99603",
      "en": "I misunderstood you.",
      "ta": "உன்ன தப்பா புரிஞ்சுக்கிட்டேன்.",
-     "tl": "Unna thappaa purinjukkitten."
+     "tl": "Unna thappaa purinjukkitten.",
+     "te": "నిన్ను తప్పుగా అర్థం చేసుకున్నాను."
     },
     {
      "id": "regret-435123cb",
      "en": "I judged you too quickly.",
      "ta": "உன்ன அவசரப்பட்டு தப்பா நினைச்சிட்டேன்.",
-     "tl": "Unna avasarappattu thappaa ninaichitten."
+     "tl": "Unna avasarappattu thappaa ninaichitten.",
+     "te": "తొందరపడి నిన్ను తప్పుగా అనుకున్నాను."
     },
     {
      "id": "regret-dcfe8549",
      "en": "I feel guilty.",
      "ta": "குற்ற உணர்ச்சியா இருக்கு.",
-     "tl": "Kutra unarchiyaa irukku."
+     "tl": "Kutra unarchiyaa irukku.",
+     "te": "తప్పు చేసినట్టు అనిపిస్తోంది."
     },
     {
      "id": "regret-91544ee3",
      "en": "I can't forgive myself.",
      "ta": "என்னையே என்னால மன்னிக்க முடியல.",
-     "tl": "Ennaiye ennaala mannikka mudiyala."
+     "tl": "Ennaiye ennaala mannikka mudiyala.",
+     "te": "నన్ను నేనే క్షమించుకోలేకపోతున్నాను."
     },
     {
      "id": "regret-2b7b4d22",
      "en": "I was too proud.",
      "ta": "எனக்கு ரொம்ப திமிரா இருந்துச்சு.",
-     "tl": "Enakku romba thimiraa irundhuchu."
+     "tl": "Enakku romba thimiraa irundhuchu.",
+     "te": "నాకు చాలా పొగరుగా ఉండేది."
     },
     {
      "id": "regret-e1acacba",
      "en": "I should have stood up for you.",
      "ta": "உனக்காக நான் பேசியிருக்கணும்.",
-     "tl": "Unakkaaga naan pesiyirukkanum."
+     "tl": "Unakkaaga naan pesiyirukkanum.",
+     "te": "నీ కోసం నేను మాట్లాడాల్సింది."
     },
     {
      "id": "regret-df85679d",
      "en": "I should have visited more often.",
      "ta": "அடிக்கடி வந்து பாத்திருக்கணும்.",
-     "tl": "Adikkadi vandhu paathirukkanum."
+     "tl": "Adikkadi vandhu paathirukkanum.",
+     "te": "తరచుగా వచ్చి చూడాల్సింది."
     },
     {
      "id": "regret-b5176582",
      "en": "I didn't spend enough time with my kids.",
      "ta": "என் பசங்க கூட போதுமான நேரம் இருக்கல.",
-     "tl": "En pasanga kooda podhumaana neram irukkala."
+     "tl": "En pasanga kooda podhumaana neram irukkala.",
+     "te": "నా పిల్లలతో సరిపడా టైమ్ గడపలేదు."
     },
     {
      "id": "regret-7b5ef47f",
      "en": "I wish I had learned Tamil earlier.",
      "ta": "தமிழ முன்னாடியே கத்துக்கிட்டிருக்கலாம்.",
-     "tl": "Thamizha munnaadiye kathukkittirukkalaam."
+     "tl": "Thamizha munnaadiye kathukkittirukkalaam.",
+     "te": "తమిళం ముందే నేర్చుకుని ఉంటే బాగుండేది."
     },
     {
      "id": "regret-d2bb8f57",
      "en": "I lost touch with my friends.",
      "ta": "ஃப்ரெண்ட்ஸ் கூட தொடர்பு விட்டு போச்சு.",
-     "tl": "Friends kooda thodarbu vittu pochu."
+     "tl": "Friends kooda thodarbu vittu pochu.",
+     "te": "ఫ్రెండ్స్‌తో టచ్ పోయింది."
     },
     {
      "id": "regret-39f74893",
      "en": "I said too much.",
      "ta": "நான் ஓவரா பேசிட்டேன்.",
-     "tl": "Naan overaa pesitten."
+     "tl": "Naan overaa pesitten.",
+     "te": "నేను ఎక్కువగా మాట్లాడేశాను."
     },
     {
      "id": "regret-57f65e7d",
      "en": "I blamed you for nothing.",
      "ta": "சும்மா உன் மேல பழி போட்டுட்டேன்.",
-     "tl": "Summaa un mela pazhi pottutten."
+     "tl": "Summaa un mela pazhi pottutten.",
+     "te": "ఊరికే నిన్ను నిందించాను."
     },
     {
      "id": "regret-6df9d72a",
      "en": "I should have asked for help.",
      "ta": "உதவி கேட்டிருக்கணும்.",
-     "tl": "Udhavi kettirukkanum."
+     "tl": "Udhavi kettirukkanum.",
+     "te": "సహాయం అడగాల్సింది."
     },
     {
      "id": "regret-ffe6245c",
      "en": "I didn't see it coming.",
      "ta": "இத நான் எதிர்பார்க்கல.",
-     "tl": "Idha naan edhirpaarkkala."
+     "tl": "Idha naan edhirpaarkkala.",
+     "te": "ఇది నేను ఊహించలేదు."
     },
     {
      "id": "regret-c96a8cb9",
      "en": "I wasn't there when you needed me.",
      "ta": "உனக்கு தேவைப்பட்டப்போ நான் இல்ல.",
-     "tl": "Unakku thevaippattappo naan illa."
+     "tl": "Unakku thevaippattappo naan illa.",
+     "te": "నీకు అవసరమైనప్పుడు నేను లేను."
     },
     {
      "id": "regret-404fc155",
      "en": "Let's not fight again.",
      "ta": "இனிமே சண்டை போட வேண்டாம்.",
-     "tl": "Inime sandai poda vendaam."
+     "tl": "Inime sandai poda vendaam.",
+     "te": "ఇంకెప్పుడూ గొడవ పడొద్దు."
     },
     {
      "id": "regret-edd4cd9c",
      "en": "I'm sorry, I was busy.",
      "ta": "சாரி, நான் பிஸியா இருந்தேன்.",
-     "tl": "Sorry, naan busyaa irundhen."
+     "tl": "Sorry, naan busyaa irundhen.",
+     "te": "సారీ, నేను బిజీగా ఉన్నాను."
     },
     {
      "id": "regret-e36b1d9e",
      "en": "Sorry for the trouble.",
      "ta": "தொந்தரவுக்கு மன்னிக்கவும்.",
-     "tl": "Thondharavukku mannikkavum."
+     "tl": "Thondharavukku mannikkavum.",
+     "te": "ఇబ్బంది పెట్టినందుకు క్షమించండి."
     },
     {
      "id": "regret-c47530ff",
      "en": "Sorry to keep you waiting.",
      "ta": "உங்கள காக்க வச்சதுக்கு சாரி.",
-     "tl": "Ungala kaakka vachadhukku sorry."
+     "tl": "Ungala kaakka vachadhukku sorry.",
+     "te": "మిమ్మల్ని వెయిట్ చేయించినందుకు సారీ."
     },
     {
      "id": "regret-6603617b",
      "en": "I shouldn't have drunk so much.",
      "ta": "அவ்ளோ குடிச்சிருக்க கூடாது.",
-     "tl": "Avlo kudichirukka koodaadhu."
+     "tl": "Avlo kudichirukka koodaadhu.",
+     "te": "అంత తాగకుండా ఉండాల్సింది."
     },
     {
      "id": "regret-7c2c29ae",
      "en": "I wish I had gone with you.",
      "ta": "உன் கூட வந்திருக்கலாம்.",
-     "tl": "Un kooda vandhirukkalaam."
+     "tl": "Un kooda vandhirukkalaam.",
+     "te": "నీతో వచ్చి ఉంటే బాగుండేది."
     },
     {
      "id": "regret-5862fa00",
      "en": "I deleted the photos by mistake.",
      "ta": "தெரியாம ஃபோட்டோஸ டெலீட் பண்ணிட்டேன்.",
-     "tl": "Theriyaama photos-a delete pannitten."
+     "tl": "Theriyaama photos-a delete pannitten.",
+     "te": "పొరపాటున ఫోటోలు డిలీట్ చేశాను."
     },
     {
      "id": "regret-e5bf4805",
      "en": "I didn't reply to your message.",
      "ta": "உன் மெசேஜுக்கு நான் ரிப்ளை பண்ணல.",
-     "tl": "Un messagekku naan reply pannala."
+     "tl": "Un messagekku naan reply pannala.",
+     "te": "నీ మెసేజ్‌కి నేను రిప్లై ఇవ్వలేదు."
     },
     {
      "id": "regret-bc1f07c0",
      "en": "I'll never forget this mistake.",
      "ta": "இந்த தப்ப நான் மறக்கவே மாட்டேன்.",
-     "tl": "Indha thappa naan marakkave maatten."
+     "tl": "Indha thappa naan marakkave maatten.",
+     "te": "ఈ తప్పు నేను ఎప్పటికీ మర్చిపోను."
     },
     {
      "id": "regret-a131cc5b",
      "en": "Sorry, it slipped my mind.",
      "ta": "சாரி, மறந்து போச்சு.",
-     "tl": "Sorry, marandhu pochu."
+     "tl": "Sorry, marandhu pochu.",
+     "te": "సారీ, మర్చిపోయాను."
     },
     {
      "id": "regret-3486bfe9",
      "en": "I wish I had another chance.",
      "ta": "இன்னொரு சான்ஸ் கிடைச்சா நல்லா இருக்கும்.",
-     "tl": "Innoru chance kidaichaa nallaa irukkum."
+     "tl": "Innoru chance kidaichaa nallaa irukkum.",
+     "te": "ఇంకొక ఛాన్స్ దొరికితే బాగుండు."
     },
     {
      "id": "regret-033bce44",
      "en": "I was jealous, I'm sorry.",
      "ta": "பொறாமையில அப்படி பண்ணிட்டேன், சாரி.",
-     "tl": "Poraamaiyila appadi pannitten, sorry."
+     "tl": "Poraamaiyila appadi pannitten, sorry.",
+     "te": "అసూయతో అలా చేశాను, సారీ."
     },
     {
      "id": "regret-1f3478e8",
      "en": "I'm sorry I doubted you.",
      "ta": "உன்ன சந்தேகப்பட்டதுக்கு சாரி.",
-     "tl": "Unna sandhegappattadhukku sorry."
+     "tl": "Unna sandhegappattadhukku sorry.",
+     "te": "నిన్ను అనుమానించినందుకు సారీ."
     },
     {
      "id": "regret-c0d4cf54",
      "en": "It won't happen again.",
      "ta": "இது மறுபடியும் நடக்காது.",
-     "tl": "Idhu marubadiyum nadakkaadhu."
+     "tl": "Idhu marubadiyum nadakkaadhu.",
+     "te": "ఇది మళ్ళీ జరగదు."
     },
     {
      "id": "regret-eaf5eefc",
      "en": "I should have known better.",
      "ta": "எனக்கு இது தெரிஞ்சிருக்கணும்.",
-     "tl": "Enakku idhu therinjirukkanum."
+     "tl": "Enakku idhu therinjirukkanum.",
+     "te": "నాకు ఇది తెలిసి ఉండాల్సింది."
     },
     {
      "id": "regret-40e2a54a",
      "en": "I'm sorry, my friend.",
      "ta": "என்ன மன்னிச்சிடு, நண்பா.",
-     "tl": "Enna mannichidu, nanbaa."
+     "tl": "Enna mannichidu, nanbaa.",
+     "te": "నన్ను క్షమించు, మిత్రమా."
     }
-   ]
+   ],
+   "teCount": 100
   },
   {
    "id": "surprise",
@@ -1854,603 +2156,704 @@ window.PP_DATA = {
      "id": "surprise-d3b7109f",
      "en": "What a surprise!",
      "ta": "என்ன ஒரு சர்ப்ரைஸ்!",
-     "tl": "Enna oru surprise!"
+     "tl": "Enna oru surprise!",
+     "te": "ఎంత సర్‌ప్రైజ్!"
     },
     {
      "id": "surprise-1d87b4b7",
      "en": "Really?",
      "ta": "நிஜமாவா?",
-     "tl": "Nijamaavaa?"
+     "tl": "Nijamaavaa?",
+     "te": "నిజంగానా?"
     },
     {
      "id": "surprise-9d044783",
      "en": "I can't believe it!",
      "ta": "என்னால நம்பவே முடியல!",
-     "tl": "Ennaala nambave mudiyala!"
+     "tl": "Ennaala nambave mudiyala!",
+     "te": "నమ్మలేకపోతున్నాను!"
     },
     {
      "id": "surprise-0a9ccbe0",
      "en": "Are you serious?",
      "ta": "நிஜமா சொல்றியா?",
-     "tl": "Nijamaa solriyaa?"
+     "tl": "Nijamaa solriyaa?",
+     "te": "నిజంగా చెప్తున్నావా?"
     },
     {
      "id": "surprise-d4f675c2",
      "en": "Oh my god!",
      "ta": "அய்யோ கடவுளே!",
-     "tl": "Ayyo kadavule!"
+     "tl": "Ayyo kadavule!",
+     "te": "అయ్యో దేవుడా!"
     },
     {
      "id": "surprise-ac9038b8",
      "en": "When did this happen?",
      "ta": "இது எப்போ நடந்துச்சு?",
-     "tl": "Idhu eppo nadandhuchu?"
+     "tl": "Idhu eppo nadandhuchu?",
+     "te": "ఇది ఎప్పుడు జరిగింది?"
     },
     {
      "id": "surprise-006e7769",
      "en": "You came!",
      "ta": "நீ வந்துட்டியா!",
-     "tl": "Nee vandhuttiyaa!"
+     "tl": "Nee vandhuttiyaa!",
+     "te": "నువ్వు వచ్చేశావా!"
     },
     {
      "id": "surprise-3a8a2bdf",
      "en": "I didn't expect this at all.",
      "ta": "நான் இத எதிர்பார்க்கவே இல்ல.",
-     "tl": "Naan idha edhirpaarkkave illa."
+     "tl": "Naan idha edhirpaarkkave illa.",
+     "te": "ఇది నేను అస్సలు ఊహించలేదు."
     },
     {
      "id": "surprise-c894ecb8",
      "en": "Is it true?",
      "ta": "அது உண்மையா?",
-     "tl": "Adhu unmaiyaa?"
+     "tl": "Adhu unmaiyaa?",
+     "te": "అది నిజమా?"
     },
     {
      "id": "surprise-7f214511",
      "en": "No way!",
      "ta": "வாய்ப்பே இல்ல!",
-     "tl": "Vaaippe illa!"
+     "tl": "Vaaippe illa!",
+     "te": "ఛాన్సే లేదు!"
     },
     {
      "id": "surprise-8a54fe32",
      "en": "How did you know?",
      "ta": "உனக்கு எப்படி தெரியும்?",
-     "tl": "Unakku eppadi theriyum?"
+     "tl": "Unakku eppadi theriyum?",
+     "te": "నీకు ఎలా తెలుసు?"
     },
     {
      "id": "surprise-c8a16326",
      "en": "You've changed so much!",
      "ta": "நீ ரொம்ப மாறிட்ட!",
-     "tl": "Nee romba maaritta!"
+     "tl": "Nee romba maaritta!",
+     "te": "నువ్వు చాలా మారిపోయావు!"
     },
     {
      "id": "surprise-eebf2f42",
      "en": "Wow, this is amazing!",
      "ta": "வாவ், இது செம்மையா இருக்கு!",
-     "tl": "Wow, idhu semmaiyaa irukku!"
+     "tl": "Wow, idhu semmaiyaa irukku!",
+     "te": "వావ్, ఇది సూపర్‌గా ఉంది!"
     },
     {
      "id": "surprise-52d4f901",
      "en": "Who told you?",
      "ta": "உனக்கு யார் சொன்னா?",
-     "tl": "Unakku yaar sonnaa?"
+     "tl": "Unakku yaar sonnaa?",
+     "te": "నీకు ఎవరు చెప్పారు?"
     },
     {
      "id": "surprise-b7a47609",
      "en": "I'm shocked.",
      "ta": "எனக்கு ஷாக்கா இருக்கு.",
-     "tl": "Enakku shockaa irukku."
+     "tl": "Enakku shockaa irukku.",
+     "te": "నాకు షాక్‌గా ఉంది."
     },
     {
      "id": "surprise-f3a60dc7",
      "en": "She's getting married?",
      "ta": "அவளுக்கு கல்யாணமா?",
-     "tl": "Avalukku kalyaanamaa?"
+     "tl": "Avalukku kalyaanamaa?",
+     "te": "ఆమెకి పెళ్ళా?"
     },
     {
      "id": "surprise-265c6706",
      "en": "You did this for me?",
      "ta": "எனக்காக இத பண்ணியா?",
-     "tl": "Enakkaaga idha panniyaa?"
+     "tl": "Enakkaaga idha panniyaa?",
+     "te": "నా కోసం ఇది చేశావా?"
     },
     {
      "id": "surprise-1d0332ef",
      "en": "It's already midnight?",
      "ta": "அதுக்குள்ள நடுராத்திரி ஆயிடுச்சா?",
-     "tl": "Adhukkulla naduraathiri aayiduchaa?"
+     "tl": "Adhukkulla naduraathiri aayiduchaa?",
+     "te": "అప్పుడే అర్ధరాత్రి అయిపోయిందా?"
     },
     {
      "id": "surprise-0d285abb",
      "en": "I never knew that.",
      "ta": "அது எனக்கு தெரியவே தெரியாது.",
-     "tl": "Adhu enakku theriyave theriyaadhu."
+     "tl": "Adhu enakku theriyave theriyaadhu.",
+     "te": "అది నాకు అస్సలు తెలియదు."
     },
     {
      "id": "surprise-84a990af",
      "en": "What are you doing here?",
      "ta": "நீ இங்க என்ன பண்ற?",
-     "tl": "Nee inga enna panra?"
+     "tl": "Nee inga enna panra?",
+     "te": "నువ్వు ఇక్కడ ఏం చేస్తున్నావు?"
     },
     {
      "id": "surprise-fa175aa4",
      "en": "Long time no see!",
      "ta": "ரொம்ப நாளா ஆளையே காணோம்!",
-     "tl": "Romba naalaa aalaiye kaanom!"
+     "tl": "Romba naalaa aalaiye kaanom!",
+     "te": "చాలా రోజులైంది కనిపించి!"
     },
     {
      "id": "surprise-34e4fc34",
      "en": "That was unexpected.",
      "ta": "இது எதிர்பாராதது.",
-     "tl": "Idhu edhirpaaraadhadhu."
+     "tl": "Idhu edhirpaaraadhadhu.",
+     "te": "ఇది ఊహించనిది."
     },
     {
      "id": "surprise-503e05da",
      "en": "I was speechless.",
      "ta": "வாய் அடைச்சு போச்சு.",
-     "tl": "Vaai adaichu pochu."
+     "tl": "Vaai adaichu pochu.",
+     "te": "నోట మాట రాలేదు."
     },
     {
      "id": "surprise-7c58c353",
      "en": "Unbelievable!",
      "ta": "நம்பவே முடியல!",
-     "tl": "Nambave mudiyala!"
+     "tl": "Nambave mudiyala!",
+     "te": "నమ్మలేం!"
     },
     {
      "id": "surprise-c5817c38",
      "en": "Look who's here!",
      "ta": "யாரு வந்திருக்கா பாரு!",
-     "tl": "Yaaru vandhirukkaa paaru!"
+     "tl": "Yaaru vandhirukkaa paaru!",
+     "te": "ఎవరు వచ్చారో చూడు!"
     },
     {
      "id": "surprise-6e0287b4",
      "en": "He won the lottery!",
      "ta": "அவனுக்கு லாட்டரி அடிச்சிருச்சு!",
-     "tl": "Avanukku lottery adichiruchu!"
+     "tl": "Avanukku lottery adichiruchu!",
+     "te": "వాడికి లాటరీ తగిలింది!"
     },
     {
      "id": "surprise-2a7d8a4c",
      "en": "The price went up this much?",
      "ta": "விலை இவ்ளோ ஏறிடுச்சா?",
-     "tl": "Vilai ivlo eriduchaa?"
+     "tl": "Vilai ivlo eriduchaa?",
+     "te": "ధర ఇంత పెరిగిపోయిందా?"
     },
     {
      "id": "surprise-9eb7fba4",
      "en": "You cooked this?",
      "ta": "இத நீயா சமைச்ச?",
-     "tl": "Idha neeyaa samaicha?"
+     "tl": "Idha neeyaa samaicha?",
+     "te": "ఇది నువ్వే వండావా?"
     },
     {
      "id": "surprise-0781c188",
      "en": "Since when?",
      "ta": "எப்போலேர்ந்து?",
-     "tl": "Eppolerndhu?"
+     "tl": "Eppolerndhu?",
+     "te": "ఎప్పటినుంచి?"
     },
     {
      "id": "surprise-c48dca81",
      "en": "Seriously, how?",
      "ta": "நிஜமா, எப்படி?",
-     "tl": "Nijamaa, eppadi?"
+     "tl": "Nijamaa, eppadi?",
+     "te": "నిజంగా, ఎలా?"
     },
     {
      "id": "surprise-610fd6fc",
      "en": "What?!",
      "ta": "என்னது?!",
-     "tl": "Ennadhu?!"
+     "tl": "Ennadhu?!",
+     "te": "ఏంటి?!"
     },
     {
      "id": "surprise-95aa9df9",
      "en": "Wow!",
      "ta": "அடேங்கப்பா!",
-     "tl": "Adengappaa!"
+     "tl": "Adengappaa!",
+     "te": "అబ్బో!"
     },
     {
      "id": "surprise-ff481a65",
      "en": "Oh no!",
      "ta": "அய்யய்யோ!",
-     "tl": "Ayyayyo!"
+     "tl": "Ayyayyo!",
+     "te": "అయ్యయ్యో!"
     },
     {
      "id": "surprise-5ea87e11",
      "en": "Seriously?",
      "ta": "சீரியஸா?",
-     "tl": "Seriousaa?"
+     "tl": "Seriousaa?",
+     "te": "సీరియస్‌గానా?"
     },
     {
      "id": "surprise-246fd326",
      "en": "I'm surprised.",
      "ta": "எனக்கு ஆச்சரியமா இருக்கு.",
-     "tl": "Enakku aachariyamaa irukku."
+     "tl": "Enakku aachariyamaa irukku.",
+     "te": "నాకు ఆశ్చర్యంగా ఉంది."
     },
     {
      "id": "surprise-cfe9474b",
      "en": "You scared me!",
      "ta": "என்ன பயமுறுத்திட்ட!",
-     "tl": "Enna bayamuruthitta!"
+     "tl": "Enna bayamuruthitta!",
+     "te": "నన్ను భయపెట్టావు!"
     },
     {
      "id": "surprise-9997258b",
      "en": "I didn't see you there.",
      "ta": "நீ அங்க இருந்தத நான் கவனிக்கல.",
-     "tl": "Nee anga irundhadha naan kavanikkala."
+     "tl": "Nee anga irundhadha naan kavanikkala.",
+     "te": "నువ్వు అక్కడ ఉన్నది నేను గమనించలేదు."
     },
     {
      "id": "surprise-98903cf8",
      "en": "When did you come?",
      "ta": "நீ எப்போ வந்த?",
-     "tl": "Nee eppo vandha?"
+     "tl": "Nee eppo vandha?",
+     "te": "నువ్వు ఎప్పుడు వచ్చావు?"
     },
     {
      "id": "surprise-dcb93f81",
      "en": "You're here already?",
      "ta": "அதுக்குள்ள வந்துட்டியா?",
-     "tl": "Adhukkulla vandhuttiyaa?"
+     "tl": "Adhukkulla vandhuttiyaa?",
+     "te": "అప్పుడే వచ్చేశావా?"
     },
     {
      "id": "surprise-ddecf3a2",
      "en": "You got so tall!",
      "ta": "நீ இவ்ளோ உயரமா வளந்துட்ட!",
-     "tl": "Nee ivlo uyaramaa valandhutta!"
+     "tl": "Nee ivlo uyaramaa valandhutta!",
+     "te": "నువ్వు ఇంత పొడుగ్గా పెరిగిపోయావు!"
     },
     {
      "id": "surprise-c1ba1e50",
      "en": "You lost so much weight!",
      "ta": "நீ ரொம்ப இளைச்சிட்ட!",
-     "tl": "Nee romba ilaichitta!"
+     "tl": "Nee romba ilaichitta!",
+     "te": "నువ్వు చాలా సన్నబడ్డావు!"
     },
     {
      "id": "surprise-cafbdc43",
      "en": "Is that really you?",
      "ta": "நிஜமா அது நீதானா?",
-     "tl": "Nijamaa adhu needhaanaa?"
+     "tl": "Nijamaa adhu needhaanaa?",
+     "te": "నిజంగా అది నువ్వేనా?"
     },
     {
      "id": "surprise-64c836b3",
      "en": "I didn't recognize you.",
      "ta": "உன்ன எனக்கு அடையாளமே தெரியல.",
-     "tl": "Unna enakku adaiyaalame theriyala."
+     "tl": "Unna enakku adaiyaalame theriyala.",
+     "te": "నిన్ను నేను గుర్తుపట్టలేదు."
     },
     {
      "id": "surprise-d790d22e",
      "en": "They got married secretly?",
      "ta": "அவங்க ரகசியமா கல்யாணம் பண்ணிக்கிட்டாங்களா?",
-     "tl": "Avanga ragasiyamaa kalyaanam pannikkittaangalaa?"
+     "tl": "Avanga ragasiyamaa kalyaanam pannikkittaangalaa?",
+     "te": "వాళ్ళు రహస్యంగా పెళ్ళి చేసుకున్నారా?"
     },
     {
      "id": "surprise-c52d1324",
      "en": "He quit his job?",
      "ta": "அவன் வேலைய விட்டுட்டானா?",
-     "tl": "Avan velaiya vittuttaanaa?"
+     "tl": "Avan velaiya vittuttaanaa?",
+     "te": "వాడు ఉద్యోగం మానేశాడా?"
     },
     {
      "id": "surprise-a11f1a09",
      "en": "She's pregnant?",
      "ta": "அவ கர்ப்பமா இருக்காளா?",
-     "tl": "Ava karppamaa irukkaalaa?"
+     "tl": "Ava karppamaa irukkaalaa?",
+     "te": "ఆమె గర్భవతా?"
     },
     {
      "id": "surprise-4554a737",
      "en": "That's impossible!",
      "ta": "அது முடியவே முடியாது!",
-     "tl": "Adhu mudiyave mudiyaadhu!"
+     "tl": "Adhu mudiyave mudiyaadhu!",
+     "te": "అది అసాధ్యం!"
     },
     {
      "id": "surprise-183ff464",
      "en": "How is that possible?",
      "ta": "அது எப்படி சாத்தியம்?",
-     "tl": "Adhu eppadi saathiyam?"
+     "tl": "Adhu eppadi saathiyam?",
+     "te": "అది ఎలా సాధ్యం?"
     },
     {
      "id": "surprise-6f764d1e",
      "en": "Who did this?",
      "ta": "இத யாரு பண்ணது?",
-     "tl": "Idha yaaru pannadhu?"
+     "tl": "Idha yaaru pannadhu?",
+     "te": "ఇది ఎవరు చేశారు?"
     },
     {
      "id": "surprise-e8f64e53",
      "en": "This is so big!",
      "ta": "இது இவ்ளோ பெருசா இருக்கு!",
-     "tl": "Idhu ivlo perusaa irukku!"
+     "tl": "Idhu ivlo perusaa irukku!",
+     "te": "ఇది ఇంత పెద్దగా ఉంది!"
     },
     {
      "id": "surprise-3bc48f7e",
      "en": "It's so cheap!",
      "ta": "இவ்ளோ சீப்பா!",
-     "tl": "Ivlo cheap-aa!"
+     "tl": "Ivlo cheap-aa!",
+     "te": "ఇంత చీపా!"
     },
     {
      "id": "surprise-e03a227d",
      "en": "It's so expensive!",
      "ta": "இவ்ளோ காஸ்ட்லியா!",
-     "tl": "Ivlo costlyaa!"
+     "tl": "Ivlo costlyaa!",
+     "te": "ఇంత కాస్ట్లీనా!"
     },
     {
      "id": "surprise-88683898",
      "en": "It snowed here?",
      "ta": "இங்க ஸ்னோ பெஞ்சுதா?",
-     "tl": "Inga snow penjudhaa?"
+     "tl": "Inga snow penjudhaa?",
+     "te": "ఇక్కడ మంచు కురిసిందా?"
     },
     {
      "id": "surprise-610d6962",
      "en": "The power came back!",
      "ta": "கரண்ட் வந்துடுச்சு!",
-     "tl": "Current vandhuduchu!"
+     "tl": "Current vandhuduchu!",
+     "te": "కరెంట్ వచ్చేసింది!"
     },
     {
      "id": "surprise-a38d27db",
      "en": "The train was on time today!",
      "ta": "இன்னைக்கு ட்ரெயின் கரெக்ட் டைமுக்கு வந்துச்சு!",
-     "tl": "Innaikku train correct timekku vandhuchu!"
+     "tl": "Innaikku train correct timekku vandhuchu!",
+     "te": "ఈ రోజు ట్రైన్ కరెక్ట్ టైమ్‌కి వచ్చింది!"
     },
     {
      "id": "surprise-7149eff7",
      "en": "You remembered my birthday!",
      "ta": "என் பிறந்தநாள ஞாபகம் வச்சிருக்கியே!",
-     "tl": "En pirandhanaala nyaabagam vachirukkiye!"
+     "tl": "En pirandhanaala nyaabagam vachirukkiye!",
+     "te": "నా పుట్టినరోజు గుర్తుపెట్టుకున్నావే!"
     },
     {
      "id": "surprise-af5166b7",
      "en": "This is for me?",
      "ta": "இது எனக்கா?",
-     "tl": "Idhu enakkaa?"
+     "tl": "Idhu enakkaa?",
+     "te": "ఇది నాకా?"
     },
     {
      "id": "surprise-92b658a9",
      "en": "You shouldn't have!",
      "ta": "இதெல்லாம் எதுக்கு!",
-     "tl": "Idhellaam edhukku!"
+     "tl": "Idhellaam edhukku!",
+     "te": "ఇవన్నీ ఎందుకు!"
     },
     {
      "id": "surprise-eedebafd",
      "en": "I had no idea!",
      "ta": "எனக்கு தெரியவே இல்ல!",
-     "tl": "Enakku theriyave illa!"
+     "tl": "Enakku theriyave illa!",
+     "te": "నాకు అస్సలు తెలియదు!"
     },
     {
      "id": "surprise-a4d2e53c",
      "en": "I'm speechless.",
      "ta": "என்ன சொல்றதுன்னே தெரியல.",
-     "tl": "Enna solradhunne theriyala."
+     "tl": "Enna solradhunne theriyala.",
+     "te": "ఏం చెప్పాలో తెలియట్లేదు."
     },
     {
      "id": "surprise-438e64ee",
      "en": "That's crazy!",
      "ta": "இது செம்ம கிறுக்குத்தனம்!",
-     "tl": "Idhu semma kirukkuthanam!"
+     "tl": "Idhu semma kirukkuthanam!",
+     "te": "ఇది పిచ్చి పని!"
     },
     {
      "id": "surprise-ee370552",
      "en": "Guess what happened!",
      "ta": "என்ன நடந்துச்சுன்னு சொல்லு பாப்போம்!",
-     "tl": "Enna nadandhuchunnu sollu paappom!"
+     "tl": "Enna nadandhuchunnu sollu paappom!",
+     "te": "ఏం జరిగిందో చెప్పు చూద్దాం!"
     },
     {
      "id": "surprise-45c02ef2",
      "en": "You won't believe this.",
      "ta": "இத நீ நம்பவே மாட்ட.",
-     "tl": "Idha nee nambave maatta."
+     "tl": "Idha nee nambave maatta.",
+     "te": "ఇది నువ్వు నమ్మవు."
     },
     {
      "id": "surprise-10797561",
      "en": "Close your eyes.",
      "ta": "கண்ண மூடு.",
-     "tl": "Kanna moodu."
+     "tl": "Kanna moodu.",
+     "te": "కళ్ళు మూసుకో."
     },
     {
      "id": "surprise-aa9ee950",
      "en": "Now open your eyes!",
      "ta": "இப்ப கண்ண திற!",
-     "tl": "Ippa kanna thira!"
+     "tl": "Ippa kanna thira!",
+     "te": "ఇప్పుడు కళ్ళు తెరువు!"
     },
     {
      "id": "surprise-ca1ceb15",
      "en": "Surprise!",
      "ta": "சர்ப்ரைஸ்!",
-     "tl": "Surprise!"
+     "tl": "Surprise!",
+     "te": "సర్‌ప్రైజ్!"
     },
     {
      "id": "surprise-37fcdff6",
      "en": "It's a boy!",
      "ta": "பையன் பொறந்திருக்கான்!",
-     "tl": "Paiyan porandhirukkaan!"
+     "tl": "Paiyan porandhirukkaan!",
+     "te": "అబ్బాయి పుట్టాడు!"
     },
     {
      "id": "surprise-dbaa2493",
      "en": "It's a girl!",
      "ta": "பொண்ணு பொறந்திருக்கா!",
-     "tl": "Ponnu porandhirukkaa!"
+     "tl": "Ponnu porandhirukkaa!",
+     "te": "అమ్మాయి పుట్టింది!"
     },
     {
      "id": "surprise-3815512b",
      "en": "You passed?",
      "ta": "நீ பாஸ் ஆயிட்டியா?",
-     "tl": "Nee pass aayittiyaa?"
+     "tl": "Nee pass aayittiyaa?",
+     "te": "నువ్వు పాస్ అయ్యావా?"
     },
     {
      "id": "surprise-cc1ca151",
      "en": "Our team actually won!",
      "ta": "நம்ம டீம் நிஜமாவே ஜெயிச்சிருச்சு!",
-     "tl": "Namma team nijamaave jeyichiruchu!"
+     "tl": "Namma team nijamaave jeyichiruchu!",
+     "te": "మన టీమ్ నిజంగానే గెలిచింది!"
     },
     {
      "id": "surprise-0c496963",
      "en": "He actually came!",
      "ta": "அவன் நிஜமாவே வந்துட்டான்!",
-     "tl": "Avan nijamaave vandhuttaan!"
+     "tl": "Avan nijamaave vandhuttaan!",
+     "te": "వాడు నిజంగానే వచ్చాడు!"
     },
     {
      "id": "surprise-43fad612",
      "en": "I can't believe my eyes.",
      "ta": "என் கண்ணையே என்னால நம்ப முடியல.",
-     "tl": "En kannaiye ennaala namba mudiyala."
+     "tl": "En kannaiye ennaala namba mudiyala.",
+     "te": "నా కళ్ళను నేనే నమ్మలేకపోతున్నాను."
     },
     {
      "id": "surprise-b86d8980",
      "en": "That came out of nowhere.",
      "ta": "அது திடீர்னு வந்துடுச்சு.",
-     "tl": "Adhu thideernu vandhuduchu."
+     "tl": "Adhu thideernu vandhuduchu.",
+     "te": "అది సడెన్‌గా వచ్చింది."
     },
     {
      "id": "surprise-07dc8dd5",
      "en": "Suddenly it started raining.",
      "ta": "திடீர்னு மழை பெய்ய ஆரம்பிச்சுது.",
-     "tl": "Thideernu mazhai peyya aarambichudhu."
+     "tl": "Thideernu mazhai peyya aarambichudhu.",
+     "te": "సడెన్‌గా వర్షం మొదలైంది."
     },
     {
      "id": "surprise-bb23abb3",
      "en": "The exam is tomorrow?",
      "ta": "எக்ஸாம் நாளைக்கா?",
-     "tl": "Exam naalaikkaa?"
+     "tl": "Exam naalaikkaa?",
+     "te": "పరీక్ష రేపా?"
     },
     {
      "id": "surprise-1e17bb12",
      "en": "Already finished?",
      "ta": "அதுக்குள்ள முடிச்சிட்டியா?",
-     "tl": "Adhukkulla mudichittiyaa?"
+     "tl": "Adhukkulla mudichittiyaa?",
+     "te": "అప్పుడే అయిపోయిందా?"
     },
     {
      "id": "surprise-4d30766b",
      "en": "So fast?",
      "ta": "இவ்ளோ சீக்கிரமா?",
-     "tl": "Ivlo seekkiramaa?"
+     "tl": "Ivlo seekkiramaa?",
+     "te": "ఇంత త్వరగానా?"
     },
     {
      "id": "surprise-804c3e72",
      "en": "That's so strange.",
      "ta": "ரொம்ப விசித்திரமா இருக்கு.",
-     "tl": "Romba visithiramaa irukku."
+     "tl": "Romba visithiramaa irukku.",
+     "te": "చాలా విచిత్రంగా ఉంది."
     },
     {
      "id": "surprise-2a0c38fb",
      "en": "What a coincidence!",
      "ta": "என்ன ஒரு தற்செயல்!",
-     "tl": "Enna oru tharseyal!"
+     "tl": "Enna oru tharseyal!",
+     "te": "ఎంత యాదృచ్ఛికం!"
     },
     {
      "id": "surprise-37a96849",
      "en": "I never thought this would happen.",
      "ta": "இப்படி நடக்கும்னு நினைக்கவே இல்ல.",
-     "tl": "Ippadi nadakkumnu ninaikkave illa."
+     "tl": "Ippadi nadakkumnu ninaikkave illa.",
+     "te": "ఇలా జరుగుతుందని అనుకోలేదు."
     },
     {
      "id": "surprise-ee28573c",
      "en": "Even he doesn't know?",
      "ta": "அவனுக்கே தெரியாதா?",
-     "tl": "Avanukke theriyaadhaa?"
+     "tl": "Avanukke theriyaadhaa?",
+     "te": "వాడికి కూడా తెలియదా?"
     },
     {
      "id": "surprise-d8fa965e",
      "en": "You did all this alone?",
      "ta": "இதெல்லாம் நீ தனியாவா பண்ண?",
-     "tl": "Idhellaam nee thaniyaavaa panna?"
+     "tl": "Idhellaam nee thaniyaavaa panna?",
+     "te": "ఇదంతా నువ్వు ఒక్కడివే చేశావా?"
     },
     {
      "id": "surprise-abfcd7cc",
      "en": "You can speak Tamil?",
      "ta": "உனக்கு தமிழ் பேச தெரியுமா?",
-     "tl": "Unakku thamizh pesa theriyumaa?"
+     "tl": "Unakku thamizh pesa theriyumaa?",
+     "te": "నీకు తమిళం మాట్లాడటం వచ్చా?"
     },
     {
      "id": "surprise-e4c69d13",
      "en": "Wow, your Tamil is good!",
      "ta": "வாவ், உன் தமிழ் நல்லா இருக்கே!",
-     "tl": "Wow, un thamizh nallaa irukke!"
+     "tl": "Wow, un thamizh nallaa irukke!",
+     "te": "వావ్, నీ తమిళం బాగుందే!"
     },
     {
      "id": "surprise-f0345e25",
      "en": "That's a lot of people!",
      "ta": "எவ்ளோ கூட்டம்!",
-     "tl": "Evlo koottam!"
+     "tl": "Evlo koottam!",
+     "te": "ఎంత జనం!"
     },
     {
      "id": "surprise-4e273d29",
      "en": "Look at that!",
      "ta": "அத பாரு!",
-     "tl": "Adha paaru!"
+     "tl": "Adha paaru!",
+     "te": "అది చూడు!"
     },
     {
      "id": "surprise-7fad88c2",
      "en": "What's that noise?",
      "ta": "அது என்ன சத்தம்?",
-     "tl": "Adhu enna saththam?"
+     "tl": "Adhu enna saththam?",
+     "te": "ఆ శబ్దం ఏంటి?"
     },
     {
      "id": "surprise-da6b13df",
      "en": "Who's at the door?",
      "ta": "கதவுல யாரு?",
-     "tl": "Kadhavula yaaru?"
+     "tl": "Kadhavula yaaru?",
+     "te": "తలుపు దగ్గర ఎవరు?"
     },
     {
      "id": "surprise-1a6ee586",
      "en": "You're joking, right?",
      "ta": "ஜோக் அடிக்கறியா?",
-     "tl": "Joke adikkariyaa?"
+     "tl": "Joke adikkariyaa?",
+     "te": "జోక్ చేస్తున్నావా?"
     },
     {
      "id": "surprise-5b751e2c",
      "en": "Stop kidding!",
      "ta": "விளையாடாத!",
-     "tl": "Vilaiyaadaadha!"
+     "tl": "Vilaiyaadaadha!",
+     "te": "ఆటలాడకు!"
     },
     {
      "id": "surprise-b67023a2",
      "en": "Oh, is that so?",
      "ta": "ஓ, அப்படியா?",
-     "tl": "O, appadiyaa?"
+     "tl": "O, appadiyaa?",
+     "te": "ఓ, అలాగా?"
     },
     {
      "id": "surprise-a9de5cc5",
      "en": "I see!",
      "ta": "ஓ, சரி!",
-     "tl": "O, sari!"
+     "tl": "O, sari!",
+     "te": "ఓ, సరే!"
     },
     {
      "id": "surprise-e7132178",
      "en": "Oh wow, really?",
      "ta": "அட, நிஜமாவா?",
-     "tl": "Ada, nijamaavaa?"
+     "tl": "Ada, nijamaavaa?",
+     "te": "అరె, నిజంగానా?"
     },
     {
      "id": "surprise-50d3b879",
      "en": "That's news to me.",
      "ta": "இது எனக்கு புது செய்தி.",
-     "tl": "Idhu enakku pudhu seidhi."
+     "tl": "Idhu enakku pudhu seidhi.",
+     "te": "ఇది నాకు కొత్త వార్త."
     },
     {
      "id": "surprise-bc9ddeeb",
      "en": "Since when do you cook?",
      "ta": "நீ எப்போலேர்ந்து சமைக்கற?",
-     "tl": "Nee eppolerndhu samaikkara?"
+     "tl": "Nee eppolerndhu samaikkara?",
+     "te": "నువ్వు ఎప్పటినుంచి వంట చేస్తున్నావు?"
     },
     {
      "id": "surprise-b300ce3a",
      "en": "When did you learn that?",
      "ta": "அத எப்போ கத்துக்கிட்ட?",
-     "tl": "Adha eppo kathukkitta?"
+     "tl": "Adha eppo kathukkitta?",
+     "te": "అది ఎప్పుడు నేర్చుకున్నావు?"
     },
     {
      "id": "surprise-e04575ad",
      "en": "My jaw dropped.",
      "ta": "வாயடைச்சு நின்னுட்டேன்.",
-     "tl": "Vaayadaichu ninnutten."
+     "tl": "Vaayadaichu ninnutten.",
+     "te": "నోరెళ్ళబెట్టి నిలబడిపోయాను."
     },
     {
      "id": "surprise-2cc32a26",
      "en": "I nearly fell off my chair.",
      "ta": "நான் சேர்லேர்ந்து விழுந்துருப்பேன்.",
-     "tl": "Naan chairlerndhu vizhundhuruppen."
+     "tl": "Naan chairlerndhu vizhundhuruppen.",
+     "te": "కుర్చీలోంచి పడిపోయేవాడిని."
     },
     {
      "id": "surprise-d0511f9a",
      "en": "You found it?",
      "ta": "கண்டுபிடிச்சிட்டியா?",
-     "tl": "Kandupidichittiyaa?"
+     "tl": "Kandupidichittiyaa?",
+     "te": "కనిపెట్టేశావా?"
     },
     {
      "id": "surprise-cef45cc4",
      "en": "Totally unexpected!",
      "ta": "சுத்தமா எதிர்பார்க்கல!",
-     "tl": "Suththamaa edhirpaarkkala!"
+     "tl": "Suththamaa edhirpaarkkala!",
+     "te": "అస్సలు ఊహించలేదు!"
     }
-   ]
+   ],
+   "teCount": 100
   },
   {
    "id": "lust",
@@ -2468,597 +2871,697 @@ window.PP_DATA = {
      "id": "lust-83682977",
      "en": "You look gorgeous tonight.",
      "ta": "இன்னைக்கு ராத்திரி நீ செம்ம அழகா இருக்க.",
-     "tl": "Innaikku raathiri nee semma azhagaa irukka."
+     "tl": "Innaikku raathiri nee semma azhagaa irukka.",
+     "te": "ఈ రాత్రి నువ్వు చాలా అందంగా ఉన్నావు."
     },
     {
      "id": "lust-16bf0cf3",
      "en": "I can't take my eyes off you.",
      "ta": "உன்ன விட்டு கண்ண எடுக்கவே முடியல.",
-     "tl": "Unna vittu kanna edukkave mudiyala."
+     "tl": "Unna vittu kanna edukkave mudiyala.",
+     "te": "నీ నుంచి కళ్ళు తిప్పుకోలేకపోతున్నాను."
     },
     {
      "id": "lust-2e3217c4",
      "en": "I'm attracted to you.",
      "ta": "எனக்கு உன் மேல ஈர்ப்பு இருக்கு.",
-     "tl": "Enakku un mela eerppu irukku."
+     "tl": "Enakku un mela eerppu irukku.",
+     "te": "నాకు నీ మీద ఆకర్షణ ఉంది."
     },
     {
      "id": "lust-71bafe80",
      "en": "You're so hot.",
      "ta": "நீ செம்ம ஹாட்டா இருக்க.",
-     "tl": "Nee semma hottaa irukka."
+     "tl": "Nee semma hottaa irukka.",
+     "te": "నువ్వు చాలా హాట్‌గా ఉన్నావు."
     },
     {
      "id": "lust-bea2260a",
      "en": "I think about you all the time.",
      "ta": "எப்பவும் உன்ன பத்தியே யோசிக்கறேன்.",
-     "tl": "Eppavum unna pathiye yosikkaren."
+     "tl": "Eppavum unna pathiye yosikkaren.",
+     "te": "ఎప్పుడూ నీ గురించే ఆలోచిస్తాను."
     },
     {
      "id": "lust-902131e0",
      "en": "Your eyes are beautiful.",
      "ta": "உன் கண்ணு ரொம்ப அழகு.",
-     "tl": "Un kannu romba azhagu."
+     "tl": "Un kannu romba azhagu.",
+     "te": "నీ కళ్ళు చాలా అందంగా ఉన్నాయి."
     },
     {
      "id": "lust-d5b92da6",
      "en": "I like the way you smile.",
      "ta": "நீ சிரிக்கற விதம் எனக்கு பிடிச்சிருக்கு.",
-     "tl": "Nee sirikkara vidham enakku pidichirukku."
+     "tl": "Nee sirikkara vidham enakku pidichirukku.",
+     "te": "నువ్వు నవ్వే తీరు నాకు నచ్చింది."
     },
     {
      "id": "lust-d6e768be",
      "en": "Come closer.",
      "ta": "கிட்ட வா.",
-     "tl": "Kitta vaa."
+     "tl": "Kitta vaa.",
+     "te": "దగ్గరికి రా."
     },
     {
      "id": "lust-dcc484c9",
      "en": "I want to be with you tonight.",
      "ta": "இன்னைக்கு ராத்திரி உன் கூட இருக்கணும்.",
-     "tl": "Innaikku raathiri un kooda irukkanum."
+     "tl": "Innaikku raathiri un kooda irukkanum.",
+     "te": "ఈ రాత్రి నీతో ఉండాలి."
     },
     {
      "id": "lust-8b8a7482",
      "en": "You drive me crazy.",
      "ta": "நீ என்ன பைத்தியமாக்குற.",
-     "tl": "Nee enna paithiyamaakkura."
+     "tl": "Nee enna paithiyamaakkura.",
+     "te": "నువ్వు నన్ను పిచ్చెక్కిస్తున్నావు."
     },
     {
      "id": "lust-ca0414ce",
      "en": "Can I hold your hand?",
      "ta": "உன் கைய பிடிக்கலாமா?",
-     "tl": "Un kaiya pidikkalaamaa?"
+     "tl": "Un kaiya pidikkalaamaa?",
+     "te": "నీ చెయ్యి పట్టుకోవచ్చా?"
     },
     {
      "id": "lust-8df2a86a",
      "en": "You smell nice.",
      "ta": "நீ நல்ல வாசனையா இருக்க.",
-     "tl": "Nee nalla vaasanaiyaa irukka."
+     "tl": "Nee nalla vaasanaiyaa irukka.",
+     "te": "నువ్వు మంచి వాసన వస్తున్నావు."
     },
     {
      "id": "lust-1c5d3de4",
      "en": "I want to kiss you.",
      "ta": "உன்ன கிஸ் பண்ணணும் போல இருக்கு.",
-     "tl": "Unna kiss pannanum pola irukku."
+     "tl": "Unna kiss pannanum pola irukku.",
+     "te": "నిన్ను ముద్దు పెట్టుకోవాలనిపిస్తోంది."
     },
     {
      "id": "lust-1d2afd82",
      "en": "Are you single?",
      "ta": "நீ சிங்கிளா?",
-     "tl": "Nee singlaa?"
+     "tl": "Nee singlaa?",
+     "te": "నువ్వు సింగిలా?"
     },
     {
      "id": "lust-e1ac3c98",
      "en": "You have a beautiful voice.",
      "ta": "உன் குரல் ரொம்ப அழகா இருக்கு.",
-     "tl": "Un kural romba azhagaa irukku."
+     "tl": "Un kural romba azhagaa irukku.",
+     "te": "నీ గొంతు చాలా అందంగా ఉంది."
     },
     {
      "id": "lust-ede0d6e2",
      "en": "I can't stop thinking about last night.",
      "ta": "நேத்து ராத்திரிய நினைக்காம இருக்க முடியல.",
-     "tl": "Nethu raathiriya ninaikkaama irukka mudiyala."
+     "tl": "Nethu raathiriya ninaikkaama irukka mudiyala.",
+     "te": "నిన్న రాత్రిని తలుచుకోకుండా ఉండలేకపోతున్నాను."
     },
     {
      "id": "lust-178a389c",
      "en": "You're my type.",
      "ta": "நீ என் டைப்.",
-     "tl": "Nee en type."
+     "tl": "Nee en type.",
+     "te": "నువ్వు నా టైప్."
     },
     {
      "id": "lust-d7361623",
      "en": "Your dress looks stunning.",
      "ta": "உன் ட்ரெஸ் செம்மையா இருக்கு.",
-     "tl": "Un dress semmaiyaa irukku."
+     "tl": "Un dress semmaiyaa irukku.",
+     "te": "నీ డ్రెస్ సూపర్‌గా ఉంది."
     },
     {
      "id": "lust-a7c3f354",
      "en": "I get butterflies when I see you.",
      "ta": "உன்ன பாத்தா வயித்துல பட்டாம்பூச்சி பறக்குது.",
-     "tl": "Unna paathaa vayithula pattaampoochi parakkudhu."
+     "tl": "Unna paathaa vayithula pattaampoochi parakkudhu.",
+     "te": "నిన్ను చూస్తే కడుపులో సీతాకోకచిలుకలు ఎగురుతాయి."
     },
     {
      "id": "lust-d5de24ee",
      "en": "Stay a little longer.",
      "ta": "இன்னும் கொஞ்ச நேரம் இரு.",
-     "tl": "Innum konja neram iru."
+     "tl": "Innum konja neram iru.",
+     "te": "ఇంకొంచెం సేపు ఉండు."
     },
     {
      "id": "lust-473e16ae",
      "en": "Shall we go out tonight?",
      "ta": "இன்னைக்கு ராத்திரி வெளிய போலாமா?",
-     "tl": "Innaikku raathiri veliya polaamaa?"
+     "tl": "Innaikku raathiri veliya polaamaa?",
+     "te": "ఈ రాత్రి బయటకి వెళ్దామా?"
     },
     {
      "id": "lust-da8a985c",
      "en": "You're making me blush.",
      "ta": "நீ என்ன வெட்கப்பட வைக்கற.",
-     "tl": "Nee enna vetkappada vaikkara."
+     "tl": "Nee enna vetkappada vaikkara.",
+     "te": "నువ్వు నన్ను సిగ్గుపడేలా చేస్తున్నావు."
     },
     {
      "id": "lust-b171b482",
      "en": "I want you.",
      "ta": "எனக்கு நீ வேணும்.",
-     "tl": "Enakku nee venum."
+     "tl": "Enakku nee venum.",
+     "te": "నాకు నువ్వు కావాలి."
     },
     {
      "id": "lust-dae13b0f",
      "en": "Your touch feels electric.",
      "ta": "நீ தொட்டா கரண்ட் அடிச்ச மாதிரி இருக்கு.",
-     "tl": "Nee thottaa current adicha maadhiri irukku."
+     "tl": "Nee thottaa current adicha maadhiri irukku.",
+     "te": "నువ్వు తాకితే కరెంట్ కొట్టినట్టు ఉంటుంది."
     },
     {
      "id": "lust-cee6bdea",
      "en": "Text me when you're free.",
      "ta": "ஃப்ரீயா இருக்கும்போது மெசேஜ் பண்ணு.",
-     "tl": "Freeyaa irukkumbodhu message pannu."
+     "tl": "Freeyaa irukkumbodhu message pannu.",
+     "te": "ఫ్రీగా ఉన్నప్పుడు మెసేజ్ చెయ్."
     },
     {
      "id": "lust-05ac3c00",
      "en": "That color looks good on you.",
      "ta": "அந்த கலர் உனக்கு நல்லா இருக்கு.",
-     "tl": "Andha color unakku nallaa irukku."
+     "tl": "Andha color unakku nallaa irukku.",
+     "te": "ఆ కలర్ నీకు బాగుంది."
     },
     {
      "id": "lust-881a407a",
      "en": "I dreamt about you.",
      "ta": "உன்ன பத்தி கனவு கண்டேன்.",
-     "tl": "Unna pathi kanavu kanden."
+     "tl": "Unna pathi kanavu kanden.",
+     "te": "నీ గురించి కల కన్నాను."
     },
     {
      "id": "lust-d97cf4c5",
      "en": "Don't look at me like that.",
      "ta": "என்ன அப்படி பாக்காத.",
-     "tl": "Enna appadi paakkaadha."
+     "tl": "Enna appadi paakkaadha.",
+     "te": "నన్ను అలా చూడకు."
     },
     {
      "id": "lust-69340160",
      "en": "You're irresistible.",
      "ta": "உன்ன தவிர்க்கவே முடியல.",
-     "tl": "Unna thavirkkave mudiyala."
+     "tl": "Unna thavirkkave mudiyala.",
+     "te": "నిన్ను కాదనలేకపోతున్నాను."
     },
     {
      "id": "lust-a3eb5f88",
      "en": "Let's take it slow.",
      "ta": "மெதுவா போலாம்.",
-     "tl": "Medhuvaa polaam."
+     "tl": "Medhuvaa polaam.",
+     "te": "నెమ్మదిగా వెళ్దాం."
     },
     {
      "id": "lust-e424c257",
      "en": "You look stunning.",
      "ta": "நீ செம்மையா இருக்க.",
-     "tl": "Nee semmaiyaa irukka."
+     "tl": "Nee semmaiyaa irukka.",
+     "te": "నువ్వు అదిరిపోయావు."
     },
     {
      "id": "lust-2c9a8cab",
      "en": "You look really sexy.",
      "ta": "நீ ரொம்ப செக்ஸியா இருக்க.",
-     "tl": "Nee romba sexyaa irukka."
+     "tl": "Nee romba sexyaa irukka.",
+     "te": "నువ్వు చాలా సెక్సీగా ఉన్నావు."
     },
     {
      "id": "lust-a6824e1c",
      "en": "I like your style.",
      "ta": "உன் ஸ்டைல் எனக்கு பிடிச்சிருக்கு.",
-     "tl": "Un style enakku pidichirukku."
+     "tl": "Un style enakku pidichirukku.",
+     "te": "నీ స్టైల్ నాకు నచ్చింది."
     },
     {
      "id": "lust-9215583b",
      "en": "Your lips are beautiful.",
      "ta": "உன் உதடு அழகா இருக்கு.",
-     "tl": "Un udhadu azhagaa irukku."
+     "tl": "Un udhadu azhagaa irukku.",
+     "te": "నీ పెదవులు అందంగా ఉన్నాయి."
     },
     {
      "id": "lust-90cfdaf6",
      "en": "Your hair looks amazing.",
      "ta": "உன் முடி செம்மையா இருக்கு.",
-     "tl": "Un mudi semmaiyaa irukku."
+     "tl": "Un mudi semmaiyaa irukku.",
+     "te": "నీ జుట్టు సూపర్‌గా ఉంది."
     },
     {
      "id": "lust-37c6d72b",
      "en": "You have a lovely smile.",
      "ta": "உன் சிரிப்பு அருமை.",
-     "tl": "Un sirippu arumai."
+     "tl": "Un sirippu arumai.",
+     "te": "నీ నవ్వు అద్భుతం."
     },
     {
      "id": "lust-9bc1fbe5",
      "en": "I noticed you the moment you walked in.",
      "ta": "நீ உள்ள வந்த உடனே உன்ன கவனிச்சேன்.",
-     "tl": "Nee ulla vandha udane unna kavanichen."
+     "tl": "Nee ulla vandha udane unna kavanichen.",
+     "te": "నువ్వు లోపలికి రాగానే నిన్ను గమనించాను."
     },
     {
      "id": "lust-2c8db638",
      "en": "Can I buy you a drink?",
      "ta": "உனக்கு ஒரு ட்ரிங்க் வாங்கி தரலாமா?",
-     "tl": "Unakku oru drink vaangi tharalaamaa?"
+     "tl": "Unakku oru drink vaangi tharalaamaa?",
+     "te": "నీకు ఒక డ్రింక్ ఇప్పించనా?"
     },
     {
      "id": "lust-41619970",
      "en": "Can I sit with you?",
      "ta": "உன் பக்கத்துல உக்காரலாமா?",
-     "tl": "Un pakkathula ukkaaralaamaa?"
+     "tl": "Un pakkathula ukkaaralaamaa?",
+     "te": "నీ పక్కన కూర్చోవచ్చా?"
     },
     {
      "id": "lust-ab6aee4e",
      "en": "Can I have your number?",
      "ta": "உன் நம்பர் கிடைக்குமா?",
-     "tl": "Un number kidaikkumaa?"
+     "tl": "Un number kidaikkumaa?",
+     "te": "నీ నంబర్ ఇస్తావా?"
     },
     {
      "id": "lust-5cd82d34",
      "en": "Are you seeing someone?",
      "ta": "நீ யாரையாவது லவ் பண்றியா?",
-     "tl": "Nee yaaraiyaavadhu love panriyaa?"
+     "tl": "Nee yaaraiyaavadhu love panriyaa?",
+     "te": "నువ్వు ఎవరినైనా లవ్ చేస్తున్నావా?"
     },
     {
      "id": "lust-5d050615",
      "en": "I've had a crush on you for a long time.",
      "ta": "ரொம்ப நாளா உன் மேல க்ரஷ்.",
-     "tl": "Romba naalaa un mela crush."
+     "tl": "Romba naalaa un mela crush.",
+     "te": "చాలా రోజుల నుంచి నీ మీద క్రష్."
     },
     {
      "id": "lust-7da16cfc",
      "en": "I can't stop staring at you.",
      "ta": "உன்னயே பாத்துட்டு இருக்கேன்.",
-     "tl": "Unnaye paathuttu irukken."
+     "tl": "Unnaye paathuttu irukken.",
+     "te": "నిన్నే చూస్తూ ఉన్నాను."
     },
     {
      "id": "lust-861a72ec",
      "en": "You're making me nervous.",
      "ta": "நீ என்ன டென்ஷன் ஆக்கற.",
-     "tl": "Nee enna tension aakkara."
+     "tl": "Nee enna tension aakkara.",
+     "te": "నువ్వు నన్ను టెన్షన్ పెడుతున్నావు."
     },
     {
      "id": "lust-d174082c",
      "en": "My heart is racing.",
      "ta": "என் இதயம் வேகமா துடிக்குது.",
-     "tl": "En idhayam vegamaa thudikkudhu."
+     "tl": "En idhayam vegamaa thudikkudhu.",
+     "te": "నా గుండె వేగంగా కొట్టుకుంటోంది."
     },
     {
      "id": "lust-3f653751",
      "en": "You're on my mind all day.",
      "ta": "நாள் முழுக்க நீதான் மனசுல இருக்க.",
-     "tl": "Naal muzhukka needhaan manasula irukka."
+     "tl": "Naal muzhukka needhaan manasula irukka.",
+     "te": "రోజంతా నువ్వే నా మనసులో ఉన్నావు."
     },
     {
      "id": "lust-a419cf3c",
      "en": "I keep thinking about your eyes.",
      "ta": "உன் கண்ணுதான் ஞாபகம் வருது.",
-     "tl": "Un kannudhaan nyaabagam varudhu."
+     "tl": "Un kannudhaan nyaabagam varudhu.",
+     "te": "నీ కళ్ళే గుర్తొస్తున్నాయి."
     },
     {
      "id": "lust-99fb7073",
      "en": "You're very charming.",
      "ta": "நீ ரொம்ப கவர்ச்சியா இருக்க.",
-     "tl": "Nee romba kavarchiyaa irukka."
+     "tl": "Nee romba kavarchiyaa irukka.",
+     "te": "నువ్వు చాలా ఆకర్షణీయంగా ఉన్నావు."
     },
     {
      "id": "lust-ac77acef",
      "en": "You have a great body.",
      "ta": "உன் உடம்பு செம்ம ஃபிட்.",
-     "tl": "Un udambu semma fit."
+     "tl": "Un udambu semma fit.",
+     "te": "నీ బాడీ సూపర్ ఫిట్."
     },
     {
      "id": "lust-c91dbdce",
      "en": "You've been working out.",
      "ta": "நீ ஜிம் போறியா போல.",
-     "tl": "Nee gym poriyaa pola."
+     "tl": "Nee gym poriyaa pola.",
+     "te": "నువ్వు జిమ్‌కి వెళ్తున్నట్టున్నావు."
     },
     {
      "id": "lust-15f92e11",
      "en": "I love the way you talk.",
      "ta": "நீ பேசற விதம் எனக்கு ரொம்ப பிடிக்கும்.",
-     "tl": "Nee pesara vidham enakku romba pidikkum."
+     "tl": "Nee pesara vidham enakku romba pidikkum.",
+     "te": "నువ్వు మాట్లాడే తీరు నాకు చాలా ఇష్టం."
     },
     {
      "id": "lust-9b3c9f31",
      "en": "You're so confident.",
      "ta": "நீ செம்ம கான்ஃபிடன்ட்.",
-     "tl": "Nee semma confident."
+     "tl": "Nee semma confident.",
+     "te": "నువ్వు చాలా కాన్ఫిడెంట్."
     },
     {
      "id": "lust-4be0ebcb",
      "en": "Dance with me.",
      "ta": "என் கூட டான்ஸ் ஆடு.",
-     "tl": "En kooda dance aadu."
+     "tl": "En kooda dance aadu.",
+     "te": "నాతో డ్యాన్స్ చెయ్."
     },
     {
      "id": "lust-85e80e49",
      "en": "Let's get to know each other.",
      "ta": "ஒருத்தர ஒருத்தர் தெரிஞ்சுக்கலாம்.",
-     "tl": "Oruthara oruthar therinjukkalaam."
+     "tl": "Oruthara oruthar therinjukkalaam.",
+     "te": "ఒకరి గురించి ఒకరు తెలుసుకుందాం."
     },
     {
      "id": "lust-51419d1a",
      "en": "Do you want to go out with me?",
      "ta": "என் கூட வெளிய வரியா?",
-     "tl": "En kooda veliya variyaa?"
+     "tl": "En kooda veliya variyaa?",
+     "te": "నాతో బయటకి వస్తావా?"
     },
     {
      "id": "lust-cf89dafd",
      "en": "Are you free this weekend?",
      "ta": "இந்த வீக்கெண்ட் ஃப்ரீயா?",
-     "tl": "Indha weekend freeyaa?"
+     "tl": "Indha weekend freeyaa?",
+     "te": "ఈ వీకెండ్ ఫ్రీనా?"
     },
     {
      "id": "lust-2d312256",
      "en": "Let's have dinner together.",
      "ta": "ஒண்ணா டின்னர் சாப்பிடலாம்.",
-     "tl": "Onnaa dinner saappidalaam."
+     "tl": "Onnaa dinner saappidalaam.",
+     "te": "కలిసి డిన్నర్ చేద్దాం."
     },
     {
      "id": "lust-72e103f5",
      "en": "I'll pick you up at eight.",
      "ta": "எட்டு மணிக்கு உன்ன பிக்கப் பண்றேன்.",
-     "tl": "Ettu manikku unna pickup panren."
+     "tl": "Ettu manikku unna pickup panren.",
+     "te": "ఎనిమిది గంటలకి నిన్ను పికప్ చేస్తాను."
     },
     {
      "id": "lust-8e11b8cc",
      "en": "You smell so good.",
      "ta": "நீ செம்ம வாசனையா இருக்க.",
-     "tl": "Nee semma vaasanaiyaa irukka."
+     "tl": "Nee semma vaasanaiyaa irukka.",
+     "te": "నువ్వు చాలా మంచి వాసన వస్తున్నావు."
     },
     {
      "id": "lust-c701379a",
      "en": "Sit closer to me.",
      "ta": "என் பக்கத்துல வந்து உக்காரு.",
-     "tl": "En pakkathula vandhu ukkaaru."
+     "tl": "En pakkathula vandhu ukkaaru.",
+     "te": "నా పక్కకి వచ్చి కూర్చో."
     },
     {
      "id": "lust-2cc427e8",
      "en": "I like it when you're close.",
      "ta": "நீ பக்கத்துல இருக்கும்போது பிடிச்சிருக்கு.",
-     "tl": "Nee pakkathula irukkumbodhu pidichirukku."
+     "tl": "Nee pakkathula irukkumbodhu pidichirukku.",
+     "te": "నువ్వు దగ్గరగా ఉన్నప్పుడు నాకు నచ్చుతుంది."
     },
     {
      "id": "lust-ec1e8a4e",
      "en": "Your touch is so soft.",
      "ta": "உன் தொடுதல் ரொம்ப மென்மையா இருக்கு.",
-     "tl": "Un thodudhal romba menmaiyaa irukku."
+     "tl": "Un thodudhal romba menmaiyaa irukku.",
+     "te": "నీ స్పర్శ చాలా మృదువుగా ఉంది."
     },
     {
      "id": "lust-1a6240dc",
      "en": "I want to hold you.",
      "ta": "உன்ன கட்டிப்பிடிக்கணும் போல இருக்கு.",
-     "tl": "Unna kattippidikkanum pola irukku."
+     "tl": "Unna kattippidikkanum pola irukku.",
+     "te": "నిన్ను హత్తుకోవాలనిపిస్తోంది."
     },
     {
      "id": "lust-16e1160f",
      "en": "You're teasing me.",
      "ta": "நீ என்ன சீண்டற.",
-     "tl": "Nee enna seendara."
+     "tl": "Nee enna seendara.",
+     "te": "నువ్వు నన్ను ఏడిపిస్తున్నావు."
     },
     {
      "id": "lust-e7d16387",
      "en": "Stop flirting with me.",
      "ta": "என்கிட்ட ஃப்ளர்ட் பண்ணாத.",
-     "tl": "Enkitta flirt pannaadha."
+     "tl": "Enkitta flirt pannaadha.",
+     "te": "నాతో ఫ్లర్ట్ చేయకు."
     },
     {
      "id": "lust-83aad2df",
      "en": "Are you flirting with me?",
      "ta": "நீ என்கிட்ட ஃப்ளர்ட் பண்றியா?",
-     "tl": "Nee enkitta flirt panriyaa?"
+     "tl": "Nee enkitta flirt panriyaa?",
+     "te": "నువ్వు నాతో ఫ్లర్ట్ చేస్తున్నావా?"
     },
     {
      "id": "lust-65903f82",
      "en": "I like flirting with you.",
      "ta": "உன்கிட்ட ஃப்ளர்ட் பண்ண பிடிக்கும்.",
-     "tl": "Unkitta flirt panna pidikkum."
+     "tl": "Unkitta flirt panna pidikkum.",
+     "te": "నీతో ఫ్లర్ట్ చేయడం నాకు ఇష్టం."
     },
     {
      "id": "lust-1760df03",
      "en": "You're blushing.",
      "ta": "உனக்கு வெட்கம் வருது.",
-     "tl": "Unakku vetkam varudhu."
+     "tl": "Unakku vetkam varudhu.",
+     "te": "నీకు సిగ్గు వస్తోంది."
     },
     {
      "id": "lust-e4e13b18",
      "en": "You're cute when you're shy.",
      "ta": "வெட்கப்படும்போது நீ க்யூட்டா இருக்க.",
-     "tl": "Vetkappadumbodhu nee cuteaa irukka."
+     "tl": "Vetkappadumbodhu nee cuteaa irukka.",
+     "te": "సిగ్గుపడేటప్పుడు నువ్వు క్యూట్‌గా ఉంటావు."
     },
     {
      "id": "lust-00a188e0",
      "en": "You're so tempting.",
      "ta": "நீ ரொம்ப மயக்கற.",
-     "tl": "Nee romba mayakkara."
+     "tl": "Nee romba mayakkara.",
+     "te": "నువ్వు చాలా మత్తెక్కిస్తున్నావు."
     },
     {
      "id": "lust-6730e0e3",
      "en": "I'm falling for you.",
      "ta": "உன் மேல விழுந்துட்டேன்.",
-     "tl": "Un mela vizhundhutten."
+     "tl": "Un mela vizhundhutten.",
+     "te": "నీ మీద పడిపోతున్నాను."
     },
     {
      "id": "lust-eae1102d",
      "en": "You make me weak.",
      "ta": "நீ என்ன உருக வைக்கற.",
-     "tl": "Nee enna uruga vaikkara."
+     "tl": "Nee enna uruga vaikkara.",
+     "te": "నువ్వు నన్ను కరిగిపోయేలా చేస్తావు."
     },
     {
      "id": "lust-8bff69d4",
      "en": "I'm waiting for your message.",
      "ta": "உன் மெசேஜுக்காக காத்திருக்கேன்.",
-     "tl": "Un messagekkaaga kaathirukken."
+     "tl": "Un messagekkaaga kaathirukken.",
+     "te": "నీ మెసేజ్ కోసం ఎదురుచూస్తున్నాను."
     },
     {
      "id": "lust-82a85f6a",
      "en": "Send me a photo.",
      "ta": "ஒரு ஃபோட்டோ அனுப்பு.",
-     "tl": "Oru photo anuppu."
+     "tl": "Oru photo anuppu.",
+     "te": "ఒక ఫోటో పంపు."
     },
     {
      "id": "lust-f6ddb225",
      "en": "You look good in that dress.",
      "ta": "அந்த ட்ரெஸ்ல நீ நல்லா இருக்க.",
-     "tl": "Andha dressla nee nallaa irukka."
+     "tl": "Andha dressla nee nallaa irukka.",
+     "te": "ఆ డ్రెస్‌లో నువ్వు బాగున్నావు."
     },
     {
      "id": "lust-b1839be8",
      "en": "That saree looks gorgeous on you.",
      "ta": "அந்த புடவை உனக்கு செம்மையா இருக்கு.",
-     "tl": "Andha pudavai unakku semmaiyaa irukku."
+     "tl": "Andha pudavai unakku semmaiyaa irukku.",
+     "te": "ఆ చీర నీకు చాలా బాగుంది."
     },
     {
      "id": "lust-d7b7364d",
      "en": "You look sharp in that shirt.",
      "ta": "அந்த சட்டையில நீ செம்ம ஸ்மார்ட்டா இருக்க.",
-     "tl": "Andha sattaiyila nee semma smartaa irukka."
+     "tl": "Andha sattaiyila nee semma smartaa irukka.",
+     "te": "ఆ షర్ట్‌లో నువ్వు చాలా స్మార్ట్‌గా ఉన్నావు."
     },
     {
      "id": "lust-1c557efd",
      "en": "I like your perfume.",
      "ta": "உன் பர்ஃப்யூம் எனக்கு பிடிச்சிருக்கு.",
-     "tl": "Un perfume enakku pidichirukku."
+     "tl": "Un perfume enakku pidichirukku.",
+     "te": "నీ పర్ఫ్యూమ్ నాకు నచ్చింది."
     },
     {
      "id": "lust-4585c5c9",
      "en": "Wink at me again.",
      "ta": "இன்னொரு தடவ கண்ணடி.",
-     "tl": "Innoru thadava kannadi."
+     "tl": "Innoru thadava kannadi.",
+     "te": "ఇంకొకసారి కన్ను కొట్టు."
     },
     {
      "id": "lust-147bb970",
      "en": "You stole my heart.",
      "ta": "நீ என் மனச திருடிட்ட.",
-     "tl": "Nee en manasa thiruditta."
+     "tl": "Nee en manasa thiruditta.",
+     "te": "నువ్వు నా మనసు దోచుకున్నావు."
     },
     {
      "id": "lust-928252b8",
      "en": "I missed you badly.",
      "ta": "உன்ன ரொம்பவே மிஸ் பண்ணேன்.",
-     "tl": "Unna rombave miss pannen."
+     "tl": "Unna rombave miss pannen.",
+     "te": "నిన్ను చాలా మిస్ అయ్యాను."
     },
     {
      "id": "lust-fc40df84",
      "en": "Kiss me.",
      "ta": "என்ன கிஸ் பண்ணு.",
-     "tl": "Enna kiss pannu."
+     "tl": "Enna kiss pannu.",
+     "te": "నన్ను ముద్దు పెట్టుకో."
     },
     {
      "id": "lust-d6138134",
      "en": "One more kiss.",
      "ta": "இன்னொரு கிஸ்.",
-     "tl": "Innoru kiss."
+     "tl": "Innoru kiss.",
+     "te": "ఇంకొక ముద్దు."
     },
     {
      "id": "lust-bbaf9dda",
      "en": "Not here, people are watching.",
      "ta": "இங்க வேண்டாம், எல்லாரும் பாக்கறாங்க.",
-     "tl": "Inga vendaam, ellaarum paakkaraanga."
+     "tl": "Inga vendaam, ellaarum paakkaraanga.",
+     "te": "ఇక్కడ వద్దు, అందరూ చూస్తున్నారు."
     },
     {
      "id": "lust-3d0e27d8",
      "en": "Let's go somewhere quiet.",
      "ta": "அமைதியான இடத்துக்கு போலாம்.",
-     "tl": "Amaidhiyaana idathukku polaam."
+     "tl": "Amaidhiyaana idathukku polaam.",
+     "te": "ప్రశాంతమైన చోటుకి వెళ్దాం."
     },
     {
      "id": "lust-612fff19",
      "en": "I can't wait to see you.",
      "ta": "உன்ன பாக்க ஆசையா இருக்கு.",
-     "tl": "Unna paakka aasaiyaa irukku."
+     "tl": "Unna paakka aasaiyaa irukku.",
+     "te": "నిన్ను చూడాలని ఆత్రంగా ఉంది."
     },
     {
      "id": "lust-4ab2986e",
      "en": "Tonight is special.",
      "ta": "இன்னைக்கு ராத்திரி ஸ்பெஷல்.",
-     "tl": "Innaikku raathiri special."
+     "tl": "Innaikku raathiri special.",
+     "te": "ఈ రాత్రి స్పెషల్."
     },
     {
      "id": "lust-105f0694",
      "en": "You light a fire in me.",
      "ta": "நீ எனக்குள்ள நெருப்பு மூட்டற.",
-     "tl": "Nee enakkulla neruppu moottara."
+     "tl": "Nee enakkulla neruppu moottara.",
+     "te": "నువ్వు నాలో నిప్పు రాజేస్తున్నావు."
     },
     {
      "id": "lust-ebccc054",
      "en": "I want you close to me.",
      "ta": "நீ என் பக்கத்துலயே இருக்கணும்.",
-     "tl": "Nee en pakkathulaiye irukkanum."
+     "tl": "Nee en pakkathulaiye irukkanum.",
+     "te": "నువ్వు నా పక్కనే ఉండాలి."
     },
     {
      "id": "lust-e58c5d6f",
      "en": "Don't go yet.",
      "ta": "இன்னும் போகாத.",
-     "tl": "Innum pogaadha."
+     "tl": "Innum pogaadha.",
+     "te": "ఇంకా వెళ్ళకు."
     },
     {
      "id": "lust-6b0b57c6",
      "en": "I love the way you look at me.",
      "ta": "நீ என்ன பாக்கற விதம் எனக்கு பிடிக்கும்.",
-     "tl": "Nee enna paakkara vidham enakku pidikkum."
+     "tl": "Nee enna paakkara vidham enakku pidikkum.",
+     "te": "నువ్వు నన్ను చూసే తీరు నాకు ఇష్టం."
     },
     {
      "id": "lust-984f6066",
      "en": "You're dangerous for my heart.",
      "ta": "நீ என் இதயத்துக்கு ஆபத்து.",
-     "tl": "Nee en idhayathukku aabathu."
+     "tl": "Nee en idhayathukku aabathu.",
+     "te": "నువ్వు నా గుండెకి ప్రమాదం."
     },
     {
      "id": "lust-83f5862d",
      "en": "I feel shy around you.",
      "ta": "உன் முன்னாடி எனக்கு வெட்கமா இருக்கு.",
-     "tl": "Un munnaadi enakku vetkamaa irukku."
+     "tl": "Un munnaadi enakku vetkamaa irukku.",
+     "te": "నీ ముందు నాకు సిగ్గుగా ఉంటుంది."
     },
     {
      "id": "lust-14d51e05",
      "en": "Let's keep this between us.",
      "ta": "இது நமக்குள்ளயே இருக்கட்டும்.",
-     "tl": "Idhu namakkullaye irukkattum."
+     "tl": "Idhu namakkullaye irukkattum.",
+     "te": "ఇది మన మధ్యే ఉండనివ్వు."
     },
     {
      "id": "lust-da64891b",
      "en": "Let's take it one step at a time.",
      "ta": "ஒவ்வொரு அடியா போலாம்.",
-     "tl": "Ovvoru adiyaa polaam."
+     "tl": "Ovvoru adiyaa polaam.",
+     "te": "ఒక్కో అడుగు వేద్దాం."
     },
     {
      "id": "lust-08145d47",
      "en": "Are you interested in me?",
      "ta": "உனக்கு என் மேல ஆர்வம் இருக்கா?",
-     "tl": "Unakku en mela aarvam irukkaa?"
+     "tl": "Unakku en mela aarvam irukkaa?",
+     "te": "నీకు నా మీద ఆసక్తి ఉందా?"
     },
     {
      "id": "lust-654b32ce",
      "en": "I'm not interested, sorry.",
      "ta": "எனக்கு ஆர்வம் இல்ல, சாரி.",
-     "tl": "Enakku aarvam illa, sorry."
+     "tl": "Enakku aarvam illa, sorry.",
+     "te": "నాకు ఆసక్తి లేదు, సారీ."
     },
     {
      "id": "lust-5f32074b",
      "en": "Please don't text me like that.",
      "ta": "அப்படி மெசேஜ் பண்ணாத, ப்ளீஸ்.",
-     "tl": "Appadi message pannaadha, please."
+     "tl": "Appadi message pannaadha, please.",
+     "te": "అలా మెసేజ్ చేయకు, ప్లీజ్."
     },
     {
      "id": "lust-1a235db0",
      "en": "Sweet dreams, think of me.",
      "ta": "என்ன நினைச்சுட்டே தூங்கு.",
-     "tl": "Enna ninaichutte thoongu."
+     "tl": "Enna ninaichutte thoongu.",
+     "te": "నన్ను తలుచుకుంటూ నిద్రపో."
     }
-   ]
+   ],
+   "teCount": 99
   },
   {
    "id": "sex",
@@ -3076,597 +3579,697 @@ window.PP_DATA = {
      "id": "sex-13bc7ee6",
      "en": "Is this okay with you?",
      "ta": "இது உனக்கு ஓகேவா?",
-     "tl": "Idhu unakku okevaa?"
+     "tl": "Idhu unakku okevaa?",
+     "te": "ఇది నీకు ఓకేనా?"
     },
     {
      "id": "sex-6175ada7",
      "en": "Do you want to stop?",
      "ta": "நிறுத்தணுமா?",
-     "tl": "Niruthanumaa?"
+     "tl": "Niruthanumaa?",
+     "te": "ఆపాలా?"
     },
     {
      "id": "sex-3430f34c",
      "en": "Tell me if you're not comfortable.",
      "ta": "கம்ஃபர்டபிளா இல்லன்னா சொல்லு.",
-     "tl": "Comfortablaa illanaa sollu."
+     "tl": "Comfortablaa illanaa sollu.",
+     "te": "కంఫర్టబుల్‌గా లేకపోతే చెప్పు."
     },
     {
      "id": "sex-13e6373a",
      "en": "I'm not ready yet.",
      "ta": "நான் இன்னும் ரெடியா இல்ல.",
-     "tl": "Naan innum readyaa illa."
+     "tl": "Naan innum readyaa illa.",
+     "te": "నేను ఇంకా రెడీగా లేను."
     },
     {
      "id": "sex-640a5667",
      "en": "No means no.",
      "ta": "வேண்டாம்னா வேண்டாம்தான்.",
-     "tl": "Vendaamnaa vendaamdhaan."
+     "tl": "Vendaamnaa vendaamdhaan.",
+     "te": "వద్దంటే వద్దే."
     },
     {
      "id": "sex-b561603f",
      "en": "There's no hurry, let's go slow.",
      "ta": "நிதானமா போலாம்.",
-     "tl": "Nidhaanamaa polaam."
+     "tl": "Nidhaanamaa polaam.",
+     "te": "నిదానంగా వెళ్దాం."
     },
     {
      "id": "sex-a8611ea3",
      "en": "I want to be close to you.",
      "ta": "உன் கூட நெருக்கமா இருக்கணும்.",
-     "tl": "Un kooda nerukkamaa irukkanum."
+     "tl": "Un kooda nerukkamaa irukkanum.",
+     "te": "నీతో దగ్గరగా ఉండాలి."
     },
     {
      "id": "sex-585bdcec",
      "en": "Can I kiss you?",
      "ta": "உன்ன கிஸ் பண்ணலாமா?",
-     "tl": "Unna kiss pannalaamaa?"
+     "tl": "Unna kiss pannalaamaa?",
+     "te": "నిన్ను ముద్దు పెట్టుకోవచ్చా?"
     },
     {
      "id": "sex-e5f9030c",
      "en": "Not tonight, I'm tired.",
      "ta": "இன்னைக்கு வேண்டாம், டயர்டா இருக்கு.",
-     "tl": "Innaikku vendaam, tiredaa irukku."
+     "tl": "Innaikku vendaam, tiredaa irukku.",
+     "te": "ఈ రోజు వద్దు, అలసిపోయాను."
     },
     {
      "id": "sex-8acfeb36",
      "en": "We should use protection.",
      "ta": "நாம பாதுகாப்பு யூஸ் பண்ணணும்.",
-     "tl": "Naama paadhugaappu use pannanum."
+     "tl": "Naama paadhugaappu use pannanum.",
+     "te": "మనం ప్రొటెక్షన్ వాడాలి."
     },
     {
      "id": "sex-12fb84a9",
      "en": "You can say no anytime.",
      "ta": "எப்ப வேணும்னாலும் வேண்டாம்னு சொல்லலாம்.",
-     "tl": "Eppa venumnaalum vendaamnu sollalaam."
+     "tl": "Eppa venumnaalum vendaamnu sollalaam.",
+     "te": "ఎప్పుడైనా వద్దని చెప్పొచ్చు."
     },
     {
      "id": "sex-57e7a345",
      "en": "Do you like this?",
      "ta": "இது உனக்கு பிடிச்சிருக்கா?",
-     "tl": "Idhu unakku pidichirukkaa?"
+     "tl": "Idhu unakku pidichirukkaa?",
+     "te": "ఇది నీకు నచ్చిందా?"
     },
     {
      "id": "sex-6587e6e7",
      "en": "I trust you.",
      "ta": "நான் உன்ன நம்பறேன்.",
-     "tl": "Naan unna nambaren."
+     "tl": "Naan unna nambaren.",
+     "te": "నేను నిన్ను నమ్ముతున్నాను."
     },
     {
      "id": "sex-9fd27559",
      "en": "Let's talk about what we both want.",
      "ta": "நாம ரெண்டு பேரும் என்ன விரும்பறோம்னு பேசலாம்.",
-     "tl": "Naama rendu perum enna virumbaromnu pesalaam."
+     "tl": "Naama rendu perum enna virumbaromnu pesalaam.",
+     "te": "మన ఇద్దరికీ ఏం కావాలో మాట్లాడుకుందాం."
     },
     {
      "id": "sex-1dcc518f",
      "en": "I respect your boundaries.",
      "ta": "உன் எல்லைகள நான் மதிக்கறேன்.",
-     "tl": "Un ellaigala naan madhikkaren."
+     "tl": "Un ellaigala naan madhikkaren.",
+     "te": "నీ హద్దులను నేను గౌరవిస్తాను."
     },
     {
      "id": "sex-86af94fd",
      "en": "Please stop.",
      "ta": "ப்ளீஸ், நிறுத்து.",
-     "tl": "Please, niruthu."
+     "tl": "Please, niruthu.",
+     "te": "ప్లీజ్, ఆపు."
     },
     {
      "id": "sex-7150cc6e",
      "en": "Are you sure?",
      "ta": "நிச்சயமா?",
-     "tl": "Nichayamaa?"
+     "tl": "Nichayamaa?",
+     "te": "ఖచ్చితంగానా?"
     },
     {
      "id": "sex-575eeb3d",
      "en": "I love being close to you.",
      "ta": "உன் பக்கத்துல இருக்கறது எனக்கு ரொம்ப பிடிக்கும்.",
-     "tl": "Un pakkathula irukkaradhu enakku romba pidikkum."
+     "tl": "Un pakkathula irukkaradhu enakku romba pidikkum.",
+     "te": "నీ పక్కన ఉండటం నాకు చాలా ఇష్టం."
     },
     {
      "id": "sex-6787e31f",
      "en": "Hold me.",
      "ta": "என்ன கட்டிப்பிடி.",
-     "tl": "Enna kattippidi."
+     "tl": "Enna kattippidi.",
+     "te": "నన్ను హత్తుకో."
     },
     {
      "id": "sex-3f56c4e9",
      "en": "I feel safe with you.",
      "ta": "உன் கூட இருந்தா பாதுகாப்பா உணர்றேன்.",
-     "tl": "Un kooda irundhaa paadhugaappaa unarren."
+     "tl": "Un kooda irundhaa paadhugaappaa unarren.",
+     "te": "నీతో ఉంటే సురక్షితంగా అనిపిస్తుంది."
     },
     {
      "id": "sex-d0c40c35",
      "en": "That was wonderful.",
      "ta": "அது ரொம்ப அழகா இருந்துச்சு.",
-     "tl": "Adhu romba azhagaa irundhuchu."
+     "tl": "Adhu romba azhagaa irundhuchu.",
+     "te": "అది చాలా అందంగా ఉంది."
     },
     {
      "id": "sex-0dd4d27c",
      "en": "Can we cuddle for a while?",
      "ta": "கொஞ்ச நேரம் கட்டிப்பிடிச்சிக்கலாமா?",
-     "tl": "Konja neram kattippidichikkalaamaa?"
+     "tl": "Konja neram kattippidichikkalaamaa?",
+     "te": "కొంచెం సేపు హత్తుకుందామా?"
     },
     {
      "id": "sex-07159376",
      "en": "I'm a little nervous.",
      "ta": "எனக்கு கொஞ்சம் பதட்டமா இருக்கு.",
-     "tl": "Enakku konjam padhattamaa irukku."
+     "tl": "Enakku konjam padhattamaa irukku.",
+     "te": "నాకు కొంచెం కంగారుగా ఉంది."
     },
     {
      "id": "sex-4578233c",
      "en": "There's no rush.",
      "ta": "அவசரம் ஒண்ணும் இல்ல.",
-     "tl": "Avasaram onnum illa."
+     "tl": "Avasaram onnum illa.",
+     "te": "తొందర ఏమీ లేదు."
     },
     {
      "id": "sex-00048974",
      "en": "Tell me what you like.",
      "ta": "உனக்கு என்ன பிடிக்கும்னு சொல்லு.",
-     "tl": "Unakku enna pidikkumnu sollu."
+     "tl": "Unakku enna pidikkumnu sollu.",
+     "te": "నీకు ఏం ఇష్టమో చెప్పు."
     },
     {
      "id": "sex-544a9c83",
      "en": "Let's wait until we're both ready.",
      "ta": "ரெண்டு பேரும் ரெடியாகற வரைக்கும் காத்திருக்கலாம்.",
-     "tl": "Rendu perum readyaagara varaikkum kaathirukkalaam."
+     "tl": "Rendu perum readyaagara varaikkum kaathirukkalaam.",
+     "te": "ఇద్దరం రెడీ అయ్యేదాకా ఆగుదాం."
     },
     {
      "id": "sex-766eb9c9",
      "en": "I changed my mind.",
      "ta": "நான் மனசு மாறிட்டேன்.",
-     "tl": "Naan manasu maaritten."
+     "tl": "Naan manasu maaritten.",
+     "te": "నా మనసు మార్చుకున్నాను."
     },
     {
      "id": "sex-ebe64df3",
      "en": "It's okay, we can stop.",
      "ta": "பரவாயில்ல, நிறுத்திக்கலாம்.",
-     "tl": "Paravaayilla, niruthikkalaam."
+     "tl": "Paravaayilla, niruthikkalaam.",
+     "te": "పర్వాలేదు, ఆపేద్దాం."
     },
     {
      "id": "sex-cfcdaf46",
      "en": "Good night, my dear.",
      "ta": "குட் நைட், என் செல்லம்.",
-     "tl": "Good night, en chellam."
+     "tl": "Good night, en chellam.",
+     "te": "గుడ్ నైట్, బంగారం."
     },
     {
      "id": "sex-05c46f7e",
      "en": "Thank you for understanding.",
      "ta": "புரிஞ்சுக்கிட்டதுக்கு நன்றி.",
-     "tl": "Purinjukkittadhukku nandri."
+     "tl": "Purinjukkittadhukku nandri.",
+     "te": "అర్థం చేసుకున్నందుకు థ్యాంక్స్."
     },
     {
      "id": "sex-5e8974f3",
      "en": "Are you comfortable?",
      "ta": "உனக்கு கம்ஃபர்டபிளா இருக்கா?",
-     "tl": "Unakku comfortablaa irukkaa?"
+     "tl": "Unakku comfortablaa irukkaa?",
+     "te": "నీకు కంఫర్టబుల్‌గా ఉందా?"
     },
     {
      "id": "sex-d032f8e9",
      "en": "Is this okay?",
      "ta": "இது ஓகேவா?",
-     "tl": "Idhu okevaa?"
+     "tl": "Idhu okevaa?",
+     "te": "ఇది ఓకేనా?"
     },
     {
      "id": "sex-f646a9a6",
      "en": "Can I touch you?",
      "ta": "உன்ன தொடலாமா?",
-     "tl": "Unna thodalaamaa?"
+     "tl": "Unna thodalaamaa?",
+     "te": "నిన్ను తాకొచ్చా?"
     },
     {
      "id": "sex-15164b07",
      "en": "Can I hold you?",
      "ta": "உன்ன கட்டிப்பிடிக்கலாமா?",
-     "tl": "Unna kattippidikkalaamaa?"
+     "tl": "Unna kattippidikkalaamaa?",
+     "te": "నిన్ను హత్తుకోవచ్చా?"
     },
     {
      "id": "sex-b6a7e9f2",
      "en": "Is it okay if I come closer?",
      "ta": "பக்கத்துல வரலாமா?",
-     "tl": "Pakkathula varalaamaa?"
+     "tl": "Pakkathula varalaamaa?",
+     "te": "దగ్గరికి రావచ్చా?"
     },
     {
      "id": "sex-a1434c10",
      "en": "Tell me if it hurts.",
      "ta": "வலிச்சா சொல்லு.",
-     "tl": "Valichaa sollu."
+     "tl": "Valichaa sollu.",
+     "te": "నొప్పిగా ఉంటే చెప్పు."
     },
     {
      "id": "sex-0381655a",
      "en": "Does that feel good?",
      "ta": "இது நல்லா இருக்கா?",
-     "tl": "Idhu nallaa irukkaa?"
+     "tl": "Idhu nallaa irukkaa?",
+     "te": "ఇది బాగుందా?"
     },
     {
      "id": "sex-9a44a624",
      "en": "I like this.",
      "ta": "எனக்கு இது பிடிச்சிருக்கு.",
-     "tl": "Enakku idhu pidichirukku."
+     "tl": "Enakku idhu pidichirukku.",
+     "te": "నాకు ఇది నచ్చింది."
     },
     {
      "id": "sex-02f9fde2",
      "en": "I don't like this.",
      "ta": "எனக்கு இது பிடிக்கல.",
-     "tl": "Enakku idhu pidikkala."
+     "tl": "Enakku idhu pidikkala.",
+     "te": "నాకు ఇది నచ్చలేదు."
     },
     {
      "id": "sex-1bf78f96",
      "en": "Slow down.",
      "ta": "கொஞ்சம் மெதுவா.",
-     "tl": "Konjam medhuvaa."
+     "tl": "Konjam medhuvaa.",
+     "te": "కొంచెం నెమ్మదిగా."
     },
     {
      "id": "sex-65eea631",
      "en": "Wait a moment.",
      "ta": "ஒரு நிமிஷம் இரு.",
-     "tl": "Oru nimisham iru."
+     "tl": "Oru nimisham iru.",
+     "te": "ఒక్క నిమిషం ఆగు."
     },
     {
      "id": "sex-87af3e74",
      "en": "Stop, please.",
      "ta": "நிறுத்து, ப்ளீஸ்.",
-     "tl": "Niruthu, please."
+     "tl": "Niruthu, please.",
+     "te": "ఆపు, ప్లీజ్."
     },
     {
      "id": "sex-79165838",
      "en": "I want to stop.",
      "ta": "நான் நிறுத்தணும்.",
-     "tl": "Naan niruthanum."
+     "tl": "Naan niruthanum.",
+     "te": "నేను ఆపాలనుకుంటున్నాను."
     },
     {
      "id": "sex-1bc546eb",
      "en": "I'm not in the mood.",
      "ta": "எனக்கு மூட் இல்ல.",
-     "tl": "Enakku mood illa."
+     "tl": "Enakku mood illa.",
+     "te": "నాకు మూడ్ లేదు."
     },
     {
      "id": "sex-750e94d6",
      "en": "Maybe another day.",
      "ta": "இன்னொரு நாள் பாக்கலாம்.",
-     "tl": "Innoru naal paakkalaam."
+     "tl": "Innoru naal paakkalaam.",
+     "te": "ఇంకొక రోజు చూద్దాం."
     },
     {
      "id": "sex-32287e37",
      "en": "I'm not comfortable with this.",
      "ta": "இது எனக்கு கம்ஃபர்டபிளா இல்ல.",
-     "tl": "Idhu enakku comfortablaa illa."
+     "tl": "Idhu enakku comfortablaa illa.",
+     "te": "ఇది నాకు కంఫర్టబుల్‌గా లేదు."
     },
     {
      "id": "sex-bf3f1d1a",
      "en": "Thank you for asking.",
      "ta": "கேட்டதுக்கு நன்றி.",
-     "tl": "Kettadhukku nandri."
+     "tl": "Kettadhukku nandri.",
+     "te": "అడిగినందుకు థ్యాంక్స్."
     },
     {
      "id": "sex-56e2c6a8",
      "en": "Thank you for stopping.",
      "ta": "நிறுத்துனதுக்கு நன்றி.",
-     "tl": "Niruthunadhukku nandri."
+     "tl": "Niruthunadhukku nandri.",
+     "te": "ఆపినందుకు థ్యాంక్స్."
     },
     {
      "id": "sex-0f4a3301",
      "en": "You don't have to do anything.",
      "ta": "நீ எதுவும் பண்ண வேண்டியதில்ல.",
-     "tl": "Nee edhuvum panna vendiyadhilla."
+     "tl": "Nee edhuvum panna vendiyadhilla.",
+     "te": "నువ్వు ఏమీ చేయాల్సిన అవసరం లేదు."
     },
     {
      "id": "sex-5fb86a5e",
      "en": "We can just talk.",
      "ta": "நாம சும்மா பேசலாம்.",
-     "tl": "Naama summaa pesalaam."
+     "tl": "Naama summaa pesalaam.",
+     "te": "మనం ఊరికే మాట్లాడుకుందాం."
     },
     {
      "id": "sex-20a02fc2",
      "en": "Let's just sleep together, nothing more.",
      "ta": "பக்கத்துல படுத்துக்கலாம், வேற எதுவும் வேண்டாம்.",
-     "tl": "Pakkathula paduthukkalaam, vera edhuvum vendaam."
+     "tl": "Pakkathula paduthukkalaam, vera edhuvum vendaam.",
+     "te": "పక్కపక్కనే పడుకుందాం, ఇంకేమీ వద్దు."
     },
     {
      "id": "sex-aaf97aad",
      "en": "I want to take things slowly.",
      "ta": "நான் நிதானமா போக விரும்பறேன்.",
-     "tl": "Naan nidhaanamaa poga virumbaren."
+     "tl": "Naan nidhaanamaa poga virumbaren.",
+     "te": "నేను నిదానంగా వెళ్ళాలనుకుంటున్నాను."
     },
     {
      "id": "sex-d9209587",
      "en": "Pressure is not okay.",
      "ta": "கட்டாயப்படுத்தறது சரியில்ல.",
-     "tl": "Kattaayappaduthuradhu sariyilla."
+     "tl": "Kattaayappaduthuradhu sariyilla.",
+     "te": "బలవంతం చేయడం సరికాదు."
     },
     {
      "id": "sex-1de012b6",
      "en": "Don't force me.",
      "ta": "என்ன கட்டாயப்படுத்தாத.",
-     "tl": "Enna kattaayappaduthaadha."
+     "tl": "Enna kattaayappaduthaadha.",
+     "te": "నన్ను బలవంతం చేయకు."
     },
     {
      "id": "sex-a7da1f5e",
      "en": "I respect your decision.",
      "ta": "உன் முடிவ நான் மதிக்கறேன்.",
-     "tl": "Un mudiva naan madhikkaren."
+     "tl": "Un mudiva naan madhikkaren.",
+     "te": "నీ నిర్ణయాన్ని గౌరవిస్తాను."
     },
     {
      "id": "sex-cbda486b",
      "en": "It's your choice.",
      "ta": "அது உன் விருப்பம்.",
-     "tl": "Adhu un viruppam."
+     "tl": "Adhu un viruppam.",
+     "te": "అది నీ ఇష్టం."
     },
     {
      "id": "sex-06661247",
      "en": "Your body, your choice.",
      "ta": "உன் உடம்பு, உன் முடிவு.",
-     "tl": "Un udambu, un mudivu."
+     "tl": "Un udambu, un mudivu.",
+     "te": "నీ శరీరం, నీ నిర్ణయం."
     },
     {
      "id": "sex-11723100",
      "en": "Do you have a condom?",
      "ta": "உன்கிட்ட காண்டம் இருக்கா?",
-     "tl": "Unkitta condom irukkaa?"
+     "tl": "Unkitta condom irukkaa?",
+     "te": "నీ దగ్గర కండోమ్ ఉందా?"
     },
     {
      "id": "sex-abfe53f0",
      "en": "No condom, no sex.",
      "ta": "காண்டம் இல்லன்னா வேண்டாம்.",
-     "tl": "Condom illanaa vendaam."
+     "tl": "Condom illanaa vendaam.",
+     "te": "కండోమ్ లేకపోతే వద్దు."
     },
     {
      "id": "sex-5feea0af",
      "en": "Let's get tested together.",
      "ta": "ரெண்டு பேரும் டெஸ்ட் பண்ணிக்கலாம்.",
-     "tl": "Rendu perum test pannikkalaam."
+     "tl": "Rendu perum test pannikkalaam.",
+     "te": "ఇద్దరం టెస్ట్ చేయించుకుందాం."
     },
     {
      "id": "sex-2d8c2de6",
      "en": "Have you been tested recently?",
      "ta": "சமீபத்துல டெஸ்ட் பண்ணியா?",
-     "tl": "Sameebathula test panniyaa?"
+     "tl": "Sameebathula test panniyaa?",
+     "te": "ఈ మధ్య టెస్ట్ చేయించుకున్నావా?"
     },
     {
      "id": "sex-ff93110a",
      "en": "Safety comes first.",
      "ta": "பாதுகாப்புதான் முதல்ல.",
-     "tl": "Paadhugaappudhaan mudhalla."
+     "tl": "Paadhugaappudhaan mudhalla.",
+     "te": "భద్రతే ముందు."
     },
     {
      "id": "sex-8fea3f23",
      "en": "Are you on the pill?",
      "ta": "நீ மாத்திரை எடுத்துக்கறியா?",
-     "tl": "Nee maathirai eduthukkariyaa?"
+     "tl": "Nee maathirai eduthukkariyaa?",
+     "te": "నువ్వు మాత్రలు వేసుకుంటున్నావా?"
     },
     {
      "id": "sex-07d50579",
      "en": "Let's talk to a doctor.",
      "ta": "டாக்டர்கிட்ட பேசலாம்.",
-     "tl": "Doctorkitta pesalaam."
+     "tl": "Doctorkitta pesalaam.",
+     "te": "డాక్టర్‌తో మాట్లాడదాం."
     },
     {
      "id": "sex-0efd0f58",
      "en": "Lock the door.",
      "ta": "கதவ தாப்பா போடு.",
-     "tl": "Kadhava thaappaa podu."
+     "tl": "Kadhava thaappaa podu.",
+     "te": "తలుపు గడియ పెట్టు."
     },
     {
      "id": "sex-7205a3a6",
      "en": "Turn off the light.",
      "ta": "லைட்ட அணைச்சிடு.",
-     "tl": "Light-a anaichidu."
+     "tl": "Light-a anaichidu.",
+     "te": "లైట్ ఆపేయ్."
     },
     {
      "id": "sex-4d4ba2d0",
      "en": "Leave the light on.",
      "ta": "லைட் எரியட்டும்.",
-     "tl": "Light eriyattum."
+     "tl": "Light eriyattum.",
+     "te": "లైట్ వెలగనివ్వు."
     },
     {
      "id": "sex-d848f3cb",
      "en": "Come to bed.",
      "ta": "வந்து படு.",
-     "tl": "Vandhu padu."
+     "tl": "Vandhu padu.",
+     "te": "వచ్చి పడుకో."
     },
     {
      "id": "sex-f0038f64",
      "en": "Lie next to me.",
      "ta": "என் பக்கத்துல படு.",
-     "tl": "En pakkathula padu."
+     "tl": "En pakkathula padu.",
+     "te": "నా పక్కన పడుకో."
     },
     {
      "id": "sex-0ecd7b15",
      "en": "Stay with me tonight.",
      "ta": "இன்னைக்கு ராத்திரி என் கூட இரு.",
-     "tl": "Innaikku raathiri en kooda iru."
+     "tl": "Innaikku raathiri en kooda iru.",
+     "te": "ఈ రాత్రి నాతో ఉండు."
     },
     {
      "id": "sex-d8408490",
      "en": "I want to wake up next to you.",
      "ta": "உன் பக்கத்துல கண் முழிக்கணும்.",
-     "tl": "Un pakkathula kan muzhikkanum."
+     "tl": "Un pakkathula kan muzhikkanum.",
+     "te": "నీ పక్కనే నిద్రలేవాలి."
     },
     {
      "id": "sex-2887738b",
      "en": "Your skin is so soft.",
      "ta": "உன் தோல் ரொம்ப மென்மையா இருக்கு.",
-     "tl": "Un thol romba menmaiyaa irukku."
+     "tl": "Un thol romba menmaiyaa irukku.",
+     "te": "నీ చర్మం చాలా మృదువుగా ఉంది."
     },
     {
      "id": "sex-277f16e0",
      "en": "Your heart is beating fast.",
      "ta": "உன் இதயம் வேகமா துடிக்குது.",
-     "tl": "Un idhayam vegamaa thudikkudhu."
+     "tl": "Un idhayam vegamaa thudikkudhu.",
+     "te": "నీ గుండె వేగంగా కొట్టుకుంటోంది."
     },
     {
      "id": "sex-3a7bd420",
      "en": "I feel so close to you.",
      "ta": "உன் கூட ரொம்ப நெருக்கமா உணர்றேன்.",
-     "tl": "Un kooda romba nerukkamaa unarren."
+     "tl": "Un kooda romba nerukkamaa unarren.",
+     "te": "నీకు చాలా దగ్గరగా అనిపిస్తోంది."
     },
     {
      "id": "sex-a5195bb4",
      "en": "That felt amazing.",
      "ta": "அது செம்மையா இருந்துச்சு.",
-     "tl": "Adhu semmaiyaa irundhuchu."
+     "tl": "Adhu semmaiyaa irundhuchu.",
+     "te": "అది అద్భుతంగా ఉంది."
     },
     {
      "id": "sex-3d5aa348",
      "en": "Was it good for you?",
      "ta": "உனக்கு நல்லா இருந்துச்சா?",
-     "tl": "Unakku nallaa irundhuchaa?"
+     "tl": "Unakku nallaa irundhuchaa?",
+     "te": "నీకు బాగుందా?"
     },
     {
      "id": "sex-01070dcd",
      "en": "Are you okay?",
      "ta": "நீ நல்லா இருக்கியா?",
-     "tl": "Nee nallaa irukkiyaa?"
+     "tl": "Nee nallaa irukkiyaa?",
+     "te": "నువ్వు బాగున్నావా?"
     },
     {
      "id": "sex-8c690294",
      "en": "Did I hurt you?",
      "ta": "உனக்கு வலிச்சுதா?",
-     "tl": "Unakku valichudhaa?"
+     "tl": "Unakku valichudhaa?",
+     "te": "నీకు నొప్పి పెట్టానా?"
     },
     {
      "id": "sex-2d845097",
      "en": "Let me know what you want.",
      "ta": "உனக்கு என்ன வேணும்னு சொல்லு.",
-     "tl": "Unakku enna venumnu sollu."
+     "tl": "Unakku enna venumnu sollu.",
+     "te": "నీకు ఏం కావాలో చెప్పు."
     },
     {
      "id": "sex-cec8d970",
      "en": "I'm shy to talk about this.",
      "ta": "இத பத்தி பேச வெட்கமா இருக்கு.",
-     "tl": "Idha pathi pesa vetkamaa irukku."
+     "tl": "Idha pathi pesa vetkamaa irukku.",
+     "te": "దీని గురించి మాట్లాడటానికి సిగ్గుగా ఉంది."
     },
     {
      "id": "sex-ad47b3d4",
      "en": "It's okay to talk about it.",
      "ta": "இத பத்தி பேசறதுல தப்பில்ல.",
-     "tl": "Idha pathi pesaradhula thappilla."
+     "tl": "Idha pathi pesaradhula thappilla.",
+     "te": "దీని గురించి మాట్లాడటంలో తప్పు లేదు."
     },
     {
      "id": "sex-c8174425",
      "en": "We should talk openly.",
      "ta": "நாம வெளிப்படையா பேசணும்.",
-     "tl": "Naama velippadaiyaa pesanum."
+     "tl": "Naama velippadaiyaa pesanum.",
+     "te": "మనం ఓపెన్‌గా మాట్లాడుకోవాలి."
     },
     {
      "id": "sex-a2253490",
      "en": "Let's set some rules.",
      "ta": "சில ரூல்ஸ் வச்சுக்கலாம்.",
-     "tl": "Sila rules vachukkalaam."
+     "tl": "Sila rules vachukkalaam.",
+     "te": "కొన్ని రూల్స్ పెట్టుకుందాం."
     },
     {
      "id": "sex-74af7684",
      "en": "Don't share my photos.",
      "ta": "என் ஃபோட்டோஸ யாருக்கும் அனுப்பாத.",
-     "tl": "En photos-a yaarukkum anuppaadha."
+     "tl": "En photos-a yaarukkum anuppaadha.",
+     "te": "నా ఫోటోలు ఎవరికీ పంపకు."
     },
     {
      "id": "sex-e2a49450",
      "en": "Delete that photo.",
      "ta": "அந்த ஃபோட்டோவ டெலீட் பண்ணு.",
-     "tl": "Andha photova delete pannu."
+     "tl": "Andha photova delete pannu.",
+     "te": "ఆ ఫోటో డిలీట్ చెయ్."
     },
     {
      "id": "sex-374c7725",
      "en": "Privacy matters to me.",
      "ta": "எனக்கு பிரைவசி முக்கியம்.",
-     "tl": "Enakku privacy mukkiyam."
+     "tl": "Enakku privacy mukkiyam.",
+     "te": "నాకు ప్రైవసీ ముఖ్యం."
     },
     {
      "id": "sex-b547d7fb",
      "en": "I'm still a virgin.",
      "ta": "நான் இன்னும் வர்ஜின்தான்.",
-     "tl": "Naan innum virgindhaan."
+     "tl": "Naan innum virgindhaan.",
+     "te": "నేను ఇంకా వర్జిన్‌నే."
     },
     {
      "id": "sex-4f60805d",
      "en": "It's my first time.",
      "ta": "இது எனக்கு முதல் தடவ.",
-     "tl": "Idhu enakku mudhal thadava."
+     "tl": "Idhu enakku mudhal thadava.",
+     "te": "ఇది నాకు మొదటిసారి."
     },
     {
      "id": "sex-cd086717",
      "en": "Be gentle.",
      "ta": "மென்மையா இரு.",
-     "tl": "Menmaiyaa iru."
+     "tl": "Menmaiyaa iru.",
+     "te": "మృదువుగా ఉండు."
     },
     {
      "id": "sex-5711c286",
      "en": "I'm tired, let's sleep.",
      "ta": "டயர்டா இருக்கு, தூங்கலாம்.",
-     "tl": "Tiredaa irukku, thoongalaam."
+     "tl": "Tiredaa irukku, thoongalaam.",
+     "te": "అలసిపోయాను, పడుకుందాం."
     },
     {
      "id": "sex-5d3f2924",
      "en": "Let's cuddle and sleep.",
      "ta": "கட்டிப்பிடிச்சுக்கிட்டு தூங்கலாம்.",
-     "tl": "Kattippidichukkittu thoongalaam."
+     "tl": "Kattippidichukkittu thoongalaam.",
+     "te": "హత్తుకుని పడుకుందాం."
     },
     {
      "id": "sex-d06484a3",
      "en": "Kiss me good night.",
      "ta": "குட் நைட் கிஸ் குடு.",
-     "tl": "Good night kiss kudu."
+     "tl": "Good night kiss kudu.",
+     "te": "గుడ్ నైట్ ముద్దు ఇవ్వు."
     },
     {
      "id": "sex-4a6e8db0",
      "en": "You're so warm.",
      "ta": "நீ ரொம்ப கதகதப்பா இருக்க.",
-     "tl": "Nee romba kadhagadhappaa irukka."
+     "tl": "Nee romba kadhagadhappaa irukka.",
+     "te": "నువ్వు చాలా వెచ్చగా ఉన్నావు."
     },
     {
      "id": "sex-e524a41a",
      "en": "I feel loved.",
      "ta": "நான் நேசிக்கப்படற மாதிரி இருக்கு.",
-     "tl": "Naan nesikkappadara maadhiri irukku."
+     "tl": "Naan nesikkappadara maadhiri irukku.",
+     "te": "ప్రేమించబడుతున్నట్టు అనిపిస్తోంది."
     },
     {
      "id": "sex-1ba431e2",
      "en": "You can always say no to me.",
      "ta": "என்கிட்ட எப்பவும் வேண்டாம்னு சொல்லலாம்.",
-     "tl": "Enkitta eppavum vendaamnu sollalaam."
+     "tl": "Enkitta eppavum vendaamnu sollalaam.",
+     "te": "నాతో ఎప్పుడైనా వద్దని చెప్పొచ్చు."
     },
     {
      "id": "sex-50fa58d9",
      "en": "Consent matters.",
      "ta": "சம்மதம் முக்கியம்.",
-     "tl": "Sammadham mukkiyam."
+     "tl": "Sammadham mukkiyam.",
+     "te": "అంగీకారం ముఖ్యం."
     },
     {
      "id": "sex-dd9cd248",
      "en": "Silence is not a yes.",
      "ta": "அமைதி சம்மதம் இல்ல.",
-     "tl": "Amaidhi sammadham illa."
+     "tl": "Amaidhi sammadham illa.",
+     "te": "మౌనం అంగీకారం కాదు."
     },
     {
      "id": "sex-44a5572e",
      "en": "Being drunk is not consent.",
      "ta": "போதையில இருக்கறது சம்மதம் இல்ல.",
-     "tl": "Bodhaiyila irukkaradhu sammadham illa."
+     "tl": "Bodhaiyila irukkaradhu sammadham illa.",
+     "te": "మత్తులో ఉండటం అంగీకారం కాదు."
     },
     {
      "id": "sex-ebb4da3a",
      "en": "Ask before you touch.",
      "ta": "தொடறதுக்கு முன்னாடி கேளு.",
-     "tl": "Thodaradhukku munnaadi kelu."
+     "tl": "Thodaradhukku munnaadi kelu.",
+     "te": "తాకే ముందు అడుగు."
     }
-   ]
+   ],
+   "teCount": 99
   },
   {
    "id": "revenge",
@@ -3684,597 +4287,697 @@ window.PP_DATA = {
      "id": "revenge-76b9e352",
      "en": "I won't forget what you did.",
      "ta": "நீ பண்ணத நான் மறக்க மாட்டேன்.",
-     "tl": "Nee pannadha naan marakka maatten."
+     "tl": "Nee pannadha naan marakka maatten.",
+     "te": "నువ్వు చేసింది నేను మర్చిపోను."
     },
     {
      "id": "revenge-5f1c1dce",
      "en": "You'll regret this.",
      "ta": "இதுக்கு நீ வருத்தப்படுவ.",
-     "tl": "Idhukku nee varuthappaduva."
+     "tl": "Idhukku nee varuthappaduva.",
+     "te": "దీనికి నువ్వు బాధపడతావు."
     },
     {
      "id": "revenge-09324389",
      "en": "Wait and see.",
      "ta": "பொறுத்திருந்து பாரு.",
-     "tl": "Poruthirundhu paaru."
+     "tl": "Poruthirundhu paaru.",
+     "te": "ఓపిక పట్టి చూడు."
     },
     {
      "id": "revenge-19f7f54c",
      "en": "Karma won't let you go.",
      "ta": "கர்மா உன்ன சும்மா விடாது.",
-     "tl": "Karma unna summaa vidaadhu."
+     "tl": "Karma unna summaa vidaadhu.",
+     "te": "కర్మ నిన్ను వదలదు."
     },
     {
      "id": "revenge-e6e6c5a1",
      "en": "I'll prove you wrong.",
      "ta": "நீ சொன்னது தப்புன்னு நிரூபிப்பேன்.",
-     "tl": "Nee sonnadhu thappunnu niroopippen."
+     "tl": "Nee sonnadhu thappunnu niroopippen.",
+     "te": "నువ్వు అన్నది తప్పని నిరూపిస్తాను."
     },
     {
      "id": "revenge-92d9cffd",
      "en": "My time will come.",
      "ta": "என் நேரம் வரும்.",
-     "tl": "En neram varum."
+     "tl": "En neram varum.",
+     "te": "నా టైమ్ వస్తుంది."
     },
     {
      "id": "revenge-5bd3384f",
      "en": "You'll have to answer for this.",
      "ta": "இதுக்கு நீ பதில் சொல்லியே ஆகணும்.",
-     "tl": "Idhukku nee badhil solliye aaganum."
+     "tl": "Idhukku nee badhil solliye aaganum.",
+     "te": "దీనికి నువ్వు జవాబు చెప్పాల్సిందే."
     },
     {
      "id": "revenge-8509fadb",
      "en": "Don't test my patience.",
      "ta": "என் பொறுமைய சோதிக்காத.",
-     "tl": "En porumaiya sodhikkaadha."
+     "tl": "En porumaiya sodhikkaadha.",
+     "te": "నా ఓపికని పరీక్షించకు."
     },
     {
      "id": "revenge-240fb224",
      "en": "I'm done being nice.",
      "ta": "இனிமே நல்லவனா இருக்க மாட்டேன்.",
-     "tl": "Inime nallavanaa irukka maatten."
+     "tl": "Inime nallavanaa irukka maatten.",
+     "te": "ఇక మంచిగా ఉండను."
     },
     {
      "id": "revenge-fa139644",
      "en": "You broke my trust.",
      "ta": "நீ என் நம்பிக்கைய உடைச்சிட்ட.",
-     "tl": "Nee en nambikkaiya udaichitta."
+     "tl": "Nee en nambikkaiya udaichitta.",
+     "te": "నువ్వు నా నమ్మకాన్ని పోగొట్టావు."
     },
     {
      "id": "revenge-7c0b42f7",
      "en": "Everyone will know the truth.",
      "ta": "உண்மை எல்லாருக்கும் தெரிய வரும்.",
-     "tl": "Unmai ellaarukkum theriya varum."
+     "tl": "Unmai ellaarukkum theriya varum.",
+     "te": "నిజం అందరికీ తెలుస్తుంది."
     },
     {
      "id": "revenge-4b0a3916",
      "en": "Success is the best revenge.",
      "ta": "ஜெயிச்சு காட்டறதுதான் சிறந்த பழிவாங்கல்.",
-     "tl": "Jeyichu kaattaradhudhaan sirandha pazhivaangal."
+     "tl": "Jeyichu kaattaradhudhaan sirandha pazhivaangal.",
+     "te": "గెలిచి చూపించడమే మంచి ప్రతీకారం."
     },
     {
      "id": "revenge-08a33601",
      "en": "Remember this day.",
      "ta": "இந்த நாள ஞாபகம் வச்சுக்கோ.",
-     "tl": "Indha naala nyaabagam vachukko."
+     "tl": "Indha naala nyaabagam vachukko.",
+     "te": "ఈ రోజుని గుర్తుపెట్టుకో."
     },
     {
      "id": "revenge-952a4861",
      "en": "You reap what you sow.",
      "ta": "விதைச்சதுதான் முளைக்கும்.",
-     "tl": "Vidhaichadhudhaan mulaikkum."
+     "tl": "Vidhaichadhudhaan mulaikkum.",
+     "te": "విత్తిందే పండుతుంది."
     },
     {
      "id": "revenge-b4199800",
      "en": "I'll get my chance too.",
      "ta": "எனக்கும் ஒரு சான்ஸ் வரும்.",
-     "tl": "Enakkum oru chance varum."
+     "tl": "Enakkum oru chance varum.",
+     "te": "నాకూ ఒక ఛాన్స్ వస్తుంది."
     },
     {
      "id": "revenge-74b00199",
      "en": "You started this.",
      "ta": "இத ஆரம்பிச்சது நீதான்.",
-     "tl": "Idha aarambichadhu needhaan."
+     "tl": "Idha aarambichadhu needhaan.",
+     "te": "ఇది మొదలుపెట్టింది నువ్వే."
     },
     {
      "id": "revenge-065996ea",
      "en": "Don't mess with me.",
      "ta": "என்கிட்ட வச்சுக்காத.",
-     "tl": "Enkitta vachukkaadha."
+     "tl": "Enkitta vachukkaadha.",
+     "te": "నాతో పెట్టుకోకు."
     },
     {
      "id": "revenge-1338ce02",
      "en": "I won't let this go.",
      "ta": "இத சும்மா விட மாட்டேன்.",
-     "tl": "Idha summaa vida maatten."
+     "tl": "Idha summaa vida maatten.",
+     "te": "దీన్ని ఊరికే వదలను."
     },
     {
      "id": "revenge-495da006",
      "en": "You'll see who I am.",
      "ta": "நான் யாருன்னு நீ பாப்ப.",
-     "tl": "Naan yaarunnu nee paappa."
+     "tl": "Naan yaarunnu nee paappa.",
+     "te": "నేను ఎవరో నువ్వు చూస్తావు."
     },
     {
      "id": "revenge-4353d0f7",
      "en": "You hurt my family.",
      "ta": "நீ என் குடும்பத்த காயப்படுத்திட்ட.",
-     "tl": "Nee en kudumbatha kaayappaduthitta."
+     "tl": "Nee en kudumbatha kaayappaduthitta.",
+     "te": "నువ్వు నా కుటుంబాన్ని బాధపెట్టావు."
     },
     {
      "id": "revenge-5ed89f59",
      "en": "My success will be my answer.",
      "ta": "என் வெற்றிதான் உனக்கு பதில்.",
-     "tl": "En vetridhaan unakku badhil."
+     "tl": "En vetridhaan unakku badhil.",
+     "te": "నా విజయమే నీకు జవాబు."
     },
     {
      "id": "revenge-bdcd86fe",
      "en": "Never underestimate me.",
      "ta": "என்ன குறைச்சு எடை போடாத.",
-     "tl": "Enna kuraichu edai podaadha."
+     "tl": "Enna kuraichu edai podaadha.",
+     "te": "నన్ను తక్కువ అంచనా వేయకు."
     },
     {
      "id": "revenge-113353ac",
      "en": "You lied to everyone.",
      "ta": "நீ எல்லார்கிட்டயும் பொய் சொன்ன.",
-     "tl": "Nee ellaarkittayum poi sonna."
+     "tl": "Nee ellaarkittayum poi sonna.",
+     "te": "నువ్వు అందరితో అబద్ధం చెప్పావు."
     },
     {
      "id": "revenge-186d3e23",
      "en": "One day you'll understand my pain.",
      "ta": "ஒரு நாள் என் வலி உனக்கு புரியும்.",
-     "tl": "Oru naal en vali unakku puriyum."
+     "tl": "Oru naal en vali unakku puriyum.",
+     "te": "ఒక రోజు నా బాధ నీకు అర్థమవుతుంది."
     },
     {
      "id": "revenge-62f6603d",
      "en": "I'm keeping count of everything.",
      "ta": "நான் எல்லாத்தையும் கணக்கு வச்சிருக்கேன்.",
-     "tl": "Naan ellaathaiyum kanakku vachirukken."
+     "tl": "Naan ellaathaiyum kanakku vachirukken.",
+     "te": "నేను అన్నిటికీ లెక్క పెట్టుకుంటున్నాను."
     },
     {
      "id": "revenge-ea442c31",
      "en": "I've been patient enough.",
      "ta": "பொறுத்தது போதும்.",
-     "tl": "Poruthadhu podhum."
+     "tl": "Poruthadhu podhum.",
+     "te": "ఓపిక పట్టింది చాలు."
     },
     {
      "id": "revenge-7a0846ac",
      "en": "You picked a fight with the wrong person.",
      "ta": "தப்பான ஆள்கிட்ட மோதிட்ட.",
-     "tl": "Thappaana aalkitta modhitta."
+     "tl": "Thappaana aalkitta modhitta.",
+     "te": "తప్పు మనిషితో పెట్టుకున్నావు."
     },
     {
      "id": "revenge-31f1e7fa",
      "en": "I'll expose your lies.",
      "ta": "உன் பொய்கள வெளிய கொண்டு வருவேன்.",
-     "tl": "Un poigala veliya kondu varuven."
+     "tl": "Un poigala veliya kondu varuven.",
+     "te": "నీ అబద్ధాలన్నీ బయటపెడతాను."
     },
     {
      "id": "revenge-46dab213",
      "en": "I forgive, but I don't forget.",
      "ta": "மன்னிப்பேன், ஆனா மறக்க மாட்டேன்.",
-     "tl": "Mannippen, aanaa marakka maatten."
+     "tl": "Mannippen, aanaa marakka maatten.",
+     "te": "క్షమిస్తాను, కానీ మర్చిపోను."
     },
     {
      "id": "revenge-d963360d",
      "en": "This isn't over.",
      "ta": "இது இன்னும் முடியல.",
-     "tl": "Idhu innum mudiyala."
+     "tl": "Idhu innum mudiyala.",
+     "te": "ఇది ఇంకా అయిపోలేదు."
     },
     {
      "id": "revenge-bad2b388",
      "en": "I'm very angry.",
      "ta": "எனக்கு ரொம்ப கோபமா இருக்கு.",
-     "tl": "Enakku romba kobamaa irukku."
+     "tl": "Enakku romba kobamaa irukku.",
+     "te": "నాకు చాలా కోపంగా ఉంది."
     },
     {
      "id": "revenge-9a9dead3",
      "en": "Don't make me angry.",
      "ta": "என்ன கோபப்படுத்தாத.",
-     "tl": "Enna kobappaduthaadha."
+     "tl": "Enna kobappaduthaadha.",
+     "te": "నాకు కోపం తెప్పించకు."
     },
     {
      "id": "revenge-d79bfcf1",
      "en": "You betrayed me.",
      "ta": "நீ என்ன ஏமாத்திட்ட.",
-     "tl": "Nee enna emaathitta."
+     "tl": "Nee enna emaathitta.",
+     "te": "నువ్వు నన్ను మోసం చేశావు."
     },
     {
      "id": "revenge-0512d51d",
      "en": "I trusted you and you cheated me.",
      "ta": "உன்ன நம்புனேன், நீ ஏமாத்திட்ட.",
-     "tl": "Unna nambunen, nee emaathitta."
+     "tl": "Unna nambunen, nee emaathitta.",
+     "te": "నిన్ను నమ్మాను, నువ్వు మోసం చేశావు."
     },
     {
      "id": "revenge-00432c47",
      "en": "I'll show you.",
      "ta": "உனக்கு காட்டறேன்.",
-     "tl": "Unakku kaattaren."
+     "tl": "Unakku kaattaren.",
+     "te": "నీకు చూపిస్తాను."
     },
     {
      "id": "revenge-f0384ade",
      "en": "Just watch.",
      "ta": "பாத்துட்டே இரு.",
-     "tl": "Paathutte iru."
+     "tl": "Paathutte iru.",
+     "te": "చూస్తూ ఉండు."
     },
     {
      "id": "revenge-00a77e1c",
      "en": "Your days are numbered.",
      "ta": "உன் ஆட்டம் சீக்கிரம் முடியும்.",
-     "tl": "Un aattam seekkiram mudiyum."
+     "tl": "Un aattam seekkiram mudiyum.",
+     "te": "నీ ఆట త్వరలోనే ముగుస్తుంది."
     },
     {
      "id": "revenge-211291c7",
      "en": "I know what you did.",
      "ta": "நீ என்ன பண்ணன்னு எனக்கு தெரியும்.",
-     "tl": "Nee enna pannannu enakku theriyum."
+     "tl": "Nee enna pannannu enakku theriyum.",
+     "te": "నువ్వు ఏం చేశావో నాకు తెలుసు."
     },
     {
      "id": "revenge-3fe502c8",
      "en": "I'll tell everyone.",
      "ta": "எல்லார்கிட்டயும் சொல்லுவேன்.",
-     "tl": "Ellaarkittayum solluven."
+     "tl": "Ellaarkittayum solluven.",
+     "te": "అందరికీ చెప్తాను."
     },
     {
      "id": "revenge-5cecaa31",
      "en": "You'll get what you deserve.",
      "ta": "உனக்கு தகுந்தது கிடைக்கும்.",
-     "tl": "Unakku thagundhadhu kidaikkum."
+     "tl": "Unakku thagundhadhu kidaikkum.",
+     "te": "నీకు తగినది దొరుకుతుంది."
     },
     {
      "id": "revenge-40114c90",
      "en": "You'll pay for every tear.",
      "ta": "ஒவ்வொரு கண்ணீருக்கும் நீ பதில் சொல்லணும்.",
-     "tl": "Ovvoru kanneerukkum nee badhil sollanum."
+     "tl": "Ovvoru kanneerukkum nee badhil sollanum.",
+     "te": "ప్రతి కన్నీటికీ నువ్వు జవాబు చెప్పాలి."
     },
     {
      "id": "revenge-c078e637",
      "en": "I'll never trust you again.",
      "ta": "இனிமே உன்ன நம்பவே மாட்டேன்.",
-     "tl": "Inime unna nambave maatten."
+     "tl": "Inime unna nambave maatten.",
+     "te": "ఇంకెప్పుడూ నిన్ను నమ్మను."
     },
     {
      "id": "revenge-8c20e287",
      "en": "I'm not scared of you.",
      "ta": "எனக்கு உன்ன பாத்து பயமில்ல.",
-     "tl": "Enakku unna paathu bayamilla."
+     "tl": "Enakku unna paathu bayamilla.",
+     "te": "నిన్ను చూసి నాకు భయం లేదు."
     },
     {
      "id": "revenge-27103741",
      "en": "Stay away from me.",
      "ta": "என்கிட்ட இருந்து தள்ளி இரு.",
-     "tl": "Enkitta irundhu thalli iru."
+     "tl": "Enkitta irundhu thalli iru.",
+     "te": "నాకు దూరంగా ఉండు."
     },
     {
      "id": "revenge-edb5feee",
      "en": "Get out of my life.",
      "ta": "என் வாழ்க்கையிலேர்ந்து போயிடு.",
-     "tl": "En vaazhkkaiyilerndhu poyidu."
+     "tl": "En vaazhkkaiyilerndhu poyidu.",
+     "te": "నా జీవితంలోంచి వెళ్ళిపో."
     },
     {
      "id": "revenge-a1f37d69",
      "en": "I'll return the favor.",
      "ta": "திருப்பி குடுப்பேன்.",
-     "tl": "Thiruppi kuduppen."
+     "tl": "Thiruppi kuduppen.",
+     "te": "తిరిగి ఇస్తాను."
     },
     {
      "id": "revenge-0caccd41",
      "en": "Two can play this game.",
      "ta": "இந்த விளையாட்ட நானும் ஆடுவேன்.",
-     "tl": "Indha vilaiyaatta naanum aaduven."
+     "tl": "Indha vilaiyaatta naanum aaduven.",
+     "te": "ఈ ఆట నేనూ ఆడతాను."
     },
     {
      "id": "revenge-e97fff4b",
      "en": "You won't get away with this.",
      "ta": "இதுலேர்ந்து நீ தப்பிக்க முடியாது.",
-     "tl": "Idhulerndhu nee thappikka mudiyaadhu."
+     "tl": "Idhulerndhu nee thappikka mudiyaadhu.",
+     "te": "దీని నుంచి నువ్వు తప్పించుకోలేవు."
     },
     {
      "id": "revenge-d2e28873",
      "en": "I'll take you to court.",
      "ta": "உன்ன கோர்ட்டுக்கு இழுப்பேன்.",
-     "tl": "Unna courtukku izhuppen."
+     "tl": "Unna courtukku izhuppen.",
+     "te": "నిన్ను కోర్టుకి లాగుతాను."
     },
     {
      "id": "revenge-163e4fc2",
      "en": "I'll complain to the police.",
      "ta": "போலீஸ்ல புகார் குடுப்பேன்.",
-     "tl": "Policela pugaar kuduppen."
+     "tl": "Policela pugaar kuduppen.",
+     "te": "పోలీసులకి కంప్లైంట్ ఇస్తాను."
     },
     {
      "id": "revenge-78cf2eec",
      "en": "I have proof.",
      "ta": "என்கிட்ட ஆதாரம் இருக்கு.",
-     "tl": "Enkitta aadhaaram irukku."
+     "tl": "Enkitta aadhaaram irukku.",
+     "te": "నా దగ్గర సాక్ష్యం ఉంది."
     },
     {
      "id": "revenge-70c598c2",
      "en": "You'll be sorry.",
      "ta": "நீ வருந்துவ.",
-     "tl": "Nee varundhuva."
+     "tl": "Nee varundhuva.",
+     "te": "నువ్వు బాధపడతావు."
     },
     {
      "id": "revenge-21f1fa6e",
      "en": "I'll make you regret it.",
      "ta": "இதுக்காக உன்ன வருத்தப்பட வைப்பேன்.",
-     "tl": "Idhukkaaga unna varuthappada vaippen."
+     "tl": "Idhukkaaga unna varuthappada vaippen.",
+     "te": "దీనికి నిన్ను బాధపడేలా చేస్తాను."
     },
     {
      "id": "revenge-9eada454",
      "en": "I'm not done with you.",
      "ta": "உன்ன இன்னும் விடல.",
-     "tl": "Unna innum vidala."
+     "tl": "Unna innum vidala.",
+     "te": "నిన్ను ఇంకా వదల్లేదు."
     },
     {
      "id": "revenge-13ef6d05",
      "en": "Don't cross the line.",
      "ta": "எல்லை மீறாத.",
-     "tl": "Ellai meeraadha."
+     "tl": "Ellai meeraadha.",
+     "te": "హద్దు దాటకు."
     },
     {
      "id": "revenge-0c87808f",
      "en": "You've crossed the limit.",
      "ta": "நீ எல்லை மீறிட்ட.",
-     "tl": "Nee ellai meeritta."
+     "tl": "Nee ellai meeritta.",
+     "te": "నువ్వు హద్దు దాటావు."
     },
     {
      "id": "revenge-4715bf6c",
      "en": "Enough of your drama.",
      "ta": "உன் டிராமா போதும்.",
-     "tl": "Un drama podhum."
+     "tl": "Un drama podhum.",
+     "te": "నీ డ్రామా చాలు."
     },
     {
      "id": "revenge-8e5bcc5e",
      "en": "Who do you think you are?",
      "ta": "நீ உன்ன யாருன்னு நினைச்சுட்டு இருக்க?",
-     "tl": "Nee unna yaarunnu ninaichuttu irukka?"
+     "tl": "Nee unna yaarunnu ninaichuttu irukka?",
+     "te": "నిన్ను నువ్వు ఎవరనుకుంటున్నావు?"
     },
     {
      "id": "revenge-73cabdf3",
      "en": "Don't think I'm weak.",
      "ta": "என்ன பலவீனமானவன்னு நினைக்காத.",
-     "tl": "Enna balaveenamaanavannu ninaikkaadha."
+     "tl": "Enna balaveenamaanavannu ninaikkaadha.",
+     "te": "నన్ను బలహీనుడని అనుకోకు."
     },
     {
      "id": "revenge-459b0806",
      "en": "I'll beat you in the exam.",
      "ta": "எக்ஸாம்ல உன்ன ஜெயிச்சு காட்டுவேன்.",
-     "tl": "Examla unna jeyichu kaattuven."
+     "tl": "Examla unna jeyichu kaattuven.",
+     "te": "పరీక్షలో నిన్ను గెలిచి చూపిస్తాను."
     },
     {
      "id": "revenge-4f22f5ee",
      "en": "I'll win next time.",
      "ta": "அடுத்த தடவ நான்தான் ஜெயிப்பேன்.",
-     "tl": "Adutha thadava naandhaan jeyippen."
+     "tl": "Adutha thadava naandhaan jeyippen.",
+     "te": "వచ్చేసారి నేనే గెలుస్తాను."
     },
     {
      "id": "revenge-6e9bda2a",
      "en": "You laughed at me, now watch me.",
      "ta": "என்ன பாத்து சிரிச்ச, இப்ப பாரு.",
-     "tl": "Enna paathu siricha, ippa paaru."
+     "tl": "Enna paathu siricha, ippa paaru.",
+     "te": "నన్ను చూసి నవ్వావు, ఇప్పుడు చూడు."
     },
     {
      "id": "revenge-a24103bf",
      "en": "You'll come back crying.",
      "ta": "அழுதுட்டே திரும்ப வருவ.",
-     "tl": "Azhudhutte thirumba varuva."
+     "tl": "Azhudhutte thirumba varuva.",
+     "te": "ఏడుస్తూ తిరిగి వస్తావు."
     },
     {
      "id": "revenge-1e25a960",
      "en": "I don't need you.",
      "ta": "எனக்கு நீ தேவையில்ல.",
-     "tl": "Enakku nee thevaiyilla."
+     "tl": "Enakku nee thevaiyilla.",
+     "te": "నాకు నువ్వు అవసరం లేదు."
     },
     {
      "id": "revenge-c6015028",
      "en": "I'm better without you.",
      "ta": "நீ இல்லாம நான் நல்லா இருக்கேன்.",
-     "tl": "Nee illaama naan nallaa irukken."
+     "tl": "Nee illaama naan nallaa irukken.",
+     "te": "నువ్వు లేకుండా నేను బాగున్నాను."
     },
     {
      "id": "revenge-e3fbefee",
      "en": "I'll live well, just to show you.",
      "ta": "உனக்கு காட்டறதுக்காகவே நல்லா வாழுவேன்.",
-     "tl": "Unakku kaattaradhukkaagave nallaa vaazhuven."
+     "tl": "Unakku kaattaradhukkaagave nallaa vaazhuven.",
+     "te": "నీకు చూపించడానికే బాగా బతుకుతాను."
     },
     {
      "id": "revenge-e12a2f2e",
      "en": "Don't come back to me.",
      "ta": "என்கிட்ட திரும்ப வராத.",
-     "tl": "Enkitta thirumba varaadha."
+     "tl": "Enkitta thirumba varaadha.",
+     "te": "నా దగ్గరికి తిరిగి రాకు."
     },
     {
      "id": "revenge-37e224b1",
      "en": "Your lies are exposed.",
      "ta": "உன் பொய் எல்லாம் வெளிய வந்துடுச்சு.",
-     "tl": "Un poi ellaam veliya vandhuduchu."
+     "tl": "Un poi ellaam veliya vandhuduchu.",
+     "te": "నీ అబద్ధాలన్నీ బయటపడ్డాయి."
     },
     {
      "id": "revenge-619b8fda",
      "en": "Everyone knows who you are now.",
      "ta": "இப்ப நீ யாருன்னு எல்லாருக்கும் தெரியும்.",
-     "tl": "Ippa nee yaarunnu ellaarukkum theriyum."
+     "tl": "Ippa nee yaarunnu ellaarukkum theriyum.",
+     "te": "ఇప్పుడు నువ్వు ఎవరో అందరికీ తెలుసు."
     },
     {
      "id": "revenge-46e474bf",
      "en": "What goes up must come down.",
      "ta": "ஏறுனது இறங்கியே ஆகணும்.",
-     "tl": "Erunadhu irangiye aaganum."
+     "tl": "Erunadhu irangiye aaganum.",
+     "te": "ఎక్కినది దిగాల్సిందే."
     },
     {
      "id": "revenge-468fc280",
      "en": "God is watching.",
      "ta": "கடவுள் பாத்துட்டு இருக்காரு.",
-     "tl": "Kadavul paathuttu irukkaaru."
+     "tl": "Kadavul paathuttu irukkaaru.",
+     "te": "దేవుడు చూస్తున్నాడు."
     },
     {
      "id": "revenge-837a88ce",
      "en": "Truth always wins.",
      "ta": "உண்மைதான் எப்பவும் ஜெயிக்கும்.",
-     "tl": "Unmaidhaan eppavum jeyikkum."
+     "tl": "Unmaidhaan eppavum jeyikkum.",
+     "te": "నిజమే ఎప్పుడూ గెలుస్తుంది."
     },
     {
      "id": "revenge-df41e97f",
      "en": "I was silent, not weak.",
      "ta": "நான் அமைதியா இருந்தேன், பயந்து இல்ல.",
-     "tl": "Naan amaidhiyaa irundhen, bayandhu illa."
+     "tl": "Naan amaidhiyaa irundhen, bayandhu illa.",
+     "te": "నేను మౌనంగా ఉన్నాను, భయపడి కాదు."
     },
     {
      "id": "revenge-67183ae6",
      "en": "Don't take my silence for granted.",
      "ta": "என் அமைதிய சாதாரணமா எடுத்துக்காத.",
-     "tl": "En amaidhiya saadhaaranamaa eduthukkaadha."
+     "tl": "En amaidhiya saadhaaranamaa eduthukkaadha.",
+     "te": "నా మౌనాన్ని తేలిగ్గా తీసుకోకు."
     },
     {
      "id": "revenge-9c7f2610",
      "en": "I'll remember this forever.",
      "ta": "இத நான் என்னைக்கும் ஞாபகம் வச்சிருப்பேன்.",
-     "tl": "Idha naan ennaikkum nyaabagam vachiruppen."
+     "tl": "Idha naan ennaikkum nyaabagam vachiruppen.",
+     "te": "ఇది నేను ఎప్పటికీ గుర్తుపెట్టుకుంటాను."
     },
     {
      "id": "revenge-f9632873",
      "en": "You'll understand when it happens to you.",
      "ta": "உனக்கு நடக்கும்போது புரியும்.",
-     "tl": "Unakku nadakkumbodhu puriyum."
+     "tl": "Unakku nadakkumbodhu puriyum.",
+     "te": "నీకు జరిగినప్పుడు అర్థమవుతుంది."
     },
     {
      "id": "revenge-7792282d",
      "en": "I won't stay quiet anymore.",
      "ta": "இனிமே நான் சும்மா இருக்க மாட்டேன்.",
-     "tl": "Inime naan summaa irukka maatten."
+     "tl": "Inime naan summaa irukka maatten.",
+     "te": "ఇక నేను ఊరుకోను."
     },
     {
      "id": "revenge-c425cdef",
      "en": "It's my turn now.",
      "ta": "இப்ப என் டர்ன்.",
-     "tl": "Ippa en turn."
+     "tl": "Ippa en turn.",
+     "te": "ఇప్పుడు నా టర్న్."
     },
     {
      "id": "revenge-d9ac3cc7",
      "en": "Game over for you.",
      "ta": "உன் ஆட்டம் முடிஞ்சுது.",
-     "tl": "Un aattam mudinjudhu."
+     "tl": "Un aattam mudinjudhu.",
+     "te": "నీ ఆట అయిపోయింది."
     },
     {
      "id": "revenge-5136fa86",
      "en": "I'll get even.",
      "ta": "கணக்க சரி பண்ணுவேன்.",
-     "tl": "Kanakka sari pannuven."
+     "tl": "Kanakka sari pannuven.",
+     "te": "లెక్క సరిచేస్తాను."
     },
     {
      "id": "revenge-824cd950",
      "en": "That was a big mistake.",
      "ta": "அது பெரிய தப்பு.",
-     "tl": "Adhu periya thappu."
+     "tl": "Adhu periya thappu.",
+     "te": "అది పెద్ద తప్పు."
     },
     {
      "id": "revenge-0ca3d205",
      "en": "You'll learn your lesson.",
      "ta": "நீ பாடம் கத்துப்ப.",
-     "tl": "Nee paadam kathuppa."
+     "tl": "Nee paadam kathuppa.",
+     "te": "నువ్వు గుణపాఠం నేర్చుకుంటావు."
     },
     {
      "id": "revenge-3f252d48",
      "en": "I've had enough of you.",
      "ta": "உன்ன பொறுத்தது போதும்.",
-     "tl": "Unna poruthadhu podhum."
+     "tl": "Unna poruthadhu podhum.",
+     "te": "నిన్ను భరించింది చాలు."
     },
     {
      "id": "revenge-7bfb9782",
      "en": "Don't call me again.",
      "ta": "இனிமே எனக்கு கால் பண்ணாத.",
-     "tl": "Inime enakku call pannaadha."
+     "tl": "Inime enakku call pannaadha.",
+     "te": "ఇంకెప్పుడూ నాకు కాల్ చేయకు."
     },
     {
      "id": "revenge-7c63c8a7",
      "en": "I blocked your number.",
      "ta": "உன் நம்பர ப்ளாக் பண்ணிட்டேன்.",
-     "tl": "Un nambara block pannitten."
+     "tl": "Un nambara block pannitten.",
+     "te": "నీ నంబర్ బ్లాక్ చేశాను."
     },
     {
      "id": "revenge-46af782f",
      "en": "I'll never forgive you.",
      "ta": "உன்ன மன்னிக்கவே மாட்டேன்.",
-     "tl": "Unna mannikkave maatten."
+     "tl": "Unna mannikkave maatten.",
+     "te": "నిన్ను ఎప్పటికీ క్షమించను."
     },
     {
      "id": "revenge-05222bd5",
      "en": "You'll regret losing me.",
      "ta": "என்ன இழந்ததுக்கு நீ வருத்தப்படுவ.",
-     "tl": "Enna izhandhadhukku nee varuthappaduva."
+     "tl": "Enna izhandhadhukku nee varuthappaduva.",
+     "te": "నన్ను పోగొట్టుకున్నందుకు బాధపడతావు."
     },
     {
      "id": "revenge-343fa99f",
      "en": "I'll rise again.",
      "ta": "நான் மறுபடியும் எழுந்து நிப்பேன்.",
-     "tl": "Naan marubadiyum ezhundhu nippen."
+     "tl": "Naan marubadiyum ezhundhu nippen.",
+     "te": "నేను మళ్ళీ లేచి నిలబడతాను."
     },
     {
      "id": "revenge-251b252a",
      "en": "Your ego will fall.",
      "ta": "உன் திமிர் அடங்கும்.",
-     "tl": "Un thimir adangum."
+     "tl": "Un thimir adangum.",
+     "te": "నీ పొగరు అణుగుతుంది."
     },
     {
      "id": "revenge-02dc0df9",
      "en": "Mind your words.",
      "ta": "வார்த்தைய அளந்து பேசு.",
-     "tl": "Vaarthaiya alandhu pesu."
+     "tl": "Vaarthaiya alandhu pesu.",
+     "te": "మాటలు జాగ్రత్తగా మాట్లాడు."
     },
     {
      "id": "revenge-d817449a",
      "en": "Watch your mouth.",
      "ta": "வாய அடக்கு.",
-     "tl": "Vaaya adakku."
+     "tl": "Vaaya adakku.",
+     "te": "నోరు అదుపులో పెట్టుకో."
     },
     {
      "id": "revenge-9713b974",
      "en": "Say that again!",
      "ta": "அத மறுபடியும் சொல்லு பாப்போம்!",
-     "tl": "Adha marubadiyum sollu paappom!"
+     "tl": "Adha marubadiyum sollu paappom!",
+     "te": "మళ్ళీ అను చూద్దాం!"
     },
     {
      "id": "revenge-05dbc15a",
      "en": "How dare you!",
      "ta": "உனக்கு எவ்ளோ தைரியம்!",
-     "tl": "Unakku evlo thairiyam!"
+     "tl": "Unakku evlo thairiyam!",
+     "te": "నీకు ఎంత ధైర్యం!"
     },
     {
      "id": "revenge-95965d23",
      "en": "Shame on you.",
      "ta": "உனக்கு வெட்கமா இல்லையா?",
-     "tl": "Unakku vetkamaa illaiyaa?"
+     "tl": "Unakku vetkamaa illaiyaa?",
+     "te": "నీకు సిగ్గుగా లేదా?"
     },
     {
      "id": "revenge-09e08252",
      "en": "I'll let my work talk.",
      "ta": "என் வேலைதான் பேசும்.",
-     "tl": "En velaidhaan pesum."
+     "tl": "En velaidhaan pesum.",
+     "te": "నా పనే మాట్లాడుతుంది."
     },
     {
      "id": "revenge-143d4d2c",
      "en": "Patience is my weapon.",
      "ta": "பொறுமைதான் என் ஆயுதம்.",
-     "tl": "Porumaidhaan en aayudham."
+     "tl": "Porumaidhaan en aayudham.",
+     "te": "ఓపికే నా ఆయుధం."
     },
     {
      "id": "revenge-6bc91cb2",
      "en": "The wheel will turn.",
      "ta": "காலம் மாறும்.",
-     "tl": "Kaalam maarum."
+     "tl": "Kaalam maarum.",
+     "te": "కాలం మారుతుంది."
     },
     {
      "id": "revenge-21d4e5c0",
      "en": "I'll wait for the right time.",
      "ta": "சரியான நேரத்துக்காக காத்திருப்பேன்.",
-     "tl": "Sariyaana nerathukkaaga kaathiruppen."
+     "tl": "Sariyaana nerathukkaaga kaathiruppen.",
+     "te": "సరైన సమయం కోసం ఎదురుచూస్తాను."
     },
     {
      "id": "revenge-80bfd7dd",
      "en": "You'll see me at the top.",
      "ta": "நீ என்ன உச்சத்துல பாப்ப.",
-     "tl": "Nee enna uchathula paappa."
+     "tl": "Nee enna uchathula paappa.",
+     "te": "నన్ను నువ్వు పైస్థాయిలో చూస్తావు."
     }
-   ]
+   ],
+   "teCount": 99
   },
   {
    "id": "general",
@@ -4292,603 +4995,704 @@ window.PP_DATA = {
      "id": "general-823f9a67",
      "en": "Hello, how are you?",
      "ta": "வணக்கம், எப்படி இருக்கீங்க?",
-     "tl": "Vanakkam, eppadi irukkeenga?"
+     "tl": "Vanakkam, eppadi irukkeenga?",
+     "te": "నమస్కారం, ఎలా ఉన్నారు?"
     },
     {
      "id": "general-28b6ad2d",
      "en": "I'm fine, and you?",
      "ta": "நான் நல்லா இருக்கேன், நீங்க?",
-     "tl": "Naan nallaa irukken, neenga?"
+     "tl": "Naan nallaa irukken, neenga?",
+     "te": "నేను బాగున్నాను, మీరు?"
     },
     {
      "id": "general-b420c308",
      "en": "What's your name?",
      "ta": "உங்க பேர் என்ன?",
-     "tl": "Unga per enna?"
+     "tl": "Unga per enna?",
+     "te": "మీ పేరు ఏంటి?"
     },
     {
      "id": "general-1463fa61",
      "en": "My name is Ravi.",
      "ta": "என் பேர் ரவி.",
-     "tl": "En per Ravi."
+     "tl": "En per Ravi.",
+     "te": "నా పేరు రవి."
     },
     {
      "id": "general-95988197",
      "en": "Which town are you from?",
      "ta": "நீங்க எந்த ஊரு?",
-     "tl": "Neenga endha ooru?"
+     "tl": "Neenga endha ooru?",
+     "te": "మీది ఏ ఊరు?"
     },
     {
      "id": "general-a45021bb",
      "en": "I'm from Chennai.",
      "ta": "நான் சென்னைலேர்ந்து வரேன்.",
-     "tl": "Naan chennailerndhu varen."
+     "tl": "Naan chennailerndhu varen.",
+     "te": "నేను చెన్నై నుంచి వచ్చాను."
     },
     {
      "id": "general-661d5856",
      "en": "Nice to meet you.",
      "ta": "உங்கள சந்திச்சதுல சந்தோஷம்.",
-     "tl": "Ungala sandhichadhula santhosham."
+     "tl": "Ungala sandhichadhula santhosham.",
+     "te": "మిమ్మల్ని కలవడం సంతోషం."
     },
     {
      "id": "general-a6f59e1a",
      "en": "Thank you.",
      "ta": "நன்றி.",
-     "tl": "Nandri."
+     "tl": "Nandri.",
+     "te": "ధన్యవాదాలు."
     },
     {
      "id": "general-df950f20",
      "en": "No problem.",
      "ta": "பரவாயில்ல.",
-     "tl": "Paravaayilla."
+     "tl": "Paravaayilla.",
+     "te": "పర్వాలేదు."
     },
     {
      "id": "general-f0a83493",
      "en": "Please speak slowly.",
      "ta": "கொஞ்சம் மெதுவா பேசுங்க.",
-     "tl": "Konjam medhuvaa pesunga."
+     "tl": "Konjam medhuvaa pesunga.",
+     "te": "కొంచెం నెమ్మదిగా మాట్లాడండి."
     },
     {
      "id": "general-e798f649",
      "en": "I don't understand.",
      "ta": "எனக்கு புரியல.",
-     "tl": "Enakku puriyala."
+     "tl": "Enakku puriyala.",
+     "te": "నాకు అర్థం కాలేదు."
     },
     {
      "id": "general-d61da7ee",
      "en": "Can you say that again?",
      "ta": "இன்னொரு தடவ சொல்றீங்களா?",
-     "tl": "Innoru thadava solreengalaa?"
+     "tl": "Innoru thadava solreengalaa?",
+     "te": "ఇంకొకసారి చెప్తారా?"
     },
     {
      "id": "general-c72ce289",
      "en": "Can you speak English?",
      "ta": "உங்களுக்கு இங்கிலீஷ் பேச தெரியுமா?",
-     "tl": "Ungalukku English pesa theriyumaa?"
+     "tl": "Ungalukku English pesa theriyumaa?",
+     "te": "మీకు ఇంగ్లీష్ మాట్లాడటం వచ్చా?"
     },
     {
      "id": "general-1a997d73",
      "en": "I'm learning Tamil.",
      "ta": "நான் தமிழ் கத்துக்கறேன்.",
-     "tl": "Naan thamizh kathukkaren."
+     "tl": "Naan thamizh kathukkaren.",
+     "te": "నేను తమిళం నేర్చుకుంటున్నాను."
     },
     {
      "id": "general-1a5c7ea3",
      "en": "What time is it?",
      "ta": "மணி என்ன?",
-     "tl": "Mani enna?"
+     "tl": "Mani enna?",
+     "te": "టైమ్ ఎంత?"
     },
     {
      "id": "general-d2f8f81e",
      "en": "Where is the bathroom?",
      "ta": "பாத்ரூம் எங்க இருக்கு?",
-     "tl": "Bathroom enga irukku?"
+     "tl": "Bathroom enga irukku?",
+     "te": "బాత్రూమ్ ఎక్కడ ఉంది?"
     },
     {
      "id": "general-c67a7bba",
      "en": "How much is this?",
      "ta": "இது எவ்ளோ?",
-     "tl": "Idhu evlo?"
+     "tl": "Idhu evlo?",
+     "te": "ఇది ఎంత?"
     },
     {
      "id": "general-1e5d4ae6",
      "en": "That's too expensive.",
      "ta": "இது ரொம்ப காஸ்ட்லி.",
-     "tl": "Idhu romba costly."
+     "tl": "Idhu romba costly.",
+     "te": "ఇది చాలా కాస్ట్లీ."
     },
     {
      "id": "general-450d0421",
      "en": "Wait a minute.",
      "ta": "ஒரு நிமிஷம் இருங்க.",
-     "tl": "Oru nimisham irunga."
+     "tl": "Oru nimisham irunga.",
+     "te": "ఒక్క నిమిషం ఆగండి."
     },
     {
      "id": "general-e8d58bd9",
      "en": "See you tomorrow.",
      "ta": "நாளைக்கு பாக்கலாம்.",
-     "tl": "Naalaikku paakkalaam."
+     "tl": "Naalaikku paakkalaam.",
+     "te": "రేపు కలుద్దాం."
     },
     {
      "id": "general-7aa020bf",
      "en": "Good morning.",
      "ta": "காலை வணக்கம்.",
-     "tl": "Kaalai vanakkam."
+     "tl": "Kaalai vanakkam.",
+     "te": "శుభోదయం."
     },
     {
      "id": "general-5ea658a0",
      "en": "Have you eaten?",
      "ta": "சாப்பிட்டீங்களா?",
-     "tl": "Saappitteengalaa?"
+     "tl": "Saappitteengalaa?",
+     "te": "భోజనం చేశారా?"
     },
     {
      "id": "general-7e6257bb",
      "en": "Yes, I ate.",
      "ta": "ஆமா, சாப்பிட்டேன்.",
-     "tl": "Aamaa, saappitten."
+     "tl": "Aamaa, saappitten.",
+     "te": "అవును, తిన్నాను."
     },
     {
      "id": "general-5cd14686",
      "en": "Let's go.",
      "ta": "போலாம்.",
-     "tl": "Polaam."
+     "tl": "Polaam.",
+     "te": "వెళ్దాం."
     },
     {
      "id": "general-ecbaf447",
      "en": "Come here.",
      "ta": "இங்க வா.",
-     "tl": "Inga vaa."
+     "tl": "Inga vaa.",
+     "te": "ఇక్కడికి రా."
     },
     {
      "id": "general-8a501afc",
      "en": "I'm on my way.",
      "ta": "வந்துட்டே இருக்கேன்.",
-     "tl": "Vandhutte irukken."
+     "tl": "Vandhutte irukken.",
+     "te": "వస్తూనే ఉన్నాను."
     },
     {
      "id": "general-90092f37",
      "en": "Call me later.",
      "ta": "அப்புறம் கால் பண்ணு.",
-     "tl": "Appuram call pannu."
+     "tl": "Appuram call pannu.",
+     "te": "తర్వాత కాల్ చెయ్."
     },
     {
      "id": "general-e0b3c7f0",
      "en": "Take care.",
      "ta": "பாத்துக்கோ.",
-     "tl": "Paathukko."
+     "tl": "Paathukko.",
+     "te": "జాగ్రత్త."
     },
     {
      "id": "general-640530d2",
      "en": "Okay, no problem.",
      "ta": "சரி, பிரச்சனை இல்ல.",
-     "tl": "Sari, prachanai illa."
+     "tl": "Sari, prachanai illa.",
+     "te": "సరే, సమస్య లేదు."
     },
     {
      "id": "general-65ba362b",
      "en": "Where are you going?",
      "ta": "எங்க போற?",
-     "tl": "Enga pora?"
+     "tl": "Enga pora?",
+     "te": "ఎక్కడికి వెళ్తున్నావు?"
     },
     {
      "id": "general-a6a0caaa",
      "en": "I don't know.",
      "ta": "எனக்கு தெரியாது.",
-     "tl": "Enakku theriyaadhu."
+     "tl": "Enakku theriyaadhu.",
+     "te": "నాకు తెలియదు."
     },
     {
      "id": "general-be4c34bf",
      "en": "How are you?",
      "ta": "எப்படி இருக்க?",
-     "tl": "Eppadi irukka?"
+     "tl": "Eppadi irukka?",
+     "te": "ఎలా ఉన్నావు?"
     },
     {
      "id": "general-6344c379",
      "en": "What are you doing?",
      "ta": "என்ன பண்ற?",
-     "tl": "Enna panra?"
+     "tl": "Enna panra?",
+     "te": "ఏం చేస్తున్నావు?"
     },
     {
      "id": "general-8cd1b2b2",
      "en": "Nothing much.",
      "ta": "ஒண்ணும் இல்ல.",
-     "tl": "Onnum illa."
+     "tl": "Onnum illa.",
+     "te": "ఏమీ లేదు."
     },
     {
      "id": "general-f1308bac",
      "en": "What happened?",
      "ta": "என்ன ஆச்சு?",
-     "tl": "Enna aachu?"
+     "tl": "Enna aachu?",
+     "te": "ఏమైంది?"
     },
     {
      "id": "general-95ee355d",
      "en": "Is everything okay?",
      "ta": "எல்லாம் ஓகேவா?",
-     "tl": "Ellaam okevaa?"
+     "tl": "Ellaam okevaa?",
+     "te": "అంతా ఓకేనా?"
     },
     {
      "id": "general-ee2f1796",
      "en": "Good night.",
      "ta": "குட் நைட்.",
-     "tl": "Good night."
+     "tl": "Good night.",
+     "te": "గుడ్ నైట్."
     },
     {
      "id": "general-ce758ff6",
      "en": "Good evening.",
      "ta": "மாலை வணக்கம்.",
-     "tl": "Maalai vanakkam."
+     "tl": "Maalai vanakkam.",
+     "te": "శుభ సాయంత్రం."
     },
     {
      "id": "general-c956da22",
      "en": "Goodbye.",
      "ta": "போயிட்டு வரேன்.",
-     "tl": "Poyittu varen."
+     "tl": "Poyittu varen.",
+     "te": "వెళ్ళొస్తాను."
     },
     {
      "id": "general-7b90fb3f",
      "en": "Bye, see you.",
      "ta": "சரி, அப்புறம் பாக்கலாம்.",
-     "tl": "Sari, appuram paakkalaam."
+     "tl": "Sari, appuram paakkalaam.",
+     "te": "సరే, తర్వాత కలుద్దాం."
     },
     {
      "id": "general-8dbf06ee",
      "en": "Come again.",
      "ta": "மறுபடியும் வாங்க.",
-     "tl": "Marubadiyum vaanga."
+     "tl": "Marubadiyum vaanga.",
+     "te": "మళ్ళీ రండి."
     },
     {
      "id": "general-ea01aee9",
      "en": "Please come in.",
      "ta": "உள்ள வாங்க.",
-     "tl": "Ulla vaanga."
+     "tl": "Ulla vaanga.",
+     "te": "లోపలికి రండి."
     },
     {
      "id": "general-863693e6",
      "en": "Please sit.",
      "ta": "உக்காருங்க.",
-     "tl": "Ukkaarunga."
+     "tl": "Ukkaarunga.",
+     "te": "కూర్చోండి."
     },
     {
      "id": "general-ce677b39",
      "en": "Would you like some coffee?",
      "ta": "காபி குடிக்கறீங்களா?",
-     "tl": "Coffee kudikkareengalaa?"
+     "tl": "Coffee kudikkareengalaa?",
+     "te": "కాఫీ తాగుతారా?"
     },
     {
      "id": "general-ae438541",
      "en": "Yes, please.",
      "ta": "சரி, குடுங்க.",
-     "tl": "Sari, kudunga."
+     "tl": "Sari, kudunga.",
+     "te": "సరే, ఇవ్వండి."
     },
     {
      "id": "general-23aa5755",
      "en": "No, thank you.",
      "ta": "வேண்டாம், நன்றி.",
-     "tl": "Vendaam, nandri."
+     "tl": "Vendaam, nandri.",
+     "te": "వద్దు, థ్యాంక్స్."
     },
     {
      "id": "general-91c6a04c",
      "en": "Excuse me.",
      "ta": "எக்ஸ்க்யூஸ் மீ.",
-     "tl": "Excuse me."
+     "tl": "Excuse me.",
+     "te": "ఎక్స్‌క్యూజ్ మీ."
     },
     {
      "id": "general-386fb2c9",
      "en": "Sorry, I didn't hear you.",
      "ta": "சாரி, சரியா கேக்கல.",
-     "tl": "Sorry, sariyaa kekkala."
+     "tl": "Sorry, sariyaa kekkala.",
+     "te": "సారీ, సరిగ్గా వినపడలేదు."
     },
     {
      "id": "general-6f3f3879",
      "en": "What did you say?",
      "ta": "என்ன சொன்னீங்க?",
-     "tl": "Enna sonneenga?"
+     "tl": "Enna sonneenga?",
+     "te": "ఏమన్నారు?"
     },
     {
      "id": "general-2be68d48",
      "en": "What does this mean?",
      "ta": "இதுக்கு என்ன அர்த்தம்?",
-     "tl": "Idhukku enna artham?"
+     "tl": "Idhukku enna artham?",
+     "te": "దీని అర్థం ఏంటి?"
     },
     {
      "id": "general-f23d7497",
      "en": "How do you say this in Tamil?",
      "ta": "இத தமிழ்ல எப்படி சொல்றது?",
-     "tl": "Idha thamizhla eppadi solradhu?"
+     "tl": "Idha thamizhla eppadi solradhu?",
+     "te": "దీన్ని తమిళంలో ఎలా అంటారు?"
     },
     {
      "id": "general-b711e94d",
      "en": "Speak in Tamil, please.",
      "ta": "தமிழ்ல பேசுங்க, ப்ளீஸ்.",
-     "tl": "Thamizhla pesunga, please."
+     "tl": "Thamizhla pesunga, please.",
+     "te": "తమిళంలో మాట్లాడండి, ప్లీజ్."
     },
     {
      "id": "general-0cd43a56",
      "en": "I speak a little Tamil.",
      "ta": "எனக்கு கொஞ்சம் தமிழ் தெரியும்.",
-     "tl": "Enakku konjam thamizh theriyum."
+     "tl": "Enakku konjam thamizh theriyum.",
+     "te": "నాకు కొంచెం తమిళం వచ్చు."
     },
     {
      "id": "general-8eef4d23",
      "en": "Where do you live?",
      "ta": "நீங்க எங்க இருக்கீங்க?",
-     "tl": "Neenga enga irukkeenga?"
+     "tl": "Neenga enga irukkeenga?",
+     "te": "మీరు ఎక్కడ ఉంటారు?"
     },
     {
      "id": "general-6b485bed",
      "en": "I live in Bangalore.",
      "ta": "நான் பெங்களூர்ல இருக்கேன்.",
-     "tl": "Naan bengaloorla irukken."
+     "tl": "Naan bengaloorla irukken.",
+     "te": "నేను బెంగళూరులో ఉంటాను."
     },
     {
      "id": "general-ca4df936",
      "en": "What do you do?",
      "ta": "நீங்க என்ன வேலை பாக்கறீங்க?",
-     "tl": "Neenga enna velai paakkareenga?"
+     "tl": "Neenga enna velai paakkareenga?",
+     "te": "మీరు ఏం పని చేస్తారు?"
     },
     {
      "id": "general-4f62fa13",
      "en": "I'm a software engineer.",
      "ta": "நான் சாஃப்ட்வேர் இன்ஜினியர்.",
-     "tl": "Naan software engineer."
+     "tl": "Naan software engineer.",
+     "te": "నేను సాఫ్ట్‌వేర్ ఇంజనీర్."
     },
     {
      "id": "general-ed9c40be",
      "en": "I'm a student.",
      "ta": "நான் ஸ்டூடண்ட்.",
-     "tl": "Naan student."
+     "tl": "Naan student.",
+     "te": "నేను స్టూడెంట్."
     },
     {
      "id": "general-f666f82a",
      "en": "How old are you?",
      "ta": "உங்களுக்கு என்ன வயசு?",
-     "tl": "Ungalukku enna vayasu?"
+     "tl": "Ungalukku enna vayasu?",
+     "te": "మీ వయసు ఎంత?"
     },
     {
      "id": "general-0b6cbf14",
      "en": "I'm twenty-five years old.",
      "ta": "எனக்கு இருபத்தஞ்சு வயசு.",
-     "tl": "Enakku irubathanju vayasu."
+     "tl": "Enakku irubathanju vayasu.",
+     "te": "నా వయసు ఇరవై ఐదు."
     },
     {
      "id": "general-d88f5487",
      "en": "Are you married?",
      "ta": "உங்களுக்கு கல்யாணம் ஆயிடுச்சா?",
-     "tl": "Ungalukku kalyaanam aayiduchaa?"
+     "tl": "Ungalukku kalyaanam aayiduchaa?",
+     "te": "మీకు పెళ్ళి అయిందా?"
     },
     {
      "id": "general-d197fd09",
      "en": "Do you have kids?",
      "ta": "உங்களுக்கு பசங்க இருக்காங்களா?",
-     "tl": "Ungalukku pasanga irukkaangalaa?"
+     "tl": "Ungalukku pasanga irukkaangalaa?",
+     "te": "మీకు పిల్లలు ఉన్నారా?"
     },
     {
      "id": "general-ecd2b299",
      "en": "How many people are in your family?",
      "ta": "உங்க வீட்ல எத்தன பேர்?",
-     "tl": "Unga veetla etthana per?"
+     "tl": "Unga veetla etthana per?",
+     "te": "మీ ఇంట్లో ఎంత మంది?"
     },
     {
      "id": "general-4cac3d2f",
      "en": "What's your phone number?",
      "ta": "உங்க ஃபோன் நம்பர் என்ன?",
-     "tl": "Unga phone number enna?"
+     "tl": "Unga phone number enna?",
+     "te": "మీ ఫోన్ నంబర్ ఏంటి?"
     },
     {
      "id": "general-02548cc1",
      "en": "Give me a call.",
      "ta": "எனக்கு ஒரு கால் பண்ணுங்க.",
-     "tl": "Enakku oru call pannunga."
+     "tl": "Enakku oru call pannunga.",
+     "te": "నాకు ఒక కాల్ చేయండి."
     },
     {
      "id": "general-b8149cb2",
      "en": "Send me the location.",
      "ta": "லொகேஷன் அனுப்புங்க.",
-     "tl": "Location anuppunga."
+     "tl": "Location anuppunga.",
+     "te": "లొకేషన్ పంపండి."
     },
     {
      "id": "general-232947fb",
      "en": "How far is it?",
      "ta": "எவ்ளோ தூரம்?",
-     "tl": "Evlo thooram?"
+     "tl": "Evlo thooram?",
+     "te": "ఎంత దూరం?"
     },
     {
      "id": "general-dae4fd52",
      "en": "Is it near?",
      "ta": "பக்கத்துலயா?",
-     "tl": "Pakkathulaiyaa?"
+     "tl": "Pakkathulaiyaa?",
+     "te": "దగ్గరేనా?"
     },
     {
      "id": "general-5199aa59",
      "en": "Go straight.",
      "ta": "நேரா போங்க.",
-     "tl": "Neraa ponga."
+     "tl": "Neraa ponga.",
+     "te": "నేరుగా వెళ్ళండి."
     },
     {
      "id": "general-c0779b74",
      "en": "Turn left.",
      "ta": "லெஃப்ட்ல திரும்புங்க.",
-     "tl": "Leftla thirumbunga."
+     "tl": "Leftla thirumbunga.",
+     "te": "ఎడమకి తిరగండి."
     },
     {
      "id": "general-e21c99de",
      "en": "Turn right.",
      "ta": "ரைட்ல திரும்புங்க.",
-     "tl": "Rightla thirumbunga."
+     "tl": "Rightla thirumbunga.",
+     "te": "కుడికి తిరగండి."
     },
     {
      "id": "general-841aa237",
      "en": "Stop here.",
      "ta": "இங்க நிறுத்துங்க.",
-     "tl": "Inga niruthunga."
+     "tl": "Inga niruthunga.",
+     "te": "ఇక్కడ ఆపండి."
     },
     {
      "id": "general-981ba0d7",
      "en": "How long will it take?",
      "ta": "எவ்ளோ நேரம் ஆகும்?",
-     "tl": "Evlo neram aagum?"
+     "tl": "Evlo neram aagum?",
+     "te": "ఎంత టైమ్ పడుతుంది?"
     },
     {
      "id": "general-e832be63",
      "en": "I'm in a hurry.",
      "ta": "நான் அவசரத்துல இருக்கேன்.",
-     "tl": "Naan avasarathula irukken."
+     "tl": "Naan avasarathula irukken.",
+     "te": "నేను తొందరలో ఉన్నాను."
     },
     {
      "id": "general-adb35f6d",
      "en": "I'm late.",
      "ta": "எனக்கு லேட் ஆயிடுச்சு.",
-     "tl": "Enakku late aayiduchu."
+     "tl": "Enakku late aayiduchu.",
+     "te": "నాకు లేట్ అయింది."
     },
     {
      "id": "general-579f9e43",
      "en": "No hurry.",
      "ta": "அவசரம் இல்ல.",
-     "tl": "Avasaram illa."
+     "tl": "Avasaram illa.",
+     "te": "తొందర ఏమీ లేదు."
     },
     {
      "id": "general-eb476e59",
      "en": "Can you help me?",
      "ta": "எனக்கு கொஞ்சம் உதவி பண்ண முடியுமா?",
-     "tl": "Enakku konjam udhavi panna mudiyumaa?"
+     "tl": "Enakku konjam udhavi panna mudiyumaa?",
+     "te": "నాకు కొంచెం సహాయం చేయగలరా?"
     },
     {
      "id": "general-b2db3bbd",
      "en": "Of course.",
      "ta": "கண்டிப்பா.",
-     "tl": "Kandippaa."
+     "tl": "Kandippaa.",
+     "te": "తప్పకుండా."
     },
     {
      "id": "general-0a448bd9",
      "en": "One minute, please.",
      "ta": "ஒரு நிமிஷம், ப்ளீஸ்.",
-     "tl": "Oru nimisham, please."
+     "tl": "Oru nimisham, please.",
+     "te": "ఒక్క నిమిషం, ప్లీజ్."
     },
     {
      "id": "general-ae65f30d",
      "en": "I'll be right back.",
      "ta": "இதோ வந்துடறேன்.",
-     "tl": "Idho vandhudaren."
+     "tl": "Idho vandhudaren.",
+     "te": "ఇప్పుడే వచ్చేస్తాను."
     },
     {
      "id": "general-01f4b455",
      "en": "Is this seat free?",
      "ta": "இந்த சீட்ல யாராவது இருக்காங்களா?",
-     "tl": "Indha seatla yaaraavadhu irukkaangalaa?"
+     "tl": "Indha seatla yaaraavadhu irukkaangalaa?",
+     "te": "ఈ సీట్లో ఎవరైనా ఉన్నారా?"
     },
     {
      "id": "general-c4fa0342",
      "en": "I'm sorry, I'm busy now.",
      "ta": "சாரி, இப்ப பிஸியா இருக்கேன்.",
-     "tl": "Sorry, ippa busyaa irukken."
+     "tl": "Sorry, ippa busyaa irukken.",
+     "te": "సారీ, ఇప్పుడు బిజీగా ఉన్నాను."
     },
     {
      "id": "general-0caae012",
      "en": "Let's talk later.",
      "ta": "அப்புறம் பேசலாம்.",
-     "tl": "Appuram pesalaam."
+     "tl": "Appuram pesalaam.",
+     "te": "తర్వాత మాట్లాడదాం."
     },
     {
      "id": "general-8f783eb0",
      "en": "I agree.",
      "ta": "நான் ஒத்துக்கறேன்.",
-     "tl": "Naan othukkaren."
+     "tl": "Naan othukkaren.",
+     "te": "నేను ఒప్పుకుంటాను."
     },
     {
      "id": "general-8643d3c9",
      "en": "You're right.",
      "ta": "நீ சொல்றது சரி.",
-     "tl": "Nee solradhu sari."
+     "tl": "Nee solradhu sari.",
+     "te": "నువ్వు చెప్పింది నిజమే."
     },
     {
      "id": "general-5c4ceb21",
      "en": "I don't think so.",
      "ta": "எனக்கு அப்படி தோணல.",
-     "tl": "Enakku appadi thonala."
+     "tl": "Enakku appadi thonala.",
+     "te": "నాకు అలా అనిపించట్లేదు."
     },
     {
      "id": "general-2446c60c",
      "en": "Maybe.",
      "ta": "இருக்கலாம்.",
-     "tl": "Irukkalaam."
+     "tl": "Irukkalaam.",
+     "te": "ఉండొచ్చు."
     },
     {
      "id": "general-9322aad9",
      "en": "It doesn't matter.",
      "ta": "பரவாயில்ல, விடு.",
-     "tl": "Paravaayilla, vidu."
+     "tl": "Paravaayilla, vidu.",
+     "te": "పర్వాలేదు, వదిలేయ్."
     },
     {
      "id": "general-3a361359",
      "en": "Never mind.",
      "ta": "சரி விடு.",
-     "tl": "Sari vidu."
+     "tl": "Sari vidu.",
+     "te": "సరే వదిలేయ్."
     },
     {
      "id": "general-cfdea1f2",
      "en": "Really nice!",
      "ta": "ரொம்ப நல்லா இருக்கு!",
-     "tl": "Romba nallaa irukku!"
+     "tl": "Romba nallaa irukku!",
+     "te": "చాలా బాగుంది!"
     },
     {
      "id": "general-74a49365",
      "en": "How was your day?",
      "ta": "உன் நாள் எப்படி போச்சு?",
-     "tl": "Un naal eppadi pochu?"
+     "tl": "Un naal eppadi pochu?",
+     "te": "నీ రోజు ఎలా గడిచింది?"
     },
     {
      "id": "general-84dbde5e",
      "en": "It was good.",
      "ta": "நல்லா போச்சு.",
-     "tl": "Nallaa pochu."
+     "tl": "Nallaa pochu.",
+     "te": "బాగా గడిచింది."
     },
     {
      "id": "general-70d66c5f",
      "en": "What's the plan for today?",
      "ta": "இன்னைக்கு என்ன ப்ளான்?",
-     "tl": "Innaikku enna plan?"
+     "tl": "Innaikku enna plan?",
+     "te": "ఈ రోజు ప్లాన్ ఏంటి?"
     },
     {
      "id": "general-e797c30f",
      "en": "Where shall we meet?",
      "ta": "எங்க மீட் பண்ணலாம்?",
-     "tl": "Enga meet pannalaam?"
+     "tl": "Enga meet pannalaam?",
+     "te": "ఎక్కడ కలుద్దాం?"
     },
     {
      "id": "general-3ec3a27c",
      "en": "What time shall we meet?",
      "ta": "எத்தன மணிக்கு மீட் பண்ணலாம்?",
-     "tl": "Etthana manikku meet pannalaam?"
+     "tl": "Etthana manikku meet pannalaam?",
+     "te": "ఎన్ని గంటలకి కలుద్దాం?"
     },
     {
      "id": "general-2218ed18",
      "en": "I'll call you back.",
      "ta": "நான் அப்புறம் கால் பண்றேன்.",
-     "tl": "Naan appuram call panren."
+     "tl": "Naan appuram call panren.",
+     "te": "నేను తర్వాత కాల్ చేస్తాను."
     },
     {
      "id": "general-4272fb3c",
      "en": "Happy journey.",
      "ta": "நல்லபடியா போயிட்டு வாங்க.",
-     "tl": "Nallapadiyaa poyittu vaanga."
+     "tl": "Nallapadiyaa poyittu vaanga.",
+     "te": "క్షేమంగా వెళ్ళి రండి."
     },
     {
      "id": "general-fb20cb70",
      "en": "All the best!",
      "ta": "ஆல் தி பெஸ்ட்!",
-     "tl": "All the best!"
+     "tl": "All the best!",
+     "te": "ఆల్ ది బెస్ట్!"
     },
     {
      "id": "general-231cd19d",
      "en": "Welcome!",
      "ta": "வாங்க, வாங்க!",
-     "tl": "Vaanga, vaanga!"
+     "tl": "Vaanga, vaanga!",
+     "te": "రండి, రండి!"
     },
     {
      "id": "general-4b7d3ff1",
      "en": "Is it okay?",
      "ta": "சரியா?",
-     "tl": "Sariyaa?"
+     "tl": "Sariyaa?",
+     "te": "సరేనా?"
     }
-   ]
+   ],
+   "teCount": 100
   },
   {
    "id": "politics",
@@ -4906,603 +5710,704 @@ window.PP_DATA = {
      "id": "politics-551a230a",
      "en": "Elections are coming soon.",
      "ta": "சீக்கிரம் தேர்தல் வருது.",
-     "tl": "Seekkiram therdhal varudhu."
+     "tl": "Seekkiram therdhal varudhu.",
+     "te": "త్వరలో ఎన్నికలు వస్తున్నాయి."
     },
     {
      "id": "politics-49c45593",
      "en": "Did you vote?",
      "ta": "நீ ஓட்டு போட்டியா?",
-     "tl": "Nee ottu pottiyaa?"
+     "tl": "Nee ottu pottiyaa?",
+     "te": "నువ్వు ఓటు వేశావా?"
     },
     {
      "id": "politics-61836967",
      "en": "Every vote matters.",
      "ta": "ஒவ்வொரு ஓட்டும் முக்கியம்.",
-     "tl": "Ovvoru ottum mukkiyam."
+     "tl": "Ovvoru ottum mukkiyam.",
+     "te": "ప్రతి ఓటూ ముఖ్యమే."
     },
     {
      "id": "politics-e82701a1",
      "en": "Who are you going to vote for?",
      "ta": "நீ யாருக்கு ஓட்டு போட போற?",
-     "tl": "Nee yaarukku ottu poda pora?"
+     "tl": "Nee yaarukku ottu poda pora?",
+     "te": "నువ్వు ఎవరికి ఓటు వేయబోతున్నావు?"
     },
     {
      "id": "politics-1d162387",
      "en": "That's a secret.",
      "ta": "அது ரகசியம்.",
-     "tl": "Adhu ragasiyam."
+     "tl": "Adhu ragasiyam.",
+     "te": "అది రహస్యం."
     },
     {
      "id": "politics-1ed37241",
      "en": "Corruption must end.",
      "ta": "ஊழல் ஒழியணும்.",
-     "tl": "Oozhal ozhiyanum."
+     "tl": "Oozhal ozhiyanum.",
+     "te": "అవినీతి అంతం కావాలి."
     },
     {
      "id": "politics-7272b9a4",
      "en": "Prices keep going up.",
      "ta": "விலைவாசி ஏறிட்டே போகுது.",
-     "tl": "Vilaivaasi erittae pogudhu."
+     "tl": "Vilaivaasi erittae pogudhu.",
+     "te": "ధరలు పెరుగుతూనే ఉన్నాయి."
     },
     {
      "id": "politics-f9561651",
      "en": "The roads need to be fixed.",
      "ta": "ரோடெல்லாம் சரி பண்ணணும்.",
-     "tl": "Rodellaam sari pannanum."
+     "tl": "Rodellaam sari pannanum.",
+     "te": "రోడ్లన్నీ బాగుచేయాలి."
     },
     {
      "id": "politics-cb15849e",
      "en": "Politicians make promises.",
      "ta": "அரசியல்வாதிங்க வாக்குறுதி குடுக்கறாங்க.",
-     "tl": "Arasiyalvaadhinga vaakkurudhi kudukkaraanga."
+     "tl": "Arasiyalvaadhinga vaakkurudhi kudukkaraanga.",
+     "te": "రాజకీయ నాయకులు హామీలు ఇస్తారు."
     },
     {
      "id": "politics-e405c51e",
      "en": "Did you watch the debate?",
      "ta": "டிபேட் பாத்தியா?",
-     "tl": "Debate paathiyaa?"
+     "tl": "Debate paathiyaa?",
+     "te": "డిబేట్ చూశావా?"
     },
     {
      "id": "politics-fd7d0579",
      "en": "What do you think about the new law?",
      "ta": "புது சட்டத்த பத்தி என்ன நினைக்கற?",
-     "tl": "Pudhu sattatha pathi enna ninaikkara?"
+     "tl": "Pudhu sattatha pathi enna ninaikkara?",
+     "te": "కొత్త చట్టం గురించి ఏమనుకుంటున్నావు?"
     },
     {
      "id": "politics-61414d38",
      "en": "I don't like talking politics.",
      "ta": "எனக்கு அரசியல் பேச பிடிக்காது.",
-     "tl": "Enakku arasiyal pesa pidikkaadhu."
+     "tl": "Enakku arasiyal pesa pidikkaadhu.",
+     "te": "నాకు రాజకీయాలు మాట్లాడటం ఇష్టం లేదు."
     },
     {
      "id": "politics-13ccb59c",
      "en": "Young people should vote.",
      "ta": "இளைஞர்கள் ஓட்டு போடணும்.",
-     "tl": "Ilaignargal ottu podanum."
+     "tl": "Ilaignargal ottu podanum.",
+     "te": "యువత ఓటు వేయాలి."
     },
     {
      "id": "politics-edc9516e",
      "en": "The government announced a new scheme.",
      "ta": "அரசாங்கம் புது திட்டம் அறிவிச்சிருக்கு.",
-     "tl": "Arasaangam pudhu thittam arivichirukku."
+     "tl": "Arasaangam pudhu thittam arivichirukku.",
+     "te": "ప్రభుత్వం కొత్త పథకం ప్రకటించింది."
     },
     {
      "id": "politics-560574fb",
      "en": "The results will come tomorrow.",
      "ta": "நாளைக்கு ரிசல்ட் வரும்.",
-     "tl": "Naalaikku result varum."
+     "tl": "Naalaikku result varum.",
+     "te": "రేపు ఫలితాలు వస్తాయి."
     },
     {
      "id": "politics-eeb4a084",
      "en": "Who won the election?",
      "ta": "தேர்தல்ல யாரு ஜெயிச்சா?",
-     "tl": "Therdhalla yaaru jeyichaa?"
+     "tl": "Therdhalla yaaru jeyichaa?",
+     "te": "ఎన్నికల్లో ఎవరు గెలిచారు?"
     },
     {
      "id": "politics-9e4b0e66",
      "en": "Education should be free.",
      "ta": "கல்வி இலவசமா இருக்கணும்.",
-     "tl": "Kalvi ilavasamaa irukkanum."
+     "tl": "Kalvi ilavasamaa irukkanum.",
+     "te": "చదువు ఉచితంగా ఉండాలి."
     },
     {
      "id": "politics-64e71f77",
      "en": "We should respect each other's opinions.",
      "ta": "ஒருத்தர் கருத்த இன்னொருத்தர் மதிக்கணும்.",
-     "tl": "Oruthar karutha innoruthar madhikkanum."
+     "tl": "Oruthar karutha innoruthar madhikkanum.",
+     "te": "ఒకరి అభిప్రాయాన్ని ఇంకొకరు గౌరవించాలి."
     },
     {
      "id": "politics-21fa9dde",
      "en": "There's a protest today.",
      "ta": "இன்னைக்கு போராட்டம் நடக்குது.",
-     "tl": "Innaikku poraattam nadakkudhu."
+     "tl": "Innaikku poraattam nadakkudhu.",
+     "te": "ఈ రోజు నిరసన జరుగుతోంది."
     },
     {
      "id": "politics-97293381",
      "en": "The rally caused a traffic jam.",
      "ta": "ஊர்வலத்தால ட்ராஃபிக் ஆயிடுச்சு.",
-     "tl": "Oorvalathaala traffic aayiduchu."
+     "tl": "Oorvalathaala traffic aayiduchu.",
+     "te": "ర్యాలీ వల్ల ట్రాఫిక్ జామ్ అయింది."
     },
     {
      "id": "politics-5e04b66a",
      "en": "We need more jobs.",
      "ta": "நிறைய வேலைவாய்ப்பு வேணும்.",
-     "tl": "Niraiya velaivaaippu venum."
+     "tl": "Niraiya velaivaaippu venum.",
+     "te": "ఎక్కువ ఉద్యోగాలు కావాలి."
     },
     {
      "id": "politics-c85d1175",
      "en": "Taxes are too high.",
      "ta": "வரி ரொம்ப அதிகமா இருக்கு.",
-     "tl": "Vari romba adhigamaa irukku."
+     "tl": "Vari romba adhigamaa irukku.",
+     "te": "పన్నులు చాలా ఎక్కువగా ఉన్నాయి."
     },
     {
      "id": "politics-845a0281",
      "en": "Read the news before you argue.",
      "ta": "வாக்குவாதம் பண்றதுக்கு முன்னாடி நியூஸ் படி.",
-     "tl": "Vaakkuvaadham panradhukku munnaadi news padi."
+     "tl": "Vaakkuvaadham panradhukku munnaadi news padi.",
+     "te": "వాదించే ముందు వార్తలు చదువు."
     },
     {
      "id": "politics-f4bee58e",
      "en": "Democracy needs your voice.",
      "ta": "ஜனநாயகத்துக்கு உன் குரல் வேணும்.",
-     "tl": "Jananaayagathukku un kural venum."
+     "tl": "Jananaayagathukku un kural venum.",
+     "te": "ప్రజాస్వామ్యానికి నీ గొంతు కావాలి."
     },
     {
      "id": "politics-2625d952",
      "en": "The minister visited our town.",
      "ta": "அமைச்சர் எங்க ஊருக்கு வந்தாரு.",
-     "tl": "Amaichar enga oorukku vandhaaru."
+     "tl": "Amaichar enga oorukku vandhaaru.",
+     "te": "మంత్రి మా ఊరికి వచ్చారు."
     },
     {
      "id": "politics-55ceb78e",
      "en": "The water problem here is serious.",
      "ta": "இங்க தண்ணி பிரச்சனை ரொம்ப மோசம்.",
-     "tl": "Inga thanni prachanai romba mosam."
+     "tl": "Inga thanni prachanai romba mosam.",
+     "te": "ఇక్కడ నీళ్ళ సమస్య చాలా తీవ్రంగా ఉంది."
     },
     {
      "id": "politics-0b4d8225",
      "en": "Change starts with us.",
      "ta": "மாற்றம் நம்மகிட்ட இருந்துதான் ஆரம்பிக்கும்.",
-     "tl": "Maatram nammakitta irundhudhaan aarambikkum."
+     "tl": "Maatram nammakitta irundhudhaan aarambikkum.",
+     "te": "మార్పు మనతోనే మొదలవుతుంది."
     },
     {
      "id": "politics-f7bfaebb",
      "en": "Don't believe fake news.",
      "ta": "போலி செய்திய நம்பாதீங்க.",
-     "tl": "Poli seidhiya nambaadheenga."
+     "tl": "Poli seidhiya nambaadheenga.",
+     "te": "ఫేక్ వార్తలు నమ్మకండి."
     },
     {
      "id": "politics-e05d41a0",
      "en": "I'm not interested in politics.",
      "ta": "எனக்கு அரசியல்ல ஆர்வம் இல்ல.",
-     "tl": "Enakku arasiyalla aarvam illa."
+     "tl": "Enakku arasiyalla aarvam illa.",
+     "te": "నాకు రాజకీయాల మీద ఆసక్తి లేదు."
     },
     {
      "id": "politics-8580770f",
      "en": "Is your name on the voter list?",
      "ta": "வாக்காளர் பட்டியல்ல உன் பேர் இருக்கா?",
-     "tl": "Vaakkaalar pattiyalla un per irukkaa?"
+     "tl": "Vaakkaalar pattiyalla un per irukkaa?",
+     "te": "ఓటర్ల జాబితాలో నీ పేరు ఉందా?"
     },
     {
      "id": "politics-8d90e673",
      "en": "When is the election?",
      "ta": "தேர்தல் எப்போ?",
-     "tl": "Therdhal eppo?"
+     "tl": "Therdhal eppo?",
+     "te": "ఎన్నికలు ఎప్పుడు?"
     },
     {
      "id": "politics-4a2bba95",
      "en": "Where is the polling booth?",
      "ta": "வாக்குச்சாவடி எங்க இருக்கு?",
-     "tl": "Vaakkuchaavadi enga irukku?"
+     "tl": "Vaakkuchaavadi enga irukku?",
+     "te": "పోలింగ్ బూత్ ఎక్కడ ఉంది?"
     },
     {
      "id": "politics-4cb8e502",
      "en": "Bring your voter ID.",
      "ta": "உன் வாக்காளர் அட்டைய எடுத்துட்டு வா.",
-     "tl": "Un vaakkaalar attaiya eduthuttu vaa."
+     "tl": "Un vaakkaalar attaiya eduthuttu vaa.",
+     "te": "నీ ఓటర్ ఐడీ తీసుకురా."
     },
     {
      "id": "politics-0ac18b5d",
      "en": "I voted this morning.",
      "ta": "இன்னைக்கு காலைல ஓட்டு போட்டேன்.",
-     "tl": "Innaikku kaalaila ottu potten."
+     "tl": "Innaikku kaalaila ottu potten.",
+     "te": "ఈ రోజు ఉదయం ఓటు వేశాను."
     },
     {
      "id": "politics-371911a8",
      "en": "Who will win this time?",
      "ta": "இந்த தடவ யாரு ஜெயிப்பாங்க?",
-     "tl": "Indha thadava yaaru jeyippaanga?"
+     "tl": "Indha thadava yaaru jeyippaanga?",
+     "te": "ఈసారి ఎవరు గెలుస్తారు?"
     },
     {
      "id": "politics-0acdf084",
      "en": "The counting starts tomorrow.",
      "ta": "நாளைக்கு ஓட்டு எண்ணிக்கை ஆரம்பிக்குது.",
-     "tl": "Naalaikku ottu ennikkai aarambikkudhu."
+     "tl": "Naalaikku ottu ennikkai aarambikkudhu.",
+     "te": "రేపు ఓట్ల లెక్కింపు మొదలవుతుంది."
     },
     {
      "id": "politics-ebf482ac",
      "en": "The new government took charge.",
      "ta": "புது அரசாங்கம் பொறுப்பேத்துக்கிச்சு.",
-     "tl": "Pudhu arasaangam poruppethukkichu."
+     "tl": "Pudhu arasaangam poruppethukkichu.",
+     "te": "కొత్త ప్రభుత్వం బాధ్యతలు తీసుకుంది."
     },
     {
      "id": "politics-7a639360",
      "en": "Petrol prices went up again.",
      "ta": "பெட்ரோல் விலை மறுபடியும் ஏறிடுச்சு.",
-     "tl": "Petrol vilai marubadiyum eriduchu."
+     "tl": "Petrol vilai marubadiyum eriduchu.",
+     "te": "పెట్రోల్ ధర మళ్ళీ పెరిగింది."
     },
     {
      "id": "politics-a41e1845",
      "en": "The bus fare went up.",
      "ta": "பஸ் டிக்கெட் விலை ஏறிடுச்சு.",
-     "tl": "Bus ticket vilai eriduchu."
+     "tl": "Bus ticket vilai eriduchu.",
+     "te": "బస్సు ఛార్జీ పెరిగింది."
     },
     {
      "id": "politics-956e9066",
      "en": "There's a strike tomorrow.",
      "ta": "நாளைக்கு ஸ்ட்ரைக்.",
-     "tl": "Naalaikku strike."
+     "tl": "Naalaikku strike.",
+     "te": "రేపు బంద్."
     },
     {
      "id": "politics-56dd8c7b",
      "en": "The shops are closed because of the strike.",
      "ta": "ஸ்ட்ரைக்னால கடைங்க மூடியிருக்கு.",
-     "tl": "Strikenaala kadainga moodiyirukku."
+     "tl": "Strikenaala kadainga moodiyirukku.",
+     "te": "బంద్ వల్ల షాపులు మూసేశారు."
     },
     {
      "id": "politics-2e4078e5",
      "en": "The rally is in the evening.",
      "ta": "சாயங்காலம் கூட்டம் இருக்கு.",
-     "tl": "Saayangaalam koottam irukku."
+     "tl": "Saayangaalam koottam irukku.",
+     "te": "సాయంత్రం సభ ఉంది."
     },
     {
      "id": "politics-1be6c527",
      "en": "Many people attended the meeting.",
      "ta": "கூட்டத்துக்கு நிறைய பேர் வந்தாங்க.",
-     "tl": "Koottathukku niraiya per vandhaanga."
+     "tl": "Koottathukku niraiya per vandhaanga.",
+     "te": "సభకి చాలా మంది వచ్చారు."
     },
     {
      "id": "politics-3c73838e",
      "en": "They promised free electricity.",
      "ta": "இலவச கரண்ட் தருவோம்னு சொன்னாங்க.",
-     "tl": "Ilavasa current tharuvomnu sonnaanga."
+     "tl": "Ilavasa current tharuvomnu sonnaanga.",
+     "te": "ఉచిత కరెంట్ ఇస్తామని చెప్పారు."
     },
     {
      "id": "politics-e26ca2a9",
      "en": "Promises are easy, action is hard.",
      "ta": "வாக்குறுதி குடுக்கறது ஈஸி, செய்யறதுதான் கஷ்டம்.",
-     "tl": "Vaakkurudhi kudukkaradhu easy, seiyaradhudhaan kashtam."
+     "tl": "Vaakkurudhi kudukkaradhu easy, seiyaradhudhaan kashtam.",
+     "te": "హామీ ఇవ్వడం సులువు, చేయడమే కష్టం."
     },
     {
      "id": "politics-9e81f18d",
      "en": "Farmers need support.",
      "ta": "விவசாயிகளுக்கு ஆதரவு வேணும்.",
-     "tl": "Vivasaayigalukku aadharavu venum."
+     "tl": "Vivasaayigalukku aadharavu venum.",
+     "te": "రైతులకి మద్దతు కావాలి."
     },
     {
      "id": "politics-80e1917d",
      "en": "Women's safety is important.",
      "ta": "பெண்கள் பாதுகாப்பு முக்கியம்.",
-     "tl": "Pengal paadhugaappu mukkiyam."
+     "tl": "Pengal paadhugaappu mukkiyam.",
+     "te": "మహిళల భద్రత ముఖ్యం."
     },
     {
      "id": "politics-2aa7247a",
      "en": "Hospitals need more doctors.",
      "ta": "ஆஸ்பத்திரிக்கு இன்னும் டாக்டர்ஸ் வேணும்.",
-     "tl": "Aaspathirikku innum doctors venum."
+     "tl": "Aaspathirikku innum doctors venum.",
+     "te": "ఆసుపత్రులకి ఇంకా డాక్టర్లు కావాలి."
     },
     {
      "id": "politics-4be7261e",
      "en": "Schools need better teachers.",
      "ta": "ஸ்கூலுக்கு நல்ல டீச்சர்ஸ் வேணும்.",
-     "tl": "Schoolukku nalla teachers venum."
+     "tl": "Schoolukku nalla teachers venum.",
+     "te": "స్కూళ్ళకి మంచి టీచర్లు కావాలి."
     },
     {
      "id": "politics-c663ae5d",
      "en": "The rain flooded the streets again.",
      "ta": "மழையால தெரு மறுபடியும் வெள்ளமா ஆயிடுச்சு.",
-     "tl": "Mazhaiyaala theru marubadiyum vellamaa aayiduchu."
+     "tl": "Mazhaiyaala theru marubadiyum vellamaa aayiduchu.",
+     "te": "వర్షానికి వీధులు మళ్ళీ నీట మునిగాయి."
     },
     {
      "id": "politics-3effdb97",
      "en": "Who is our MLA?",
      "ta": "நம்ம எம்எல்ஏ யாரு?",
-     "tl": "Namma MLA yaaru?"
+     "tl": "Namma MLA yaaru?",
+     "te": "మన ఎమ్మెల్యే ఎవరు?"
     },
     {
      "id": "politics-b74ea43e",
      "en": "Our councillor never comes here.",
      "ta": "நம்ம கவுன்சிலர் இங்க வரவே மாட்டாரு.",
-     "tl": "Namma councillor inga varave maattaaru."
+     "tl": "Namma councillor inga varave maattaaru.",
+     "te": "మన కౌన్సిలర్ ఇక్కడికి ఎప్పుడూ రారు."
     },
     {
      "id": "politics-50d7f8e7",
      "en": "Let's complain to the corporation.",
      "ta": "கார்ப்பரேஷன்ல புகார் குடுக்கலாம்.",
-     "tl": "Corporationla pugaar kudukkalaam."
+     "tl": "Corporationla pugaar kudukkalaam.",
+     "te": "కార్పొరేషన్‌లో కంప్లైంట్ ఇద్దాం."
     },
     {
      "id": "politics-f50ec2f1",
      "en": "The garbage hasn't been cleared.",
      "ta": "குப்பைய இன்னும் எடுக்கல.",
-     "tl": "Kuppaiya innum edukkala."
+     "tl": "Kuppaiya innum edukkala.",
+     "te": "చెత్త ఇంకా తీయలేదు."
     },
     {
      "id": "politics-43ec740e",
      "en": "The streetlight isn't working.",
      "ta": "தெரு விளக்கு எரியல.",
-     "tl": "Theru vilakku eriyala."
+     "tl": "Theru vilakku eriyala.",
+     "te": "వీధి దీపం వెలగట్లేదు."
     },
     {
      "id": "politics-054ec816",
      "en": "What did the chief minister say?",
      "ta": "முதலமைச்சர் என்ன சொன்னாரு?",
-     "tl": "Mudhalamaichar enna sonnaaru?"
+     "tl": "Mudhalamaichar enna sonnaaru?",
+     "te": "ముఖ్యమంత్రి ఏమన్నారు?"
     },
     {
      "id": "politics-72ba1245",
      "en": "The prime minister is visiting the state.",
      "ta": "பிரதமர் மாநிலத்துக்கு வராரு.",
-     "tl": "Pradhamar maanilathukku varaaru."
+     "tl": "Pradhamar maanilathukku varaaru.",
+     "te": "ప్రధానమంత్రి రాష్ట్రానికి వస్తున్నారు."
     },
     {
      "id": "politics-6a874cdc",
      "en": "The budget was announced today.",
      "ta": "இன்னைக்கு பட்ஜெட் அறிவிச்சாங்க.",
-     "tl": "Innaikku budget arivichaanga."
+     "tl": "Innaikku budget arivichaanga.",
+     "te": "ఈ రోజు బడ్జెట్ ప్రకటించారు."
     },
     {
      "id": "politics-3e3570f8",
      "en": "Is there anything for the middle class?",
      "ta": "நடுத்தர மக்களுக்கு ஏதாவது இருக்கா?",
-     "tl": "Nadutthara makkalukku edhaavadhu irukkaa?"
+     "tl": "Nadutthara makkalukku edhaavadhu irukkaa?",
+     "te": "మధ్యతరగతి వాళ్ళకి ఏమైనా ఉందా?"
     },
     {
      "id": "politics-a12e4b20",
      "en": "Nothing changes after elections.",
      "ta": "தேர்தலுக்கு அப்புறம் எதுவும் மாறறதில்ல.",
-     "tl": "Therdhalukku appuram edhuvum maararadhilla."
+     "tl": "Therdhalukku appuram edhuvum maararadhilla.",
+     "te": "ఎన్నికల తర్వాత ఏదీ మారదు."
     },
     {
      "id": "politics-38fb7071",
      "en": "Don't sell your vote.",
      "ta": "உன் ஓட்ட விக்காத.",
-     "tl": "Un otta vikkaadha."
+     "tl": "Un otta vikkaadha.",
+     "te": "నీ ఓటు అమ్ముకోకు."
     },
     {
      "id": "politics-6d2fa976",
      "en": "Vote for a good candidate.",
      "ta": "நல்ல வேட்பாளருக்கு ஓட்டு போடு.",
-     "tl": "Nalla vetpaalarukku ottu podu."
+     "tl": "Nalla vetpaalarukku ottu podu.",
+     "te": "మంచి అభ్యర్థికి ఓటు వెయ్."
     },
     {
      "id": "politics-61ab1a2c",
      "en": "Ask questions to your leaders.",
      "ta": "உன் தலைவர்கள்கிட்ட கேள்வி கேளு.",
-     "tl": "Un thalaivargalkitta kelvi kelu."
+     "tl": "Un thalaivargalkitta kelvi kelu.",
+     "te": "నీ నాయకులను ప్రశ్నించు."
     },
     {
      "id": "politics-c8d26e62",
      "en": "Everyone has the right to speak.",
      "ta": "எல்லாருக்கும் பேச உரிமை இருக்கு.",
-     "tl": "Ellaarukkum pesa urimai irukku."
+     "tl": "Ellaarukkum pesa urimai irukku.",
+     "te": "అందరికీ మాట్లాడే హక్కు ఉంది."
     },
     {
      "id": "politics-8251b52b",
      "en": "Peaceful protest is our right.",
      "ta": "அமைதியா போராடறது நம்ம உரிமை.",
-     "tl": "Amaidhiyaa poraadaradhu namma urimai."
+     "tl": "Amaidhiyaa poraadaradhu namma urimai.",
+     "te": "శాంతియుతంగా నిరసన తెలపడం మన హక్కు."
     },
     {
      "id": "politics-94c86fc0",
      "en": "Let's not fight over politics.",
      "ta": "அரசியலுக்காக சண்டை போட வேண்டாம்.",
-     "tl": "Arasiyalukkaaga sandai poda vendaam."
+     "tl": "Arasiyalukkaaga sandai poda vendaam.",
+     "te": "రాజకీయాల కోసం గొడవ పడొద్దు."
     },
     {
      "id": "politics-4afce0ab",
      "en": "We can disagree and still be friends.",
      "ta": "கருத்து வேறுபட்டாலும் ஃப்ரெண்ட்ஸா இருக்கலாம்.",
-     "tl": "Karuthu verupattaalum friendsaa irukkalaam."
+     "tl": "Karuthu verupattaalum friendsaa irukkalaam.",
+     "te": "అభిప్రాయాలు వేరైనా ఫ్రెండ్స్‌గా ఉండొచ్చు."
     },
     {
      "id": "politics-7b57a9c4",
      "en": "My father follows politics closely.",
      "ta": "எங்க அப்பா அரசியல கூர்ந்து கவனிப்பாரு.",
-     "tl": "Enga appaa arasiyala koorndhu kavanippaaru."
+     "tl": "Enga appaa arasiyala koorndhu kavanippaaru.",
+     "te": "మా నాన్న రాజకీయాలను బాగా గమనిస్తారు."
     },
     {
      "id": "politics-fa7191fb",
      "en": "Did you read today's news?",
      "ta": "இன்னைக்கு நியூஸ் படிச்சியா?",
-     "tl": "Innaikku news padichiyaa?"
+     "tl": "Innaikku news padichiyaa?",
+     "te": "ఈ రోజు వార్తలు చదివావా?"
     },
     {
      "id": "politics-063792d7",
      "en": "The news channels are exaggerating.",
      "ta": "நியூஸ் சேனல்ஸ் ஓவரா காட்டறாங்க.",
-     "tl": "News channels overaa kaattaraanga."
+     "tl": "News channels overaa kaattaraanga.",
+     "te": "న్యూస్ ఛానెల్స్ అతిగా చూపిస్తున్నాయి."
     },
     {
      "id": "politics-5659eb8d",
      "en": "Check the facts first.",
      "ta": "முதல்ல உண்மைய சரிபாரு.",
-     "tl": "Mudhalla unmaiya saripaaru."
+     "tl": "Mudhalla unmaiya saripaaru.",
+     "te": "ముందు నిజం ఏంటో చూడు."
     },
     {
      "id": "politics-c002d1f4",
      "en": "Social media spreads rumours.",
      "ta": "சோஷியல் மீடியா வதந்தி பரப்புது.",
-     "tl": "Social media vadhandhi parappudhu."
+     "tl": "Social media vadhandhi parappudhu.",
+     "te": "సోషల్ మీడియా పుకార్లు వ్యాపిస్తుంది."
     },
     {
      "id": "politics-3f54eeba",
      "en": "Unemployment is a big problem.",
      "ta": "வேலையில்லா திண்டாட்டம் பெரிய பிரச்சனை.",
-     "tl": "Velaiyillaa thindaattam periya prachanai."
+     "tl": "Velaiyillaa thindaattam periya prachanai.",
+     "te": "నిరుద్యోగం పెద్ద సమస్య."
     },
     {
      "id": "politics-4919bda6",
      "en": "The state needs more industries.",
      "ta": "மாநிலத்துக்கு இன்னும் தொழிற்சாலைங்க வேணும்.",
-     "tl": "Maanilathukku innum thozhirsaalainga venum."
+     "tl": "Maanilathukku innum thozhirsaalainga venum.",
+     "te": "రాష్ట్రానికి ఇంకా పరిశ్రమలు కావాలి."
     },
     {
      "id": "politics-82af599f",
      "en": "Cleanliness starts at home.",
      "ta": "சுத்தம் வீட்லேர்ந்து ஆரம்பிக்குது.",
-     "tl": "Suththam veetlerndhu aarambikkudhu."
+     "tl": "Suththam veetlerndhu aarambikkudhu.",
+     "te": "శుభ్రత ఇంటి నుంచే మొదలవుతుంది."
     },
     {
      "id": "politics-8de045f2",
      "en": "We should protect our language.",
      "ta": "நம்ம மொழிய நாம காப்பாத்தணும்.",
-     "tl": "Namma mozhiya naama kaappaathanum."
+     "tl": "Namma mozhiya naama kaappaathanum.",
+     "te": "మన భాషను మనం కాపాడుకోవాలి."
     },
     {
      "id": "politics-0176f8e5",
      "en": "Tamil is our pride.",
      "ta": "தமிழ் நம்ம பெருமை.",
-     "tl": "Thamizh namma perumai."
+     "tl": "Thamizh namma perumai.",
+     "te": "తమిళం మా గర్వం."
     },
     {
      "id": "politics-7f8f06ee",
      "en": "Freedom fighters gave their lives.",
      "ta": "சுதந்திர போராட்ட வீரர்கள் உயிர குடுத்தாங்க.",
-     "tl": "Sudhandhira poraatta veerargal uyira kuduthaanga."
+     "tl": "Sudhandhira poraatta veerargal uyira kuduthaanga.",
+     "te": "స్వాతంత్ర్య సమరయోధులు ప్రాణాలు అర్పించారు."
     },
     {
      "id": "politics-fffc7044",
      "en": "Happy Independence Day!",
      "ta": "சுதந்திர தின வாழ்த்துக்கள்!",
-     "tl": "Sudhandhira dhina vaazhthukkal!"
+     "tl": "Sudhandhira dhina vaazhthukkal!",
+     "te": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు!"
     },
     {
      "id": "politics-45ffce50",
      "en": "Happy Republic Day!",
      "ta": "குடியரசு தின வாழ்த்துக்கள்!",
-     "tl": "Kudiyarasu dhina vaazhthukkal!"
+     "tl": "Kudiyarasu dhina vaazhthukkal!",
+     "te": "గణతంత్ర దినోత్సవ శుభాకాంక్షలు!"
     },
     {
      "id": "politics-c344b09c",
      "en": "The law should be equal for all.",
      "ta": "சட்டம் எல்லாருக்கும் ஒண்ணா இருக்கணும்.",
-     "tl": "Sattam ellaarukkum onnaa irukkanum."
+     "tl": "Sattam ellaarukkum onnaa irukkanum.",
+     "te": "చట్టం అందరికీ ఒకేలా ఉండాలి."
     },
     {
      "id": "politics-7ee667ec",
      "en": "Justice is delayed.",
      "ta": "நீதி தாமதமாகுது.",
-     "tl": "Needhi thaamadhamaagudhu."
+     "tl": "Needhi thaamadhamaagudhu.",
+     "te": "న్యాయం ఆలస్యమవుతోంది."
     },
     {
      "id": "politics-fd47c37e",
      "en": "The court gave its verdict.",
      "ta": "கோர்ட் தீர்ப்பு சொல்லிடுச்சு.",
-     "tl": "Court theerppu solliduchu."
+     "tl": "Court theerppu solliduchu.",
+     "te": "కోర్టు తీర్పు చెప్పింది."
     },
     {
      "id": "politics-73ed75f3",
      "en": "The minister resigned.",
      "ta": "அமைச்சர் ராஜினாமா பண்ணிட்டாரு.",
-     "tl": "Amaichar raajinaamaa pannittaaru."
+     "tl": "Amaichar raajinaamaa pannittaaru.",
+     "te": "మంత్రి రాజీనామా చేశారు."
     },
     {
      "id": "politics-365fe3c8",
      "en": "There was a scandal.",
      "ta": "ஒரு ஊழல் வெளிய வந்துச்சு.",
-     "tl": "Oru oozhal veliya vandhuchu."
+     "tl": "Oru oozhal veliya vandhuchu.",
+     "te": "ఒక కుంభకోణం బయటపడింది."
     },
     {
      "id": "politics-7ba9f0f2",
      "en": "They're blaming each other.",
      "ta": "ஒருத்தர ஒருத்தர் குறை சொல்றாங்க.",
-     "tl": "Oruthara oruthar kurai solraanga."
+     "tl": "Oruthara oruthar kurai solraanga.",
+     "te": "ఒకరినొకరు నిందించుకుంటున్నారు."
     },
     {
      "id": "politics-6db5433c",
      "en": "Politics is a dirty game.",
      "ta": "அரசியல் ஒரு அழுக்கான விளையாட்டு.",
-     "tl": "Arasiyal oru azhukkaana vilaiyaattu."
+     "tl": "Arasiyal oru azhukkaana vilaiyaattu.",
+     "te": "రాజకీయం ఒక మురికి ఆట."
     },
     {
      "id": "politics-bc4038f3",
      "en": "Good leaders are rare.",
      "ta": "நல்ல தலைவர்கள் கிடைக்கறது அரிது.",
-     "tl": "Nalla thalaivargal kidaikkaradhu aridhu."
+     "tl": "Nalla thalaivargal kidaikkaradhu aridhu.",
+     "te": "మంచి నాయకులు దొరకడం అరుదు."
     },
     {
      "id": "politics-984685a9",
      "en": "I want to join politics.",
      "ta": "எனக்கு அரசியலுக்கு வரணும்னு ஆசை.",
-     "tl": "Enakku arasiyalukku varanumnu aasai."
+     "tl": "Enakku arasiyalukku varanumnu aasai.",
+     "te": "నాకు రాజకీయాల్లోకి రావాలని ఉంది."
     },
     {
      "id": "politics-968b6294",
      "en": "He's standing for election.",
      "ta": "அவர் தேர்தல்ல நிக்கறாரு.",
-     "tl": "Avar therdhalla nikkaraaru."
+     "tl": "Avar therdhalla nikkaraaru.",
+     "te": "ఆయన ఎన్నికల్లో పోటీ చేస్తున్నారు."
     },
     {
      "id": "politics-dc2cffa9",
      "en": "Who's the opposition leader?",
      "ta": "எதிர்க்கட்சி தலைவர் யாரு?",
-     "tl": "Edhirkkatchi thalaivar yaaru?"
+     "tl": "Edhirkkatchi thalaivar yaaru?",
+     "te": "ప్రతిపక్ష నాయకుడు ఎవరు?"
     },
     {
      "id": "politics-df1b1b96",
      "en": "Both parties are the same.",
      "ta": "ரெண்டு கட்சியும் ஒண்ணுதான்.",
-     "tl": "Rendu katchiyum onnudhaan."
+     "tl": "Rendu katchiyum onnudhaan.",
+     "te": "రెండు పార్టీలూ ఒకటే."
     },
     {
      "id": "politics-de664606",
      "en": "The roads were repaired before the election.",
      "ta": "தேர்தலுக்கு முன்னாடி ரோடு போட்டாங்க.",
-     "tl": "Therdhalukku munnaadi rodu pottaanga."
+     "tl": "Therdhalukku munnaadi rodu pottaanga.",
+     "te": "ఎన్నికల ముందు రోడ్లు వేశారు."
     },
     {
      "id": "politics-4d5fa9cb",
      "en": "Ration shop rice is free now.",
      "ta": "இப்ப ரேஷன் அரிசி இலவசம்.",
-     "tl": "Ippa ration arisi ilavasam."
+     "tl": "Ippa ration arisi ilavasam.",
+     "te": "ఇప్పుడు రేషన్ బియ్యం ఉచితం."
     },
     {
      "id": "politics-f65a8bf7",
      "en": "Did you get your ration card?",
      "ta": "உனக்கு ரேஷன் கார்டு கிடைச்சுதா?",
-     "tl": "Unakku ration card kidaichudhaa?"
+     "tl": "Unakku ration card kidaichudhaa?",
+     "te": "నీకు రేషన్ కార్డు వచ్చిందా?"
     },
     {
      "id": "politics-6f5f7690",
      "en": "Apply online for the scheme.",
      "ta": "திட்டத்துக்கு ஆன்லைன்ல அப்ளை பண்ணு.",
-     "tl": "Thittathukku onlinela apply pannu."
+     "tl": "Thittathukku onlinela apply pannu.",
+     "te": "పథకానికి ఆన్‌లైన్‌లో అప్లై చేయి."
     },
     {
      "id": "politics-7efee6e1",
      "en": "The pension hasn't come yet.",
      "ta": "பென்ஷன் இன்னும் வரல.",
-     "tl": "Pension innum varala."
+     "tl": "Pension innum varala.",
+     "te": "పెన్షన్ ఇంకా రాలేదు."
     },
     {
      "id": "politics-8a5eecc9",
      "en": "Taxes should be used well.",
      "ta": "வரி பணத்த நல்லா செலவு பண்ணணும்.",
-     "tl": "Vari panatha nallaa selavu pannanum."
+     "tl": "Vari panatha nallaa selavu pannanum.",
+     "te": "పన్ను డబ్బును బాగా ఖర్చు చేయాలి."
     },
     {
      "id": "politics-8852b943",
      "en": "Let the people decide.",
      "ta": "மக்கள் முடிவு பண்ணட்டும்.",
-     "tl": "Makkal mudivu pannattum."
+     "tl": "Makkal mudivu pannattum.",
+     "te": "ప్రజలే నిర్ణయించనివ్వండి."
     },
     {
      "id": "politics-1f9eb5df",
      "en": "Power belongs to the people.",
      "ta": "அதிகாரம் மக்கள்கிட்டதான் இருக்கு.",
-     "tl": "Adhigaaram makkalkittadhaan irukku."
+     "tl": "Adhigaaram makkalkittadhaan irukku.",
+     "te": "అధికారం ప్రజల చేతుల్లోనే ఉంది."
     }
-   ]
+   ],
+   "teCount": 100
   },
   {
    "id": "love",
@@ -5520,597 +6425,697 @@ window.PP_DATA = {
      "id": "love-da4d1031",
      "en": "I love you.",
      "ta": "நான் உன்ன காதலிக்கறேன்.",
-     "tl": "Naan unna kaadhalikkaren."
+     "tl": "Naan unna kaadhalikkaren.",
+     "te": "నేను నిన్ను ప్రేమిస్తున్నాను."
     },
     {
      "id": "love-2057fff4",
      "en": "I love you so much.",
      "ta": "உன்ன ரொம்ப லவ் பண்றேன்.",
-     "tl": "Unna romba love panren."
+     "tl": "Unna romba love panren.",
+     "te": "నిన్ను చాలా లవ్ చేస్తున్నాను."
     },
     {
      "id": "love-68e6847d",
      "en": "You are my world.",
      "ta": "நீதான் என் உலகம்.",
-     "tl": "Needhaan en ulagam."
+     "tl": "Needhaan en ulagam.",
+     "te": "నువ్వే నా ప్రపంచం."
     },
     {
      "id": "love-693376f8",
      "en": "Will you marry me?",
      "ta": "என்ன கல்யாணம் பண்ணிக்கறியா?",
-     "tl": "Enna kalyaanam pannikkariyaa?"
+     "tl": "Enna kalyaanam pannikkariyaa?",
+     "te": "నన్ను పెళ్ళి చేసుకుంటావా?"
     },
     {
      "id": "love-7ee9c794",
      "en": "I can't live without you.",
      "ta": "நீ இல்லாம என்னால வாழ முடியாது.",
-     "tl": "Nee illaama ennaala vaazha mudiyaadhu."
+     "tl": "Nee illaama ennaala vaazha mudiyaadhu.",
+     "te": "నువ్వు లేకుండా నేను బతకలేను."
     },
     {
      "id": "love-9a97563e",
      "en": "You are my everything.",
      "ta": "நீதான் எனக்கு எல்லாமே.",
-     "tl": "Needhaan enakku ellaame."
+     "tl": "Needhaan enakku ellaame.",
+     "te": "నువ్వే నాకు అన్నీ."
     },
     {
      "id": "love-639d1ebc",
      "en": "It was love at first sight.",
      "ta": "பாத்த உடனே காதல் வந்துடுச்சு.",
-     "tl": "Paatha udane kaadhal vandhuduchu."
+     "tl": "Paatha udane kaadhal vandhuduchu.",
+     "te": "చూడగానే ప్రేమ పుట్టింది."
     },
     {
      "id": "love-7c5d388a",
      "en": "Do you love me?",
      "ta": "நீ என்ன லவ் பண்றியா?",
-     "tl": "Nee enna love panriyaa?"
+     "tl": "Nee enna love panriyaa?",
+     "te": "నువ్వు నన్ను లవ్ చేస్తున్నావా?"
     },
     {
      "id": "love-70272fbe",
      "en": "I'll always be with you.",
      "ta": "நான் எப்பவும் உன் கூடவே இருப்பேன்.",
-     "tl": "Naan eppavum un koodave iruppen."
+     "tl": "Naan eppavum un koodave iruppen.",
+     "te": "నేను ఎప్పుడూ నీతోనే ఉంటాను."
     },
     {
      "id": "love-0474906d",
      "en": "You're my best friend.",
      "ta": "நீதான் என் பெஸ்ட் ஃப்ரெண்ட்.",
-     "tl": "Needhaan en best friend."
+     "tl": "Needhaan en best friend.",
+     "te": "నువ్వే నా బెస్ట్ ఫ్రెండ్."
     },
     {
      "id": "love-802cd850",
      "en": "I like you.",
      "ta": "எனக்கு உன்ன பிடிக்கும்.",
-     "tl": "Enakku unna pidikkum."
+     "tl": "Enakku unna pidikkum.",
+     "te": "నువ్వంటే నాకు ఇష్టం."
     },
     {
      "id": "love-624a724e",
      "en": "My heart beats for you.",
      "ta": "என் இதயம் உனக்காக துடிக்குது.",
-     "tl": "En idhayam unakkaaga thudikkudhu."
+     "tl": "En idhayam unakkaaga thudikkudhu.",
+     "te": "నా గుండె నీ కోసం కొట్టుకుంటోంది."
     },
     {
      "id": "love-62077998",
      "en": "Thank you for loving me.",
      "ta": "என்ன லவ் பண்றதுக்கு நன்றி.",
-     "tl": "Enna love panradhukku nandri."
+     "tl": "Enna love panradhukku nandri.",
+     "te": "నన్ను ప్రేమించినందుకు థ్యాంక్స్."
     },
     {
      "id": "love-5bae53f6",
      "en": "I miss your voice.",
      "ta": "உன் குரல கேக்கணும் போல இருக்கு.",
-     "tl": "Un kurala kekkanum pola irukku."
+     "tl": "Un kurala kekkanum pola irukku.",
+     "te": "నీ గొంతు వినాలనిపిస్తోంది."
     },
     {
      "id": "love-c84d51e9",
      "en": "Let's grow old together.",
      "ta": "ரெண்டு பேரும் சேர்ந்து வயசாகலாம்.",
-     "tl": "Rendu perum serndhu vayasaagalaam."
+     "tl": "Rendu perum serndhu vayasaagalaam.",
+     "te": "ఇద్దరం కలిసి ముసలివాళ్ళమవుదాం."
     },
     {
      "id": "love-ef110563",
      "en": "Because of you, I became a better person.",
      "ta": "உன்னால நான் நல்ல மனுஷனா மாறியிருக்கேன்.",
-     "tl": "Unnaala naan nalla manushanaa maariyirukken."
+     "tl": "Unnaala naan nalla manushanaa maariyirukken.",
+     "te": "నీ వల్ల నేను మంచి మనిషిగా మారాను."
     },
     {
      "id": "love-b229fa3a",
      "en": "I'm thinking of you.",
      "ta": "உன்னதான் நினைச்சுட்டு இருக்கேன்.",
-     "tl": "Unnadhaan ninaichuttu irukken."
+     "tl": "Unnadhaan ninaichuttu irukken.",
+     "te": "నిన్నే తలుచుకుంటున్నాను."
     },
     {
      "id": "love-356c9e3f",
      "en": "Good morning, sweetheart.",
      "ta": "குட் மார்னிங், செல்லம்.",
-     "tl": "Good morning, chellam."
+     "tl": "Good morning, chellam.",
+     "te": "గుడ్ మార్నింగ్, బంగారం."
     },
     {
      "id": "love-a6f245ec",
      "en": "You're beautiful inside and out.",
      "ta": "நீ மனசாலயும் அழகு, முகத்தாலயும் அழகு.",
-     "tl": "Nee manasaalaiyum azhagu, mugathaalaiyum azhagu."
+     "tl": "Nee manasaalaiyum azhagu, mugathaalaiyum azhagu.",
+     "te": "నువ్వు మనసులోనూ అందమే, ముఖంలోనూ అందమే."
     },
     {
      "id": "love-71240568",
      "en": "My mother takes care of me with so much love.",
      "ta": "என் அம்மா என்ன ரொம்ப பாசமா பாத்துக்கறாங்க.",
-     "tl": "En amma enna romba paasamaa paathukkaraanga."
+     "tl": "En amma enna romba paasamaa paathukkaraanga.",
+     "te": "మా అమ్మ నన్ను చాలా ప్రేమగా చూసుకుంటుంది."
     },
     {
      "id": "love-8b746966",
      "en": "I'll wait for you.",
      "ta": "நான் உனக்காக காத்திருப்பேன்.",
-     "tl": "Naan unakkaaga kaathiruppen."
+     "tl": "Naan unakkaaga kaathiruppen.",
+     "te": "నీ కోసం ఎదురుచూస్తాను."
     },
     {
      "id": "love-be7e58e7",
      "en": "Come, give me a hug.",
      "ta": "வா, ஒரு ஹக் குடு.",
-     "tl": "Vaa, oru hug kudu."
+     "tl": "Vaa, oru hug kudu.",
+     "te": "రా, ఒక హగ్ ఇవ్వు."
     },
     {
      "id": "love-620ca910",
      "en": "You're always in my heart.",
      "ta": "நீ எப்பவும் என் மனசுல இருக்க.",
-     "tl": "Nee eppavum en manasula irukka."
+     "tl": "Nee eppavum en manasula irukka.",
+     "te": "నువ్వు ఎప్పుడూ నా మనసులో ఉంటావు."
     },
     {
      "id": "love-7ddf043b",
      "en": "I love spending time with you.",
      "ta": "உன் கூட நேரம் செலவழிக்க பிடிக்கும்.",
-     "tl": "Un kooda neram selavazhikka pidikkum."
+     "tl": "Un kooda neram selavazhikka pidikkum.",
+     "te": "నీతో టైమ్ గడపడం నాకు ఇష్టం."
     },
     {
      "id": "love-c5f85c17",
      "en": "Our love will last forever.",
      "ta": "நம்ம காதல் என்னைக்கும் இருக்கும்.",
-     "tl": "Namma kaadhal ennaikkum irukkum."
+     "tl": "Namma kaadhal ennaikkum irukkum.",
+     "te": "మన ప్రేమ ఎప్పటికీ ఉంటుంది."
     },
     {
      "id": "love-b447055e",
      "en": "I'm lucky to have you.",
      "ta": "நீ கிடைச்சது என் அதிர்ஷ்டம்.",
-     "tl": "Nee kidaichadhu en adhirshtam."
+     "tl": "Nee kidaichadhu en adhirshtam.",
+     "te": "నువ్వు దొరకడం నా అదృష్టం."
     },
     {
      "id": "love-cc149454",
      "en": "Don't ever leave me.",
      "ta": "என்னைக்கும் என்ன விட்டு போகாத.",
-     "tl": "Ennaikkum enna vittu pogaadha."
+     "tl": "Ennaikkum enna vittu pogaadha.",
+     "te": "ఎప్పుడూ నన్ను వదిలి వెళ్ళకు."
     },
     {
      "id": "love-32aaf136",
      "en": "Happy anniversary, my love.",
      "ta": "திருமண நாள் வாழ்த்துக்கள், என் அன்பே.",
-     "tl": "Thirumana naal vaazhthukkal, en anbe."
+     "tl": "Thirumana naal vaazhthukkal, en anbe.",
+     "te": "పెళ్ళిరోజు శుభాకాంక్షలు, నా ప్రేమా."
     },
     {
      "id": "love-7bcf5c12",
      "en": "I'm not complete without you.",
      "ta": "நீ இல்லாம நான் முழுமையில்ல.",
-     "tl": "Nee illaama naan muzhumaiyilla."
+     "tl": "Nee illaama naan muzhumaiyilla.",
+     "te": "నువ్వు లేకుండా నేను పూర్తి కాను."
     },
     {
      "id": "love-6af345e7",
      "en": "Sleep well, dear.",
      "ta": "நல்லா தூங்கு, செல்லம்.",
-     "tl": "Nallaa thoongu, chellam."
+     "tl": "Nallaa thoongu, chellam.",
+     "te": "బాగా నిద్రపో, బంగారం."
     },
     {
      "id": "love-f52993dc",
      "en": "I'm in love.",
      "ta": "நான் லவ்ல இருக்கேன்.",
-     "tl": "Naan lovela irukken."
+     "tl": "Naan lovela irukken.",
+     "te": "నేను ప్రేమలో ఉన్నాను."
     },
     {
      "id": "love-fb9b8353",
      "en": "I fell in love with you.",
      "ta": "உன் மேல காதல் வந்துடுச்சு.",
-     "tl": "Un mela kaadhal vandhuduchu."
+     "tl": "Un mela kaadhal vandhuduchu.",
+     "te": "నీ మీద ప్రేమ పుట్టింది."
     },
     {
      "id": "love-0b05e27a",
      "en": "You're the one for me.",
      "ta": "எனக்கு நீதான்.",
-     "tl": "Enakku needhaan."
+     "tl": "Enakku needhaan.",
+     "te": "నాకు నువ్వే."
     },
     {
      "id": "love-bf1db1ec",
      "en": "I want to spend my life with you.",
      "ta": "என் வாழ்க்கைய உன் கூட வாழணும்.",
-     "tl": "En vaazhkkaiya un kooda vaazhanum."
+     "tl": "En vaazhkkaiya un kooda vaazhanum.",
+     "te": "నా జీవితాన్ని నీతో గడపాలి."
     },
     {
      "id": "love-d2af0b47",
      "en": "You make me happy.",
      "ta": "நீ என்ன சந்தோஷமா வச்சிருக்க.",
-     "tl": "Nee enna santhoshamaa vachirukka."
+     "tl": "Nee enna santhoshamaa vachirukka.",
+     "te": "నువ్వు నన్ను సంతోషంగా ఉంచుతావు."
     },
     {
      "id": "love-1226e249",
      "en": "I can't stop thinking about you.",
      "ta": "உன்ன நினைக்காம இருக்கவே முடியல.",
-     "tl": "Unna ninaikkaama irukkave mudiyala."
+     "tl": "Unna ninaikkaama irukkave mudiyala.",
+     "te": "నిన్ను తలుచుకోకుండా ఉండలేకపోతున్నాను."
     },
     {
      "id": "love-7efde3a2",
      "en": "I miss you every day.",
      "ta": "தினமும் உன்ன மிஸ் பண்றேன்.",
-     "tl": "Dhinamum unna miss panren."
+     "tl": "Dhinamum unna miss panren.",
+     "te": "ప్రతి రోజూ నిన్ను మిస్ అవుతున్నాను."
     },
     {
      "id": "love-1fd75626",
      "en": "When will I see you?",
      "ta": "உன்ன எப்போ பாப்பேன்?",
-     "tl": "Unna eppo paappen?"
+     "tl": "Unna eppo paappen?",
+     "te": "నిన్ను ఎప్పుడు చూస్తాను?"
     },
     {
      "id": "love-23a7b2a8",
      "en": "I want to see you now.",
      "ta": "இப்பவே உன்ன பாக்கணும்.",
-     "tl": "Ippave unna paakkanum."
+     "tl": "Ippave unna paakkanum.",
+     "te": "ఇప్పుడే నిన్ను చూడాలి."
     },
     {
      "id": "love-2e0617ac",
      "en": "Call me when you're free.",
      "ta": "ஃப்ரீயா இருக்கும்போது கால் பண்ணு.",
-     "tl": "Freeyaa irukkumbodhu call pannu."
+     "tl": "Freeyaa irukkumbodhu call pannu.",
+     "te": "ఫ్రీగా ఉన్నప్పుడు కాల్ చెయ్."
     },
     {
      "id": "love-05423f81",
      "en": "Did you eat, dear?",
      "ta": "சாப்பிட்டியா, செல்லம்?",
-     "tl": "Saappittiyaa, chellam?"
+     "tl": "Saappittiyaa, chellam?",
+     "te": "తిన్నావా, బంగారం?"
     },
     {
      "id": "love-7822f283",
      "en": "Take care of yourself.",
      "ta": "உன்ன நல்லா பாத்துக்கோ.",
-     "tl": "Unna nallaa paathukko."
+     "tl": "Unna nallaa paathukko.",
+     "te": "నిన్ను నువ్వు జాగ్రత్తగా చూసుకో."
     },
     {
      "id": "love-314e85b4",
      "en": "Reach home safely.",
      "ta": "பத்திரமா வீட்டுக்கு போ.",
-     "tl": "Pathiramaa veettukku po."
+     "tl": "Pathiramaa veettukku po.",
+     "te": "క్షేమంగా ఇంటికి వెళ్ళు."
     },
     {
      "id": "love-8c802def",
      "en": "Text me when you reach.",
      "ta": "போய் சேர்ந்ததும் மெசேஜ் பண்ணு.",
-     "tl": "Poi serndhadhum message pannu."
+     "tl": "Poi serndhadhum message pannu.",
+     "te": "చేరగానే మెసేజ్ చెయ్."
     },
     {
      "id": "love-0dedcc78",
      "en": "You're so sweet.",
      "ta": "நீ ரொம்ப ஸ்வீட்.",
-     "tl": "Nee romba sweet."
+     "tl": "Nee romba sweet.",
+     "te": "నువ్వు చాలా స్వీట్."
     },
     {
      "id": "love-a05a7e07",
      "en": "You're so cute.",
      "ta": "நீ ரொம்ப க்யூட்.",
-     "tl": "Nee romba cute."
+     "tl": "Nee romba cute.",
+     "te": "నువ్వు చాలా క్యూట్."
     },
     {
      "id": "love-73279ce6",
      "en": "I love your smile.",
      "ta": "உன் சிரிப்பு எனக்கு ரொம்ப பிடிக்கும்.",
-     "tl": "Un sirippu enakku romba pidikkum."
+     "tl": "Un sirippu enakku romba pidikkum.",
+     "te": "నీ నవ్వు నాకు చాలా ఇష్టం."
     },
     {
      "id": "love-6596582a",
      "en": "I love your eyes.",
      "ta": "உன் கண்ணு எனக்கு ரொம்ப பிடிக்கும்.",
-     "tl": "Un kannu enakku romba pidikkum."
+     "tl": "Un kannu enakku romba pidikkum.",
+     "te": "నీ కళ్ళు నాకు చాలా ఇష్టం."
     },
     {
      "id": "love-77e0b65c",
      "en": "You're the most beautiful girl.",
      "ta": "நீதான் உலகத்துலயே அழகான பொண்ணு.",
-     "tl": "Needhaan ulagathulaiye azhagaana ponnu."
+     "tl": "Needhaan ulagathulaiye azhagaana ponnu.",
+     "te": "నువ్వే ప్రపంచంలో అందమైన అమ్మాయివి."
     },
     {
      "id": "love-b1cdee77",
      "en": "You're so handsome.",
      "ta": "நீ செம்ம ஹேண்ட்சம்.",
-     "tl": "Nee semma handsome."
+     "tl": "Nee semma handsome.",
+     "te": "నువ్వు చాలా హ్యాండ్సమ్."
     },
     {
      "id": "love-089e5367",
      "en": "I'm yours forever.",
      "ta": "நான் என்னைக்கும் உன்னோடதான்.",
-     "tl": "Naan ennaikkum unnodadhaan."
+     "tl": "Naan ennaikkum unnodadhaan.",
+     "te": "నేను ఎప్పటికీ నీవాడినే."
     },
     {
      "id": "love-0efb9ac9",
      "en": "You're mine.",
      "ta": "நீ எனக்குதான்.",
-     "tl": "Nee enakkudhaan."
+     "tl": "Nee enakkudhaan.",
+     "te": "నువ్వు నా దానివే."
     },
     {
      "id": "love-4beebdc1",
      "en": "Don't leave me alone.",
      "ta": "என்ன தனியா விட்டுட்டு போகாத.",
-     "tl": "Enna thaniyaa vittuttu pogaadha."
+     "tl": "Enna thaniyaa vittuttu pogaadha.",
+     "te": "నన్ను ఒంటరిగా వదిలి వెళ్ళకు."
     },
     {
      "id": "love-f90a329c",
      "en": "I'll never leave you.",
      "ta": "உன்ன விட்டு நான் எங்கயும் போக மாட்டேன்.",
-     "tl": "Unna vittu naan engayum poga maatten."
+     "tl": "Unna vittu naan engayum poga maatten.",
+     "te": "నిన్ను వదిలి నేను ఎక్కడికీ వెళ్ళను."
     },
     {
      "id": "love-71bc3424",
      "en": "I'll always love you.",
      "ta": "எப்பவும் உன்ன லவ் பண்ணுவேன்.",
-     "tl": "Eppavum unna love pannuven."
+     "tl": "Eppavum unna love pannuven.",
+     "te": "నిన్ను ఎప్పుడూ ప్రేమిస్తాను."
     },
     {
      "id": "love-f9e239b1",
      "en": "Our first meeting is still in my heart.",
      "ta": "நம்ம முதல் சந்திப்பு இன்னும் மனசுல இருக்கு.",
-     "tl": "Namma mudhal sandhippu innum manasula irukku."
+     "tl": "Namma mudhal sandhippu innum manasula irukku.",
+     "te": "మన మొదటి కలయిక ఇంకా మనసులోనే ఉంది."
     },
     {
      "id": "love-c6466ffe",
      "en": "I'm happy when I'm with you.",
      "ta": "உன் கூட இருக்கும்போது சந்தோஷமா இருக்கேன்.",
-     "tl": "Un kooda irukkumbodhu santhoshamaa irukken."
+     "tl": "Un kooda irukkumbodhu santhoshamaa irukken.",
+     "te": "నీతో ఉన్నప్పుడు సంతోషంగా ఉంటాను."
     },
     {
      "id": "love-170878eb",
      "en": "You understand me.",
      "ta": "உனக்கு என்ன புரியும்.",
-     "tl": "Unakku enna puriyum."
+     "tl": "Unakku enna puriyum.",
+     "te": "నువ్వు నన్ను అర్థం చేసుకుంటావు."
     },
     {
      "id": "love-189d0a8d",
      "en": "I feel at home with you.",
      "ta": "உன் கூட இருந்தா வீட்ல இருக்கற மாதிரி இருக்கு.",
-     "tl": "Un kooda irundhaa veetla irukkara maadhiri irukku."
+     "tl": "Un kooda irundhaa veetla irukkara maadhiri irukku.",
+     "te": "నీతో ఉంటే ఇంట్లో ఉన్నట్టే ఉంటుంది."
     },
     {
      "id": "love-8a59838e",
      "en": "Let's go on a date.",
      "ta": "டேட்டுக்கு போலாமா?",
-     "tl": "Datekku polaamaa?"
+     "tl": "Datekku polaamaa?",
+     "te": "డేట్‌కి వెళ్దామా?"
     },
     {
      "id": "love-5dfdff9d",
      "en": "Shall we watch a movie together?",
      "ta": "ஒண்ணா படம் பாக்கலாமா?",
-     "tl": "Onnaa padam paakkalaamaa?"
+     "tl": "Onnaa padam paakkalaamaa?",
+     "te": "కలిసి సినిమా చూద్దామా?"
     },
     {
      "id": "love-e31de467",
      "en": "Let's go for a walk on the beach.",
      "ta": "பீச்சுல நடக்கலாம் வா.",
-     "tl": "Beachula nadakkalaam vaa."
+     "tl": "Beachula nadakkalaam vaa.",
+     "te": "బీచ్‌లో నడుద్దాం రా."
     },
     {
      "id": "love-bec3d9dc",
      "en": "Hold my hand.",
      "ta": "என் கைய பிடிச்சுக்கோ.",
-     "tl": "En kaiya pidichukko."
+     "tl": "En kaiya pidichukko.",
+     "te": "నా చెయ్యి పట్టుకో."
     },
     {
      "id": "love-b4227cd8",
      "en": "I'm proud of you.",
      "ta": "உன்ன நினைச்சு பெருமைப்படறேன்.",
-     "tl": "Unna ninaichu perumaippadaren."
+     "tl": "Unna ninaichu perumaippadaren.",
+     "te": "నిన్ను చూసి గర్వపడుతున్నాను."
     },
     {
      "id": "love-2e6d6200",
      "en": "I believe in you.",
      "ta": "உன் மேல எனக்கு நம்பிக்கை இருக்கு.",
-     "tl": "Un mela enakku nambikkai irukku."
+     "tl": "Un mela enakku nambikkai irukku.",
+     "te": "నీ మీద నాకు నమ్మకం ఉంది."
     },
     {
      "id": "love-8f0207b9",
      "en": "I'll support you always.",
      "ta": "எப்பவும் உனக்கு துணையா இருப்பேன்.",
-     "tl": "Eppavum unakku thunaiyaa iruppen."
+     "tl": "Eppavum unakku thunaiyaa iruppen.",
+     "te": "ఎప్పుడూ నీకు తోడుగా ఉంటాను."
     },
     {
      "id": "love-04296dfe",
      "en": "We'll face it together.",
      "ta": "நாம சேர்ந்து சமாளிப்போம்.",
-     "tl": "Naama serndhu samaalippom."
+     "tl": "Naama serndhu samaalippom.",
+     "te": "మనం కలిసి ఎదుర్కొందాం."
     },
     {
      "id": "love-91a98dc2",
      "en": "You're my strength.",
      "ta": "நீதான் என் பலம்.",
-     "tl": "Needhaan en balam."
+     "tl": "Needhaan en balam.",
+     "te": "నువ్వే నా బలం."
     },
     {
      "id": "love-d1f6f86e",
      "en": "Without you, my life is empty.",
      "ta": "நீ இல்லாம என் வாழ்க்கை வெறுமையா இருக்கு.",
-     "tl": "Nee illaama en vaazhkkai verumaiyaa irukku."
+     "tl": "Nee illaama en vaazhkkai verumaiyaa irukku.",
+     "te": "నువ్వు లేకుండా నా జీవితం ఖాళీగా ఉంది."
     },
     {
      "id": "love-6c1694b2",
      "en": "I'm sorry, please don't be angry.",
      "ta": "சாரி, கோபப்படாத ப்ளீஸ்.",
-     "tl": "Sorry, kobappadaadha please."
+     "tl": "Sorry, kobappadaadha please.",
+     "te": "సారీ, కోపం తెచ్చుకోకు ప్లీజ్."
     },
     {
      "id": "love-ccabb47a",
      "en": "Are you angry with me?",
      "ta": "என் மேல கோபமா?",
-     "tl": "En mela kobamaa?"
+     "tl": "En mela kobamaa?",
+     "te": "నా మీద కోపమా?"
     },
     {
      "id": "love-56ce8323",
      "en": "Talk to me, please.",
      "ta": "என்கிட்ட பேசு, ப்ளீஸ்.",
-     "tl": "Enkitta pesu, please."
+     "tl": "Enkitta pesu, please.",
+     "te": "నాతో మాట్లాడు, ప్లీజ్."
     },
     {
      "id": "love-d918fb14",
      "en": "I can't stay angry with you.",
      "ta": "உன் மேல கோபமா இருக்கவே முடியல.",
-     "tl": "Un mela kobamaa irukkave mudiyala."
+     "tl": "Un mela kobamaa irukkave mudiyala.",
+     "te": "నీ మీద కోపంగా ఉండలేకపోతున్నాను."
     },
     {
      "id": "love-68e963e7",
      "en": "Let's get married.",
      "ta": "நாம கல்யாணம் பண்ணிக்கலாம்.",
-     "tl": "Naama kalyaanam pannikkalaam."
+     "tl": "Naama kalyaanam pannikkalaam.",
+     "te": "మనం పెళ్ళి చేసుకుందాం."
     },
     {
      "id": "love-4db32672",
      "en": "I'll talk to your parents.",
      "ta": "உங்க வீட்ல பேசறேன்.",
-     "tl": "Unga veetla pesaren."
+     "tl": "Unga veetla pesaren.",
+     "te": "మీ ఇంట్లో మాట్లాడతాను."
     },
     {
      "id": "love-594f28e6",
      "en": "My family likes you.",
      "ta": "எங்க வீட்ல எல்லாருக்கும் உன்ன பிடிக்கும்.",
-     "tl": "Enga veetla ellaarukkum unna pidikkum."
+     "tl": "Enga veetla ellaarukkum unna pidikkum.",
+     "te": "మా ఇంట్లో అందరికీ నువ్వంటే ఇష్టం."
     },
     {
      "id": "love-cc75aaca",
      "en": "I love my family.",
      "ta": "எனக்கு என் குடும்பம்னா உயிர்.",
-     "tl": "Enakku en kudumbamnaa uyir."
+     "tl": "Enakku en kudumbamnaa uyir.",
+     "te": "నా కుటుంబమంటే నాకు ప్రాణం."
     },
     {
      "id": "love-1e0c6e19",
      "en": "I love you, Amma.",
      "ta": "அம்மா, ஐ லவ் யூ.",
-     "tl": "Amma, I love you."
+     "tl": "Amma, I love you.",
+     "te": "అమ్మా, ఐ లవ్ యూ."
     },
     {
      "id": "love-17b7ea8d",
      "en": "Dad, you're my hero.",
      "ta": "அப்பா, நீங்கதான் என் ஹீரோ.",
-     "tl": "Appaa, neengadhaan en hero."
+     "tl": "Appaa, neengadhaan en hero.",
+     "te": "నాన్నా, మీరే నా హీరో."
     },
     {
      "id": "love-d24bc933",
      "en": "I love my little sister.",
      "ta": "எனக்கு என் தங்கச்சின்னா ரொம்ப பாசம்.",
-     "tl": "Enakku en thangachinnaa romba paasam."
+     "tl": "Enakku en thangachinnaa romba paasam.",
+     "te": "మా చెల్లి అంటే నాకు చాలా ప్రేమ."
     },
     {
      "id": "love-0bc1bf35",
      "en": "You're like a brother to me.",
      "ta": "நீ எனக்கு அண்ணன் மாதிரி.",
-     "tl": "Nee enakku annan maadhiri."
+     "tl": "Nee enakku annan maadhiri.",
+     "te": "నువ్వు నాకు అన్నయ్య లాంటివాడివి."
     },
     {
      "id": "love-936db4e7",
      "en": "Friends forever.",
      "ta": "என்னைக்கும் ஃப்ரெண்ட்ஸ்.",
-     "tl": "Ennaikkum friends."
+     "tl": "Ennaikkum friends.",
+     "te": "ఎప్పటికీ ఫ్రెండ్స్."
     },
     {
      "id": "love-125971e1",
      "en": "Thank you for always being there.",
      "ta": "எப்பவும் கூட இருந்ததுக்கு நன்றி.",
-     "tl": "Eppavum kooda irundhadhukku nandri."
+     "tl": "Eppavum kooda irundhadhukku nandri.",
+     "te": "ఎప్పుడూ తోడుగా ఉన్నందుకు థ్యాంక్స్."
     },
     {
      "id": "love-5f779a31",
      "en": "You're special to me.",
      "ta": "நீ எனக்கு ஸ்பெஷல்.",
-     "tl": "Nee enakku special."
+     "tl": "Nee enakku special.",
+     "te": "నువ్వు నాకు స్పెషల్."
     },
     {
      "id": "love-9f8140b9",
      "en": "I made this for you.",
      "ta": "இத உனக்காக பண்ணேன்.",
-     "tl": "Idha unakkaaga pannen."
+     "tl": "Idha unakkaaga pannen.",
+     "te": "ఇది నీ కోసం చేశాను."
     },
     {
      "id": "love-49de845b",
      "en": "This gift is for you.",
      "ta": "இந்த கிஃப்ட் உனக்குதான்.",
-     "tl": "Indha gift unakkudhaan."
+     "tl": "Indha gift unakkudhaan.",
+     "te": "ఈ గిఫ్ట్ నీ కోసమే."
     },
     {
      "id": "love-c2099818",
      "en": "Happy Valentine's Day!",
      "ta": "காதலர் தின வாழ்த்துக்கள்!",
-     "tl": "Kaadhalar dhina vaazhthukkal!"
+     "tl": "Kaadhalar dhina vaazhthukkal!",
+     "te": "ప్రేమికుల దినోత్సవ శుభాకాంక్షలు!"
     },
     {
      "id": "love-917b714d",
      "en": "I dream about you every night.",
      "ta": "தினமும் ராத்திரி உன்ன பத்தி கனவு காணறேன்.",
-     "tl": "Dhinamum raathiri unna pathi kanavu kaanaren."
+     "tl": "Dhinamum raathiri unna pathi kanavu kaanaren.",
+     "te": "ప్రతి రాత్రీ నీ గురించి కలలు కంటాను."
     },
     {
      "id": "love-7059599e",
      "en": "Your voice calms me down.",
      "ta": "உன் குரல் கேட்டா மனசு அமைதியாகுது.",
-     "tl": "Un kural kettaa manasu amaidhiyaagudhu."
+     "tl": "Un kural kettaa manasu amaidhiyaagudhu.",
+     "te": "నీ గొంతు వింటే మనసు ప్రశాంతంగా ఉంటుంది."
     },
     {
      "id": "love-617fed3a",
      "en": "You light up my life.",
      "ta": "நீ என் வாழ்க்கைக்கு வெளிச்சம்.",
-     "tl": "Nee en vaazhkkaikku velicham."
+     "tl": "Nee en vaazhkkaikku velicham.",
+     "te": "నువ్వు నా జీవితానికి వెలుగు."
     },
     {
      "id": "love-d4a9c538",
      "en": "I wrote a poem for you.",
      "ta": "உனக்காக ஒரு கவிதை எழுதுனேன்.",
-     "tl": "Unakkaaga oru kavidhai ezhudhunen."
+     "tl": "Unakkaaga oru kavidhai ezhudhunen.",
+     "te": "నీ కోసం ఒక కవిత రాశాను."
     },
     {
      "id": "love-fec0c4f6",
      "en": "My heart belongs to you.",
      "ta": "என் மனசு உனக்குதான் சொந்தம்.",
-     "tl": "En manasu unakkudhaan sondham."
+     "tl": "En manasu unakkudhaan sondham.",
+     "te": "నా మనసు నీకే సొంతం."
     },
     {
      "id": "love-040763f2",
      "en": "I'm crazy about you.",
      "ta": "உன் மேல பைத்தியமா இருக்கேன்.",
-     "tl": "Un mela paithiyamaa irukken."
+     "tl": "Un mela paithiyamaa irukken.",
+     "te": "నీ మీద పిచ్చిగా ఉన్నాను."
     },
     {
      "id": "love-b56b0444",
      "en": "You're my sunshine.",
      "ta": "நீதான் என் சூரியன்.",
-     "tl": "Needhaan en sooriyan."
+     "tl": "Needhaan en sooriyan.",
+     "te": "నువ్వే నా సూర్యుడు."
     },
     {
      "id": "love-49c953ef",
      "en": "Long distance is hard.",
      "ta": "தூரத்துல இருக்கறது கஷ்டமா இருக்கு.",
-     "tl": "Thoorathula irukkaradhu kashtamaa irukku."
+     "tl": "Thoorathula irukkaradhu kashtamaa irukku.",
+     "te": "దూరంగా ఉండటం కష్టంగా ఉంది."
     },
     {
      "id": "love-a698e2d7",
      "en": "I'm counting the days until I see you.",
      "ta": "உன்ன பாக்கற நாளுக்காக நாள் எண்ணிட்டு இருக்கேன்.",
-     "tl": "Unna paakkara naalukkaaga naal enniittu irukken."
+     "tl": "Unna paakkara naalukkaaga naal enniittu irukken.",
+     "te": "నిన్ను చూసే రోజు కోసం రోజులు లెక్కపెడుతున్నాను."
     },
     {
      "id": "love-1a373c01",
      "en": "Love you too.",
      "ta": "நானும் உன்ன லவ் பண்றேன்.",
-     "tl": "Naanum unna love panren."
+     "tl": "Naanum unna love panren.",
+     "te": "నేనూ నిన్ను లవ్ చేస్తున్నాను."
     },
     {
      "id": "love-b48146bb",
      "en": "Good night, sweet dreams.",
      "ta": "குட் நைட், ஸ்வீட் ட்ரீம்ஸ்.",
-     "tl": "Good night, sweet dreams."
+     "tl": "Good night, sweet dreams.",
+     "te": "గుడ్ నైట్, స్వీట్ డ్రీమ్స్."
     },
     {
      "id": "love-0424f8f0",
      "en": "You mean so much to me.",
      "ta": "நீ எனக்கு எவ்ளோ முக்கியம்னு உனக்கு தெரியாது.",
-     "tl": "Nee enakku evlo mukkiyamnu unakku theriyaadhu."
+     "tl": "Nee enakku evlo mukkiyamnu unakku theriyaadhu.",
+     "te": "నువ్వు నాకు ఎంత ముఖ్యమో నీకు తెలియదు."
     }
-   ]
+   ],
+   "teCount": 99
   },
   {
    "id": "daily",
@@ -6128,597 +7133,697 @@ window.PP_DATA = {
      "id": "daily-cb82098f",
      "en": "Where is my phone?",
      "ta": "என் ஃபோன் எங்க?",
-     "tl": "En phone enga?"
+     "tl": "En phone enga?",
+     "te": "నా ఫోన్ ఎక్కడ?"
     },
     {
      "id": "daily-5fc8ec47",
      "en": "Turn on the fan.",
      "ta": "ஃபேன போடு.",
-     "tl": "Fan-a podu."
+     "tl": "Fan-a podu.",
+     "te": "ఫ్యాన్ వెయ్."
     },
     {
      "id": "daily-ebf05575",
      "en": "Switch off the light.",
      "ta": "லைட்ட ஆஃப் பண்ணு.",
-     "tl": "Light-a off pannu."
+     "tl": "Light-a off pannu.",
+     "te": "లైట్ ఆఫ్ చెయ్."
     },
     {
      "id": "daily-6389fb31",
      "en": "The water is hot.",
      "ta": "தண்ணி சூடா இருக்கு.",
-     "tl": "Thanni soodaa irukku."
+     "tl": "Thanni soodaa irukku.",
+     "te": "నీళ్ళు వేడిగా ఉన్నాయి."
     },
     {
      "id": "daily-c53557d3",
      "en": "Give me a glass of water.",
      "ta": "ஒரு கிளாஸ் தண்ணி குடு.",
-     "tl": "Oru glass thanni kudu."
+     "tl": "Oru glass thanni kudu.",
+     "te": "ఒక గ్లాసు నీళ్ళు ఇవ్వు."
     },
     {
      "id": "daily-a51187b4",
      "en": "Make some tea.",
      "ta": "கொஞ்சம் டீ போடு.",
-     "tl": "Konjam tea podu."
+     "tl": "Konjam tea podu.",
+     "te": "కొంచెం టీ పెట్టు."
     },
     {
      "id": "daily-b82969e3",
      "en": "The milk is over.",
      "ta": "பால் தீர்ந்து போச்சு.",
-     "tl": "Paal theerndhu pochu."
+     "tl": "Paal theerndhu pochu.",
+     "te": "పాలు అయిపోయాయి."
     },
     {
      "id": "daily-ad8deada",
      "en": "Put the phone on charge.",
      "ta": "ஃபோன சார்ஜ் போடு.",
-     "tl": "Phone-a charge podu."
+     "tl": "Phone-a charge podu.",
+     "te": "ఫోన్ ఛార్జింగ్ పెట్టు."
     },
     {
      "id": "daily-8ad4c468",
      "en": "Where are the keys?",
      "ta": "சாவி எங்க?",
-     "tl": "Saavi enga?"
+     "tl": "Saavi enga?",
+     "te": "తాళాలు ఎక్కడ?"
     },
     {
      "id": "daily-0efd0f58",
      "en": "Lock the door.",
      "ta": "கதவ பூட்டு.",
-     "tl": "Kadhava poottu."
+     "tl": "Kadhava poottu.",
+     "te": "తలుపుకి తాళం వెయ్."
     },
     {
      "id": "daily-99d473b8",
      "en": "The bus is running late.",
      "ta": "பஸ் லேட்டா வருது.",
-     "tl": "Bus late-aa varudhu."
+     "tl": "Bus late-aa varudhu.",
+     "te": "బస్సు లేట్‌గా వస్తోంది."
     },
     {
      "id": "daily-d06dc639",
      "en": "Book an auto.",
      "ta": "ஒரு ஆட்டோ புக் பண்ணு.",
-     "tl": "Oru auto book pannu."
+     "tl": "Oru auto book pannu.",
+     "te": "ఒక ఆటో బుక్ చెయ్."
     },
     {
      "id": "daily-21419b6f",
      "en": "The food is ready.",
      "ta": "சாப்பாடு ரெடி.",
-     "tl": "Saappaadu ready."
+     "tl": "Saappaadu ready.",
+     "te": "భోజనం రెడీ."
     },
     {
      "id": "daily-71be83b7",
      "en": "I'm hungry.",
      "ta": "எனக்கு பசிக்குது.",
-     "tl": "Enakku pasikkudhu."
+     "tl": "Enakku pasikkudhu.",
+     "te": "నాకు ఆకలిగా ఉంది."
     },
     {
      "id": "daily-797b47e9",
      "en": "Pass the salt.",
      "ta": "உப்பு குடு.",
-     "tl": "Uppu kudu."
+     "tl": "Uppu kudu.",
+     "te": "ఉప్పు ఇవ్వు."
     },
     {
      "id": "daily-99e43999",
      "en": "Wash your hands.",
      "ta": "கை கழுவு.",
-     "tl": "Kai kazhuvu."
+     "tl": "Kai kazhuvu.",
+     "te": "చేతులు కడుక్కో."
     },
     {
      "id": "daily-63c26396",
      "en": "The TV remote isn't working.",
      "ta": "டிவி ரிமோட் வேலை செய்யல.",
-     "tl": "TV remote velai seiyala."
+     "tl": "TV remote velai seiyala.",
+     "te": "టీవీ రిమోట్ పనిచేయట్లేదు."
     },
     {
      "id": "daily-74cf6247",
      "en": "Is there Wi-Fi here?",
      "ta": "இங்க வைஃபை இருக்கா?",
-     "tl": "Inga wifi irukkaa?"
+     "tl": "Inga wifi irukkaa?",
+     "te": "ఇక్కడ వైఫై ఉందా?"
     },
     {
      "id": "daily-50dc208b",
      "en": "My laptop is slow.",
      "ta": "என் லேப்டாப் ஸ்லோவா இருக்கு.",
-     "tl": "En laptop slowaa irukku."
+     "tl": "En laptop slowaa irukku.",
+     "te": "నా ల్యాప్‌టాప్ స్లోగా ఉంది."
     },
     {
      "id": "daily-fb47ecb0",
      "en": "Buy vegetables on the way.",
      "ta": "வர வழியில காய்கறி வாங்கிட்டு வா.",
-     "tl": "Vara vazhiyila kaaikari vaangittu vaa."
+     "tl": "Vara vazhiyila kaaikari vaangittu vaa.",
+     "te": "వచ్చేటప్పుడు కూరగాయలు తీసుకురా."
     },
     {
      "id": "daily-b99c66da",
      "en": "Put the clothes out to dry.",
      "ta": "துணிய காய போடு.",
-     "tl": "Thuniya kaaya podu."
+     "tl": "Thuniya kaaya podu.",
+     "te": "బట్టలు ఆరేయ్."
     },
     {
      "id": "daily-238904f9",
      "en": "It's raining, take an umbrella.",
      "ta": "மழை பெய்யுது, குடை எடுத்துட்டு போ.",
-     "tl": "Mazhai peyyudhu, kudai eduthuttu po."
+     "tl": "Mazhai peyyudhu, kudai eduthuttu po.",
+     "te": "వర్షం పడుతోంది, గొడుగు తీసుకెళ్ళు."
     },
     {
      "id": "daily-57b80607",
      "en": "The power went off.",
      "ta": "கரண்ட் போயிடுச்சு.",
-     "tl": "Current poyiduchu."
+     "tl": "Current poyiduchu.",
+     "te": "కరెంట్ పోయింది."
     },
     {
      "id": "daily-76c6d231",
      "en": "Set an alarm for six.",
      "ta": "ஆறு மணிக்கு அலாரம் வை.",
-     "tl": "Aaru manikku alarm vai."
+     "tl": "Aaru manikku alarm vai.",
+     "te": "ఆరు గంటలకి అలారం పెట్టు."
     },
     {
      "id": "daily-39006894",
      "en": "Close the window.",
      "ta": "ஜன்னல மூடு.",
-     "tl": "Jannala moodu."
+     "tl": "Jannala moodu.",
+     "te": "కిటికీ మూసేయ్."
     },
     {
      "id": "daily-eb5f8454",
      "en": "The rice is cooked.",
      "ta": "சோறு வெந்துடுச்சு.",
-     "tl": "Soru vendhuduchu."
+     "tl": "Soru vendhuduchu.",
+     "te": "అన్నం ఉడికిపోయింది."
     },
     {
      "id": "daily-1cfcf867",
      "en": "Bring my bag.",
      "ta": "என் பேக்க எடுத்துட்டு வா.",
-     "tl": "En bag-a eduthuttu vaa."
+     "tl": "En bag-a eduthuttu vaa.",
+     "te": "నా బ్యాగ్ తీసుకురా."
     },
     {
      "id": "daily-5f6e5e4f",
      "en": "The fridge is empty.",
      "ta": "ஃப்ரிட்ஜ் காலியா இருக்கு.",
-     "tl": "Fridge kaaliyaa irukku."
+     "tl": "Fridge kaaliyaa irukku.",
+     "te": "ఫ్రిజ్ ఖాళీగా ఉంది."
     },
     {
      "id": "daily-062a11c4",
      "en": "Pay the electricity bill.",
      "ta": "கரண்ட் பில் கட்டு.",
-     "tl": "Current bill kattu."
+     "tl": "Current bill kattu.",
+     "te": "కరెంట్ బిల్లు కట్టు."
     },
     {
      "id": "daily-9118eb57",
      "en": "Is the gas on?",
      "ta": "கேஸ் ஆன்ல இருக்கா?",
-     "tl": "Gas onla irukkaa?"
+     "tl": "Gas onla irukkaa?",
+     "te": "గ్యాస్ ఆన్‌లో ఉందా?"
     },
     {
      "id": "daily-0c972fab",
      "en": "Wake up, it's late.",
      "ta": "எழுந்திரு, லேட் ஆயிடுச்சு.",
-     "tl": "Ezhundhiru, late aayiduchu."
+     "tl": "Ezhundhiru, late aayiduchu.",
+     "te": "లే, లేట్ అయిపోయింది."
     },
     {
      "id": "daily-8a678b98",
      "en": "Brush your teeth.",
      "ta": "பல் தேய்.",
-     "tl": "Pal thei."
+     "tl": "Pal thei.",
+     "te": "పళ్ళు తోముకో."
     },
     {
      "id": "daily-896be12d",
      "en": "Take a bath.",
      "ta": "போய் குளி.",
-     "tl": "Poi kuli."
+     "tl": "Poi kuli.",
+     "te": "వెళ్ళి స్నానం చెయ్."
     },
     {
      "id": "daily-f4cad89f",
      "en": "What's for breakfast?",
      "ta": "டிபனுக்கு என்ன?",
-     "tl": "Tiffinukku enna?"
+     "tl": "Tiffinukku enna?",
+     "te": "టిఫిన్ ఏంటి?"
     },
     {
      "id": "daily-42d32aaf",
      "en": "Make some coffee.",
      "ta": "கொஞ்சம் காபி போடு.",
-     "tl": "Konjam coffee podu."
+     "tl": "Konjam coffee podu.",
+     "te": "కొంచెం కాఫీ పెట్టు."
     },
     {
      "id": "daily-ba318be2",
      "en": "Is the coffee ready?",
      "ta": "காபி ரெடியா?",
-     "tl": "Coffee readyaa?"
+     "tl": "Coffee readyaa?",
+     "te": "కాఫీ రెడీనా?"
     },
     {
      "id": "daily-13f6afe0",
      "en": "The dosa is very tasty.",
      "ta": "தோசை செம்ம ருசியா இருக்கு.",
-     "tl": "Dosai semma rusiyaa irukku."
+     "tl": "Dosai semma rusiyaa irukku.",
+     "te": "దోసె చాలా రుచిగా ఉంది."
     },
     {
      "id": "daily-3933cdc1",
      "en": "Add a little more sugar.",
      "ta": "இன்னும் கொஞ்சம் சக்கரை போடு.",
-     "tl": "Innum konjam sakkarai podu."
+     "tl": "Innum konjam sakkarai podu.",
+     "te": "ఇంకొంచెం చక్కెర వెయ్."
     },
     {
      "id": "daily-a1bee49e",
      "en": "Less spicy, please.",
      "ta": "காரம் கம்மியா போடுங்க.",
-     "tl": "Kaaram kammiyaa podunga."
+     "tl": "Kaaram kammiyaa podunga.",
+     "te": "కారం తక్కువగా వేయండి."
     },
     {
      "id": "daily-4def9921",
      "en": "It's too spicy.",
      "ta": "ரொம்ப காரமா இருக்கு.",
-     "tl": "Romba kaaramaa irukku."
+     "tl": "Romba kaaramaa irukku.",
+     "te": "చాలా కారంగా ఉంది."
     },
     {
      "id": "daily-e3af68be",
      "en": "The food is cold.",
      "ta": "சாப்பாடு ஆறிப்போச்சு.",
-     "tl": "Saappaadu aarippochu."
+     "tl": "Saappaadu aarippochu.",
+     "te": "అన్నం చల్లారిపోయింది."
     },
     {
      "id": "daily-4c7c9305",
      "en": "Heat the food.",
      "ta": "சாப்பாட்ட சூடு பண்ணு.",
-     "tl": "Saappaatta soodu pannu."
+     "tl": "Saappaatta soodu pannu.",
+     "te": "భోజనం వేడి చెయ్."
     },
     {
      "id": "daily-a87a9932",
      "en": "Wash the vegetables.",
      "ta": "காய்கறிய கழுவு.",
-     "tl": "Kaaikariya kazhuvu."
+     "tl": "Kaaikariya kazhuvu.",
+     "te": "కూరగాయలు కడుగు."
     },
     {
      "id": "daily-2167bbfa",
      "en": "Cut the onions.",
      "ta": "வெங்காயம் நறுக்கு.",
-     "tl": "Vengaayam narukku."
+     "tl": "Vengaayam narukku.",
+     "te": "ఉల్లిపాయలు తరుగు."
     },
     {
      "id": "daily-c45c5c5a",
      "en": "Turn off the stove.",
      "ta": "அடுப்ப அணைச்சிடு.",
-     "tl": "Aduppa anaichidu."
+     "tl": "Aduppa anaichidu.",
+     "te": "స్టవ్ ఆపేయ్."
     },
     {
      "id": "daily-36dbb9cd",
      "en": "The milk boiled over.",
      "ta": "பால் பொங்கிடுச்சு.",
-     "tl": "Paal pongiduchu."
+     "tl": "Paal pongiduchu.",
+     "te": "పాలు పొంగిపోయాయి."
     },
     {
      "id": "daily-c45ab40a",
      "en": "Throw the garbage.",
      "ta": "குப்பைய கொட்டு.",
-     "tl": "Kuppaiya kottu."
+     "tl": "Kuppaiya kottu.",
+     "te": "చెత్త పారేయ్."
     },
     {
      "id": "daily-7823696a",
      "en": "Sweep the floor.",
      "ta": "வீட்ட பெருக்கு.",
-     "tl": "Veetta perukku."
+     "tl": "Veetta perukku.",
+     "te": "ఇల్లు ఊడు."
     },
     {
      "id": "daily-85daf5b1",
      "en": "Mop the floor.",
      "ta": "வீடு தொடை.",
-     "tl": "Veedu thodai."
+     "tl": "Veedu thodai.",
+     "te": "ఇల్లు తుడువు."
     },
     {
      "id": "daily-549f49a2",
      "en": "Fold the clothes.",
      "ta": "துணிய மடிச்சு வை.",
-     "tl": "Thuniya madichu vai."
+     "tl": "Thuniya madichu vai.",
+     "te": "బట్టలు మడతపెట్టు."
     },
     {
      "id": "daily-d7598c1d",
      "en": "Iron my shirt.",
      "ta": "என் சட்டைய அயர்ன் பண்ணு.",
-     "tl": "En sattaiya iron pannu."
+     "tl": "En sattaiya iron pannu.",
+     "te": "నా షర్ట్ ఇస్త్రీ చెయ్."
     },
     {
      "id": "daily-a3704b14",
      "en": "Where is my shirt?",
      "ta": "என் சட்டை எங்க?",
-     "tl": "En sattai enga?"
+     "tl": "En sattai enga?",
+     "te": "నా షర్ట్ ఎక్కడ?"
     },
     {
      "id": "daily-d235e68c",
      "en": "I can't find my glasses.",
      "ta": "என் கண்ணாடிய காணோம்.",
-     "tl": "En kannaadiya kaanom."
+     "tl": "En kannaadiya kaanom.",
+     "te": "నా కళ్ళద్దాలు కనిపించట్లేదు."
     },
     {
      "id": "daily-0144891e",
      "en": "Have you seen my keys?",
      "ta": "என் சாவிய பாத்தியா?",
-     "tl": "En saaviya paathiya?"
+     "tl": "En saaviya paathiya?",
+     "te": "నా తాళాలు చూశావా?"
     },
     {
      "id": "daily-a1a23384",
      "en": "Water the plants.",
      "ta": "செடிக்கு தண்ணி ஊத்து.",
-     "tl": "Sedikku thanni oothu."
+     "tl": "Sedikku thanni oothu.",
+     "te": "మొక్కలకి నీళ్ళు పొయ్యి."
     },
     {
      "id": "daily-b66348e3",
      "en": "Feed the dog.",
      "ta": "நாய்க்கு சாப்பாடு போடு.",
-     "tl": "Naaikku saappaadu podu."
+     "tl": "Naaikku saappaadu podu.",
+     "te": "కుక్కకి అన్నం పెట్టు."
     },
     {
      "id": "daily-4be0e92d",
      "en": "Open the window.",
      "ta": "ஜன்னல திற.",
-     "tl": "Jannala thira."
+     "tl": "Jannala thira.",
+     "te": "కిటికీ తెరువు."
     },
     {
      "id": "daily-a8d54b4b",
      "en": "It's very hot today.",
      "ta": "இன்னைக்கு ரொம்ப வெயிலா இருக்கு.",
-     "tl": "Innaikku romba veyilaa irukku."
+     "tl": "Innaikku romba veyilaa irukku.",
+     "te": "ఈ రోజు చాలా ఎండగా ఉంది."
     },
     {
      "id": "daily-a510f5bb",
      "en": "It's cold today.",
      "ta": "இன்னைக்கு குளிரா இருக்கு.",
-     "tl": "Innaikku kuliraa irukku."
+     "tl": "Innaikku kuliraa irukku.",
+     "te": "ఈ రోజు చలిగా ఉంది."
     },
     {
      "id": "daily-b127fc83",
      "en": "Switch on the AC.",
      "ta": "ஏசி போடு.",
-     "tl": "AC podu."
+     "tl": "AC podu.",
+     "te": "ఏసీ వెయ్."
     },
     {
      "id": "daily-db122a88",
      "en": "Turn down the volume.",
      "ta": "சவுண்ட கம்மி பண்ணு.",
-     "tl": "Sounda kammi pannu."
+     "tl": "Sounda kammi pannu.",
+     "te": "సౌండ్ తగ్గించు."
     },
     {
      "id": "daily-848e8da5",
      "en": "Change the channel.",
      "ta": "சேனல மாத்து.",
-     "tl": "Channela maathu."
+     "tl": "Channela maathu.",
+     "te": "ఛానెల్ మార్చు."
     },
     {
      "id": "daily-ef49d13a",
      "en": "What's on TV?",
      "ta": "டிவில என்ன ஓடுது?",
-     "tl": "TVla enna odudhu?"
+     "tl": "TVla enna odudhu?",
+     "te": "టీవీలో ఏం వస్తోంది?"
     },
     {
      "id": "daily-0b26e0f5",
      "en": "My phone battery is dead.",
      "ta": "என் ஃபோன்ல சார்ஜ் இல்ல.",
-     "tl": "En phonela charge illa."
+     "tl": "En phonela charge illa.",
+     "te": "నా ఫోన్‌లో ఛార్జింగ్ లేదు."
     },
     {
      "id": "daily-b6dab2c2",
      "en": "Do you have a charger?",
      "ta": "உன்கிட்ட சார்ஜர் இருக்கா?",
-     "tl": "Unkitta charger irukkaa?"
+     "tl": "Unkitta charger irukkaa?",
+     "te": "నీ దగ్గర ఛార్జర్ ఉందా?"
     },
     {
      "id": "daily-eb15d629",
      "en": "What's the Wi-Fi password?",
      "ta": "வைஃபை பாஸ்வேர்ட் என்ன?",
-     "tl": "Wifi password enna?"
+     "tl": "Wifi password enna?",
+     "te": "వైఫై పాస్‌వర్డ్ ఏంటి?"
     },
     {
      "id": "daily-206fc1fd",
      "en": "The internet is slow.",
      "ta": "நெட் ஸ்லோவா இருக்கு.",
-     "tl": "Net slowaa irukku."
+     "tl": "Net slowaa irukku.",
+     "te": "నెట్ స్లోగా ఉంది."
     },
     {
      "id": "daily-83e09c83",
      "en": "Send it on WhatsApp.",
      "ta": "வாட்ஸ்அப்ல அனுப்பு.",
-     "tl": "Whatsappla anuppu."
+     "tl": "Whatsappla anuppu.",
+     "te": "వాట్సాప్‌లో పంపు."
     },
     {
      "id": "daily-bbca8897",
      "en": "I'm going to the shop.",
      "ta": "நான் கடைக்கு போறேன்.",
-     "tl": "Naan kadaikku poren."
+     "tl": "Naan kadaikku poren.",
+     "te": "నేను షాప్‌కి వెళ్తున్నాను."
     },
     {
      "id": "daily-fa87bf1d",
      "en": "Do you need anything?",
      "ta": "உனக்கு ஏதாவது வேணுமா?",
-     "tl": "Unakku edhaavadhu venumaa?"
+     "tl": "Unakku edhaavadhu venumaa?",
+     "te": "నీకు ఏమైనా కావాలా?"
     },
     {
      "id": "daily-eb24fde4",
      "en": "Buy a packet of milk.",
      "ta": "ஒரு பால் பாக்கெட் வாங்கு.",
-     "tl": "Oru paal packet vaangu."
+     "tl": "Oru paal packet vaangu.",
+     "te": "ఒక పాల ప్యాకెట్ కొను."
     },
     {
      "id": "daily-00166209",
      "en": "Get some bread.",
      "ta": "கொஞ்சம் பிரெட் வாங்கிட்டு வா.",
-     "tl": "Konjam bread vaangittu vaa."
+     "tl": "Konjam bread vaangittu vaa.",
+     "te": "కొంచెం బ్రెడ్ తీసుకురా."
     },
     {
      "id": "daily-23457d7c",
      "en": "How much is a kilo of tomatoes?",
      "ta": "தக்காளி கிலோ எவ்ளோ?",
-     "tl": "Thakkaali kilo evlo?"
+     "tl": "Thakkaali kilo evlo?",
+     "te": "టమాటాలు కిలో ఎంత?"
     },
     {
      "id": "daily-f686b2b0",
      "en": "Give me half a kilo.",
      "ta": "அரை கிலோ குடுங்க.",
-     "tl": "Arai kilo kudunga."
+     "tl": "Arai kilo kudunga.",
+     "te": "అర కిలో ఇవ్వండి."
     },
     {
      "id": "daily-726af04c",
      "en": "Can you reduce the price?",
      "ta": "கொஞ்சம் விலை குறைக்க முடியுமா?",
-     "tl": "Konjam vilai kuraikka mudiyumaa?"
+     "tl": "Konjam vilai kuraikka mudiyumaa?",
+     "te": "కొంచెం రేటు తగ్గిస్తారా?"
     },
     {
      "id": "daily-f82a4adc",
      "en": "Do you take UPI?",
      "ta": "ஜிபே இருக்கா?",
-     "tl": "GPay irukkaa?"
+     "tl": "GPay irukkaa?",
+     "te": "ఫోన్‌పే ఉందా?"
     },
     {
      "id": "daily-7a926dd1",
      "en": "I'll pay by card.",
      "ta": "நான் கார்டுல பே பண்றேன்.",
-     "tl": "Naan cardula pay panren."
+     "tl": "Naan cardula pay panren.",
+     "te": "నేను కార్డుతో కడతాను."
     },
     {
      "id": "daily-6366b757",
      "en": "Keep the change.",
      "ta": "சில்லறைய வச்சுக்கோங்க.",
-     "tl": "Sillaraiya vachukkonga."
+     "tl": "Sillaraiya vachukkonga.",
+     "te": "చిల్లర ఉంచుకోండి."
     },
     {
      "id": "daily-7aa7ebf9",
      "en": "Give me a bag.",
      "ta": "ஒரு கவர் குடுங்க.",
-     "tl": "Oru cover kudunga."
+     "tl": "Oru cover kudunga.",
+     "te": "ఒక కవర్ ఇవ్వండి."
     },
     {
      "id": "daily-c268342b",
      "en": "Auto, will you come to the station?",
      "ta": "ஆட்டோ, ஸ்டேஷனுக்கு வருவீங்களா?",
-     "tl": "Auto, stationukku varuveengalaa?"
+     "tl": "Auto, stationukku varuveengalaa?",
+     "te": "ఆటో, స్టేషన్‌కి వస్తారా?"
     },
     {
      "id": "daily-86246deb",
      "en": "How much to the airport?",
      "ta": "ஏர்போர்ட்டுக்கு எவ்ளோ?",
-     "tl": "Airportukku evlo?"
+     "tl": "Airportukku evlo?",
+     "te": "ఎయిర్‌పోర్ట్‌కి ఎంత?"
     },
     {
      "id": "daily-ba6a1971",
      "en": "That's too much.",
      "ta": "அது ரொம்ப அதிகம்.",
-     "tl": "Adhu romba adhigam."
+     "tl": "Adhu romba adhigam.",
+     "te": "అది చాలా ఎక్కువ."
     },
     {
      "id": "daily-5ba1e2a0",
      "en": "Go by meter.",
      "ta": "மீட்டர் போடுங்க.",
-     "tl": "Meter podunga."
+     "tl": "Meter podunga.",
+     "te": "మీటర్ వేయండి."
     },
     {
      "id": "daily-257b4602",
      "en": "The traffic is very bad.",
      "ta": "ட்ராஃபிக் ரொம்ப மோசமா இருக்கு.",
-     "tl": "Traffic romba mosamaa irukku."
+     "tl": "Traffic romba mosamaa irukku.",
+     "te": "ట్రాఫిక్ చాలా దారుణంగా ఉంది."
     },
     {
      "id": "daily-b8056753",
      "en": "Which bus goes to T. Nagar?",
      "ta": "டி நகருக்கு எந்த பஸ் போகும்?",
-     "tl": "T nagarukku endha bus pogum?"
+     "tl": "T nagarukku endha bus pogum?",
+     "te": "టి నగర్‌కి ఏ బస్సు వెళ్తుంది?"
     },
     {
      "id": "daily-3bd73adf",
      "en": "I missed the bus.",
      "ta": "பஸ்ஸ மிஸ் பண்ணிட்டேன்.",
-     "tl": "Bus-a miss pannitten."
+     "tl": "Bus-a miss pannitten.",
+     "te": "బస్సు మిస్ అయ్యాను."
     },
     {
      "id": "daily-987c2705",
      "en": "Book a cab.",
      "ta": "ஒரு கேப் புக் பண்ணு.",
-     "tl": "Oru cab book pannu."
+     "tl": "Oru cab book pannu.",
+     "te": "ఒక క్యాబ్ బుక్ చెయ్."
     },
     {
      "id": "daily-1c6809e9",
      "en": "Fill petrol.",
      "ta": "பெட்ரோல் போடு.",
-     "tl": "Petrol podu."
+     "tl": "Petrol podu.",
+     "te": "పెట్రోల్ కొట్టించు."
     },
     {
      "id": "daily-90d38c9f",
      "en": "The bike has a flat tyre.",
      "ta": "பைக் பஞ்சர் ஆயிடுச்சு.",
-     "tl": "Bike puncture aayiduchu."
+     "tl": "Bike puncture aayiduchu.",
+     "te": "బైక్ పంక్చర్ అయింది."
     },
     {
      "id": "daily-c0324224",
      "en": "I have a fever.",
      "ta": "எனக்கு ஜுரம் அடிக்குது.",
-     "tl": "Enakku juram adikkudhu."
+     "tl": "Enakku juram adikkudhu.",
+     "te": "నాకు జ్వరంగా ఉంది."
     },
     {
      "id": "daily-67e1a281",
      "en": "Where is the pharmacy?",
      "ta": "மெடிக்கல் ஷாப் எங்க இருக்கு?",
-     "tl": "Medical shop enga irukku?"
+     "tl": "Medical shop enga irukku?",
+     "te": "మెడికల్ షాప్ ఎక్కడ ఉంది?"
     },
     {
      "id": "daily-c6a90b61",
      "en": "Take this tablet.",
      "ta": "இந்த மாத்திரைய போடு.",
-     "tl": "Indha maathiraiya podu."
+     "tl": "Indha maathiraiya podu.",
+     "te": "ఈ టాబ్లెట్ వేసుకో."
     },
     {
      "id": "daily-5c12623e",
      "en": "Drink lots of water.",
      "ta": "நிறைய தண்ணி குடி.",
-     "tl": "Niraiya thanni kudi."
+     "tl": "Niraiya thanni kudi.",
+     "te": "నీళ్ళు బాగా తాగు."
     },
     {
      "id": "daily-74433917",
      "en": "Go to sleep early.",
      "ta": "சீக்கிரம் தூங்கு.",
-     "tl": "Seekkiram thoongu."
+     "tl": "Seekkiram thoongu.",
+     "te": "త్వరగా పడుకో."
     },
     {
      "id": "daily-85b09c09",
      "en": "Switch off the TV and sleep.",
      "ta": "டிவிய ஆஃப் பண்ணிட்டு தூங்கு.",
-     "tl": "TV-ya off pannittu thoongu."
+     "tl": "TV-ya off pannittu thoongu.",
+     "te": "టీవీ ఆపేసి పడుకో."
     },
     {
      "id": "daily-b0660d08",
      "en": "Did you lock the door?",
      "ta": "கதவ பூட்டுனியா?",
-     "tl": "Kadhava poottuniyaa?"
+     "tl": "Kadhava poottuniyaa?",
+     "te": "తలుపుకి తాళం వేశావా?"
     },
     {
      "id": "daily-b09424a3",
      "en": "The tap is leaking.",
      "ta": "டேப்ல தண்ணி ஒழுகுது.",
-     "tl": "Tapla thanni ozhugudhu."
+     "tl": "Tapla thanni ozhugudhu.",
+     "te": "కుళాయి నుంచి నీళ్ళు కారుతున్నాయి."
     },
     {
      "id": "daily-3202ec78",
      "en": "Call the plumber.",
      "ta": "பிளம்பர கூப்பிடு.",
-     "tl": "Plumbera koopidu."
+     "tl": "Plumbera koopidu.",
+     "te": "ప్లంబర్‌ని పిలువు."
     },
     {
      "id": "daily-98590a21",
      "en": "The water tank is empty.",
      "ta": "டேங்க்ல தண்ணி இல்ல.",
-     "tl": "Tankla thanni illa."
+     "tl": "Tankla thanni illa.",
+     "te": "ట్యాంక్‌లో నీళ్ళు లేవు."
     }
-   ]
+   ],
+   "teCount": 99
   },
   {
    "id": "questions",
@@ -6736,417 +7841,487 @@ window.PP_DATA = {
      "id": "questions-18f3d7a1",
      "en": "Who is that?",
      "ta": "அது யாரு?",
-     "tl": "Adhu yaaru?"
+     "tl": "Adhu yaaru?",
+     "te": "అది ఎవరు?"
     },
     {
      "id": "questions-5bc3283b",
      "en": "Who are you?",
      "ta": "நீங்க யாரு?",
-     "tl": "Neenga yaaru?"
+     "tl": "Neenga yaaru?",
+     "te": "మీరు ఎవరు?"
     },
     {
      "id": "questions-a08ff7c5",
      "en": "Who called?",
      "ta": "யாரு கால் பண்ணது?",
-     "tl": "Yaaru call pannadhu?"
+     "tl": "Yaaru call pannadhu?",
+     "te": "ఎవరు కాల్ చేశారు?"
     },
     {
      "id": "questions-772c39bc",
      "en": "Who said that?",
      "ta": "அத யாரு சொன்னது?",
-     "tl": "Adha yaaru sonnadhu?"
+     "tl": "Adha yaaru sonnadhu?",
+     "te": "అది ఎవరు అన్నారు?"
     },
     {
      "id": "questions-6561768b",
      "en": "What is this?",
      "ta": "இது என்ன?",
-     "tl": "Idhu enna?"
+     "tl": "Idhu enna?",
+     "te": "ఇది ఏంటి?"
     },
     {
      "id": "questions-c3a045db",
      "en": "What's that?",
      "ta": "அது என்ன?",
-     "tl": "Adhu enna?"
+     "tl": "Adhu enna?",
+     "te": "అది ఏంటి?"
     },
     {
      "id": "questions-3f61ec4e",
      "en": "What do you want?",
      "ta": "உனக்கு என்ன வேணும்?",
-     "tl": "Unakku enna venum?"
+     "tl": "Unakku enna venum?",
+     "te": "నీకు ఏం కావాలి?"
     },
     {
      "id": "questions-5faf3c67",
      "en": "What are you eating?",
      "ta": "என்ன சாப்பிடற?",
-     "tl": "Enna saappidara?"
+     "tl": "Enna saappidara?",
+     "te": "ఏం తింటున్నావు?"
     },
     {
      "id": "questions-07c1a098",
      "en": "What did you buy?",
      "ta": "என்ன வாங்குன?",
-     "tl": "Enna vaanguna?"
+     "tl": "Enna vaanguna?",
+     "te": "ఏం కొన్నావు?"
     },
     {
      "id": "questions-25c60dbf",
      "en": "What should I do?",
      "ta": "நான் என்ன பண்ணணும்?",
-     "tl": "Naan enna pannanum?"
+     "tl": "Naan enna pannanum?",
+     "te": "నేను ఏం చేయాలి?"
     },
     {
      "id": "questions-834c52c8",
      "en": "Where are you?",
      "ta": "நீ எங்க இருக்க?",
-     "tl": "Nee enga irukka?"
+     "tl": "Nee enga irukka?",
+     "te": "నువ్వు ఎక్కడ ఉన్నావు?"
     },
     {
      "id": "questions-6ceda2fc",
      "en": "Where is the station?",
      "ta": "ஸ்டேஷன் எங்க இருக்கு?",
-     "tl": "Station enga irukku?"
+     "tl": "Station enga irukku?",
+     "te": "స్టేషన్ ఎక్కడ ఉంది?"
     },
     {
      "id": "questions-1177343d",
      "en": "Where did you go?",
      "ta": "நீ எங்க போன?",
-     "tl": "Nee enga pona?"
+     "tl": "Nee enga pona?",
+     "te": "నువ్వు ఎక్కడికి వెళ్ళావు?"
     },
     {
      "id": "questions-b93ed724",
      "en": "Where shall we go?",
      "ta": "எங்க போலாம்?",
-     "tl": "Enga polaam?"
+     "tl": "Enga polaam?",
+     "te": "ఎక్కడికి వెళ్దాం?"
     },
     {
      "id": "questions-35446aa3",
      "en": "Where do you work?",
      "ta": "நீங்க எங்க வேலை பாக்கறீங்க?",
-     "tl": "Neenga enga velai paakkareenga?"
+     "tl": "Neenga enga velai paakkareenga?",
+     "te": "మీరు ఎక్కడ పని చేస్తారు?"
     },
     {
      "id": "questions-397a398d",
      "en": "When will you come?",
      "ta": "நீ எப்போ வருவ?",
-     "tl": "Nee eppo varuva?"
+     "tl": "Nee eppo varuva?",
+     "te": "నువ్వు ఎప్పుడు వస్తావు?"
     },
     {
      "id": "questions-98903cf8",
      "en": "When did you come?",
      "ta": "எப்போ வந்தீங்க?",
-     "tl": "Eppo vandheenga?"
+     "tl": "Eppo vandheenga?",
+     "te": "ఎప్పుడు వచ్చారు?"
     },
     {
      "id": "questions-b79ed7c8",
      "en": "When is the train?",
      "ta": "ட்ரெயின் எப்போ?",
-     "tl": "Train eppo?"
+     "tl": "Train eppo?",
+     "te": "ట్రైన్ ఎప్పుడు?"
     },
     {
      "id": "questions-e1455fd9",
      "en": "When will it be ready?",
      "ta": "எப்போ ரெடியாகும்?",
-     "tl": "Eppo readyaagum?"
+     "tl": "Eppo readyaagum?",
+     "te": "ఎప్పుడు రెడీ అవుతుంది?"
     },
     {
      "id": "questions-a8fd6a09",
      "en": "Why are you late?",
      "ta": "ஏன் லேட்?",
-     "tl": "Yen late?"
+     "tl": "Yen late?",
+     "te": "ఎందుకు లేట్?"
     },
     {
      "id": "questions-207f0aba",
      "en": "Why are you angry?",
      "ta": "ஏன் கோபமா இருக்க?",
-     "tl": "Yen kobamaa irukka?"
+     "tl": "Yen kobamaa irukka?",
+     "te": "ఎందుకు కోపంగా ఉన్నావు?"
     },
     {
      "id": "questions-d41e63cb",
      "en": "Why didn't you call?",
      "ta": "ஏன் கால் பண்ணல?",
-     "tl": "Yen call pannala?"
+     "tl": "Yen call pannala?",
+     "te": "ఎందుకు కాల్ చేయలేదు?"
     },
     {
      "id": "questions-e9d43c77",
      "en": "Why not?",
      "ta": "ஏன் கூடாது?",
-     "tl": "Yen koodaadhu?"
+     "tl": "Yen koodaadhu?",
+     "te": "ఎందుకు కూడదు?"
     },
     {
      "id": "questions-a30265ad",
      "en": "How are you feeling?",
      "ta": "இப்ப எப்படி இருக்கு?",
-     "tl": "Ippa eppadi irukku?"
+     "tl": "Ippa eppadi irukku?",
+     "te": "ఇప్పుడు ఎలా ఉంది?"
     },
     {
      "id": "questions-a5f98dd6",
      "en": "How did it happen?",
      "ta": "அது எப்படி நடந்துச்சு?",
-     "tl": "Adhu eppadi nadandhuchu?"
+     "tl": "Adhu eppadi nadandhuchu?",
+     "te": "అది ఎలా జరిగింది?"
     },
     {
      "id": "questions-6cec2f43",
      "en": "How do I go there?",
      "ta": "அங்க எப்படி போறது?",
-     "tl": "Anga eppadi poradhu?"
+     "tl": "Anga eppadi poradhu?",
+     "te": "అక్కడికి ఎలా వెళ్ళాలి?"
     },
     {
      "id": "questions-25c33770",
      "en": "How was the movie?",
      "ta": "படம் எப்படி இருந்துச்சு?",
-     "tl": "Padam eppadi irundhuchu?"
+     "tl": "Padam eppadi irundhuchu?",
+     "te": "సినిమా ఎలా ఉంది?"
     },
     {
      "id": "questions-1c62ec19",
      "en": "How was the food?",
      "ta": "சாப்பாடு எப்படி இருந்துச்சு?",
-     "tl": "Saappaadu eppadi irundhuchu?"
+     "tl": "Saappaadu eppadi irundhuchu?",
+     "te": "భోజనం ఎలా ఉంది?"
     },
     {
      "id": "questions-e76c5d36",
      "en": "How much?",
      "ta": "எவ்ளோ?",
-     "tl": "Evlo?"
+     "tl": "Evlo?",
+     "te": "ఎంత?"
     },
     {
      "id": "questions-db57ad31",
      "en": "How many people are coming?",
      "ta": "எத்தன பேர் வராங்க?",
-     "tl": "Eththana per varaanga?"
+     "tl": "Eththana per varaanga?",
+     "te": "ఎంత మంది వస్తున్నారు?"
     },
     {
      "id": "questions-bfe35eca",
      "en": "How long will you stay?",
      "ta": "எத்தன நாள் இருப்பீங்க?",
-     "tl": "Eththana naal iruppeenga?"
+     "tl": "Eththana naal iruppeenga?",
+     "te": "ఎన్ని రోజులు ఉంటారు?"
     },
     {
      "id": "questions-1af1e8b0",
      "en": "Which one?",
      "ta": "எது?",
-     "tl": "Edhu?"
+     "tl": "Edhu?",
+     "te": "ఏది?"
     },
     {
      "id": "questions-66103708",
      "en": "Which one do you like?",
      "ta": "உனக்கு எது பிடிக்கும்?",
-     "tl": "Unakku edhu pidikkum?"
+     "tl": "Unakku edhu pidikkum?",
+     "te": "నీకు ఏది ఇష్టం?"
     },
     {
      "id": "questions-7b77cc82",
      "en": "Which bus?",
      "ta": "எந்த பஸ்?",
-     "tl": "Endha bus?"
+     "tl": "Endha bus?",
+     "te": "ఏ బస్సు?"
     },
     {
      "id": "questions-a8f90ae1",
      "en": "Whose phone is this?",
      "ta": "இது யாரோட ஃபோன்?",
-     "tl": "Idhu yaaroda phone?"
+     "tl": "Idhu yaaroda phone?",
+     "te": "ఇది ఎవరి ఫోన్?"
     },
     {
      "id": "questions-facd1fd3",
      "en": "Can you come?",
      "ta": "உன்னால வர முடியுமா?",
-     "tl": "Unnaala vara mudiyumaa?"
+     "tl": "Unnaala vara mudiyumaa?",
+     "te": "నువ్వు రాగలవా?"
     },
     {
      "id": "questions-eb476e59",
      "en": "Can you help me?",
      "ta": "எனக்கு உதவி பண்றியா?",
-     "tl": "Enakku udhavi panriyaa?"
+     "tl": "Enakku udhavi panriyaa?",
+     "te": "నాకు సహాయం చేస్తావా?"
     },
     {
      "id": "questions-f18bed80",
      "en": "Can I come in?",
      "ta": "உள்ள வரலாமா?",
-     "tl": "Ulla varalaamaa?"
+     "tl": "Ulla varalaamaa?",
+     "te": "లోపలికి రావచ్చా?"
     },
     {
      "id": "questions-1e5d3397",
      "en": "Can I sit here?",
      "ta": "இங்க உக்காரலாமா?",
-     "tl": "Inga ukkaaralaamaa?"
+     "tl": "Inga ukkaaralaamaa?",
+     "te": "ఇక్కడ కూర్చోవచ్చా?"
     },
     {
      "id": "questions-f50fc139",
      "en": "Can I ask you something?",
      "ta": "ஒண்ணு கேக்கலாமா?",
-     "tl": "Onnu kekkalaamaa?"
+     "tl": "Onnu kekkalaamaa?",
+     "te": "ఒకటి అడగవచ్చా?"
     },
     {
      "id": "questions-80f8e73a",
      "en": "Shall we go?",
      "ta": "போலாமா?",
-     "tl": "Polaamaa?"
+     "tl": "Polaamaa?",
+     "te": "వెళ్దామా?"
     },
     {
      "id": "questions-c3dfd25f",
      "en": "Shall we eat?",
      "ta": "சாப்பிடலாமா?",
-     "tl": "Saappidalaamaa?"
+     "tl": "Saappidalaamaa?",
+     "te": "తిందామా?"
     },
     {
      "id": "questions-1971b5f9",
      "en": "Do you know him?",
      "ta": "உனக்கு அவன தெரியுமா?",
-     "tl": "Unakku avana theriyumaa?"
+     "tl": "Unakku avana theriyumaa?",
+     "te": "నీకు అతను తెలుసా?"
     },
     {
      "id": "questions-358ecff0",
      "en": "Do you understand?",
      "ta": "உனக்கு புரியுதா?",
-     "tl": "Unakku puriyudhaa?"
+     "tl": "Unakku puriyudhaa?",
+     "te": "నీకు అర్థమవుతోందా?"
     },
     {
      "id": "questions-2bf6910b",
      "en": "Do you like it?",
      "ta": "உனக்கு பிடிச்சிருக்கா?",
-     "tl": "Unakku pidichirukkaa?"
+     "tl": "Unakku pidichirukkaa?",
+     "te": "నీకు నచ్చిందా?"
     },
     {
      "id": "questions-1a85f329",
      "en": "Do you want tea?",
      "ta": "டீ வேணுமா?",
-     "tl": "Tea venumaa?"
+     "tl": "Tea venumaa?",
+     "te": "టీ కావాలా?"
     },
     {
      "id": "questions-707546d5",
      "en": "Did you sleep well?",
      "ta": "நல்லா தூங்குனியா?",
-     "tl": "Nallaa thoonguniyaa?"
+     "tl": "Nallaa thoonguniyaa?",
+     "te": "బాగా నిద్రపోయావా?"
     },
     {
      "id": "questions-1d0e6244",
      "en": "Did you finish?",
      "ta": "முடிச்சிட்டியா?",
-     "tl": "Mudichittiyaa?"
+     "tl": "Mudichittiyaa?",
+     "te": "పూర్తి చేశావా?"
     },
     {
      "id": "questions-fa520306",
      "en": "Did you see it?",
      "ta": "நீ அத பாத்தியா?",
-     "tl": "Nee adha paathiyaa?"
+     "tl": "Nee adha paathiyaa?",
+     "te": "నువ్వు అది చూశావా?"
     },
     {
      "id": "questions-7617d7c3",
      "en": "Are you coming?",
      "ta": "நீ வரியா?",
-     "tl": "Nee variyaa?"
+     "tl": "Nee variyaa?",
+     "te": "నువ్వు వస్తున్నావా?"
     },
     {
      "id": "questions-7150cc6e",
      "en": "Are you sure?",
      "ta": "உறுதியா தெரியுமா?",
-     "tl": "Urudhiyaa theriyumaa?"
+     "tl": "Urudhiyaa theriyumaa?",
+     "te": "ఖచ్చితంగా తెలుసా?"
     },
     {
      "id": "questions-bd099a0d",
      "en": "Are you free now?",
      "ta": "இப்ப ஃப்ரீயா?",
-     "tl": "Ippa freeyaa?"
+     "tl": "Ippa freeyaa?",
+     "te": "ఇప్పుడు ఫ్రీనా?"
     },
     {
      "id": "questions-1088b597",
      "en": "Are you hungry?",
      "ta": "பசிக்குதா?",
-     "tl": "Pasikkudhaa?"
+     "tl": "Pasikkudhaa?",
+     "te": "ఆకలిగా ఉందా?"
     },
     {
      "id": "questions-6caea0ae",
      "en": "Is he at home?",
      "ta": "அவன் வீட்ல இருக்கானா?",
-     "tl": "Avan veetla irukkaanaa?"
+     "tl": "Avan veetla irukkaanaa?",
+     "te": "అతను ఇంట్లో ఉన్నాడా?"
     },
     {
      "id": "questions-2040e2bd",
      "en": "Is the shop open?",
      "ta": "கடை திறந்திருக்கா?",
-     "tl": "Kadai thirandhirukkaa?"
+     "tl": "Kadai thirandhirukkaa?",
+     "te": "షాప్ తెరిచి ఉందా?"
     },
     {
      "id": "questions-25ec8083",
      "en": "Is this the right way?",
      "ta": "இது சரியான வழியா?",
-     "tl": "Idhu sariyaana vazhiyaa?"
+     "tl": "Idhu sariyaana vazhiyaa?",
+     "te": "ఇది సరైన దారేనా?"
     },
     {
      "id": "questions-aceec7ed",
      "en": "Is it far?",
      "ta": "தூரமா?",
-     "tl": "Thooramaa?"
+     "tl": "Thooramaa?",
+     "te": "దూరమా?"
     },
     {
      "id": "questions-1b8e4e62",
      "en": "Is it raining there?",
      "ta": "அங்க மழை பெய்யுதா?",
-     "tl": "Anga mazhai peyyudhaa?"
+     "tl": "Anga mazhai peyyudhaa?",
+     "te": "అక్కడ వర్షం పడుతోందా?"
     },
     {
      "id": "questions-9e2ec31e",
      "en": "Is that true?",
      "ta": "அது நிஜமா?",
-     "tl": "Adhu nijamaa?"
+     "tl": "Adhu nijamaa?",
+     "te": "అది నిజమా?"
     },
     {
      "id": "questions-37ce310e",
      "en": "What's wrong?",
      "ta": "என்ன பிரச்சனை?",
-     "tl": "Enna prachanai?"
+     "tl": "Enna prachanai?",
+     "te": "ఏంటి సమస్య?"
     },
     {
      "id": "questions-aac08353",
      "en": "What's the matter?",
      "ta": "என்ன விஷயம்?",
-     "tl": "Enna vishayam?"
+     "tl": "Enna vishayam?",
+     "te": "ఏంటి విషయం?"
     },
     {
      "id": "questions-89876a94",
      "en": "What's new?",
      "ta": "என்ன புதுசா?",
-     "tl": "Enna pudhusaa?"
+     "tl": "Enna pudhusaa?",
+     "te": "ఏంటి కొత్త?"
     },
     {
      "id": "questions-b0d4dd0f",
      "en": "What happened next?",
      "ta": "அப்புறம் என்ன ஆச்சு?",
-     "tl": "Appuram enna aachu?"
+     "tl": "Appuram enna aachu?",
+     "te": "తర్వాత ఏమైంది?"
     },
     {
      "id": "questions-612ac625",
      "en": "Then what?",
      "ta": "அப்புறம்?",
-     "tl": "Appuram?"
+     "tl": "Appuram?",
+     "te": "తర్వాత?"
     },
     {
      "id": "questions-1079ec3e",
      "en": "Really? Then?",
      "ta": "அப்படியா? அப்புறம்?",
-     "tl": "Appadiyaa? Appuram?"
+     "tl": "Appadiyaa? Appuram?",
+     "te": "అలాగా? తర్వాత?"
     },
     {
      "id": "questions-f7f6f8a4",
      "en": "Why are you laughing?",
      "ta": "ஏன் சிரிக்கற?",
-     "tl": "Yen sirikkara?"
+     "tl": "Yen sirikkara?",
+     "te": "ఎందుకు నవ్వుతున్నావు?"
     },
     {
      "id": "questions-b7b4cbfd",
      "en": "Who is coming with you?",
      "ta": "உன் கூட யாரு வராங்க?",
-     "tl": "Un kooda yaaru varaanga?"
+     "tl": "Un kooda yaaru varaanga?",
+     "te": "నీతో ఎవరు వస్తున్నారు?"
     },
     {
      "id": "questions-b366ac83",
      "en": "What's the time for the meeting?",
      "ta": "மீட்டிங் எத்தன மணிக்கு?",
-     "tl": "Meeting eththana manikku?"
+     "tl": "Meeting eththana manikku?",
+     "te": "మీటింగ్ ఎన్ని గంటలకి?"
     },
     {
      "id": "questions-cb9a33d0",
      "en": "How do you know Tamil?",
      "ta": "உனக்கு எப்படி தமிழ் தெரியும்?",
-     "tl": "Unakku eppadi thamizh theriyum?"
+     "tl": "Unakku eppadi thamizh theriyum?",
+     "te": "నీకు తమిళం ఎలా వచ్చు?"
     }
-   ]
+   ],
+   "teCount": 69
   },
   {
    "id": "numbers",
@@ -7164,423 +8339,494 @@ window.PP_DATA = {
      "id": "numbers-4f121665",
      "en": "One, two, three.",
      "ta": "ஒண்ணு, ரெண்டு, மூணு.",
-     "tl": "Onnu, rendu, moonu."
+     "tl": "Onnu, rendu, moonu.",
+     "te": "ఒకటి, రెండు, మూడు."
     },
     {
      "id": "numbers-78316af5",
      "en": "Four, five, six.",
      "ta": "நாலு, அஞ்சு, ஆறு.",
-     "tl": "Naalu, anju, aaru."
+     "tl": "Naalu, anju, aaru.",
+     "te": "నాలుగు, ఐదు, ఆరు."
     },
     {
      "id": "numbers-b169b3cc",
      "en": "Seven, eight, nine, ten.",
      "ta": "ஏழு, எட்டு, ஒம்பது, பத்து.",
-     "tl": "Ezhu, ettu, ombadhu, paththu."
+     "tl": "Ezhu, ettu, ombadhu, paththu.",
+     "te": "ఏడు, ఎనిమిది, తొమ్మిది, పది."
     },
     {
      "id": "numbers-4680df65",
      "en": "Twenty.",
      "ta": "இருபது.",
-     "tl": "Irubadhu."
+     "tl": "Irubadhu.",
+     "te": "ఇరవై."
     },
     {
      "id": "numbers-76ac1f0d",
      "en": "Fifty.",
      "ta": "அம்பது.",
-     "tl": "Ambadhu."
+     "tl": "Ambadhu.",
+     "te": "యాభై."
     },
     {
      "id": "numbers-e1010788",
      "en": "One hundred.",
      "ta": "நூறு.",
-     "tl": "Nooru."
+     "tl": "Nooru.",
+     "te": "వంద."
     },
     {
      "id": "numbers-8caae7c0",
      "en": "One thousand.",
      "ta": "ஆயிரம்.",
-     "tl": "Aayiram."
+     "tl": "Aayiram.",
+     "te": "వెయ్యి."
     },
     {
      "id": "numbers-e730dab8",
      "en": "One lakh.",
      "ta": "ஒரு லட்சம்.",
-     "tl": "Oru latcham."
+     "tl": "Oru latcham.",
+     "te": "ఒక లక్ష."
     },
     {
      "id": "numbers-59cb92a8",
      "en": "What time is it now?",
      "ta": "இப்ப மணி என்ன?",
-     "tl": "Ippa mani enna?"
+     "tl": "Ippa mani enna?",
+     "te": "ఇప్పుడు టైమ్ ఎంత?"
     },
     {
      "id": "numbers-3e739241",
      "en": "It's one o'clock.",
      "ta": "மணி ஒண்ணு.",
-     "tl": "Mani onnu."
+     "tl": "Mani onnu.",
+     "te": "ఒంటి గంట."
     },
     {
      "id": "numbers-fd99be0c",
      "en": "It's half past three.",
      "ta": "மணி மூணரை.",
-     "tl": "Mani moonarai."
+     "tl": "Mani moonarai.",
+     "te": "మూడున్నర."
     },
     {
      "id": "numbers-2a5f3db2",
      "en": "It's quarter past five.",
      "ta": "மணி அஞ்சேகால்.",
-     "tl": "Mani anjekaal."
+     "tl": "Mani anjekaal.",
+     "te": "ఐదుంపావు."
     },
     {
      "id": "numbers-e5dd4fae",
      "en": "It's quarter to seven.",
      "ta": "மணி ஏழுக்கு கால்.",
-     "tl": "Mani ezhukku kaal."
+     "tl": "Mani ezhukku kaal.",
+     "te": "ఏడుకి పావు తక్కువ."
     },
     {
      "id": "numbers-7109d2aa",
      "en": "It's ten in the morning.",
      "ta": "காலைல பத்து மணி.",
-     "tl": "Kaalaila paththu mani."
+     "tl": "Kaalaila paththu mani.",
+     "te": "ఉదయం పది గంటలు."
     },
     {
      "id": "numbers-3c70e9c2",
      "en": "It's eight at night.",
      "ta": "ராத்திரி எட்டு மணி.",
-     "tl": "Raathiri ettu mani."
+     "tl": "Raathiri ettu mani.",
+     "te": "రాత్రి ఎనిమిది గంటలు."
     },
     {
      "id": "numbers-4f292ffd",
      "en": "Come at five o'clock.",
      "ta": "அஞ்சு மணிக்கு வா.",
-     "tl": "Anju manikku vaa."
+     "tl": "Anju manikku vaa.",
+     "te": "ఐదు గంటలకి రా."
     },
     {
      "id": "numbers-8b5e783e",
      "en": "I'll come in ten minutes.",
      "ta": "பத்து நிமிஷத்துல வரேன்.",
-     "tl": "Paththu nimishathula varen."
+     "tl": "Paththu nimishathula varen.",
+     "te": "పది నిమిషాల్లో వస్తాను."
     },
     {
      "id": "numbers-dbbcd7d8",
      "en": "Wait for two minutes.",
      "ta": "ரெண்டு நிமிஷம் இரு.",
-     "tl": "Rendu nimisham iru."
+     "tl": "Rendu nimisham iru.",
+     "te": "రెండు నిమిషాలు ఆగు."
     },
     {
      "id": "numbers-5cb83485",
      "en": "It takes one hour.",
      "ta": "ஒரு மணி நேரம் ஆகும்.",
-     "tl": "Oru mani neram aagum."
+     "tl": "Oru mani neram aagum.",
+     "te": "ఒక గంట పడుతుంది."
     },
     {
      "id": "numbers-6981c248",
      "en": "I waited for half an hour.",
      "ta": "அரை மணி நேரம் காத்திருந்தேன்.",
-     "tl": "Arai mani neram kaathirundhen."
+     "tl": "Arai mani neram kaathirundhen.",
+     "te": "అరగంట ఎదురుచూశాను."
     },
     {
      "id": "numbers-cf23c559",
      "en": "What's today's date?",
      "ta": "இன்னைக்கு தேதி என்ன?",
-     "tl": "Innaikku thedhi enna?"
+     "tl": "Innaikku thedhi enna?",
+     "te": "ఈ రోజు తేదీ ఎంత?"
     },
     {
      "id": "numbers-5336af17",
      "en": "Today is the fifteenth.",
      "ta": "இன்னைக்கு பதினஞ்சாம் தேதி.",
-     "tl": "Innaikku padhinanjaam thedhi."
+     "tl": "Innaikku padhinanjaam thedhi.",
+     "te": "ఈ రోజు పదిహేనో తేదీ."
     },
     {
      "id": "numbers-c3bddfcc",
      "en": "What day is it today?",
      "ta": "இன்னைக்கு என்ன கிழமை?",
-     "tl": "Innaikku enna kizhamai?"
+     "tl": "Innaikku enna kizhamai?",
+     "te": "ఈ రోజు ఏ వారం?"
     },
     {
      "id": "numbers-7e59e30f",
      "en": "Today is Monday.",
      "ta": "இன்னைக்கு திங்கக்கிழமை.",
-     "tl": "Innaikku thingakkizhamai."
+     "tl": "Innaikku thingakkizhamai.",
+     "te": "ఈ రోజు సోమవారం."
     },
     {
      "id": "numbers-9ddaf8d0",
      "en": "Tomorrow is Tuesday.",
      "ta": "நாளைக்கு செவ்வாய்க்கிழமை.",
-     "tl": "Naalaikku sevvaaikkizhamai."
+     "tl": "Naalaikku sevvaaikkizhamai.",
+     "te": "రేపు మంగళవారం."
     },
     {
      "id": "numbers-019e1ee0",
      "en": "Wednesday.",
      "ta": "புதன்கிழமை.",
-     "tl": "Pudhankizhamai."
+     "tl": "Pudhankizhamai.",
+     "te": "బుధవారం."
     },
     {
      "id": "numbers-eab5c9f3",
      "en": "Thursday.",
      "ta": "வியாழக்கிழமை.",
-     "tl": "Viyaazhakkizhamai."
+     "tl": "Viyaazhakkizhamai.",
+     "te": "గురువారం."
     },
     {
      "id": "numbers-5955fe01",
      "en": "Saturday and Sunday are holidays.",
      "ta": "சனி, ஞாயிறு லீவு.",
-     "tl": "Sani, nyaayiru leevu."
+     "tl": "Sani, nyaayiru leevu.",
+     "te": "శని, ఆదివారాలు సెలవు."
     },
     {
      "id": "numbers-ae0b3fda",
      "en": "See you next week.",
      "ta": "அடுத்த வாரம் பாக்கலாம்.",
-     "tl": "Adutha vaaram paakkalaam."
+     "tl": "Adutha vaaram paakkalaam.",
+     "te": "వచ్చే వారం కలుద్దాం."
     },
     {
      "id": "numbers-612a5b82",
      "en": "I'll come next month.",
      "ta": "அடுத்த மாசம் வரேன்.",
-     "tl": "Adutha maasam varen."
+     "tl": "Adutha maasam varen.",
+     "te": "వచ్చే నెల వస్తాను."
     },
     {
      "id": "numbers-8f77b610",
      "en": "Last year I went to Madurai.",
      "ta": "போன வருஷம் மதுரைக்கு போனேன்.",
-     "tl": "Pona varusham madhuraikku ponen."
+     "tl": "Pona varusham madhuraikku ponen.",
+     "te": "పోయిన సంవత్సరం మదురై వెళ్ళాను."
     },
     {
      "id": "numbers-9c45bfe2",
      "en": "My birthday is in June.",
      "ta": "என் பிறந்தநாள் ஜூன்ல.",
-     "tl": "En pirandhanaal junela."
+     "tl": "En pirandhanaal junela.",
+     "te": "నా పుట్టినరోజు జూన్‌లో."
     },
     {
      "id": "numbers-2799f2a1",
      "en": "How much does this cost?",
      "ta": "இதோட விலை என்ன?",
-     "tl": "Idhoda vilai enna?"
+     "tl": "Idhoda vilai enna?",
+     "te": "దీని ధర ఎంత?"
     },
     {
      "id": "numbers-bdc1acad",
      "en": "It's two hundred and fifty rupees.",
      "ta": "இருநூத்தம்பது ரூபா.",
-     "tl": "Irunoothambadhu roobaa."
+     "tl": "Irunoothambadhu roobaa.",
+     "te": "రెండు వందల యాభై రూపాయలు."
     },
     {
      "id": "numbers-9d6105c9",
      "en": "It's only ten rupees.",
      "ta": "பத்து ரூபாதான்.",
-     "tl": "Paththu roobaadhaan."
+     "tl": "Paththu roobaadhaan.",
+     "te": "పది రూపాయలే."
     },
     {
      "id": "numbers-3669df21",
      "en": "Give me change for five hundred.",
      "ta": "அஞ்சுநூறுக்கு சில்லறை குடுங்க.",
-     "tl": "Anjunoorukku sillarai kudunga."
+     "tl": "Anjunoorukku sillarai kudunga.",
+     "te": "ఐదు వందలకి చిల్లర ఇవ్వండి."
     },
     {
      "id": "numbers-eb70e8ce",
      "en": "I don't have change.",
      "ta": "சில்லறை இல்ல.",
-     "tl": "Sillarai illa."
+     "tl": "Sillarai illa.",
+     "te": "చిల్లర లేదు."
     },
     {
      "id": "numbers-2d198a96",
      "en": "How much should I pay?",
      "ta": "எவ்ளோ குடுக்கணும்?",
-     "tl": "Evlo kudukkanum?"
+     "tl": "Evlo kudukkanum?",
+     "te": "ఎంత ఇవ్వాలి?"
     },
     {
      "id": "numbers-ac9b6b4b",
      "en": "The total is one thousand rupees.",
      "ta": "மொத்தம் ஆயிரம் ரூபா.",
-     "tl": "Moththam aayiram roobaa."
+     "tl": "Moththam aayiram roobaa.",
+     "te": "మొత్తం వెయ్యి రూపాయలు."
     },
     {
      "id": "numbers-9d2876a6",
      "en": "Give me two coffees.",
      "ta": "ரெண்டு காபி குடுங்க.",
-     "tl": "Rendu coffee kudunga."
+     "tl": "Rendu coffee kudunga.",
+     "te": "రెండు కాఫీలు ఇవ్వండి."
     },
     {
      "id": "numbers-58ce12db",
      "en": "Three tickets, please.",
      "ta": "மூணு டிக்கெட் குடுங்க.",
-     "tl": "Moonu ticket kudunga."
+     "tl": "Moonu ticket kudunga.",
+     "te": "మూడు టికెట్లు ఇవ్వండి."
     },
     {
      "id": "numbers-1557f487",
      "en": "I have two brothers.",
      "ta": "எனக்கு ரெண்டு அண்ணன்ங்க.",
-     "tl": "Enakku rendu annanga."
+     "tl": "Enakku rendu annanga.",
+     "te": "నాకు ఇద్దరు అన్నయ్యలు."
     },
     {
      "id": "numbers-5ebca73d",
      "en": "There are five people in my family.",
      "ta": "எங்க வீட்ல அஞ்சு பேர்.",
-     "tl": "Enga veetla anju per."
+     "tl": "Enga veetla anju per.",
+     "te": "మా ఇంట్లో ఐదుగురం."
     },
     {
      "id": "numbers-fd93bb16",
      "en": "I'm thirty years old.",
      "ta": "எனக்கு முப்பது வயசு.",
-     "tl": "Enakku muppadhu vayasu."
+     "tl": "Enakku muppadhu vayasu.",
+     "te": "నా వయసు ముప్ఫై."
     },
     {
      "id": "numbers-c6208861",
      "en": "My phone number is nine eight four four.",
      "ta": "என் நம்பர் ஒம்பது எட்டு நாலு நாலு.",
-     "tl": "En number ombadhu ettu naalu naalu."
+     "tl": "En number ombadhu ettu naalu naalu.",
+     "te": "నా నంబర్ తొమ్మిది ఎనిమిది నాలుగు నాలుగు."
     },
     {
      "id": "numbers-014b64f0",
      "en": "Which floor?",
      "ta": "எத்தனாவது மாடி?",
-     "tl": "Eththanaavadhu maadi?"
+     "tl": "Eththanaavadhu maadi?",
+     "te": "ఎన్నో అంతస్తు?"
     },
     {
      "id": "numbers-1cfbd1b0",
      "en": "Third floor.",
      "ta": "மூணாவது மாடி.",
-     "tl": "Moonaavadhu maadi."
+     "tl": "Moonaavadhu maadi.",
+     "te": "మూడో అంతస్తు."
     },
     {
      "id": "numbers-5b6cf6f9",
      "en": "The first one.",
      "ta": "முதல்ல இருக்கறது.",
-     "tl": "Mudhalla irukkaradhu."
+     "tl": "Mudhalla irukkaradhu.",
+     "te": "మొదటిది."
     },
     {
      "id": "numbers-fb54bb8d",
      "en": "The second one.",
      "ta": "ரெண்டாவது.",
-     "tl": "Rendaavadhu."
+     "tl": "Rendaavadhu.",
+     "te": "రెండోది."
     },
     {
      "id": "numbers-f1a61d66",
      "en": "The last one.",
      "ta": "கடைசில இருக்கறது.",
-     "tl": "Kadaisila irukkaradhu."
+     "tl": "Kadaisila irukkaradhu.",
+     "te": "చివరిది."
     },
     {
      "id": "numbers-c0b2b4dd",
      "en": "Half.",
      "ta": "பாதி.",
-     "tl": "Paadhi."
+     "tl": "Paadhi.",
+     "te": "సగం."
     },
     {
      "id": "numbers-1fda0302",
      "en": "A quarter.",
      "ta": "கால்.",
-     "tl": "Kaal."
+     "tl": "Kaal.",
+     "te": "పావు."
     },
     {
      "id": "numbers-4767e453",
      "en": "A little more.",
      "ta": "இன்னும் கொஞ்சம்.",
-     "tl": "Innum konjam."
+     "tl": "Innum konjam.",
+     "te": "ఇంకొంచెం."
     },
     {
      "id": "numbers-a141de42",
      "en": "Too much.",
      "ta": "ரொம்ப அதிகம்.",
-     "tl": "Romba adhigam."
+     "tl": "Romba adhigam.",
+     "te": "చాలా ఎక్కువ."
     },
     {
      "id": "numbers-b44f5bab",
      "en": "Too little.",
      "ta": "ரொம்ப கம்மி.",
-     "tl": "Romba kammi."
+     "tl": "Romba kammi.",
+     "te": "చాలా తక్కువ."
     },
     {
      "id": "numbers-a28bb9b8",
      "en": "Count to ten.",
      "ta": "பத்து வரைக்கும் எண்ணு.",
-     "tl": "Paththu varaikkum ennu."
+     "tl": "Paththu varaikkum ennu.",
+     "te": "పది వరకు లెక్కపెట్టు."
     },
     {
      "id": "numbers-45ef42da",
      "en": "How many?",
      "ta": "எத்தன?",
-     "tl": "Eththana?"
+     "tl": "Eththana?",
+     "te": "ఎన్ని?"
     },
     {
      "id": "numbers-e66096c6",
      "en": "How many days?",
      "ta": "எத்தன நாள்?",
-     "tl": "Eththana naal?"
+     "tl": "Eththana naal?",
+     "te": "ఎన్ని రోజులు?"
     },
     {
      "id": "numbers-945bbab7",
      "en": "Three days.",
      "ta": "மூணு நாள்.",
-     "tl": "Moonu naal."
+     "tl": "Moonu naal.",
+     "te": "మూడు రోజులు."
     },
     {
      "id": "numbers-34c58f1b",
      "en": "Every day.",
      "ta": "தினமும்.",
-     "tl": "Dhinamum."
+     "tl": "Dhinamum.",
+     "te": "ప్రతి రోజూ."
     },
     {
      "id": "numbers-7c64a3f3",
      "en": "Twice a week.",
      "ta": "வாரத்துக்கு ரெண்டு தடவ.",
-     "tl": "Vaarathukku rendu thadava."
+     "tl": "Vaarathukku rendu thadava.",
+     "te": "వారానికి రెండుసార్లు."
     },
     {
      "id": "numbers-fb6a7c81",
      "en": "Once a month.",
      "ta": "மாசத்துக்கு ஒரு தடவ.",
-     "tl": "Maasathukku oru thadava."
+     "tl": "Maasathukku oru thadava.",
+     "te": "నెలకి ఒకసారి."
     },
     {
      "id": "numbers-0d026c8c",
      "en": "Early morning.",
      "ta": "விடியக்காலைல.",
-     "tl": "Vidiyakkaalaila."
+     "tl": "Vidiyakkaalaila.",
+     "te": "తెల్లవారుజామున."
     },
     {
      "id": "numbers-4494d866",
      "en": "In the afternoon.",
      "ta": "மத்தியானம்.",
-     "tl": "Mathiyaanam."
+     "tl": "Mathiyaanam.",
+     "te": "మధ్యాహ్నం."
     },
     {
      "id": "numbers-8d844ab7",
      "en": "In the evening.",
      "ta": "சாயங்காலம்.",
-     "tl": "Saayangaalam."
+     "tl": "Saayangaalam.",
+     "te": "సాయంత్రం."
     },
     {
      "id": "numbers-8d5d60e8",
      "en": "At midnight.",
      "ta": "நடுராத்திரில.",
-     "tl": "Naduraathirila."
+     "tl": "Naduraathirila.",
+     "te": "అర్ధరాత్రి."
     },
     {
      "id": "numbers-41e021f4",
      "en": "The day after tomorrow.",
      "ta": "நாளன்னைக்கு.",
-     "tl": "Naalannaikku."
+     "tl": "Naalannaikku.",
+     "te": "ఎల్లుండి."
     },
     {
      "id": "numbers-e0c40124",
      "en": "The day before yesterday.",
      "ta": "முந்தாநேத்து.",
-     "tl": "Mundhaanethu."
+     "tl": "Mundhaanethu.",
+     "te": "మొన్న."
     },
     {
      "id": "numbers-421c9c10",
      "en": "I'm free after six.",
      "ta": "ஆறு மணிக்கு அப்புறம் ஃப்ரீ.",
-     "tl": "Aaru manikku appuram free."
+     "tl": "Aaru manikku appuram free.",
+     "te": "ఆరు తర్వాత ఫ్రీ."
     },
     {
      "id": "numbers-80ffd984",
      "en": "The shop opens at nine.",
      "ta": "கடை ஒம்பது மணிக்கு திறக்கும்.",
-     "tl": "Kadai ombadhu manikku thirakkum."
+     "tl": "Kadai ombadhu manikku thirakkum.",
+     "te": "షాప్ తొమ్మిదింటికి తెరుస్తారు."
     }
-   ]
+   ],
+   "teCount": 70
   },
   {
    "id": "family",
@@ -7598,417 +8844,487 @@ window.PP_DATA = {
      "id": "family-bc488bb9",
      "en": "This is my mother.",
      "ta": "இவங்க என் அம்மா.",
-     "tl": "Ivanga en amma."
+     "tl": "Ivanga en amma.",
+     "te": "ఈమె మా అమ్మ."
     },
     {
      "id": "family-5a0adf72",
      "en": "This is my father.",
      "ta": "இவரு என் அப்பா.",
-     "tl": "Ivaru en appaa."
+     "tl": "Ivaru en appaa.",
+     "te": "ఈయన మా నాన్న."
     },
     {
      "id": "family-b5891b83",
      "en": "He is my elder brother.",
      "ta": "அவன் என் அண்ணன்.",
-     "tl": "Avan en annan."
+     "tl": "Avan en annan.",
+     "te": "అతను మా అన్నయ్య."
     },
     {
      "id": "family-0ff77712",
      "en": "He is my younger brother.",
      "ta": "அவன் என் தம்பி.",
-     "tl": "Avan en thambi."
+     "tl": "Avan en thambi.",
+     "te": "వాడు మా తమ్ముడు."
     },
     {
      "id": "family-9c58d34a",
      "en": "She is my elder sister.",
      "ta": "அவ என் அக்கா.",
-     "tl": "Ava en akkaa."
+     "tl": "Ava en akkaa.",
+     "te": "ఆమె మా అక్క."
     },
     {
      "id": "family-64f39b40",
      "en": "She is my younger sister.",
      "ta": "அவ என் தங்கச்சி.",
-     "tl": "Ava en thangachi."
+     "tl": "Ava en thangachi.",
+     "te": "అది మా చెల్లి."
     },
     {
      "id": "family-ec2a54dd",
      "en": "My grandfather is eighty.",
      "ta": "என் தாத்தாவுக்கு எம்பது வயசு.",
-     "tl": "En thaathaavukku embadhu vayasu."
+     "tl": "En thaathaavukku embadhu vayasu.",
+     "te": "మా తాతయ్యకి ఎనభై ఏళ్ళు."
     },
     {
      "id": "family-ca4504fc",
      "en": "My grandmother tells stories.",
      "ta": "என் பாட்டி கதை சொல்லுவாங்க.",
-     "tl": "En paatti kadhai solluvaanga."
+     "tl": "En paatti kadhai solluvaanga.",
+     "te": "మా నానమ్మ కథలు చెప్తుంది."
     },
     {
      "id": "family-89108aad",
      "en": "My uncle lives in Coimbatore.",
      "ta": "என் மாமா கோயம்புத்தூர்ல இருக்காரு.",
-     "tl": "En maamaa koyamputhoorla irukkaaru."
+     "tl": "En maamaa koyamputhoorla irukkaaru.",
+     "te": "మా మామయ్య కోయంబత్తూర్‌లో ఉంటారు."
     },
     {
      "id": "family-89b3b4b4",
      "en": "My aunt is a teacher.",
      "ta": "என் அத்தை டீச்சர்.",
-     "tl": "En aththai teacher."
+     "tl": "En aththai teacher.",
+     "te": "మా అత్తయ్య టీచర్."
     },
     {
      "id": "family-d84f02f1",
      "en": "My father's younger brother is coming.",
      "ta": "என் சித்தப்பா வராரு.",
-     "tl": "En chithappaa varaaru."
+     "tl": "En chithappaa varaaru.",
+     "te": "మా బాబాయ్ వస్తున్నారు."
     },
     {
      "id": "family-033cf8ad",
      "en": "My mother's younger sister is coming.",
      "ta": "என் சித்தி வராங்க.",
-     "tl": "En chithi varaanga."
+     "tl": "En chithi varaanga.",
+     "te": "మా పిన్ని వస్తున్నారు."
     },
     {
      "id": "family-3b5c378e",
      "en": "My father's elder brother.",
      "ta": "என் பெரியப்பா.",
-     "tl": "En periyappaa."
+     "tl": "En periyappaa.",
+     "te": "మా పెదనాన్న."
     },
     {
      "id": "family-6fab5ab2",
      "en": "My mother's elder sister.",
      "ta": "என் பெரியம்மா.",
-     "tl": "En periyammaa."
+     "tl": "En periyammaa.",
+     "te": "మా పెద్దమ్మ."
     },
     {
      "id": "family-c9602f50",
      "en": "My cousin is getting married.",
      "ta": "என் கஸின்க்கு கல்யாணம்.",
-     "tl": "En cousinkku kalyaanam."
+     "tl": "En cousinkku kalyaanam.",
+     "te": "మా కజిన్‌కి పెళ్ళి."
     },
     {
      "id": "family-dac5e737",
      "en": "This is my wife.",
      "ta": "இவங்க என் மனைவி.",
-     "tl": "Ivanga en manaivi."
+     "tl": "Ivanga en manaivi.",
+     "te": "ఈమె నా భార్య."
     },
     {
      "id": "family-24f59b51",
      "en": "This is my husband.",
      "ta": "இவரு என் கணவர்.",
-     "tl": "Ivaru en kanavar."
+     "tl": "Ivaru en kanavar.",
+     "te": "ఈయన నా భర్త."
     },
     {
      "id": "family-c0f6ed3b",
      "en": "My son goes to school.",
      "ta": "என் பையன் ஸ்கூலுக்கு போறான்.",
-     "tl": "En paiyan schoolukku poraan."
+     "tl": "En paiyan schoolukku poraan.",
+     "te": "మా అబ్బాయి స్కూల్‌కి వెళ్తాడు."
     },
     {
      "id": "family-932ec024",
      "en": "My daughter is in college.",
      "ta": "என் பொண்ணு காலேஜ்ல படிக்கறா.",
-     "tl": "En ponnu collegela padikkaraa."
+     "tl": "En ponnu collegela padikkaraa.",
+     "te": "మా అమ్మాయి కాలేజీలో చదువుతోంది."
     },
     {
      "id": "family-f190513a",
      "en": "My grandson is very naughty.",
      "ta": "என் பேரன் ரொம்ப சேட்டை.",
-     "tl": "En peran romba settai."
+     "tl": "En peran romba settai.",
+     "te": "మా మనవడు చాలా అల్లరి."
     },
     {
      "id": "family-8cb5fca4",
      "en": "My granddaughter loves to dance.",
      "ta": "என் பேத்திக்கு டான்ஸ்னா உயிர்.",
-     "tl": "En pethikku dancenaa uyir."
+     "tl": "En pethikku dancenaa uyir.",
+     "te": "మా మనవరాలికి డ్యాన్స్ అంటే ప్రాణం."
     },
     {
      "id": "family-75c65f70",
      "en": "My father-in-law is very kind.",
      "ta": "என் மாமனார் ரொம்ப நல்லவரு.",
-     "tl": "En maamanaar romba nallavaru."
+     "tl": "En maamanaar romba nallavaru.",
+     "te": "మా మామగారు చాలా మంచివారు."
     },
     {
      "id": "family-522fa24f",
      "en": "My mother-in-law cooks well.",
      "ta": "என் மாமியார் நல்லா சமைப்பாங்க.",
-     "tl": "En maamiyaar nallaa samaippaanga."
+     "tl": "En maamiyaar nallaa samaippaanga.",
+     "te": "మా అత్తగారు బాగా వండుతారు."
     },
     {
      "id": "family-0316f794",
      "en": "My brother-in-law is my friend.",
      "ta": "என் மச்சான் என் ஃப்ரெண்ட்.",
-     "tl": "En machaan en friend."
+     "tl": "En machaan en friend.",
+     "te": "మా బావ నా ఫ్రెండ్."
     },
     {
      "id": "family-5c5c7dc7",
      "en": "Amma, I'm home!",
      "ta": "அம்மா, நான் வந்துட்டேன்!",
-     "tl": "Amma, naan vandhutten!"
+     "tl": "Amma, naan vandhutten!",
+     "te": "అమ్మా, నేను వచ్చేశాను!"
     },
     {
      "id": "family-19d52665",
      "en": "Amma, I'm hungry.",
      "ta": "அம்மா, பசிக்குது.",
-     "tl": "Amma, pasikkudhu."
+     "tl": "Amma, pasikkudhu.",
+     "te": "అమ్మా, ఆకలేస్తోంది."
     },
     {
      "id": "family-923471e1",
      "en": "Appa, give me some money.",
      "ta": "அப்பா, கொஞ்சம் காசு குடுங்க.",
-     "tl": "Appaa, konjam kaasu kudunga."
+     "tl": "Appaa, konjam kaasu kudunga.",
+     "te": "నాన్నా, కొంచెం డబ్బులు ఇవ్వండి."
     },
     {
      "id": "family-8c77d86c",
      "en": "Anna, wait for me.",
      "ta": "அண்ணா, எனக்காக இரு.",
-     "tl": "Annaa, enakkaaga iru."
+     "tl": "Annaa, enakkaaga iru.",
+     "te": "అన్నయ్యా, నా కోసం ఆగు."
     },
     {
      "id": "family-6e4b2ba5",
      "en": "Akka, help me with homework.",
      "ta": "அக்கா, ஹோம்வொர்க்ல ஹெல்ப் பண்ணு.",
-     "tl": "Akkaa, homeworkla help pannu."
+     "tl": "Akkaa, homeworkla help pannu.",
+     "te": "అక్కా, హోంవర్క్‌లో హెల్ప్ చెయ్."
     },
     {
      "id": "family-1907ce45",
      "en": "Thambi, come here.",
      "ta": "தம்பி, இங்க வா.",
-     "tl": "Thambi, inga vaa."
+     "tl": "Thambi, inga vaa.",
+     "te": "తమ్ముడూ, ఇక్కడికి రా."
     },
     {
      "id": "family-3bd27dae",
      "en": "Grandma, tell me a story.",
      "ta": "பாட்டி, ஒரு கதை சொல்லுங்க.",
-     "tl": "Paatti, oru kadhai sollunga."
+     "tl": "Paatti, oru kadhai sollunga.",
+     "te": "నానమ్మా, ఒక కథ చెప్పు."
     },
     {
      "id": "family-f947b7f6",
      "en": "Where is Appa?",
      "ta": "அப்பா எங்க?",
-     "tl": "Appaa enga?"
+     "tl": "Appaa enga?",
+     "te": "నాన్న ఎక్కడ?"
     },
     {
      "id": "family-d688fe14",
      "en": "Mom is in the kitchen.",
      "ta": "அம்மா கிச்சன்ல இருக்காங்க.",
-     "tl": "Amma kitchenla irukkaanga."
+     "tl": "Amma kitchenla irukkaanga.",
+     "te": "అమ్మ వంటింట్లో ఉంది."
     },
     {
      "id": "family-7ee8bc38",
      "en": "Dad went to the office.",
      "ta": "அப்பா ஆபீஸுக்கு போயிட்டாரு.",
-     "tl": "Appaa officekku poyittaaru."
+     "tl": "Appaa officekku poyittaaru.",
+     "te": "నాన్న ఆఫీస్‌కి వెళ్ళారు."
     },
     {
      "id": "family-18b57b68",
      "en": "Everyone is at home today.",
      "ta": "இன்னைக்கு எல்லாரும் வீட்ல இருக்காங்க.",
-     "tl": "Innaikku ellaarum veetla irukkaanga."
+     "tl": "Innaikku ellaarum veetla irukkaanga.",
+     "te": "ఈ రోజు అందరూ ఇంట్లోనే ఉన్నారు."
     },
     {
      "id": "family-12f0f37b",
      "en": "We're a joint family.",
      "ta": "நாங்க கூட்டு குடும்பம்.",
-     "tl": "Naanga koottu kudumbam."
+     "tl": "Naanga koottu kudumbam.",
+     "te": "మాది ఉమ్మడి కుటుంబం."
     },
     {
      "id": "family-4a5075d2",
      "en": "I'm the eldest child.",
      "ta": "நான்தான் மூத்த பிள்ளை.",
-     "tl": "Naandhaan mootha pillai."
+     "tl": "Naandhaan mootha pillai.",
+     "te": "నేనే పెద్దవాడిని."
     },
     {
      "id": "family-873aacb8",
      "en": "I'm the youngest.",
      "ta": "நான்தான் கடைக்குட்டி.",
-     "tl": "Naandhaan kadaikkutti."
+     "tl": "Naandhaan kadaikkutti.",
+     "te": "నేనే చిన్నవాడిని."
     },
     {
      "id": "family-9d825ff9",
      "en": "I'm an only child.",
      "ta": "நான் ஒரே பிள்ளை.",
-     "tl": "Naan ore pillai."
+     "tl": "Naan ore pillai.",
+     "te": "నేను ఒక్కడినే."
     },
     {
      "id": "family-e11b957a",
      "en": "How many brothers and sisters do you have?",
      "ta": "உனக்கு எத்தன அண்ணன் தம்பி அக்கா தங்கச்சி?",
-     "tl": "Unakku eththana annan thambi akkaa thangachi?"
+     "tl": "Unakku eththana annan thambi akkaa thangachi?",
+     "te": "నీకు ఎంత మంది అన్నదమ్ములు, అక్కచెల్లెళ్ళు?"
     },
     {
      "id": "family-2c187fad",
      "en": "Are your parents well?",
      "ta": "உங்க அப்பா அம்மா நல்லா இருக்காங்களா?",
-     "tl": "Unga appaa ammaa nallaa irukkaangalaa?"
+     "tl": "Unga appaa ammaa nallaa irukkaangalaa?",
+     "te": "మీ అమ్మానాన్న బాగున్నారా?"
     },
     {
      "id": "family-35f85889",
      "en": "Say hi to your family.",
      "ta": "வீட்ல எல்லாருக்கும் என் வணக்கம் சொல்லுங்க.",
-     "tl": "Veetla ellaarukkum en vanakkam sollunga."
+     "tl": "Veetla ellaarukkum en vanakkam sollunga.",
+     "te": "ఇంట్లో అందరికీ నా నమస్కారం చెప్పండి."
     },
     {
      "id": "family-d7689147",
      "en": "My parents live in the village.",
      "ta": "என் அப்பா அம்மா ஊர்ல இருக்காங்க.",
-     "tl": "En appaa ammaa oorla irukkaanga."
+     "tl": "En appaa ammaa oorla irukkaanga.",
+     "te": "మా అమ్మానాన్న ఊళ్ళో ఉంటారు."
     },
     {
      "id": "family-02d07a0f",
      "en": "I'm going to my hometown.",
      "ta": "நான் ஊருக்கு போறேன்.",
-     "tl": "Naan oorukku poren."
+     "tl": "Naan oorukku poren.",
+     "te": "నేను ఊరికి వెళ్తున్నాను."
     },
     {
      "id": "family-30b8e05a",
      "en": "We visit grandma every summer.",
      "ta": "ஒவ்வொரு லீவுக்கும் பாட்டி வீட்டுக்கு போவோம்.",
-     "tl": "Ovvoru leevukkum paatti veettukku povom."
+     "tl": "Ovvoru leevukkum paatti veettukku povom.",
+     "te": "ప్రతి సెలవులకి నానమ్మ ఇంటికి వెళ్తాం."
     },
     {
      "id": "family-11dccda1",
      "en": "The whole family is coming for Pongal.",
      "ta": "பொங்கலுக்கு குடும்பமே வருது.",
-     "tl": "Pongalukku kudumbame varudhu."
+     "tl": "Pongalukku kudumbame varudhu.",
+     "te": "సంక్రాంతికి కుటుంబమంతా వస్తోంది."
     },
     {
      "id": "family-e0ec6853",
      "en": "My mother is my best friend.",
      "ta": "அம்மாதான் என் பெஸ்ட் ஃப்ரெண்ட்.",
-     "tl": "Ammaadhaan en best friend."
+     "tl": "Ammaadhaan en best friend.",
+     "te": "అమ్మే నా బెస్ట్ ఫ్రెండ్."
     },
     {
      "id": "family-9e793f16",
      "en": "My father is very strict.",
      "ta": "எங்க அப்பா ரொம்ப கண்டிப்பு.",
-     "tl": "Enga appaa romba kandippu."
+     "tl": "Enga appaa romba kandippu.",
+     "te": "మా నాన్న చాలా స్ట్రిక్ట్."
     },
     {
      "id": "family-65c485eb",
      "en": "My parents are proud of me.",
      "ta": "என் அப்பா அம்மா என்ன நினைச்சு பெருமைப்படறாங்க.",
-     "tl": "En appaa ammaa enna ninaichu perumaippadaraanga."
+     "tl": "En appaa ammaa enna ninaichu perumaippadaraanga.",
+     "te": "మా అమ్మానాన్న నన్ను చూసి గర్వపడుతున్నారు."
     },
     {
      "id": "family-6f1a1aba",
      "en": "Mom, don't worry.",
      "ta": "அம்மா, கவலைப்படாதீங்க.",
-     "tl": "Amma, kavalaippadaadheenga."
+     "tl": "Amma, kavalaippadaadheenga.",
+     "te": "అమ్మా, దిగులు పడకు."
     },
     {
      "id": "family-634294cb",
      "en": "Take your tablets on time, Appa.",
      "ta": "அப்பா, நேரத்துக்கு மாத்திரை போடுங்க.",
-     "tl": "Appaa, nerathukku maathirai podunga."
+     "tl": "Appaa, nerathukku maathirai podunga.",
+     "te": "నాన్నా, టైమ్‌కి మాత్రలు వేసుకోండి."
     },
     {
      "id": "family-1a746d97",
      "en": "My brother and I fight a lot.",
      "ta": "நானும் என் தம்பியும் நிறைய சண்டை போடுவோம்.",
-     "tl": "Naanum en thambiyum niraiya sandai poduvom."
+     "tl": "Naanum en thambiyum niraiya sandai poduvom.",
+     "te": "నేనూ మా తమ్ముడూ బాగా గొడవ పడతాం."
     },
     {
      "id": "family-5a0ff1ca",
      "en": "My sister got a new job.",
      "ta": "என் அக்காவுக்கு புது வேலை கிடைச்சுது.",
-     "tl": "En akkaavukku pudhu velai kidaichudhu."
+     "tl": "En akkaavukku pudhu velai kidaichudhu.",
+     "te": "మా అక్కకి కొత్త ఉద్యోగం వచ్చింది."
     },
     {
      "id": "family-2106a214",
      "en": "My baby is one year old.",
      "ta": "என் பாப்பாவுக்கு ஒரு வயசு.",
-     "tl": "En paappaavukku oru vayasu."
+     "tl": "En paappaavukku oru vayasu.",
+     "te": "మా పాపకి ఒక సంవత్సరం."
     },
     {
      "id": "family-fb51b2f0",
      "en": "The baby is sleeping.",
      "ta": "பாப்பா தூங்குது.",
-     "tl": "Paappaa thoongudhu."
+     "tl": "Paappaa thoongudhu.",
+     "te": "పాప నిద్రపోతోంది."
     },
     {
      "id": "family-5ff5b543",
      "en": "The kids are playing outside.",
      "ta": "பசங்க வெளிய விளையாடறாங்க.",
-     "tl": "Pasanga veliya vilaiyaadaraanga."
+     "tl": "Pasanga veliya vilaiyaadaraanga.",
+     "te": "పిల్లలు బయట ఆడుకుంటున్నారు."
     },
     {
      "id": "family-d5a0088b",
      "en": "Kids, come and eat.",
      "ta": "பசங்களா, வாங்க சாப்பிடலாம்.",
-     "tl": "Pasangalaa, vaanga saappidalaam."
+     "tl": "Pasangalaa, vaanga saappidalaam.",
+     "te": "పిల్లలూ, రండి తిందాం."
     },
     {
      "id": "family-eb3319c7",
      "en": "Did you call your mother?",
      "ta": "அம்மாவுக்கு கால் பண்ணியா?",
-     "tl": "Ammaavukku call panniyaa?"
+     "tl": "Ammaavukku call panniyaa?",
+     "te": "అమ్మకి కాల్ చేశావా?"
     },
     {
      "id": "family-9bbc6ce8",
      "en": "Respect your elders.",
      "ta": "பெரியவங்கள மதிக்கணும்.",
-     "tl": "Periyavangala madhikkanum."
+     "tl": "Periyavangala madhikkanum.",
+     "te": "పెద్దవాళ్ళని గౌరవించాలి."
     },
     {
      "id": "family-01a0d942",
      "en": "Touch your grandfather's feet.",
      "ta": "தாத்தா கால்ல விழுந்து கும்பிடு.",
-     "tl": "Thaathaa kaalla vizhundhu kumbidu."
+     "tl": "Thaathaa kaalla vizhundhu kumbidu.",
+     "te": "తాతయ్య కాళ్ళకి దణ్ణం పెట్టు."
     },
     {
      "id": "family-0ce2ff6f",
      "en": "Family comes first.",
      "ta": "குடும்பம்தான் முதல்ல.",
-     "tl": "Kudumbamdhaan mudhalla."
+     "tl": "Kudumbamdhaan mudhalla.",
+     "te": "కుటుంబమే ముందు."
     },
     {
      "id": "family-53e6f29b",
      "en": "We're getting together for dinner.",
      "ta": "எல்லாரும் சேர்ந்து டின்னர் சாப்பிடறோம்.",
-     "tl": "Ellaarum serndhu dinner saappidarom."
+     "tl": "Ellaarum serndhu dinner saappidarom.",
+     "te": "అందరం కలిసి డిన్నర్ చేస్తున్నాం."
     },
     {
      "id": "family-5c981144",
      "en": "My nephew is very smart.",
      "ta": "என் அக்கா பையன் ரொம்ப புத்திசாலி.",
-     "tl": "En akkaa paiyan romba buddhisaali."
+     "tl": "En akkaa paiyan romba buddhisaali.",
+     "te": "మా అక్క కొడుకు చాలా తెలివైనవాడు."
     },
     {
      "id": "family-4d4f8bfa",
      "en": "My niece calls me every day.",
      "ta": "என் அண்ணன் பொண்ணு தினமும் கால் பண்ணுவா.",
-     "tl": "En annan ponnu dhinamum call pannuvaa."
+     "tl": "En annan ponnu dhinamum call pannuvaa.",
+     "te": "మా అన్నయ్య కూతురు రోజూ కాల్ చేస్తుంది."
     },
     {
      "id": "family-b6a98533",
      "en": "I miss my family.",
      "ta": "குடும்பத்த மிஸ் பண்றேன்.",
-     "tl": "Kudumbatha miss panren."
+     "tl": "Kudumbatha miss panren.",
+     "te": "కుటుంబాన్ని మిస్ అవుతున్నాను."
     },
     {
      "id": "family-cc75aaca",
      "en": "I love my family.",
      "ta": "எனக்கு என் குடும்பம் ரொம்ப பிடிக்கும்.",
-     "tl": "Enakku en kudumbam romba pidikkum."
+     "tl": "Enakku en kudumbam romba pidikkum.",
+     "te": "నా కుటుంబం నాకు చాలా ఇష్టం."
     },
     {
      "id": "family-edb5114a",
      "en": "Our neighbors are like family.",
      "ta": "எங்க பக்கத்து வீட்டுக்காரங்க குடும்பம் மாதிரி.",
-     "tl": "Enga pakkathu veettukkaaranga kudumbam maadhiri."
+     "tl": "Enga pakkathu veettukkaaranga kudumbam maadhiri.",
+     "te": "మా పక్కింటివాళ్ళు కుటుంబంలాంటివాళ్ళు."
     },
     {
      "id": "family-96c4405a",
      "en": "My best friend is like my brother.",
      "ta": "என் பெஸ்ட் ஃப்ரெண்ட் என் சகோதரன் மாதிரி.",
-     "tl": "En best friend en sagodharan maadhiri."
+     "tl": "En best friend en sagodharan maadhiri.",
+     "te": "నా బెస్ట్ ఫ్రెండ్ నా తమ్ముడిలాంటివాడు."
     },
     {
      "id": "family-fd15e80b",
      "en": "Our family is small but happy.",
      "ta": "எங்க குடும்பம் சின்னது, ஆனா சந்தோஷமானது.",
-     "tl": "Enga kudumbam chinnadhu, aanaa santhoshamaanadhu."
+     "tl": "Enga kudumbam chinnadhu, aanaa santhoshamaanadhu.",
+     "te": "మా కుటుంబం చిన్నది, కానీ సంతోషంగా ఉంటుంది."
     }
-   ]
+   ],
+   "teCount": 69
   },
   {
    "id": "food",
@@ -8026,423 +9342,494 @@ window.PP_DATA = {
      "id": "food-3226542a",
      "en": "I'm very hungry.",
      "ta": "எனக்கு ரொம்ப பசிக்குது.",
-     "tl": "Enakku romba pasikkudhu."
+     "tl": "Enakku romba pasikkudhu.",
+     "te": "నాకు చాలా ఆకలిగా ఉంది."
     },
     {
      "id": "food-a9debf15",
      "en": "Let's eat.",
      "ta": "சாப்பிடலாம் வா.",
-     "tl": "Saappidalaam vaa."
+     "tl": "Saappidalaam vaa.",
+     "te": "తిందాం రా."
     },
     {
      "id": "food-6a818521",
      "en": "What's for lunch?",
      "ta": "மதியம் என்ன சாப்பாடு?",
-     "tl": "Madhiyam enna saappaadu?"
+     "tl": "Madhiyam enna saappaadu?",
+     "te": "మధ్యాహ్నం భోజనం ఏంటి?"
     },
     {
      "id": "food-23390a41",
      "en": "What's for dinner?",
      "ta": "ராத்திரிக்கு என்ன?",
-     "tl": "Raathirikku enna?"
+     "tl": "Raathirikku enna?",
+     "te": "రాత్రికి ఏంటి?"
     },
     {
      "id": "food-16cafbd6",
      "en": "Today it's sambar rice.",
      "ta": "இன்னைக்கு சாம்பார் சாதம்.",
-     "tl": "Innaikku saambaar saadham."
+     "tl": "Innaikku saambaar saadham.",
+     "te": "ఈ రోజు సాంబార్ అన్నం."
     },
     {
      "id": "food-a9830b9e",
      "en": "I want curd rice.",
      "ta": "எனக்கு தயிர் சாதம் வேணும்.",
-     "tl": "Enakku thayir saadham venum."
+     "tl": "Enakku thayir saadham venum.",
+     "te": "నాకు పెరుగన్నం కావాలి."
     },
     {
      "id": "food-96b010a2",
      "en": "Give me two idlis.",
      "ta": "ரெண்டு இட்லி குடுங்க.",
-     "tl": "Rendu idli kudunga."
+     "tl": "Rendu idli kudunga.",
+     "te": "రెండు ఇడ్లీలు ఇవ్వండి."
     },
     {
      "id": "food-2a556382",
      "en": "One masala dosa, please.",
      "ta": "ஒரு மசால் தோசை குடுங்க.",
-     "tl": "Oru masaal dosai kudunga."
+     "tl": "Oru masaal dosai kudunga.",
+     "te": "ఒక మసాలా దోసె ఇవ్వండి."
     },
     {
      "id": "food-a1b8e6ba",
      "en": "Is there parotta?",
      "ta": "பரோட்டா இருக்கா?",
-     "tl": "Parottaa irukkaa?"
+     "tl": "Parottaa irukkaa?",
+     "te": "పరోటా ఉందా?"
     },
     {
      "id": "food-93d9a2a9",
      "en": "One chicken biryani.",
      "ta": "ஒரு சிக்கன் பிரியாணி.",
-     "tl": "Oru chicken biriyaani."
+     "tl": "Oru chicken biriyaani.",
+     "te": "ఒక చికెన్ బిర్యానీ."
     },
     {
      "id": "food-7f49ac30",
      "en": "Do you have vegetarian food?",
      "ta": "சைவ சாப்பாடு இருக்கா?",
-     "tl": "Saiva saappaadu irukkaa?"
+     "tl": "Saiva saappaadu irukkaa?",
+     "te": "శాకాహారం ఉందా?"
     },
     {
      "id": "food-0855de28",
      "en": "I'm vegetarian.",
      "ta": "நான் சைவம்.",
-     "tl": "Naan saivam."
+     "tl": "Naan saivam.",
+     "te": "నేను శాకాహారిని."
     },
     {
      "id": "food-d1b680e0",
      "en": "I don't eat meat.",
      "ta": "நான் கறி சாப்பிட மாட்டேன்.",
-     "tl": "Naan kari saappida maatten."
+     "tl": "Naan kari saappida maatten.",
+     "te": "నేను మాంసం తినను."
     },
     {
      "id": "food-47e89b79",
      "en": "I eat non-veg.",
      "ta": "நான் அசைவம் சாப்பிடுவேன்.",
-     "tl": "Naan asaivam saappiduven."
+     "tl": "Naan asaivam saappiduven.",
+     "te": "నేను నాన్‌వెజ్ తింటాను."
     },
     {
      "id": "food-c76e8311",
      "en": "What do you recommend?",
      "ta": "எது நல்லா இருக்கும்?",
-     "tl": "Edhu nallaa irukkum?"
+     "tl": "Edhu nallaa irukkum?",
+     "te": "ఏది బాగుంటుంది?"
     },
     {
      "id": "food-b08ccb7e",
      "en": "What's special today?",
      "ta": "இன்னைக்கு ஸ்பெஷல் என்ன?",
-     "tl": "Innaikku special enna?"
+     "tl": "Innaikku special enna?",
+     "te": "ఈ రోజు స్పెషల్ ఏంటి?"
     },
     {
      "id": "food-8a9baa51",
      "en": "Show me the menu.",
      "ta": "மெனு காட்டுங்க.",
-     "tl": "Menu kaattunga."
+     "tl": "Menu kaattunga.",
+     "te": "మెనూ చూపించండి."
     },
     {
      "id": "food-ebdcd0b2",
      "en": "Table for four, please.",
      "ta": "நாலு பேருக்கு டேபிள் இருக்கா?",
-     "tl": "Naalu perukku table irukkaa?"
+     "tl": "Naalu perukku table irukkaa?",
+     "te": "నలుగురికి టేబుల్ ఉందా?"
     },
     {
      "id": "food-416a23c8",
      "en": "Water, please.",
      "ta": "தண்ணி குடுங்க.",
-     "tl": "Thanni kudunga."
+     "tl": "Thanni kudunga.",
+     "te": "నీళ్ళు ఇవ్వండి."
     },
     {
      "id": "food-6d76926b",
      "en": "Not too spicy.",
      "ta": "ரொம்ப காரம் வேண்டாம்.",
-     "tl": "Romba kaaram vendaam."
+     "tl": "Romba kaaram vendaam.",
+     "te": "ఎక్కువ కారం వద్దు."
     },
     {
      "id": "food-48e04956",
      "en": "Make it extra spicy.",
      "ta": "நல்லா காரமா போடுங்க.",
-     "tl": "Nallaa kaaramaa podunga."
+     "tl": "Nallaa kaaramaa podunga.",
+     "te": "బాగా కారంగా వేయండి."
     },
     {
      "id": "food-8aa9f31e",
      "en": "No sugar in my coffee.",
      "ta": "காபில சக்கரை வேண்டாம்.",
-     "tl": "Coffeela sakkarai vendaam."
+     "tl": "Coffeela sakkarai vendaam.",
+     "te": "కాఫీలో చక్కెర వద్దు."
     },
     {
      "id": "food-0bfd164b",
      "en": "One more plate.",
      "ta": "இன்னொரு ப்ளேட்.",
-     "tl": "Innoru plate."
+     "tl": "Innoru plate.",
+     "te": "ఇంకొక ప్లేట్."
     },
     {
      "id": "food-5931b335",
      "en": "A little more rice, please.",
      "ta": "இன்னும் கொஞ்சம் சாதம் போடுங்க.",
-     "tl": "Innum konjam saadham podunga."
+     "tl": "Innum konjam saadham podunga.",
+     "te": "ఇంకొంచెం అన్నం వేయండి."
     },
     {
      "id": "food-c39b4857",
      "en": "More sambar, please.",
      "ta": "இன்னும் கொஞ்சம் சாம்பார்.",
-     "tl": "Innum konjam saambaar."
+     "tl": "Innum konjam saambaar.",
+     "te": "ఇంకొంచెం సాంబార్."
     },
     {
      "id": "food-107cfc57",
      "en": "Enough, thank you.",
      "ta": "போதும், நன்றி.",
-     "tl": "Podhum, nandri."
+     "tl": "Podhum, nandri.",
+     "te": "చాలు, థ్యాంక్స్."
     },
     {
      "id": "food-89cfa9a1",
      "en": "I'm full.",
      "ta": "வயிறு நிறைஞ்சிடுச்சு.",
-     "tl": "Vayiru nirainjiduchu."
+     "tl": "Vayiru nirainjiduchu.",
+     "te": "కడుపు నిండిపోయింది."
     },
     {
      "id": "food-32ffe0b0",
      "en": "That was delicious.",
      "ta": "சாப்பாடு அருமையா இருந்துச்சு.",
-     "tl": "Saappaadu arumaiyaa irundhuchu."
+     "tl": "Saappaadu arumaiyaa irundhuchu.",
+     "te": "భోజనం అద్భుతంగా ఉంది."
     },
     {
      "id": "food-ddc8c79a",
      "en": "The food is too salty.",
      "ta": "உப்பு ரொம்ப அதிகம்.",
-     "tl": "Uppu romba adhigam."
+     "tl": "Uppu romba adhigam.",
+     "te": "ఉప్పు చాలా ఎక్కువైంది."
     },
     {
      "id": "food-62400d71",
      "en": "There's no salt.",
      "ta": "உப்பே இல்ல.",
-     "tl": "Uppe illa."
+     "tl": "Uppe illa.",
+     "te": "ఉప్పే లేదు."
     },
     {
      "id": "food-e3af68be",
      "en": "The food is cold.",
      "ta": "சாப்பாடு சூடா இல்ல.",
-     "tl": "Saappaadu soodaa illa."
+     "tl": "Saappaadu soodaa illa.",
+     "te": "భోజనం వేడిగా లేదు."
     },
     {
      "id": "food-71a14baf",
      "en": "Bring the bill.",
      "ta": "பில் கொண்டு வாங்க.",
-     "tl": "Bill kondu vaanga."
+     "tl": "Bill kondu vaanga.",
+     "te": "బిల్ తీసుకురండి."
     },
     {
      "id": "food-cedaa6c2",
      "en": "Can I pay by GPay?",
      "ta": "ஜிபே பண்ணலாமா?",
-     "tl": "GPay pannalaamaa?"
+     "tl": "GPay pannalaamaa?",
+     "te": "జీపే చేయొచ్చా?"
     },
     {
      "id": "food-dded7086",
      "en": "Pack it, please.",
      "ta": "பார்சல் பண்ணுங்க.",
-     "tl": "Parcel pannunga."
+     "tl": "Parcel pannunga.",
+     "te": "పార్సెల్ చేయండి."
     },
     {
      "id": "food-03ac1f81",
      "en": "One parcel.",
      "ta": "ஒரு பார்சல்.",
-     "tl": "Oru parcel."
+     "tl": "Oru parcel.",
+     "te": "ఒక పార్సెల్."
     },
     {
      "id": "food-bb1f8af1",
      "en": "Let's order online.",
      "ta": "ஆன்லைன்ல ஆர்டர் பண்ணலாம்.",
-     "tl": "Onlinela order pannalaam."
+     "tl": "Onlinela order pannalaam.",
+     "te": "ఆన్‌లైన్‌లో ఆర్డర్ చేద్దాం."
     },
     {
      "id": "food-29e7c3ca",
      "en": "The delivery is late.",
      "ta": "டெலிவரி லேட் ஆகுது.",
-     "tl": "Delivery late aagudhu."
+     "tl": "Delivery late aagudhu.",
+     "te": "డెలివరీ లేట్ అవుతోంది."
     },
     {
      "id": "food-5e6d3c40",
      "en": "Let's go for street food.",
      "ta": "ரோட்டு கடைக்கு போலாம்.",
-     "tl": "Rottu kadaikku polaam."
+     "tl": "Rottu kadaikku polaam.",
+     "te": "రోడ్డు పక్క బండికి వెళ్దాం."
     },
     {
      "id": "food-7ea9b7f6",
      "en": "I love filter coffee.",
      "ta": "எனக்கு ஃபில்டர் காபி ரொம்ப பிடிக்கும்.",
-     "tl": "Enakku filter coffee romba pidikkum."
+     "tl": "Enakku filter coffee romba pidikkum.",
+     "te": "నాకు ఫిల్టర్ కాఫీ అంటే చాలా ఇష్టం."
     },
     {
      "id": "food-97273e24",
      "en": "One strong tea.",
      "ta": "ஒரு ஸ்ட்ராங் டீ.",
-     "tl": "Oru strong tea."
+     "tl": "Oru strong tea.",
+     "te": "ఒక స్ట్రాంగ్ టీ."
     },
     {
      "id": "food-4f3c1c47",
      "en": "Tea with less sugar.",
      "ta": "சக்கரை கம்மியா டீ.",
-     "tl": "Sakkarai kammiyaa tea."
+     "tl": "Sakkarai kammiyaa tea.",
+     "te": "చక్కెర తక్కువగా టీ."
     },
     {
      "id": "food-8b50adc7",
      "en": "Fresh lime juice, please.",
      "ta": "ஒரு ஃப்ரெஷ் லைம் ஜூஸ்.",
-     "tl": "Oru fresh lime juice."
+     "tl": "Oru fresh lime juice.",
+     "te": "ఒక ఫ్రెష్ లైమ్ జ్యూస్."
     },
     {
      "id": "food-e3b6c7df",
      "en": "Tender coconut, please.",
      "ta": "ஒரு இளநீர் குடுங்க.",
-     "tl": "Oru ilaneer kudunga."
+     "tl": "Oru ilaneer kudunga.",
+     "te": "ఒక కొబ్బరిబోండం ఇవ్వండి."
     },
     {
      "id": "food-b391366f",
      "en": "How do you make this?",
      "ta": "இத எப்படி செய்யறது?",
-     "tl": "Idha eppadi seiyaradhu?"
+     "tl": "Idha eppadi seiyaradhu?",
+     "te": "ఇది ఎలా చేస్తారు?"
     },
     {
      "id": "food-827961f4",
      "en": "Teach me to cook this.",
      "ta": "இத சமைக்க எனக்கு சொல்லி குடு.",
-     "tl": "Idha samaikka enakku solli kudu."
+     "tl": "Idha samaikka enakku solli kudu.",
+     "te": "ఇది వండటం నాకు నేర్పించు."
     },
     {
      "id": "food-15362b3b",
      "en": "Mom's food is the best.",
      "ta": "அம்மா சமையல்தான் பெஸ்ட்.",
-     "tl": "Amma samaiyaldhaan best."
+     "tl": "Amma samaiyaldhaan best.",
+     "te": "అమ్మ వంటే బెస్ట్."
     },
     {
      "id": "food-ad4fc828",
      "en": "I'm cooking rasam today.",
      "ta": "இன்னைக்கு ரசம் வைக்கறேன்.",
-     "tl": "Innaikku rasam vaikkaren."
+     "tl": "Innaikku rasam vaikkaren.",
+     "te": "ఈ రోజు చారు పెడుతున్నాను."
     },
     {
      "id": "food-691e6d29",
      "en": "Add some salt.",
      "ta": "கொஞ்சம் உப்பு போடு.",
-     "tl": "Konjam uppu podu."
+     "tl": "Konjam uppu podu.",
+     "te": "కొంచెం ఉప్పు వెయ్."
     },
     {
      "id": "food-a624bd32",
      "en": "Fry the onions.",
      "ta": "வெங்காயத்த வதக்கு.",
-     "tl": "Vengaayatha vadhakku."
+     "tl": "Vengaayatha vadhakku.",
+     "te": "ఉల్లిపాయలు వేయించు."
     },
     {
      "id": "food-c5f34974",
      "en": "Boil the water.",
      "ta": "தண்ணிய கொதிக்க வை.",
-     "tl": "Thanniya kodhikka vai."
+     "tl": "Thanniya kodhikka vai.",
+     "te": "నీళ్ళు మరిగించు."
     },
     {
      "id": "food-2d036edb",
      "en": "The rice is burning.",
      "ta": "சாதம் அடிபிடிக்குது.",
-     "tl": "Saadham adipidikkudhu."
+     "tl": "Saadham adipidikkudhu.",
+     "te": "అన్నం అడుగంటుతోంది."
     },
     {
      "id": "food-97803da9",
      "en": "Don't waste food.",
      "ta": "சாப்பாட்ட வீணாக்காத.",
-     "tl": "Saappaatta veenaakkaadha."
+     "tl": "Saappaatta veenaakkaadha.",
+     "te": "భోజనం వృథా చేయకు."
     },
     {
      "id": "food-b37b9866",
      "en": "Eat slowly.",
      "ta": "மெதுவா சாப்பிடு.",
-     "tl": "Medhuvaa saappidu."
+     "tl": "Medhuvaa saappidu.",
+     "te": "నెమ్మదిగా తిను."
     },
     {
      "id": "food-325bf388",
      "en": "Eat well.",
      "ta": "நல்லா சாப்பிடு.",
-     "tl": "Nallaa saappidu."
+     "tl": "Nallaa saappidu.",
+     "te": "బాగా తిను."
     },
     {
      "id": "food-29bd2748",
      "en": "Have some more.",
      "ta": "இன்னும் கொஞ்சம் சாப்பிடு.",
-     "tl": "Innum konjam saappidu."
+     "tl": "Innum konjam saappidu.",
+     "te": "ఇంకొంచెం తిను."
     },
     {
      "id": "food-e78210e5",
      "en": "Have you had lunch?",
      "ta": "மதியம் சாப்பிட்டியா?",
-     "tl": "Madhiyam saappittiyaa?"
+     "tl": "Madhiyam saappittiyaa?",
+     "te": "మధ్యాహ్నం భోజనం చేశావా?"
     },
     {
      "id": "food-3d0d22af",
      "en": "Not yet.",
      "ta": "இன்னும் இல்ல.",
-     "tl": "Innum illa."
+     "tl": "Innum illa.",
+     "te": "ఇంకా లేదు."
     },
     {
      "id": "food-9ad8a4c9",
      "en": "I skipped breakfast.",
      "ta": "நான் டிபன் சாப்பிடல.",
-     "tl": "Naan tiffin saappidala."
+     "tl": "Naan tiffin saappidala.",
+     "te": "నేను టిఫిన్ చేయలేదు."
     },
     {
      "id": "food-695ca8d7",
      "en": "I'm on a diet.",
      "ta": "நான் டயட்ல இருக்கேன்.",
-     "tl": "Naan dietla irukken."
+     "tl": "Naan dietla irukken.",
+     "te": "నేను డైట్‌లో ఉన్నాను."
     },
     {
      "id": "food-8f30596c",
      "en": "I'm allergic to peanuts.",
      "ta": "எனக்கு கடலை அலர்ஜி.",
-     "tl": "Enakku kadalai allergy."
+     "tl": "Enakku kadalai allergy.",
+     "te": "నాకు పల్లీలు అలర్జీ."
     },
     {
      "id": "food-2506357f",
      "en": "Is this fresh?",
      "ta": "இது ஃப்ரெஷ்ஷா?",
-     "tl": "Idhu freshaa?"
+     "tl": "Idhu freshaa?",
+     "te": "ఇది ఫ్రెష్‌గా ఉందా?"
     },
     {
      "id": "food-7072cfda",
      "en": "This mango is so sweet.",
      "ta": "இந்த மாம்பழம் செம்ம இனிப்பு.",
-     "tl": "Indha maambazham semma inippu."
+     "tl": "Indha maambazham semma inippu.",
+     "te": "ఈ మామిడిపండు చాలా తియ్యగా ఉంది."
     },
     {
      "id": "food-4f45a81b",
      "en": "Let's have ice cream.",
      "ta": "ஐஸ்க்ரீம் சாப்பிடலாம்.",
-     "tl": "Icecream saappidalaam."
+     "tl": "Icecream saappidalaam.",
+     "te": "ఐస్‌క్రీమ్ తిందాం."
     },
     {
      "id": "food-623016a5",
      "en": "I love sweets.",
      "ta": "எனக்கு ஸ்வீட்ஸ்னா ரொம்ப பிடிக்கும்.",
-     "tl": "Enakku sweetsnaa romba pidikkum."
+     "tl": "Enakku sweetsnaa romba pidikkum.",
+     "te": "నాకు స్వీట్లంటే చాలా ఇష్టం."
     },
     {
      "id": "food-fc829eb5",
      "en": "Payasam is ready.",
      "ta": "பாயசம் ரெடி.",
-     "tl": "Paayasam ready."
+     "tl": "Paayasam ready.",
+     "te": "పాయసం రెడీ."
     },
     {
      "id": "food-61e22a13",
      "en": "Serve it on a banana leaf.",
      "ta": "வாழை இலையில பரிமாறுங்க.",
-     "tl": "Vaazhai ilaiyila parimaarunga."
+     "tl": "Vaazhai ilaiyila parimaarunga.",
+     "te": "అరిటాకులో వడ్డించండి."
     },
     {
      "id": "food-1d493cb1",
      "en": "Wash your hands before eating.",
      "ta": "சாப்பிடறதுக்கு முன்னாடி கை கழுவு.",
-     "tl": "Saappidaradhukku munnaadi kai kazhuvu."
+     "tl": "Saappidaradhukku munnaadi kai kazhuvu.",
+     "te": "తినే ముందు చేతులు కడుక్కో."
     },
     {
      "id": "food-e4c21ebd",
      "en": "The restaurant is crowded.",
      "ta": "ஹோட்டல்ல செம்ம கூட்டம்.",
-     "tl": "Hotella semma koottam."
+     "tl": "Hotella semma koottam.",
+     "te": "హోటల్‌లో చాలా జనం."
     },
     {
      "id": "food-45ff94b7",
      "en": "We'll wait for a table.",
      "ta": "டேபிளுக்கு வெயிட் பண்றோம்.",
-     "tl": "Tablekku wait panrom."
+     "tl": "Tablekku wait panrom.",
+     "te": "టేబుల్ కోసం వెయిట్ చేస్తాం."
     },
     {
      "id": "food-7a01ad2e",
      "en": "Keep the tip.",
      "ta": "டிப்ஸ் வச்சுக்கோங்க.",
-     "tl": "Tips vachukkonga."
+     "tl": "Tips vachukkonga.",
+     "te": "టిప్ ఉంచుకోండి."
     }
-   ]
+   ],
+   "teCount": 70
   },
   {
    "id": "work",
@@ -8460,417 +9847,487 @@ window.PP_DATA = {
      "id": "work-c0d2aeb9",
      "en": "I'm going to work.",
      "ta": "நான் வேலைக்கு போறேன்.",
-     "tl": "Naan velaikku poren."
+     "tl": "Naan velaikku poren.",
+     "te": "నేను పనికి వెళ్తున్నాను."
     },
     {
      "id": "work-13060f63",
      "en": "I'm working from home today.",
      "ta": "இன்னைக்கு வீட்லேர்ந்து வேலை பாக்கறேன்.",
-     "tl": "Innaikku veetlerndhu velai paakkaren."
+     "tl": "Innaikku veetlerndhu velai paakkaren.",
+     "te": "ఈ రోజు ఇంటి నుంచి పని చేస్తున్నాను."
     },
     {
      "id": "work-c306b472",
      "en": "I have a meeting at ten.",
      "ta": "பத்து மணிக்கு மீட்டிங் இருக்கு.",
-     "tl": "Paththu manikku meeting irukku."
+     "tl": "Paththu manikku meeting irukku.",
+     "te": "పది గంటలకి మీటింగ్ ఉంది."
     },
     {
      "id": "work-8f64245e",
      "en": "The meeting got cancelled.",
      "ta": "மீட்டிங் கேன்சல் ஆயிடுச்சு.",
-     "tl": "Meeting cancel aayiduchu."
+     "tl": "Meeting cancel aayiduchu.",
+     "te": "మీటింగ్ క్యాన్సిల్ అయింది."
     },
     {
      "id": "work-e3674a63",
      "en": "I'm in a meeting.",
      "ta": "நான் மீட்டிங்ல இருக்கேன்.",
-     "tl": "Naan meetingla irukken."
+     "tl": "Naan meetingla irukken.",
+     "te": "నేను మీటింగ్‌లో ఉన్నాను."
     },
     {
      "id": "work-ae58262d",
      "en": "I'll call you after the meeting.",
      "ta": "மீட்டிங் முடிஞ்சதும் கால் பண்றேன்.",
-     "tl": "Meeting mudinjadhum call panren."
+     "tl": "Meeting mudinjadhum call panren.",
+     "te": "మీటింగ్ అయ్యాక కాల్ చేస్తాను."
     },
     {
      "id": "work-308d01b2",
      "en": "I have a lot of work today.",
      "ta": "இன்னைக்கு நிறைய வேலை இருக்கு.",
-     "tl": "Innaikku niraiya velai irukku."
+     "tl": "Innaikku niraiya velai irukku.",
+     "te": "ఈ రోజు చాలా పని ఉంది."
     },
     {
      "id": "work-5cec5987",
      "en": "I'm very busy.",
      "ta": "நான் ரொம்ப பிஸி.",
-     "tl": "Naan romba busy."
+     "tl": "Naan romba busy.",
+     "te": "నేను చాలా బిజీ."
     },
     {
      "id": "work-ac689afb",
      "en": "The deadline is tomorrow.",
      "ta": "நாளைக்குதான் டெட்லைன்.",
-     "tl": "Naalaikkudhaan deadline."
+     "tl": "Naalaikkudhaan deadline.",
+     "te": "రేపే డెడ్‌లైన్."
     },
     {
      "id": "work-839518b9",
      "en": "I finished the report.",
      "ta": "ரிப்போர்ட்ட முடிச்சிட்டேன்.",
-     "tl": "Reportta mudichitten."
+     "tl": "Reportta mudichitten.",
+     "te": "రిపోర్ట్ పూర్తి చేశాను."
     },
     {
      "id": "work-ebd3ca27",
      "en": "Send me the file.",
      "ta": "எனக்கு அந்த ஃபைல அனுப்புங்க.",
-     "tl": "Enakku andha file-a anuppunga."
+     "tl": "Enakku andha file-a anuppunga.",
+     "te": "నాకు ఆ ఫైల్ పంపండి."
     },
     {
      "id": "work-626bf2e7",
      "en": "Check your email.",
      "ta": "உங்க மெயில பாருங்க.",
-     "tl": "Unga mail-a paarunga."
+     "tl": "Unga mail-a paarunga.",
+     "te": "మీ మెయిల్ చూడండి."
     },
     {
      "id": "work-61e3ee39",
      "en": "I sent you an email.",
      "ta": "உங்களுக்கு மெயில் அனுப்பிருக்கேன்.",
-     "tl": "Ungalukku mail anuppirukken."
+     "tl": "Ungalukku mail anuppirukken.",
+     "te": "మీకు మెయిల్ పంపించాను."
     },
     {
      "id": "work-6170e424",
      "en": "My boss is angry.",
      "ta": "என் பாஸ் கோபமா இருக்காரு.",
-     "tl": "En boss kobamaa irukkaaru."
+     "tl": "En boss kobamaa irukkaaru.",
+     "te": "మా బాస్ కోపంగా ఉన్నారు."
     },
     {
      "id": "work-4d8e743a",
      "en": "My manager is on leave.",
      "ta": "என் மேனேஜர் லீவுல இருக்காரு.",
-     "tl": "En manager leevula irukkaaru."
+     "tl": "En manager leevula irukkaaru.",
+     "te": "మా మేనేజర్ సెలవులో ఉన్నారు."
     },
     {
      "id": "work-3278fd66",
      "en": "I need leave tomorrow.",
      "ta": "எனக்கு நாளைக்கு லீவு வேணும்.",
-     "tl": "Enakku naalaikku leevu venum."
+     "tl": "Enakku naalaikku leevu venum.",
+     "te": "నాకు రేపు సెలవు కావాలి."
     },
     {
      "id": "work-f78214bf",
      "en": "I'm on sick leave.",
      "ta": "நான் சிக் லீவுல இருக்கேன்.",
-     "tl": "Naan sick leevula irukken."
+     "tl": "Naan sick leevula irukken.",
+     "te": "నేను సిక్ లీవ్‌లో ఉన్నాను."
     },
     {
      "id": "work-ec3ce034",
      "en": "I'll be late today.",
      "ta": "இன்னைக்கு லேட்டா வருவேன்.",
-     "tl": "Innaikku late-aa varuven."
+     "tl": "Innaikku late-aa varuven.",
+     "te": "ఈ రోజు లేట్‌గా వస్తాను."
     },
     {
      "id": "work-a9ecac10",
      "en": "I'm stuck in traffic.",
      "ta": "ட்ராஃபிக்ல மாட்டிக்கிட்டேன்.",
-     "tl": "Trafficla maattikkitten."
+     "tl": "Trafficla maattikkitten.",
+     "te": "ట్రాఫిక్‌లో ఇరుక్కుపోయాను."
     },
     {
      "id": "work-5e985f24",
      "en": "The office is closed tomorrow.",
      "ta": "நாளைக்கு ஆபீஸ் லீவு.",
-     "tl": "Naalaikku office leevu."
+     "tl": "Naalaikku office leevu.",
+     "te": "రేపు ఆఫీస్‌కి సెలవు."
     },
     {
      "id": "work-b0642b92",
      "en": "When is lunch break?",
      "ta": "லஞ்ச் பிரேக் எப்போ?",
-     "tl": "Lunch break eppo?"
+     "tl": "Lunch break eppo?",
+     "te": "లంచ్ బ్రేక్ ఎప్పుడు?"
     },
     {
      "id": "work-0f83101e",
      "en": "Let's have tea.",
      "ta": "டீ குடிக்க போலாம்.",
-     "tl": "Tea kudikka polaam."
+     "tl": "Tea kudikka polaam.",
+     "te": "టీ తాగడానికి వెళ్దాం."
     },
     {
      "id": "work-da1b0444",
      "en": "I'm leaving for the day.",
      "ta": "நான் கிளம்பறேன்.",
-     "tl": "Naan kilambaren."
+     "tl": "Naan kilambaren.",
+     "te": "నేను బయలుదేరుతున్నాను."
     },
     {
      "id": "work-087f46e4",
      "en": "I worked late yesterday.",
      "ta": "நேத்து லேட் வரைக்கும் வேலை பாத்தேன்.",
-     "tl": "Nethu late varaikkum velai paathen."
+     "tl": "Nethu late varaikkum velai paathen.",
+     "te": "నిన్న లేట్ వరకు పని చేశాను."
     },
     {
      "id": "work-9e36342c",
      "en": "I'm tired of overtime.",
      "ta": "ஓவர்டைம் பண்ணி அலுத்துடுச்சு.",
-     "tl": "Overtime panni aluthuduchu."
+     "tl": "Overtime panni aluthuduchu.",
+     "te": "ఓవర్‌టైమ్ చేసి విసుగొచ్చేసింది."
     },
     {
      "id": "work-bc5eddf3",
      "en": "Salary hasn't come yet.",
      "ta": "இன்னும் சம்பளம் வரல.",
-     "tl": "Innum sambalam varala."
+     "tl": "Innum sambalam varala.",
+     "te": "ఇంకా జీతం రాలేదు."
     },
     {
      "id": "work-39713a3c",
      "en": "I got a hike.",
      "ta": "எனக்கு சம்பள உயர்வு கிடைச்சுது.",
-     "tl": "Enakku sambala uyarvu kidaichudhu."
+     "tl": "Enakku sambala uyarvu kidaichudhu.",
+     "te": "నాకు జీతం పెరిగింది."
     },
     {
      "id": "work-edf3e15a",
      "en": "I got promoted.",
      "ta": "எனக்கு ப்ரமோஷன் ஆயிடுச்சு.",
-     "tl": "Enakku promotion aayiduchu."
+     "tl": "Enakku promotion aayiduchu.",
+     "te": "నాకు ప్రమోషన్ వచ్చింది."
     },
     {
      "id": "work-855e452a",
      "en": "I have an interview tomorrow.",
      "ta": "நாளைக்கு எனக்கு இன்டர்வியூ.",
-     "tl": "Naalaikku enakku interview."
+     "tl": "Naalaikku enakku interview.",
+     "te": "రేపు నాకు ఇంటర్వ్యూ."
     },
     {
      "id": "work-9a638a7a",
      "en": "Wish me luck.",
      "ta": "எனக்கு ஆல் தி பெஸ்ட் சொல்லு.",
-     "tl": "Enakku all the best sollu."
+     "tl": "Enakku all the best sollu.",
+     "te": "నాకు ఆల్ ది బెస్ట్ చెప్పు."
     },
     {
      "id": "work-d12577ad",
      "en": "I'm looking for a job.",
      "ta": "நான் வேலை தேடிட்டு இருக்கேன்.",
-     "tl": "Naan velai thedittu irukken."
+     "tl": "Naan velai thedittu irukken.",
+     "te": "నేను ఉద్యోగం వెతుకుతున్నాను."
     },
     {
      "id": "work-fef9d994",
      "en": "I quit my job.",
      "ta": "நான் வேலைய விட்டுட்டேன்.",
-     "tl": "Naan velaiya vittutten."
+     "tl": "Naan velaiya vittutten.",
+     "te": "నేను ఉద్యోగం మానేశాను."
     },
     {
      "id": "work-8309fcf6",
      "en": "I'm joining a new company.",
      "ta": "நான் புது கம்பெனில சேர்றேன்.",
-     "tl": "Naan pudhu companyla serren."
+     "tl": "Naan pudhu companyla serren.",
+     "te": "నేను కొత్త కంపెనీలో చేరుతున్నాను."
     },
     {
      "id": "work-589f0409",
      "en": "This is my first day.",
      "ta": "இன்னைக்குதான் என் முதல் நாள்.",
-     "tl": "Innaikkudhaan en mudhal naal."
+     "tl": "Innaikkudhaan en mudhal naal.",
+     "te": "ఈ రోజే నా మొదటి రోజు."
     },
     {
      "id": "work-b64912fe",
      "en": "Welcome to the team.",
      "ta": "டீமுக்கு வெல்கம்.",
-     "tl": "Teamukku welcome."
+     "tl": "Teamukku welcome.",
+     "te": "టీమ్‌కి వెల్‌కమ్."
     },
     {
      "id": "work-51c0b3fe",
      "en": "Can you help me with this?",
      "ta": "இதுல கொஞ்சம் ஹெல்ப் பண்றீங்களா?",
-     "tl": "Idhula konjam help panreengalaa?"
+     "tl": "Idhula konjam help panreengalaa?",
+     "te": "దీంట్లో కొంచెం హెల్ప్ చేస్తారా?"
     },
     {
      "id": "work-1ca5e4bf",
      "en": "I don't understand this task.",
      "ta": "இந்த வேலை எனக்கு புரியல.",
-     "tl": "Indha velai enakku puriyala."
+     "tl": "Indha velai enakku puriyala.",
+     "te": "ఈ పని నాకు అర్థం కాలేదు."
     },
     {
      "id": "work-bf9e2473",
      "en": "Let me check and tell you.",
      "ta": "பாத்துட்டு சொல்றேன்.",
-     "tl": "Paathuttu solren."
+     "tl": "Paathuttu solren.",
+     "te": "చూసి చెప్తాను."
     },
     {
      "id": "work-19f32c96",
      "en": "I'll do it today.",
      "ta": "இன்னைக்கே பண்ணிடறேன்.",
-     "tl": "Innaikke pannidaren."
+     "tl": "Innaikke pannidaren.",
+     "te": "ఈ రోజే చేసేస్తాను."
     },
     {
      "id": "work-6871e131",
      "en": "It's done.",
      "ta": "முடிஞ்சிடுச்சு.",
-     "tl": "Mudinjiduchu."
+     "tl": "Mudinjiduchu.",
+     "te": "అయిపోయింది."
     },
     {
      "id": "work-d51b6f92",
      "en": "It's almost done.",
      "ta": "கிட்டத்தட்ட முடிஞ்சிடுச்சு.",
-     "tl": "Kittaththatta mudinjiduchu."
+     "tl": "Kittaththatta mudinjiduchu.",
+     "te": "దాదాపు అయిపోయింది."
     },
     {
      "id": "work-05abfc9e",
      "en": "Give me one more day.",
      "ta": "இன்னும் ஒரு நாள் குடுங்க.",
-     "tl": "Innum oru naal kudunga."
+     "tl": "Innum oru naal kudunga.",
+     "te": "ఇంకొక రోజు ఇవ్వండి."
     },
     {
      "id": "work-c2e13262",
      "en": "The system is down.",
      "ta": "சிஸ்டம் வேலை செய்யல.",
-     "tl": "System velai seiyala."
+     "tl": "System velai seiyala.",
+     "te": "సిస్టమ్ పనిచేయట్లేదు."
     },
     {
      "id": "work-76ef8847",
      "en": "My laptop crashed.",
      "ta": "என் லேப்டாப் ஹேங் ஆயிடுச்சு.",
-     "tl": "En laptop hang aayiduchu."
+     "tl": "En laptop hang aayiduchu.",
+     "te": "నా ల్యాప్‌టాప్ హ్యాంగ్ అయింది."
     },
     {
      "id": "work-7ca5bfd6",
      "en": "Call IT support.",
      "ta": "ஐடி சப்போர்ட்ட கூப்பிடுங்க.",
-     "tl": "IT supportta koopidunga."
+     "tl": "IT supportta koopidunga.",
+     "te": "ఐటీ సపోర్ట్‌ని పిలవండి."
     },
     {
      "id": "work-b4f2ba76",
      "en": "Join the call.",
      "ta": "கால்ல ஜாயின் பண்ணுங்க.",
-     "tl": "Callla join pannunga."
+     "tl": "Callla join pannunga.",
+     "te": "కాల్‌లో జాయిన్ అవ్వండి."
     },
     {
      "id": "work-de5f9ed0",
      "en": "You're on mute.",
      "ta": "நீங்க ம்யூட்ல இருக்கீங்க.",
-     "tl": "Neenga mutela irukkeenga."
+     "tl": "Neenga mutela irukkeenga.",
+     "te": "మీరు మ్యూట్‌లో ఉన్నారు."
     },
     {
      "id": "work-79563d55",
      "en": "Can you hear me?",
      "ta": "நான் பேசறது கேக்குதா?",
-     "tl": "Naan pesaradhu kekkudhaa?"
+     "tl": "Naan pesaradhu kekkudhaa?",
+     "te": "నేను మాట్లాడేది వినపడుతోందా?"
     },
     {
      "id": "work-cf07dcf0",
      "en": "Share your screen.",
      "ta": "ஸ்க்ரீன் ஷேர் பண்ணுங்க.",
-     "tl": "Screen share pannunga."
+     "tl": "Screen share pannunga.",
+     "te": "స్క్రీన్ షేర్ చేయండి."
     },
     {
      "id": "work-256fd498",
      "en": "Good work!",
      "ta": "நல்ல வேலை!",
-     "tl": "Nalla velai!"
+     "tl": "Nalla velai!",
+     "te": "మంచి పని!"
     },
     {
      "id": "work-d9b3c9f1",
      "en": "Thanks for your help.",
      "ta": "ஹெல்ப் பண்ணதுக்கு நன்றி.",
-     "tl": "Help pannadhukku nandri."
+     "tl": "Help pannadhukku nandri.",
+     "te": "హెల్ప్ చేసినందుకు థ్యాంక్స్."
     },
     {
      "id": "work-35db2595",
      "en": "Let's discuss tomorrow.",
      "ta": "நாளைக்கு பேசலாம்.",
-     "tl": "Naalaikku pesalaam."
+     "tl": "Naalaikku pesalaam.",
+     "te": "రేపు మాట్లాడదాం."
     },
     {
      "id": "work-249c4204",
      "en": "My colleague is very helpful.",
      "ta": "என் கூட வேலை பாக்கறவரு ரொம்ப உதவியா இருப்பாரு.",
-     "tl": "En kooda velai paakkaravaru romba udhaviyaa iruppaaru."
+     "tl": "En kooda velai paakkaravaru romba udhaviyaa iruppaaru.",
+     "te": "నాతో పనిచేసే ఆయన చాలా సహాయంగా ఉంటారు."
     },
     {
      "id": "work-c62ed321",
      "en": "I work in IT.",
      "ta": "நான் ஐடில வேலை பாக்கறேன்.",
-     "tl": "Naan ITla velai paakkaren."
+     "tl": "Naan ITla velai paakkaren.",
+     "te": "నేను ఐటీలో పని చేస్తాను."
     },
     {
      "id": "work-b251706b",
      "en": "I run a small business.",
      "ta": "நான் ஒரு சின்ன பிசினஸ் பண்றேன்.",
-     "tl": "Naan oru chinna business panren."
+     "tl": "Naan oru chinna business panren.",
+     "te": "నేను ఒక చిన్న బిజినెస్ చేస్తున్నాను."
     },
     {
      "id": "work-bbc27e52",
      "en": "Business is slow these days.",
      "ta": "இப்பல்லாம் பிசினஸ் டல்லா இருக்கு.",
-     "tl": "Ippallaam business dullaa irukku."
+     "tl": "Ippallaam business dullaa irukku.",
+     "te": "ఈ మధ్య బిజినెస్ డల్‌గా ఉంది."
     },
     {
      "id": "work-800bd781",
      "en": "I have exams next week.",
      "ta": "அடுத்த வாரம் எக்ஸாம்.",
-     "tl": "Adutha vaaram exam."
+     "tl": "Adutha vaaram exam.",
+     "te": "వచ్చే వారం పరీక్షలు."
     },
     {
      "id": "work-a772938c",
      "en": "I'm studying for the exam.",
      "ta": "எக்ஸாமுக்கு படிச்சிட்டு இருக்கேன்.",
-     "tl": "Examukku padichittu irukken."
+     "tl": "Examukku padichittu irukken.",
+     "te": "పరీక్షకి చదువుకుంటున్నాను."
     },
     {
      "id": "work-020a723b",
      "en": "I didn't do the homework.",
      "ta": "நான் ஹோம்வொர்க் பண்ணல.",
-     "tl": "Naan homework pannala."
+     "tl": "Naan homework pannala.",
+     "te": "నేను హోంవర్క్ చేయలేదు."
     },
     {
      "id": "work-9ed0db32",
      "en": "The teacher scolded me.",
      "ta": "டீச்சர் என்ன திட்டுனாங்க.",
-     "tl": "Teacher enna thittunaanga."
+     "tl": "Teacher enna thittunaanga.",
+     "te": "టీచర్ నన్ను తిట్టారు."
     },
     {
      "id": "work-0e468d2b",
      "en": "College starts on Monday.",
      "ta": "திங்கக்கிழமை காலேஜ் ஆரம்பிக்குது.",
-     "tl": "Thingakkizhamai college aarambikkudhu."
+     "tl": "Thingakkizhamai college aarambikkudhu.",
+     "te": "సోమవారం కాలేజీ మొదలవుతుంది."
     },
     {
      "id": "work-b6d5b025",
      "en": "What are you studying?",
      "ta": "நீ என்ன படிக்கற?",
-     "tl": "Nee enna padikkara?"
+     "tl": "Nee enna padikkara?",
+     "te": "నువ్వు ఏం చదువుతున్నావు?"
     },
     {
      "id": "work-fe483b1a",
      "en": "I'm studying engineering.",
      "ta": "நான் இன்ஜினியரிங் படிக்கறேன்.",
-     "tl": "Naan engineering padikkaren."
+     "tl": "Naan engineering padikkaren.",
+     "te": "నేను ఇంజనీరింగ్ చదువుతున్నాను."
     },
     {
      "id": "work-3e2a9578",
      "en": "Work is worship.",
      "ta": "செய்யும் தொழிலே தெய்வம்.",
-     "tl": "Seiyum thozhile dheivam."
+     "tl": "Seiyum thozhile dheivam.",
+     "te": "పనే దైవం."
     },
     {
      "id": "work-0547e2d2",
      "en": "Don't take work stress home.",
      "ta": "வேலை டென்ஷன வீட்டுக்கு கொண்டு வராத.",
-     "tl": "Velai tensiona veettukku kondu varaadha."
+     "tl": "Velai tensiona veettukku kondu varaadha.",
+     "te": "పని టెన్షన్ ఇంటికి తీసుకురాకు."
     },
     {
      "id": "work-d538c417",
      "en": "I need a break.",
      "ta": "எனக்கு ஒரு பிரேக் வேணும்.",
-     "tl": "Enakku oru break venum."
+     "tl": "Enakku oru break venum.",
+     "te": "నాకు ఒక బ్రేక్ కావాలి."
     },
     {
      "id": "work-54562712",
      "en": "Let's start the meeting.",
      "ta": "மீட்டிங் ஆரம்பிக்கலாம்.",
-     "tl": "Meeting aarambikkalaam."
+     "tl": "Meeting aarambikkalaam.",
+     "te": "మీటింగ్ మొదలుపెడదాం."
     },
     {
      "id": "work-c7fd51a2",
      "en": "Any questions?",
      "ta": "ஏதாவது கேள்வி இருக்கா?",
-     "tl": "Edhaavadhu kelvi irukkaa?"
+     "tl": "Edhaavadhu kelvi irukkaa?",
+     "te": "ఏమైనా ప్రశ్నలు ఉన్నాయా?"
     },
     {
      "id": "work-3f502177",
      "en": "That's all for today.",
      "ta": "இன்னைக்கு அவ்ளோதான்.",
-     "tl": "Innaikku avlodhaan."
+     "tl": "Innaikku avlodhaan.",
+     "te": "ఈ రోజుకి ఇంతే."
     }
-   ]
+   ],
+   "teCount": 69
   },
   {
    "id": "travel",
@@ -8888,423 +10345,494 @@ window.PP_DATA = {
      "id": "travel-2465ab92",
      "en": "Where is the bus stand?",
      "ta": "பஸ் ஸ்டாண்ட் எங்க இருக்கு?",
-     "tl": "Bus stand enga irukku?"
+     "tl": "Bus stand enga irukku?",
+     "te": "బస్ స్టాండ్ ఎక్కడ ఉంది?"
     },
     {
      "id": "travel-eb728b4d",
      "en": "Where is the railway station?",
      "ta": "ரயில்வே ஸ்டேஷன் எங்க?",
-     "tl": "Railway station enga?"
+     "tl": "Railway station enga?",
+     "te": "రైల్వే స్టేషన్ ఎక్కడ?"
     },
     {
      "id": "travel-538df2d9",
      "en": "How do I get to the beach?",
      "ta": "பீச்சுக்கு எப்படி போகணும்?",
-     "tl": "Beachukku eppadi poganum?"
+     "tl": "Beachukku eppadi poganum?",
+     "te": "బీచ్‌కి ఎలా వెళ్ళాలి?"
     },
     {
      "id": "travel-498ede3a",
      "en": "Is it walking distance?",
      "ta": "நடந்து போற தூரமா?",
-     "tl": "Nadandhu pora thooramaa?"
+     "tl": "Nadandhu pora thooramaa?",
+     "te": "నడిచి వెళ్ళేంత దూరమా?"
     },
     {
      "id": "travel-060ef1cb",
      "en": "It's very close.",
      "ta": "ரொம்ப பக்கம்.",
-     "tl": "Romba pakkam."
+     "tl": "Romba pakkam.",
+     "te": "చాలా దగ్గర."
     },
     {
      "id": "travel-006bed23",
      "en": "It's far from here.",
      "ta": "இங்கேர்ந்து ரொம்ப தூரம்.",
-     "tl": "Ingerndhu romba thooram."
+     "tl": "Ingerndhu romba thooram.",
+     "te": "ఇక్కడి నుంచి చాలా దూరం."
     },
     {
      "id": "travel-b18f16ca",
      "en": "Go straight and turn left.",
      "ta": "நேரா போய் லெஃப்ட் திரும்புங்க.",
-     "tl": "Neraa poi left thirumbunga."
+     "tl": "Neraa poi left thirumbunga.",
+     "te": "నేరుగా వెళ్ళి ఎడమకి తిరగండి."
     },
     {
      "id": "travel-52b1664f",
      "en": "It's next to the temple.",
      "ta": "கோயிலுக்கு பக்கத்துல இருக்கு.",
-     "tl": "Koyilukku pakkathula irukku."
+     "tl": "Koyilukku pakkathula irukku.",
+     "te": "గుడి పక్కనే ఉంది."
     },
     {
      "id": "travel-eaab6a0e",
      "en": "It's opposite the bank.",
      "ta": "பேங்குக்கு எதிர்ல இருக்கு.",
-     "tl": "Bankukku edhirla irukku."
+     "tl": "Bankukku edhirla irukku.",
+     "te": "బ్యాంక్ ఎదురుగా ఉంది."
     },
     {
      "id": "travel-64a3c536",
      "en": "Take the second right.",
      "ta": "ரெண்டாவது ரைட் எடுங்க.",
-     "tl": "Rendaavadhu right edunga."
+     "tl": "Rendaavadhu right edunga.",
+     "te": "రెండో కుడి మలుపు తీసుకోండి."
     },
     {
      "id": "travel-96bed5fd",
      "en": "Cross the signal.",
      "ta": "சிக்னல தாண்டுங்க.",
-     "tl": "Signala thaandunga."
+     "tl": "Signala thaandunga.",
+     "te": "సిగ్నల్ దాటండి."
     },
     {
      "id": "travel-bf9fe286",
      "en": "I'm lost.",
      "ta": "நான் வழி தவறிட்டேன்.",
-     "tl": "Naan vazhi thavaritten."
+     "tl": "Naan vazhi thavaritten.",
+     "te": "నేను దారి తప్పిపోయాను."
     },
     {
      "id": "travel-0f67212a",
      "en": "Can you show me on the map?",
      "ta": "மேப்ல காட்டுவீங்களா?",
-     "tl": "Mapla kaattuveengalaa?"
+     "tl": "Mapla kaattuveengalaa?",
+     "te": "మ్యాప్‌లో చూపిస్తారా?"
     },
     {
      "id": "travel-89275dce",
      "en": "Send me your location.",
      "ta": "உன் லொகேஷன் அனுப்பு.",
-     "tl": "Un location anuppu."
+     "tl": "Un location anuppu.",
+     "te": "నీ లొకేషన్ పంపు."
     },
     {
      "id": "travel-1570e520",
      "en": "I'm near the bus stop.",
      "ta": "நான் பஸ் ஸ்டாப் பக்கத்துல இருக்கேன்.",
-     "tl": "Naan bus stop pakkathula irukken."
+     "tl": "Naan bus stop pakkathula irukken.",
+     "te": "నేను బస్ స్టాప్ దగ్గర ఉన్నాను."
     },
     {
      "id": "travel-bdb4d9fb",
      "en": "Which bus goes to Chennai?",
      "ta": "சென்னைக்கு எந்த பஸ் போகும்?",
-     "tl": "Chennaikku endha bus pogum?"
+     "tl": "Chennaikku endha bus pogum?",
+     "te": "చెన్నైకి ఏ బస్సు వెళ్తుంది?"
     },
     {
      "id": "travel-11612265",
      "en": "Does this bus go to the airport?",
      "ta": "இந்த பஸ் ஏர்போர்ட் போகுமா?",
-     "tl": "Indha bus airport pogumaa?"
+     "tl": "Indha bus airport pogumaa?",
+     "te": "ఈ బస్సు ఎయిర్‌పోర్ట్‌కి వెళ్తుందా?"
     },
     {
      "id": "travel-e372dc80",
      "en": "When is the next bus?",
      "ta": "அடுத்த பஸ் எப்போ?",
-     "tl": "Adutha bus eppo?"
+     "tl": "Adutha bus eppo?",
+     "te": "తర్వాతి బస్సు ఎప్పుడు?"
     },
     {
      "id": "travel-3810edab",
      "en": "One ticket to Madurai.",
      "ta": "மதுரைக்கு ஒரு டிக்கெட்.",
-     "tl": "Madhuraikku oru ticket."
+     "tl": "Madhuraikku oru ticket.",
+     "te": "మదురైకి ఒక టికెట్."
     },
     {
      "id": "travel-78fc4189",
      "en": "Tell me when my stop comes.",
      "ta": "என் ஸ்டாப் வந்தா சொல்லுங்க.",
-     "tl": "En stop vandhaa sollunga."
+     "tl": "En stop vandhaa sollunga.",
+     "te": "నా స్టాప్ వస్తే చెప్పండి."
     },
     {
      "id": "travel-e386d7e8",
      "en": "Stop here, please.",
      "ta": "இங்க நிறுத்துங்க, ப்ளீஸ்.",
-     "tl": "Inga niruthunga, please."
+     "tl": "Inga niruthunga, please.",
+     "te": "ఇక్కడ ఆపండి, ప్లీజ్."
     },
     {
      "id": "travel-1824cd4d",
      "en": "Is this seat taken?",
      "ta": "இந்த சீட்ல ஆள் இருக்கா?",
-     "tl": "Indha seatla aal irukkaa?"
+     "tl": "Indha seatla aal irukkaa?",
+     "te": "ఈ సీట్లో ఎవరైనా ఉన్నారా?"
     },
     {
      "id": "travel-a5e675ff",
      "en": "The train is late.",
      "ta": "ட்ரெயின் லேட்.",
-     "tl": "Train late."
+     "tl": "Train late.",
+     "te": "ట్రైన్ లేట్."
     },
     {
      "id": "travel-d0442435",
      "en": "Which platform?",
      "ta": "எந்த பிளாட்ஃபார்ம்?",
-     "tl": "Endha platform?"
+     "tl": "Endha platform?",
+     "te": "ఏ ప్లాట్‌ఫాం?"
     },
     {
      "id": "travel-c5e4da82",
      "en": "I booked the tickets.",
      "ta": "நான் டிக்கெட் புக் பண்ணிட்டேன்.",
-     "tl": "Naan ticket book pannitten."
+     "tl": "Naan ticket book pannitten.",
+     "te": "నేను టికెట్లు బుక్ చేశాను."
     },
     {
      "id": "travel-64599dfc",
      "en": "My ticket is confirmed.",
      "ta": "என் டிக்கெட் கன்ஃபர்ம் ஆயிடுச்சு.",
-     "tl": "En ticket confirm aayiduchu."
+     "tl": "En ticket confirm aayiduchu.",
+     "te": "నా టికెట్ కన్ఫర్మ్ అయింది."
     },
     {
      "id": "travel-bff31de3",
      "en": "I'm on the waiting list.",
      "ta": "நான் வெயிட்டிங் லிஸ்ட்ல இருக்கேன்.",
-     "tl": "Naan waiting listla irukken."
+     "tl": "Naan waiting listla irukken.",
+     "te": "నేను వెయిటింగ్ లిస్ట్‌లో ఉన్నాను."
     },
     {
      "id": "travel-8cb5d89d",
      "en": "Auto, are you free?",
      "ta": "ஆட்டோ, வருவீங்களா?",
-     "tl": "Auto, varuveengalaa?"
+     "tl": "Auto, varuveengalaa?",
+     "te": "ఆటో, వస్తారా?"
     },
     {
      "id": "travel-a268ac85",
      "en": "How much to the station?",
      "ta": "ஸ்டேஷனுக்கு எவ்ளோ?",
-     "tl": "Stationukku evlo?"
+     "tl": "Stationukku evlo?",
+     "te": "స్టేషన్‌కి ఎంత?"
     },
     {
      "id": "travel-6be75fd1",
      "en": "That's too much, make it less.",
      "ta": "ரொம்ப அதிகம், கொஞ்சம் குறைங்க.",
-     "tl": "Romba adhigam, konjam kurainga."
+     "tl": "Romba adhigam, konjam kurainga.",
+     "te": "చాలా ఎక్కువ, కొంచెం తగ్గించండి."
     },
     {
      "id": "travel-ac0b6782",
      "en": "Go slowly, please.",
      "ta": "மெதுவா போங்க, ப்ளீஸ்.",
-     "tl": "Medhuvaa ponga, please."
+     "tl": "Medhuvaa ponga, please.",
+     "te": "నెమ్మదిగా వెళ్ళండి, ప్లీజ్."
     },
     {
      "id": "travel-35e8f724",
      "en": "Take the shortcut.",
      "ta": "ஷார்ட்கட்ல போங்க.",
-     "tl": "Shortcutla ponga."
+     "tl": "Shortcutla ponga.",
+     "te": "షార్ట్‌కట్‌లో వెళ్ళండి."
     },
     {
      "id": "travel-72d2f95e",
      "en": "Wait here for five minutes.",
      "ta": "இங்க அஞ்சு நிமிஷம் வெயிட் பண்ணுங்க.",
-     "tl": "Inga anju nimisham wait pannunga."
+     "tl": "Inga anju nimisham wait pannunga.",
+     "te": "ఇక్కడ ఐదు నిమిషాలు వెయిట్ చేయండి."
     },
     {
      "id": "travel-28ed5fd4",
      "en": "We're going on a trip.",
      "ta": "நாங்க ட்ரிப் போறோம்.",
-     "tl": "Naanga trip porom."
+     "tl": "Naanga trip porom.",
+     "te": "మేము ట్రిప్‌కి వెళ్తున్నాం."
     },
     {
      "id": "travel-582b6d49",
      "en": "Let's go to Ooty.",
      "ta": "ஊட்டிக்கு போலாம்.",
-     "tl": "Oottikku polaam."
+     "tl": "Oottikku polaam.",
+     "te": "ఊటీకి వెళ్దాం."
     },
     {
      "id": "travel-42c366e4",
      "en": "Let's go to Kodaikanal this weekend.",
      "ta": "இந்த வீக்கெண்ட் கொடைக்கானல் போலாம்.",
-     "tl": "Indha weekend kodaikkaanal polaam."
+     "tl": "Indha weekend kodaikkaanal polaam.",
+     "te": "ఈ వీకెండ్ కొడైకెనాల్ వెళ్దాం."
     },
     {
      "id": "travel-300d8f56",
      "en": "Pack your bags.",
      "ta": "பேக் பண்ணு.",
-     "tl": "Pack pannu."
+     "tl": "Pack pannu.",
+     "te": "బ్యాగులు సర్దుకో."
     },
     {
      "id": "travel-4e3b4398",
      "en": "Don't forget your charger.",
      "ta": "சார்ஜர மறந்துடாத.",
-     "tl": "Chargera marandhudaadha."
+     "tl": "Chargera marandhudaadha.",
+     "te": "ఛార్జర్ మర్చిపోకు."
     },
     {
      "id": "travel-eb0dd1cf",
      "en": "Did you take the tickets?",
      "ta": "டிக்கெட் எடுத்துட்டியா?",
-     "tl": "Ticket eduthuttiyaa?"
+     "tl": "Ticket eduthuttiyaa?",
+     "te": "టికెట్లు తీసుకున్నావా?"
     },
     {
      "id": "travel-5dfb9f9b",
      "en": "We'll leave early in the morning.",
      "ta": "காலைல சீக்கிரம் கிளம்புவோம்.",
-     "tl": "Kaalaila seekkiram kilambuvom."
+     "tl": "Kaalaila seekkiram kilambuvom.",
+     "te": "ఉదయాన్నే త్వరగా బయలుదేరుదాం."
     },
     {
      "id": "travel-aa35cef5",
      "en": "Have a safe journey.",
      "ta": "பத்திரமா போயிட்டு வா.",
-     "tl": "Pathiramaa poyittu vaa."
+     "tl": "Pathiramaa poyittu vaa.",
+     "te": "క్షేమంగా వెళ్ళి రా."
     },
     {
      "id": "travel-82cf6b7b",
      "en": "Call me when you reach.",
      "ta": "போய் சேர்ந்ததும் கால் பண்ணு.",
-     "tl": "Poi serndhadhum call pannu."
+     "tl": "Poi serndhadhum call pannu.",
+     "te": "చేరుకోగానే కాల్ చెయ్."
     },
     {
      "id": "travel-22b7192f",
      "en": "We reached safely.",
      "ta": "நாங்க பத்திரமா வந்து சேர்ந்துட்டோம்.",
-     "tl": "Naanga pathiramaa vandhu serndhuttom."
+     "tl": "Naanga pathiramaa vandhu serndhuttom.",
+     "te": "మేము క్షేమంగా చేరుకున్నాం."
     },
     {
      "id": "travel-46f83186",
      "en": "I booked a hotel room.",
      "ta": "ஹோட்டல்ல ரூம் புக் பண்ணிட்டேன்.",
-     "tl": "Hotella room book pannitten."
+     "tl": "Hotella room book pannitten.",
+     "te": "హోటల్‌లో రూమ్ బుక్ చేశాను."
     },
     {
      "id": "travel-40816f20",
      "en": "Is breakfast included?",
      "ta": "டிபன் சேர்த்தா?",
-     "tl": "Tiffin serthaa?"
+     "tl": "Tiffin serthaa?",
+     "te": "టిఫిన్ కలిపేనా?"
     },
     {
      "id": "travel-77507fff",
      "en": "What time is checkout?",
      "ta": "செக்கவுட் எத்தன மணிக்கு?",
-     "tl": "Checkout eththana manikku?"
+     "tl": "Checkout eththana manikku?",
+     "te": "చెకౌట్ ఎన్ని గంటలకి?"
     },
     {
      "id": "travel-86b844ae",
      "en": "The room is very clean.",
      "ta": "ரூம் ரொம்ப சுத்தமா இருக்கு.",
-     "tl": "Room romba suththamaa irukku."
+     "tl": "Room romba suththamaa irukku.",
+     "te": "రూమ్ చాలా శుభ్రంగా ఉంది."
     },
     {
      "id": "travel-6fd7a20d",
      "en": "The AC isn't working.",
      "ta": "ஏசி வேலை செய்யல.",
-     "tl": "AC velai seiyala."
+     "tl": "AC velai seiyala.",
+     "te": "ఏసీ పనిచేయట్లేదు."
     },
     {
      "id": "travel-28c92f96",
      "en": "Is there a good restaurant nearby?",
      "ta": "பக்கத்துல நல்ல ஹோட்டல் இருக்கா?",
-     "tl": "Pakkathula nalla hotel irukkaa?"
+     "tl": "Pakkathula nalla hotel irukkaa?",
+     "te": "దగ్గర్లో మంచి హోటల్ ఉందా?"
     },
     {
      "id": "travel-48c3116f",
      "en": "Where can I buy a SIM card?",
      "ta": "சிம் கார்டு எங்க வாங்கலாம்?",
-     "tl": "SIM card enga vaangalaam?"
+     "tl": "SIM card enga vaangalaam?",
+     "te": "సిమ్ కార్డు ఎక్కడ కొనొచ్చు?"
     },
     {
      "id": "travel-db377790",
      "en": "Is there an ATM nearby?",
      "ta": "பக்கத்துல ஏடிஎம் இருக்கா?",
-     "tl": "Pakkathula ATM irukkaa?"
+     "tl": "Pakkathula ATM irukkaa?",
+     "te": "దగ్గర్లో ఏటీఎం ఉందా?"
     },
     {
      "id": "travel-e40ebb89",
      "en": "Take a photo of us.",
      "ta": "எங்கள ஒரு ஃபோட்டோ எடுங்க.",
-     "tl": "Engala oru photo edunga."
+     "tl": "Engala oru photo edunga.",
+     "te": "మా ఫోటో ఒకటి తీయండి."
     },
     {
      "id": "travel-874aa457",
      "en": "The view is beautiful.",
      "ta": "வியூ செம்மையா இருக்கு.",
-     "tl": "View semmaiyaa irukku."
+     "tl": "View semmaiyaa irukku.",
+     "te": "వ్యూ సూపర్‌గా ఉంది."
     },
     {
      "id": "travel-9a80449c",
      "en": "It's very crowded here.",
      "ta": "இங்க ரொம்ப கூட்டமா இருக்கு.",
-     "tl": "Inga romba koottamaa irukku."
+     "tl": "Inga romba koottamaa irukku.",
+     "te": "ఇక్కడ చాలా రద్దీగా ఉంది."
     },
     {
      "id": "travel-c31df930",
      "en": "Let's go before it gets dark.",
      "ta": "இருட்டறதுக்கு முன்னாடி போலாம்.",
-     "tl": "Iruttaradhukku munnaadi polaam."
+     "tl": "Iruttaradhukku munnaadi polaam.",
+     "te": "చీకటి పడే ముందు వెళ్దాం."
     },
     {
      "id": "travel-786e371d",
      "en": "The flight is delayed.",
      "ta": "ஃப்ளைட் லேட் ஆகுது.",
-     "tl": "Flight late aagudhu."
+     "tl": "Flight late aagudhu.",
+     "te": "ఫ్లైట్ లేట్ అవుతోంది."
     },
     {
      "id": "travel-d6acb11e",
      "en": "Where is the check-in counter?",
      "ta": "செக்கின் கவுண்டர் எங்க?",
-     "tl": "Checkin counter enga?"
+     "tl": "Checkin counter enga?",
+     "te": "చెక్-ఇన్ కౌంటర్ ఎక్కడ?"
     },
     {
      "id": "travel-ea330bfa",
      "en": "My bag is missing.",
      "ta": "என் பேக்க காணோம்.",
-     "tl": "En bag-a kaanom."
+     "tl": "En bag-a kaanom.",
+     "te": "నా బ్యాగ్ కనిపించట్లేదు."
     },
     {
      "id": "travel-21c74f46",
      "en": "I'm going abroad.",
      "ta": "நான் வெளிநாட்டுக்கு போறேன்.",
-     "tl": "Naan velinaattukku poren."
+     "tl": "Naan velinaattukku poren.",
+     "te": "నేను విదేశానికి వెళ్తున్నాను."
     },
     {
      "id": "travel-ccaebd6d",
      "en": "Is this the way to the temple?",
      "ta": "கோயிலுக்கு இந்த வழியா?",
-     "tl": "Koyilukku indha vazhiyaa?"
+     "tl": "Koyilukku indha vazhiyaa?",
+     "te": "గుడికి ఈ దారేనా?"
     },
     {
      "id": "travel-f285e5df",
      "en": "How long is the drive?",
      "ta": "கார்ல எவ்ளோ நேரம் ஆகும்?",
-     "tl": "Carla evlo neram aagum?"
+     "tl": "Carla evlo neram aagum?",
+     "te": "కారులో ఎంత సేపు పడుతుంది?"
     },
     {
      "id": "travel-e99e0246",
      "en": "The road is blocked.",
      "ta": "ரோடு ப்ளாக் ஆயிருக்கு.",
-     "tl": "Rodu block aayirukku."
+     "tl": "Rodu block aayirukku.",
+     "te": "రోడ్డు బ్లాక్ అయింది."
     },
     {
      "id": "travel-dc7b36d7",
      "en": "Let's take another route.",
      "ta": "வேற வழில போலாம்.",
-     "tl": "Vera vazhila polaam."
+     "tl": "Vera vazhila polaam.",
+     "te": "వేరే దారిలో వెళ్దాం."
     },
     {
      "id": "travel-59d2a4d2",
      "en": "I'm almost there.",
      "ta": "கிட்ட வந்துட்டேன்.",
-     "tl": "Kitta vandhutten."
+     "tl": "Kitta vandhutten.",
+     "te": "దగ్గరకి వచ్చేశాను."
     },
     {
      "id": "travel-ba0af7ff",
      "en": "I'm here, come outside.",
      "ta": "நான் வந்துட்டேன், வெளிய வா.",
-     "tl": "Naan vandhutten, veliya vaa."
+     "tl": "Naan vandhutten, veliya vaa.",
+     "te": "నేను వచ్చేశాను, బయటకి రా."
     },
     {
      "id": "travel-8270ec4f",
      "en": "Park the car here.",
      "ta": "கார இங்க பார்க் பண்ணு.",
-     "tl": "Kaara inga park pannu."
+     "tl": "Kaara inga park pannu.",
+     "te": "కారు ఇక్కడ పార్క్ చెయ్."
     },
     {
      "id": "travel-6e43b550",
      "en": "Is parking available?",
      "ta": "பார்க்கிங் இருக்கா?",
-     "tl": "Parking irukkaa?"
+     "tl": "Parking irukkaa?",
+     "te": "పార్కింగ్ ఉందా?"
     },
     {
      "id": "travel-dddf1b98",
      "en": "Drive carefully.",
      "ta": "பாத்து ஓட்டு.",
-     "tl": "Paathu ottu."
+     "tl": "Paathu ottu.",
+     "te": "జాగ్రత్తగా నడుపు."
     },
     {
      "id": "travel-cc900ad1",
      "en": "Wear your helmet.",
      "ta": "ஹெல்மெட் போடு.",
-     "tl": "Helmet podu."
+     "tl": "Helmet podu.",
+     "te": "హెల్మెట్ పెట్టుకో."
     },
     {
      "id": "travel-254ce996",
      "en": "Put on your seatbelt.",
      "ta": "சீட் பெல்ட் போடு.",
-     "tl": "Seat belt podu."
+     "tl": "Seat belt podu.",
+     "te": "సీట్ బెల్ట్ పెట్టుకో."
     }
-   ]
+   ],
+   "teCount": 70
   },
   {
    "id": "phone",
@@ -9322,423 +10850,494 @@ window.PP_DATA = {
      "id": "phone-7e7b2212",
      "en": "Hello, who is this?",
      "ta": "ஹலோ, யாரு பேசறது?",
-     "tl": "Hello, yaaru pesaradhu?"
+     "tl": "Hello, yaaru pesaradhu?",
+     "te": "హలో, ఎవరు మాట్లాడుతున్నారు?"
     },
     {
      "id": "phone-6e1c544e",
      "en": "Hello, this is Ravi speaking.",
      "ta": "ஹலோ, நான் ரவி பேசறேன்.",
-     "tl": "Hello, naan Ravi pesaren."
+     "tl": "Hello, naan Ravi pesaren.",
+     "te": "హలో, నేను రవిని మాట్లాడుతున్నాను."
     },
     {
      "id": "phone-5346beae",
      "en": "Can I speak to Kumar?",
      "ta": "குமார்கிட்ட பேசலாமா?",
-     "tl": "Kumaarkitta pesalaamaa?"
+     "tl": "Kumaarkitta pesalaamaa?",
+     "te": "కుమార్‌తో మాట్లాడొచ్చా?"
     },
     {
      "id": "phone-dc8b48d1",
      "en": "He's not here right now.",
      "ta": "அவரு இப்ப இல்ல.",
-     "tl": "Avaru ippa illa."
+     "tl": "Avaru ippa illa.",
+     "te": "ఆయన ఇప్పుడు లేరు."
     },
     {
      "id": "phone-75b40cec",
      "en": "He'll call you back.",
      "ta": "அவரு திரும்ப கால் பண்ணுவாரு.",
-     "tl": "Avaru thirumba call pannuvaaru."
+     "tl": "Avaru thirumba call pannuvaaru.",
+     "te": "ఆయన మళ్ళీ కాల్ చేస్తారు."
     },
     {
      "id": "phone-16623839",
      "en": "Shall I give a message?",
      "ta": "ஏதாவது சொல்லணுமா?",
-     "tl": "Edhaavadhu sollanumaa?"
+     "tl": "Edhaavadhu sollanumaa?",
+     "te": "ఏమైనా చెప్పాలా?"
     },
     {
      "id": "phone-4736e244",
      "en": "Tell him I called.",
      "ta": "நான் கால் பண்ணேன்னு சொல்லுங்க.",
-     "tl": "Naan call pannennu sollunga."
+     "tl": "Naan call pannennu sollunga.",
+     "te": "నేను కాల్ చేశానని చెప్పండి."
     },
     {
      "id": "phone-455a3706",
      "en": "I can't hear you.",
      "ta": "நீங்க பேசறது கேக்கல.",
-     "tl": "Neenga pesaradhu kekkala."
+     "tl": "Neenga pesaradhu kekkala.",
+     "te": "మీరు మాట్లాడేది వినపడట్లేదు."
     },
     {
      "id": "phone-bbb03248",
      "en": "The signal is weak.",
      "ta": "சிக்னல் இல்ல.",
-     "tl": "Signal illa."
+     "tl": "Signal illa.",
+     "te": "సిగ్నల్ లేదు."
     },
     {
      "id": "phone-93f1b4c4",
      "en": "You're breaking up.",
      "ta": "வாய்ஸ் கட் ஆகுது.",
-     "tl": "Voice cut aagudhu."
+     "tl": "Voice cut aagudhu.",
+     "te": "వాయిస్ కట్ అవుతోంది."
     },
     {
      "id": "phone-1f5c2d28",
      "en": "Speak a little louder.",
      "ta": "கொஞ்சம் சத்தமா பேசுங்க.",
-     "tl": "Konjam saththamaa pesunga."
+     "tl": "Konjam saththamaa pesunga.",
+     "te": "కొంచెం గట్టిగా మాట్లాడండి."
     },
     {
      "id": "phone-f42be64d",
      "en": "Can you hear me now?",
      "ta": "இப்ப கேக்குதா?",
-     "tl": "Ippa kekkudhaa?"
+     "tl": "Ippa kekkudhaa?",
+     "te": "ఇప్పుడు వినపడుతోందా?"
     },
     {
      "id": "phone-eb959e3e",
      "en": "Yes, I can hear you.",
      "ta": "ஆமா, கேக்குது.",
-     "tl": "Aamaa, kekkudhu."
+     "tl": "Aamaa, kekkudhu.",
+     "te": "అవును, వినపడుతోంది."
     },
     {
      "id": "phone-0fabc8b5",
      "en": "I'll call you later.",
      "ta": "அப்புறம் கால் பண்றேன்.",
-     "tl": "Appuram call panren."
+     "tl": "Appuram call panren.",
+     "te": "తర్వాత కాల్ చేస్తాను."
     },
     {
      "id": "phone-6042c67f",
      "en": "I'm driving, I'll call back.",
      "ta": "டிரைவ் பண்ணிட்டு இருக்கேன், அப்புறம் கூப்பிடறேன்.",
-     "tl": "Drive pannittu irukken, appuram koopidaren."
+     "tl": "Drive pannittu irukken, appuram koopidaren.",
+     "te": "డ్రైవ్ చేస్తున్నాను, తర్వాత కాల్ చేస్తాను."
     },
     {
      "id": "phone-1e502042",
      "en": "I'm busy, text me.",
      "ta": "பிஸியா இருக்கேன், மெசேஜ் பண்ணு.",
-     "tl": "Busyaa irukken, message pannu."
+     "tl": "Busyaa irukken, message pannu.",
+     "te": "బిజీగా ఉన్నాను, మెసేజ్ చెయ్."
     },
     {
      "id": "phone-398671ff",
      "en": "Why didn't you pick up?",
      "ta": "ஏன் ஃபோன் எடுக்கல?",
-     "tl": "Yen phone edukkala?"
+     "tl": "Yen phone edukkala?",
+     "te": "ఫోన్ ఎందుకు ఎత్తలేదు?"
     },
     {
      "id": "phone-fe6dc593",
      "en": "I missed your call.",
      "ta": "உன் கால மிஸ் பண்ணிட்டேன்.",
-     "tl": "Un kaala miss pannitten."
+     "tl": "Un kaala miss pannitten.",
+     "te": "నీ కాల్ మిస్ అయ్యాను."
     },
     {
      "id": "phone-a65ce17a",
      "en": "I called you three times.",
      "ta": "உனக்கு மூணு தடவ கால் பண்ணேன்.",
-     "tl": "Unakku moonu thadava call pannen."
+     "tl": "Unakku moonu thadava call pannen.",
+     "te": "నీకు మూడుసార్లు కాల్ చేశాను."
     },
     {
      "id": "phone-e266015d",
      "en": "My phone was on silent.",
      "ta": "என் ஃபோன் சைலண்ட்ல இருந்துச்சு.",
-     "tl": "En phone silentla irundhuchu."
+     "tl": "En phone silentla irundhuchu.",
+     "te": "నా ఫోన్ సైలెంట్‌లో ఉంది."
     },
     {
      "id": "phone-c1b4fe4a",
      "en": "My phone was switched off.",
      "ta": "என் ஃபோன் ஸ்விட்ச் ஆஃப் ஆயிருந்துச்சு.",
-     "tl": "En phone switch off aayirundhuchu."
+     "tl": "En phone switch off aayirundhuchu.",
+     "te": "నా ఫోన్ స్విచ్ ఆఫ్ అయింది."
     },
     {
      "id": "phone-228d9076",
      "en": "My battery is low.",
      "ta": "என் ஃபோன்ல சார்ஜ் கம்மியா இருக்கு.",
-     "tl": "En phonela charge kammiyaa irukku."
+     "tl": "En phonela charge kammiyaa irukku.",
+     "te": "నా ఫోన్‌లో ఛార్జింగ్ తక్కువగా ఉంది."
     },
     {
      "id": "phone-062839b2",
      "en": "I'll call you on WhatsApp.",
      "ta": "வாட்ஸ்அப்ல கால் பண்றேன்.",
-     "tl": "Whatsappla call panren."
+     "tl": "Whatsappla call panren.",
+     "te": "వాట్సాప్‌లో కాల్ చేస్తాను."
     },
     {
      "id": "phone-b15e8977",
      "en": "Let's do a video call.",
      "ta": "வீடியோ கால் பண்ணலாம்.",
-     "tl": "Video call pannalaam."
+     "tl": "Video call pannalaam.",
+     "te": "వీడియో కాల్ చేద్దాం."
     },
     {
      "id": "phone-eea5ba73",
      "en": "Turn on your camera.",
      "ta": "கேமரா ஆன் பண்ணு.",
-     "tl": "Camera on pannu."
+     "tl": "Camera on pannu.",
+     "te": "కెమెరా ఆన్ చెయ్."
     },
     {
      "id": "phone-5a5e1e9c",
      "en": "I can't see you.",
      "ta": "நீ தெரியல.",
-     "tl": "Nee theriyala."
+     "tl": "Nee theriyala.",
+     "te": "నువ్వు కనిపించట్లేదు."
     },
     {
      "id": "phone-a9994b03",
      "en": "Your video is frozen.",
      "ta": "உன் வீடியோ ஸ்டக் ஆயிடுச்சு.",
-     "tl": "Un video stuck aayiduchu."
+     "tl": "Un video stuck aayiduchu.",
+     "te": "నీ వీడియో ఆగిపోయింది."
     },
     {
      "id": "phone-39e7270a",
      "en": "What's your number?",
      "ta": "உன் நம்பர் என்ன?",
-     "tl": "Un number enna?"
+     "tl": "Un number enna?",
+     "te": "నీ నంబర్ ఏంటి?"
     },
     {
      "id": "phone-1ed0dbe8",
      "en": "Save my number.",
      "ta": "என் நம்பர சேவ் பண்ணிக்கோ.",
-     "tl": "En numbera save pannikko."
+     "tl": "En numbera save pannikko.",
+     "te": "నా నంబర్ సేవ్ చేసుకో."
     },
     {
      "id": "phone-b4d5f2f9",
      "en": "Give me a missed call.",
      "ta": "ஒரு மிஸ்டு கால் குடு.",
-     "tl": "Oru missed call kudu."
+     "tl": "Oru missed call kudu.",
+     "te": "ఒక మిస్డ్ కాల్ ఇవ్వు."
     },
     {
      "id": "phone-a30cd630",
      "en": "Wrong number.",
      "ta": "ராங் நம்பர்.",
-     "tl": "Wrong number."
+     "tl": "Wrong number.",
+     "te": "రాంగ్ నంబర్."
     },
     {
      "id": "phone-3037ead2",
      "en": "Sorry, wrong number.",
      "ta": "சாரி, ராங் நம்பர்.",
-     "tl": "Sorry, wrong number."
+     "tl": "Sorry, wrong number.",
+     "te": "సారీ, రాంగ్ నంబర్."
     },
     {
      "id": "phone-ca834ba4",
      "en": "Who gave you my number?",
      "ta": "என் நம்பர் யாரு குடுத்தா?",
-     "tl": "En number yaaru kuduthaa?"
+     "tl": "En number yaaru kuduthaa?",
+     "te": "నా నంబర్ ఎవరు ఇచ్చారు?"
     },
     {
      "id": "phone-2f8ed47a",
      "en": "Hold on, one minute.",
      "ta": "லைன்ல இருங்க, ஒரு நிமிஷம்.",
-     "tl": "Linela irunga, oru nimisham."
+     "tl": "Linela irunga, oru nimisham.",
+     "te": "లైన్‌లో ఉండండి, ఒక్క నిమిషం."
     },
     {
      "id": "phone-b67dec05",
      "en": "I'll put you on speaker.",
      "ta": "ஸ்பீக்கர்ல போடறேன்.",
-     "tl": "Speakerla podaren."
+     "tl": "Speakerla podaren.",
+     "te": "స్పీకర్‌లో పెడతాను."
     },
     {
      "id": "phone-234c9da5",
      "en": "Mom wants to talk to you.",
      "ta": "அம்மா உன்கிட்ட பேசணுமாம்.",
-     "tl": "Amma unkitta pesanumaam."
+     "tl": "Amma unkitta pesanumaam.",
+     "te": "అమ్మ నీతో మాట్లాడాలంట."
     },
     {
      "id": "phone-8d8926e9",
      "en": "I'm giving the phone to Appa.",
      "ta": "அப்பாகிட்ட ஃபோன் குடுக்கறேன்.",
-     "tl": "Appaakitta phone kudukkaren."
+     "tl": "Appaakitta phone kudukkaren.",
+     "te": "నాన్నకి ఫోన్ ఇస్తున్నాను."
     },
     {
      "id": "phone-c0744a69",
      "en": "Did you reach home?",
      "ta": "வீட்டுக்கு போய் சேர்ந்துட்டியா?",
-     "tl": "Veettukku poi serndhuttiyaa?"
+     "tl": "Veettukku poi serndhuttiyaa?",
+     "te": "ఇంటికి చేరుకున్నావా?"
     },
     {
      "id": "phone-2e5f6e64",
      "en": "Where are you now?",
      "ta": "இப்ப எங்க இருக்க?",
-     "tl": "Ippa enga irukka?"
+     "tl": "Ippa enga irukka?",
+     "te": "ఇప్పుడు ఎక్కడ ఉన్నావు?"
     },
     {
      "id": "phone-018e1c4b",
      "en": "I'm almost home.",
      "ta": "வீட்டுக்கு கிட்ட வந்துட்டேன்.",
-     "tl": "Veettukku kitta vandhutten."
+     "tl": "Veettukku kitta vandhutten.",
+     "te": "ఇంటికి దగ్గరకి వచ్చేశాను."
     },
     {
      "id": "phone-ea198c46",
      "en": "I'll be there in five minutes.",
      "ta": "அஞ்சு நிமிஷத்துல வந்துடுவேன்.",
-     "tl": "Anju nimishathula vandhuduven."
+     "tl": "Anju nimishathula vandhuduven.",
+     "te": "ఐదు నిమిషాల్లో వచ్చేస్తాను."
     },
     {
      "id": "phone-2e0617ac",
      "en": "Call me when you're free.",
      "ta": "ஃப்ரீ ஆனதும் கால் பண்ணு.",
-     "tl": "Free aanadhum call pannu."
+     "tl": "Free aanadhum call pannu.",
+     "te": "ఫ్రీ అయ్యాక కాల్ చెయ్."
     },
     {
      "id": "phone-ab19116c",
      "en": "Did you see my message?",
      "ta": "என் மெசேஜ் பாத்தியா?",
-     "tl": "En message paathiyaa?"
+     "tl": "En message paathiyaa?",
+     "te": "నా మెసేజ్ చూశావా?"
     },
     {
      "id": "phone-3635a84f",
      "en": "Reply to my message.",
      "ta": "என் மெசேஜுக்கு ரிப்ளை பண்ணு.",
-     "tl": "En messagekku reply pannu."
+     "tl": "En messagekku reply pannu.",
+     "te": "నా మెసేజ్‌కి రిప్లై ఇవ్వు."
     },
     {
      "id": "phone-006bd8d7",
      "en": "Why are you not replying?",
      "ta": "ஏன் ரிப்ளை பண்ணல?",
-     "tl": "Yen reply pannala?"
+     "tl": "Yen reply pannala?",
+     "te": "ఎందుకు రిప్లై ఇవ్వలేదు?"
     },
     {
      "id": "phone-58f03f87",
      "en": "I'll send you the photos.",
      "ta": "ஃபோட்டோஸ் அனுப்பறேன்.",
-     "tl": "Photos anupparen."
+     "tl": "Photos anupparen.",
+     "te": "ఫోటోలు పంపిస్తాను."
     },
     {
      "id": "phone-59586199",
      "en": "Send me a voice message.",
      "ta": "வாய்ஸ் மெசேஜ் அனுப்பு.",
-     "tl": "Voice message anuppu."
+     "tl": "Voice message anuppu.",
+     "te": "వాయిస్ మెసేజ్ పంపు."
     },
     {
      "id": "phone-00b1453f",
      "en": "Did you get my email?",
      "ta": "என் மெயில் வந்துச்சா?",
-     "tl": "En mail vandhuchaa?"
+     "tl": "En mail vandhuchaa?",
+     "te": "నా మెయిల్ వచ్చిందా?"
     },
     {
      "id": "phone-6f3e3e53",
      "en": "My phone is not working.",
      "ta": "என் ஃபோன் வேலை செய்யல.",
-     "tl": "En phone velai seiyala."
+     "tl": "En phone velai seiyala.",
+     "te": "నా ఫోన్ పనిచేయట్లేదు."
     },
     {
      "id": "phone-e70948fd",
      "en": "I lost my phone.",
      "ta": "என் ஃபோன் தொலைஞ்சு போச்சு.",
-     "tl": "En phone tholainju pochu."
+     "tl": "En phone tholainju pochu.",
+     "te": "నా ఫోన్ పోయింది."
     },
     {
      "id": "phone-585a0119",
      "en": "Recharge my phone.",
      "ta": "என் ஃபோனுக்கு ரீசார்ஜ் பண்ணு.",
-     "tl": "En phonukku recharge pannu."
+     "tl": "En phonukku recharge pannu.",
+     "te": "నా ఫోన్‌కి రీఛార్జ్ చెయ్."
     },
     {
      "id": "phone-2d9b1092",
      "en": "My data is over.",
      "ta": "என் டேட்டா முடிஞ்சிடுச்சு.",
-     "tl": "En data mudinjiduchu."
+     "tl": "En data mudinjiduchu.",
+     "te": "నా డేటా అయిపోయింది."
     },
     {
      "id": "phone-4ad25935",
      "en": "Turn on your hotspot.",
      "ta": "ஹாட்ஸ்பாட் ஆன் பண்ணு.",
-     "tl": "Hotspot on pannu."
+     "tl": "Hotspot on pannu.",
+     "te": "హాట్‌స్పాట్ ఆన్ చెయ్."
     },
     {
      "id": "phone-9ed1c920",
      "en": "Please don't call at night.",
      "ta": "ராத்திரில கால் பண்ணாதீங்க, ப்ளீஸ்.",
-     "tl": "Raathirila call pannaadheenga, please."
+     "tl": "Raathirila call pannaadheenga, please.",
+     "te": "రాత్రిపూట కాల్ చేయకండి, ప్లీజ్."
     },
     {
      "id": "phone-a7244eff",
      "en": "Customer care, please hold.",
      "ta": "கஸ்டமர் கேர், கொஞ்சம் வெயிட் பண்ணுங்க.",
-     "tl": "Customer care, konjam wait pannunga."
+     "tl": "Customer care, konjam wait pannunga.",
+     "te": "కస్టమర్ కేర్, కొంచెం వెయిట్ చేయండి."
     },
     {
      "id": "phone-76c980c5",
      "en": "I want to talk to the manager.",
      "ta": "நான் மேனேஜர்கிட்ட பேசணும்.",
-     "tl": "Naan managerkitta pesanum."
+     "tl": "Naan managerkitta pesanum.",
+     "te": "నేను మేనేజర్‌తో మాట్లాడాలి."
     },
     {
      "id": "phone-03456336",
      "en": "I have a complaint.",
      "ta": "எனக்கு ஒரு புகார் இருக்கு.",
-     "tl": "Enakku oru pugaar irukku."
+     "tl": "Enakku oru pugaar irukku.",
+     "te": "నాకు ఒక కంప్లైంట్ ఉంది."
     },
     {
      "id": "phone-e0475f7b",
      "en": "Please call back tomorrow.",
      "ta": "நாளைக்கு கால் பண்ணுங்க.",
-     "tl": "Naalaikku call pannunga."
+     "tl": "Naalaikku call pannunga.",
+     "te": "రేపు కాల్ చేయండి."
     },
     {
      "id": "phone-c446f252",
      "en": "Thanks for calling.",
      "ta": "கால் பண்ணதுக்கு நன்றி.",
-     "tl": "Call pannadhukku nandri."
+     "tl": "Call pannadhukku nandri.",
+     "te": "కాల్ చేసినందుకు థ్యాంక్స్."
     },
     {
      "id": "phone-169d02a2",
      "en": "Okay, bye.",
      "ta": "சரி, பை.",
-     "tl": "Sari, bye."
+     "tl": "Sari, bye.",
+     "te": "సరే, బై."
     },
     {
      "id": "phone-09e57dff",
      "en": "Talk to you soon.",
      "ta": "சீக்கிரம் பேசலாம்.",
-     "tl": "Seekkiram pesalaam."
+     "tl": "Seekkiram pesalaam.",
+     "te": "త్వరలో మాట్లాడదాం."
     },
     {
      "id": "phone-0f409731",
      "en": "Good night, I'll talk tomorrow.",
      "ta": "குட் நைட், நாளைக்கு பேசறேன்.",
-     "tl": "Good night, naalaikku pesaren."
+     "tl": "Good night, naalaikku pesaren.",
+     "te": "గుడ్ నైట్, రేపు మాట్లాడతాను."
     },
     {
      "id": "phone-bc80fc34",
      "en": "Long time, how are you?",
      "ta": "ரொம்ப நாளாச்சு, எப்படி இருக்க?",
-     "tl": "Romba naalaachu, eppadi irukka?"
+     "tl": "Romba naalaachu, eppadi irukka?",
+     "te": "చాలా రోజులైంది, ఎలా ఉన్నావు?"
     },
     {
      "id": "phone-b483126a",
      "en": "I was just thinking about you.",
      "ta": "இப்பதான் உன்ன நினைச்சேன்.",
-     "tl": "Ippadhaan unna ninaichen."
+     "tl": "Ippadhaan unna ninaichen.",
+     "te": "ఇప్పుడే నిన్ను తలుచుకున్నాను."
     },
     {
      "id": "phone-a74c2dc4",
      "en": "I called to say happy birthday.",
      "ta": "பிறந்தநாள் வாழ்த்து சொல்லத்தான் கால் பண்ணேன்.",
-     "tl": "Pirandhanaal vaazhthu sollathaan call pannen."
+     "tl": "Pirandhanaal vaazhthu sollathaan call pannen.",
+     "te": "పుట్టినరోజు శుభాకాంక్షలు చెప్పడానికే కాల్ చేశాను."
     },
     {
      "id": "phone-687f8e07",
      "en": "Is everyone fine at home?",
      "ta": "வீட்ல எல்லாரும் நல்லா இருக்காங்களா?",
-     "tl": "Veetla ellaarum nallaa irukkaangalaa?"
+     "tl": "Veetla ellaarum nallaa irukkaangalaa?",
+     "te": "ఇంట్లో అందరూ బాగున్నారా?"
     },
     {
      "id": "phone-00e9d813",
      "en": "Something urgent, call me now.",
      "ta": "அவசரம், உடனே கால் பண்ணு.",
-     "tl": "Avasaram, udane call pannu."
+     "tl": "Avasaram, udane call pannu.",
+     "te": "అర్జెంట్, వెంటనే కాల్ చెయ్."
     },
     {
      "id": "phone-cba55ffe",
      "en": "Don't hang up.",
      "ta": "கட் பண்ணாத.",
-     "tl": "Cut pannaadha."
+     "tl": "Cut pannaadha.",
+     "te": "కట్ చేయకు."
     },
     {
      "id": "phone-a4213c48",
      "en": "The call got cut.",
      "ta": "கால் கட் ஆயிடுச்சு.",
-     "tl": "Call cut aayiduchu."
+     "tl": "Call cut aayiduchu.",
+     "te": "కాల్ కట్ అయిపోయింది."
     },
     {
      "id": "phone-575ffc9f",
      "en": "I'll text you the address.",
      "ta": "அட்ரஸ் மெசேஜ் பண்றேன்.",
-     "tl": "Address message panren."
+     "tl": "Address message panren.",
+     "te": "అడ్రస్ మెసేజ్ చేస్తాను."
     }
-   ]
+   ],
+   "teCount": 70
   },
   {
    "id": "slang",
@@ -9756,429 +11355,501 @@ window.PP_DATA = {
      "id": "slang-58ebf30d",
      "en": "Awesome!",
      "ta": "செம்ம!",
-     "tl": "Semma!"
+     "tl": "Semma!",
+     "te": "సూపర్!"
     },
     {
      "id": "slang-aff53cb9",
      "en": "That's mass!",
      "ta": "செம்ம மாஸ்!",
-     "tl": "Semma mass!"
+     "tl": "Semma mass!",
+     "te": "ఊర మాస్!"
     },
     {
      "id": "slang-433975cc",
      "en": "Super cool.",
      "ta": "கெத்து.",
-     "tl": "Gethu."
+     "tl": "Gethu.",
+     "te": "కేక."
     },
     {
      "id": "slang-4fb74a36",
      "en": "He's a style king.",
      "ta": "அவன் செம்ம கெத்து.",
-     "tl": "Avan semma gethu."
+     "tl": "Avan semma gethu.",
+     "te": "వాడు సూపర్ స్టైల్."
     },
     {
      "id": "slang-8854b3d3",
      "en": "Dude, what's up?",
      "ta": "மச்சான், என்ன விஷயம்?",
-     "tl": "Machaan, enna vishayam?"
+     "tl": "Machaan, enna vishayam?",
+     "te": "రేయ్ మామా, ఏంటి సంగతి?"
     },
     {
      "id": "slang-fe4a88f9",
      "en": "Hey buddy!",
      "ta": "டேய் மச்சி!",
-     "tl": "Dei machi!"
+     "tl": "Dei machi!",
+     "te": "ఒరేయ్ మామా!"
     },
     {
      "id": "slang-cc0c7bfa",
      "en": "Bro, come here.",
      "ta": "ப்ரோ, இங்க வா.",
-     "tl": "Bro, inga vaa."
+     "tl": "Bro, inga vaa.",
+     "te": "బ్రో, ఇక్కడికి రా."
     },
     {
      "id": "slang-77190139",
      "en": "Chill, relax.",
      "ta": "ரிலாக்ஸ், கூல்.",
-     "tl": "Relax, cool."
+     "tl": "Relax, cool.",
+     "te": "రిలాక్స్, కూల్."
     },
     {
      "id": "slang-345ede2b",
      "en": "No tension.",
      "ta": "டென்ஷன் ஆகாத.",
-     "tl": "Tension aagaadha."
+     "tl": "Tension aagaadha.",
+     "te": "టెన్షన్ పడకు."
     },
     {
      "id": "slang-a3a59f20",
      "en": "Don't overdo it.",
      "ta": "ஓவரா பண்ணாத.",
-     "tl": "Overaa pannaadha."
+     "tl": "Overaa pannaadha.",
+     "te": "ఓవర్ చేయకు."
     },
     {
      "id": "slang-19b31c2f",
      "en": "Don't show off.",
      "ta": "சீன் போடாத.",
-     "tl": "Scene podaadha."
+     "tl": "Scene podaadha.",
+     "te": "సీన్ వేయకు."
     },
     {
      "id": "slang-f9f67afa",
      "en": "He's showing off.",
      "ta": "அவன் சீன் போடறான்.",
-     "tl": "Avan scene podaraan."
+     "tl": "Avan scene podaraan.",
+     "te": "వాడు సీన్ వేస్తున్నాడు."
     },
     {
      "id": "slang-f4cf5859",
      "en": "Stop the drama.",
      "ta": "டிராமா பண்ணாத.",
-     "tl": "Drama pannaadha."
+     "tl": "Drama pannaadha.",
+     "te": "డ్రామా ఆపు."
     },
     {
      "id": "slang-35a11939",
      "en": "Just kidding.",
      "ta": "சும்மா சொன்னேன்.",
-     "tl": "Summaa sonnen."
+     "tl": "Summaa sonnen.",
+     "te": "ఊరికే అన్నాను."
     },
     {
      "id": "slang-9c45e169",
      "en": "For no reason.",
      "ta": "சும்மாதான்.",
-     "tl": "Summaadhaan."
+     "tl": "Summaadhaan.",
+     "te": "ఊరికే."
     },
     {
      "id": "slang-7c30fa97",
      "en": "Leave it, forget it.",
      "ta": "விடு, விடு.",
-     "tl": "Vidu, vidu."
+     "tl": "Vidu, vidu.",
+     "te": "వదిలేయ్, వదిలేయ్."
     },
     {
      "id": "slang-4c9dad56",
      "en": "Who cares?",
      "ta": "யாருக்கு என்ன?",
-     "tl": "Yaarukku enna?"
+     "tl": "Yaarukku enna?",
+     "te": "ఎవరికి ఏంటి?"
     },
     {
      "id": "slang-572107e4",
      "en": "So what?",
      "ta": "அதனால என்ன?",
-     "tl": "Adhanaala enna?"
+     "tl": "Adhanaala enna?",
+     "te": "అయితే ఏంటి?"
     },
     {
      "id": "slang-6770e1d6",
      "en": "What nonsense!",
      "ta": "என்ன கொடுமை இது!",
-     "tl": "Enna kodumai idhu!"
+     "tl": "Enna kodumai idhu!",
+     "te": "ఏంటి ఈ గోల!"
     },
     {
      "id": "slang-e0588b39",
      "en": "Oh my god, seriously!",
      "ta": "அய்யோ, சாமி!",
-     "tl": "Ayyo, saami!"
+     "tl": "Ayyo, saami!",
+     "te": "అయ్యో, దేవుడా!"
     },
     {
      "id": "slang-2fa10a84",
      "en": "Wow, look at that!",
      "ta": "அட, பாரேன்!",
-     "tl": "Ada, paaren!"
+     "tl": "Ada, paaren!",
+     "te": "అరె, చూడు!"
     },
     {
      "id": "slang-291ae44a",
      "en": "That's a joke.",
      "ta": "அது காமெடி.",
-     "tl": "Adhu comedy."
+     "tl": "Adhu comedy.",
+     "te": "అది కామెడీ."
     },
     {
      "id": "slang-73d419ec",
      "en": "He's a comedy piece.",
      "ta": "அவன் ஒரு காமெடி பீஸ்.",
-     "tl": "Avan oru comedy piece."
+     "tl": "Avan oru comedy piece.",
+     "te": "వాడు ఒక కామెడీ పీస్."
     },
     {
      "id": "slang-2cd142bd",
      "en": "What a waste fellow.",
      "ta": "வேஸ்ட் பையன்.",
-     "tl": "Waste paiyan."
+     "tl": "Waste paiyan.",
+     "te": "వేస్ట్ గాడు."
     },
     {
      "id": "slang-28c5cd98",
      "en": "He talks too much.",
      "ta": "அவன் ஓவரா பேசுவான்.",
-     "tl": "Avan overaa pesuvaan."
+     "tl": "Avan overaa pesuvaan.",
+     "te": "వాడు ఓవర్‌గా మాట్లాడతాడు."
     },
     {
      "id": "slang-745d7de0",
      "en": "Shut up!",
      "ta": "வாய மூடு!",
-     "tl": "Vaaya moodu!"
+     "tl": "Vaaya moodu!",
+     "te": "నోరు మూసుకో!"
     },
     {
      "id": "slang-db66f945",
      "en": "Get lost!",
      "ta": "போடா!",
-     "tl": "Podaa!"
+     "tl": "Podaa!",
+     "te": "పోరా!"
     },
     {
      "id": "slang-8d3d02fb",
      "en": "Come on, man!",
      "ta": "வாடா!",
-     "tl": "Vaadaa!"
+     "tl": "Vaadaa!",
+     "te": "రారా!"
     },
     {
      "id": "slang-00fb224a",
      "en": "Hurry up!",
      "ta": "சீக்கிரம் வா!",
-     "tl": "Seekkiram vaa!"
+     "tl": "Seekkiram vaa!",
+     "te": "త్వరగా రా!"
     },
     {
      "id": "slang-5afc0270",
      "en": "Wait, wait!",
      "ta": "இருடா, இருடா!",
-     "tl": "Irudaa, irudaa!"
+     "tl": "Irudaa, irudaa!",
+     "te": "ఆగరా, ఆగరా!"
     },
     {
      "id": "slang-0d7f10c3",
      "en": "It's all fine.",
      "ta": "எல்லாம் ஓகே.",
-     "tl": "Ellaam oke."
+     "tl": "Ellaam oke.",
+     "te": "అంతా ఓకే."
     },
     {
      "id": "slang-426d6618",
      "en": "No problem at all.",
      "ta": "ஒரு பிரச்சனையும் இல்ல.",
-     "tl": "Oru prachanaiyum illa."
+     "tl": "Oru prachanaiyum illa.",
+     "te": "ఏ సమస్యా లేదు."
     },
     {
      "id": "slang-1ffba93e",
      "en": "Same to same.",
      "ta": "சேம் சேம்.",
-     "tl": "Same same."
+     "tl": "Same same.",
+     "te": "సేమ్ సేమ్."
     },
     {
      "id": "slang-60e93af0",
      "en": "Fully confused.",
      "ta": "ஃபுல்லா குழப்பம்.",
-     "tl": "Fullaa kuzhappam."
+     "tl": "Fullaa kuzhappam.",
+     "te": "ఫుల్ కన్ఫ్యూజన్."
     },
     {
      "id": "slang-3c3a96c5",
      "en": "I'm totally done.",
      "ta": "நான் முடிஞ்சேன்.",
-     "tl": "Naan mudinjen."
+     "tl": "Naan mudinjen.",
+     "te": "నా పని అయిపోయింది."
     },
     {
      "id": "slang-0670a85f",
      "en": "I'm dead tired.",
      "ta": "செத்து போயிட்டேன், அவ்ளோ டயர்டு.",
-     "tl": "Sethu poyitten, avlo tired."
+     "tl": "Sethu poyitten, avlo tired.",
+     "te": "చచ్చిపోయాను, అంత అలసటగా ఉంది."
     },
     {
      "id": "slang-584af8d7",
      "en": "That's very boring.",
      "ta": "செம்ம மொக்கை.",
-     "tl": "Semma mokkai."
+     "tl": "Semma mokkai.",
+     "te": "చాలా బోరింగ్."
     },
     {
      "id": "slang-f6e32dc5",
      "en": "Don't crack lame jokes.",
      "ta": "மொக்க போடாத.",
-     "tl": "Mokka podaadha."
+     "tl": "Mokka podaadha.",
+     "te": "చెత్త జోకులు వేయకు."
     },
     {
      "id": "slang-069ecb43",
      "en": "That movie was lame.",
      "ta": "அந்த படம் மொக்கை.",
-     "tl": "Andha padam mokkai."
+     "tl": "Andha padam mokkai.",
+     "te": "ఆ సినిమా వేస్ట్."
     },
     {
      "id": "slang-1febffc7",
      "en": "That movie was a blockbuster.",
      "ta": "அந்த படம் செம்ம ஹிட்.",
-     "tl": "Andha padam semma hit."
+     "tl": "Andha padam semma hit.",
+     "te": "ఆ సినిమా సూపర్ హిట్."
     },
     {
      "id": "slang-7d066b8b",
      "en": "Total waste of time.",
      "ta": "டைம் வேஸ்ட்.",
-     "tl": "Time waste."
+     "tl": "Time waste.",
+     "te": "టైమ్ వేస్ట్."
     },
     {
      "id": "slang-c63764c8",
      "en": "Everything is set.",
      "ta": "எல்லாம் செட்.",
-     "tl": "Ellaam set."
+     "tl": "Ellaam set.",
+     "te": "అంతా సెట్."
     },
     {
      "id": "slang-dff992fc",
      "en": "Done deal.",
      "ta": "டீல் ஓகே.",
-     "tl": "Deal oke."
+     "tl": "Deal oke.",
+     "te": "డీల్ ఓకే."
     },
     {
      "id": "slang-7fee41ff",
      "en": "Promise?",
      "ta": "சத்தியமா?",
-     "tl": "Saththiyamaa?"
+     "tl": "Saththiyamaa?",
+     "te": "ఒట్టా?"
     },
     {
      "id": "slang-d7f5ea03",
      "en": "I swear.",
      "ta": "சத்தியமா சொல்றேன்.",
-     "tl": "Saththiyamaa solren."
+     "tl": "Saththiyamaa solren.",
+     "te": "ఒట్టేసి చెప్తున్నాను."
     },
     {
      "id": "slang-4f14038f",
      "en": "On my mother's promise.",
      "ta": "அம்மா சத்தியமா.",
-     "tl": "Amma saththiyamaa."
+     "tl": "Amma saththiyamaa.",
+     "te": "అమ్మ మీద ఒట్టు."
     },
     {
      "id": "slang-8714d241",
      "en": "Are you mad?",
      "ta": "உனக்கு லூஸா?",
-     "tl": "Unakku loosaa?"
+     "tl": "Unakku loosaa?",
+     "te": "నీకు పిచ్చా?"
     },
     {
      "id": "slang-7c9cc980",
      "en": "He's crazy.",
      "ta": "அவன் ஒரு லூசு.",
-     "tl": "Avan oru loosu."
+     "tl": "Avan oru loosu.",
+     "te": "వాడు ఒక పిచ్చోడు."
     },
     {
      "id": "slang-9c9b25f2",
      "en": "Don't act smart.",
      "ta": "ஸ்மார்ட்டா நடிக்காத.",
-     "tl": "Smartaa nadikkaadha."
+     "tl": "Smartaa nadikkaadha.",
+     "te": "తెలివిగా నటించకు."
     },
     {
      "id": "slang-c754dc83",
      "en": "Big deal!",
      "ta": "பெரிய விஷயம்!",
-     "tl": "Periya vishayam!"
+     "tl": "Periya vishayam!",
+     "te": "పెద్ద విషయం!"
     },
     {
      "id": "slang-cc050285",
      "en": "That's the thing.",
      "ta": "அதான் விஷயம்.",
-     "tl": "Adhaan vishayam."
+     "tl": "Adhaan vishayam.",
+     "te": "అదే విషయం."
     },
     {
      "id": "slang-057db246",
      "en": "Exactly!",
      "ta": "கரெக்ட்டு!",
-     "tl": "Correctu!"
+     "tl": "Correctu!",
+     "te": "కరెక్ట్!"
     },
     {
      "id": "slang-97c1cae7",
      "en": "That's right!",
      "ta": "அதேதான்!",
-     "tl": "Adhedhaan!"
+     "tl": "Adhedhaan!",
+     "te": "అదే!"
     },
     {
      "id": "slang-b505aeb5",
      "en": "Wonderful!",
      "ta": "அருமை!",
-     "tl": "Arumai!"
+     "tl": "Arumai!",
+     "te": "అద్భుతం!"
     },
     {
      "id": "slang-7455eea0",
      "en": "Too good!",
      "ta": "சூப்பரு!",
-     "tl": "Superu!"
+     "tl": "Superu!",
+     "te": "సూపరు!"
     },
     {
      "id": "slang-841c71da",
      "en": "Nice one!",
      "ta": "நச்சுன்னு இருக்கு!",
-     "tl": "Nachunnu irukku!"
+     "tl": "Nachunnu irukku!",
+     "te": "భలే ఉంది!"
     },
     {
      "id": "slang-b799dfaf",
      "en": "Not bad.",
      "ta": "பரவால்ல.",
-     "tl": "Paravaalla."
+     "tl": "Paravaalla.",
+     "te": "పర్వాలేదు."
     },
     {
      "id": "slang-47ddc87d",
      "en": "Just okay.",
      "ta": "சுமாரா இருக்கு.",
-     "tl": "Sumaaraa irukku."
+     "tl": "Sumaaraa irukku.",
+     "te": "ఏదో పర్లేదు."
     },
     {
      "id": "slang-cd26c2e3",
      "en": "It's terrible.",
      "ta": "மோசம்.",
-     "tl": "Mosam."
+     "tl": "Mosam.",
+     "te": "దారుణం."
     },
     {
      "id": "slang-3efc3201",
      "en": "He got scolded badly.",
      "ta": "அவனுக்கு செம்ம திட்டு.",
-     "tl": "Avanukku semma thittu."
+     "tl": "Avanukku semma thittu.",
+     "te": "వాడికి బాగా తిట్లు పడ్డాయి."
     },
     {
      "id": "slang-86072f4e",
      "en": "I'm broke this month.",
      "ta": "இந்த மாசம் காசு இல்ல, காலி.",
-     "tl": "Indha maasam kaasu illa, kaali."
+     "tl": "Indha maasam kaasu illa, kaali.",
+     "te": "ఈ నెల డబ్బులు లేవు, ఖాళీ."
     },
     {
      "id": "slang-f8c25cb4",
      "en": "Let's hang out.",
      "ta": "ஊர் சுத்தலாம்.",
-     "tl": "Oor suththalaam."
+     "tl": "Oor suththalaam.",
+     "te": "బయట తిరిగొద్దాం."
     },
     {
      "id": "slang-919f1eb6",
      "en": "Let's go for a ride.",
      "ta": "ஒரு ரவுண்ட் போலாம்.",
-     "tl": "Oru round polaam."
+     "tl": "Oru round polaam.",
+     "te": "ఒక రౌండ్ వేసొద్దాం."
     },
     {
      "id": "slang-17652a41",
      "en": "He's my close friend.",
      "ta": "அவன் என் உயிர் நண்பன்.",
-     "tl": "Avan en uyir nanban."
+     "tl": "Avan en uyir nanban.",
+     "te": "వాడు నా ప్రాణ స్నేహితుడు."
     },
     {
      "id": "slang-98a344e1",
      "en": "Friends are everything.",
      "ta": "நண்பன்தான் எல்லாம்.",
-     "tl": "Nanbandhaan ellaam."
+     "tl": "Nanbandhaan ellaam.",
+     "te": "స్నేహమే అన్నీ."
     },
     {
      "id": "slang-318b6a75",
      "en": "What a coincidence, man!",
      "ta": "என்ன மச்சான், ஒரே மாதிரி!",
-     "tl": "Enna machaan, ore maadhiri!"
+     "tl": "Enna machaan, ore maadhiri!",
+     "te": "ఏంటి మామా, ఒకేలా!"
     },
     {
      "id": "slang-e1ecf484",
      "en": "Wait and watch.",
      "ta": "பொறுத்திருந்து பாரு.",
-     "tl": "Poruthirundhu paaru."
+     "tl": "Poruthirundhu paaru.",
+     "te": "ఓపిక పట్టి చూడు."
     },
     {
      "id": "slang-d1dc4866",
      "en": "It happens.",
      "ta": "நடக்கும், விடு.",
-     "tl": "Nadakkum, vidu."
+     "tl": "Nadakkum, vidu.",
+     "te": "జరుగుతుంది, వదిలేయ్."
     },
     {
      "id": "slang-9911a2df",
      "en": "Okay okay, I got it.",
      "ta": "சரி சரி, புரிஞ்சுது.",
-     "tl": "Sari sari, purinjudhu."
+     "tl": "Sari sari, purinjudhu.",
+     "te": "సరే సరే, అర్థమైంది."
     },
     {
      "id": "slang-8a4f3b78",
      "en": "Let's rock!",
      "ta": "கலக்கலாம்!",
-     "tl": "Kalakkalaam!"
+     "tl": "Kalakkalaam!",
+     "te": "అదరగొడదాం!"
     },
     {
      "id": "slang-771774d6",
      "en": "You rocked it!",
      "ta": "கலக்கிட்ட!",
-     "tl": "Kalakkitta!"
+     "tl": "Kalakkitta!",
+     "te": "అదరగొట్టావు!"
     }
-   ]
+   ],
+   "teCount": 71
   }
  ],
  "glossary": {

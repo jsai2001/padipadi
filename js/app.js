@@ -9,7 +9,7 @@
   // ---------- saved state ----------
   const KEY = "padipadi-v1";
   const DEFAULTS = {
-    settings: { theme: "light", showTl: true, adult: false, goal: 50 },
+    settings: { theme: "light", showTl: true, showTe: true, adult: false, goal: 50 },
     xp: 0,
     days: {}, // day number -> XP earned that day
     streak: { count: 0, last: -1, best: 0 },
@@ -113,6 +113,8 @@
   const catById = (id) => DATA.categories.find((c) => c.id === id);
   const allVisibleSentences = () => visibleCats().flatMap((c) => c.sentences.map((s) => Object.assign({ cat: c.id }, s)));
   const tlLine = (text) => (S.settings.showTl ? h("p", { class: "tl-line" }, text) : null);
+  // Telugu is only a reference next to the English meaning (Tamil is what's being learned).
+  const teLine = (s, tag) => (S.settings.showTe && s.te ? h(tag || "p", { class: "te-line", lang: "te" }, s.te) : null);
 
   let toastTimer;
   function toast(msg) {
@@ -288,7 +290,8 @@
         results.replaceChildren();
         if (q.length < 2) return;
         const hits = allVisibleSentences().filter((s) =>
-          s.en.toLowerCase().includes(q) || s.tl.toLowerCase().includes(q) || s.ta.includes(search.value.trim()));
+          s.en.toLowerCase().includes(q) || s.tl.toLowerCase().includes(q) || s.ta.includes(search.value.trim()) ||
+          (s.te && s.te.includes(search.value.trim())));
         results.append(h("p", { class: "muted small" }, `${hits.length} match${hits.length === 1 ? "" : "es"}`));
         hits.slice(0, 25).forEach((s) => results.append(sentenceCard(s)));
       },
@@ -310,6 +313,7 @@
       h("div", { class: "card potd stack" },
         h("span", { class: "label-chip" }, "Phrase of the day"),
         h("p", { class: "en", style: "font-size:1.15rem;font-weight:700" }, potd.en),
+        teLine(potd),
         potdTa, potdTl,
         h("div", { class: "btn-row" }, reveal, speakBtn(potd.ta))),
       search, results,
@@ -352,6 +356,7 @@
     return h("article", { class: "card sent" },
       h("div", {},
         h("p", { class: "en" }, s.en, isMastered(s.id) ? h("span", { class: "mastered" }, "  ✓ mastered") : null),
+        teLine(s),
         h("p", { class: "ta-line", lang: "ta" }, s.ta),
         tlLine(s.tl)),
       h("div", { class: "sent-actions" }, speakBtn(s.ta), toggle),
@@ -433,6 +438,7 @@
         h("div", { class: "flash-face" },
           h("span", { class: "label-chip" }, "English"),
           h("p", { class: "big" }, s.en),
+          teLine(s),
           h("p", { class: "hint" }, "Say it in Tamil, then tap to flip")),
         h("div", { class: "flash-face back", "aria-hidden": "true" },
           h("span", { class: "label-chip" }, "Tamil"),
@@ -515,7 +521,7 @@
       const buttons = opts.map((o) => {
         const b = h("button", { type: "button", class: "option", onclick: () => choose(o, b) },
           toTamil ? [h("span", { class: "ta", lang: "ta" }, o.ta), S.settings.showTl ? h("span", { class: "tl" }, o.tl) : null]
-            : h("span", {}, o.en));
+            : [h("span", {}, o.en), teLine(o, "span")]);
         return b;
       });
       function choose(o, b) {
@@ -545,7 +551,7 @@
       area.replaceChildren(
         h("div", { class: "card stack" },
           h("span", { class: "label-chip" }, toTamil ? "Pick the Tamil" : "What does this mean?"),
-          toTamil ? h("p", { class: "prompt" }, s.en)
+          toTamil ? h("div", {}, h("p", { class: "prompt" }, s.en), teLine(s))
             : h("div", {}, h("p", { class: "prompt ta", lang: "ta" }, s.ta), tlLine(s.tl)),
           h("div", { class: "options" }, buttons),
           feedback, next));
@@ -631,6 +637,7 @@
       area.replaceChildren(h("div", { class: "card stack" },
         h("span", { class: "label-chip" }, "Put the Tamil words in order"),
         h("p", { class: "prompt" }, s.en),
+        teLine(s),
         zone, bank, feedback,
         h("div", { class: "btn-row" }, hint, check, next)));
     }
@@ -652,7 +659,7 @@
 
     const item = (s, side) => {
       const b = h("button", { type: "button", class: `match-item${side === "ta" ? " ta" : ""}`, "aria-pressed": "false", lang: side === "ta" ? "ta" : null,
-        onclick: () => pick(b, s, side) }, side === "ta" ? s.ta : s.en);
+        onclick: () => pick(b, s, side) }, side === "ta" ? s.ta : [s.en, teLine(s, "span")]);
       return b;
     };
     function pick(b, s, side) {
@@ -856,6 +863,7 @@
       return el;
     };
     const tl = box("showTl", (v) => { S.settings.showTl = v; save(); });
+    const te = box("showTe", (v) => { S.settings.showTe = v; save(); });
     const adult = box("adult", (v) => {
       if (v && !confirm("Show the 18+ categories (Lust, Sex)? Only turn this on if you're 18 or older.")) { adult.checked = false; return; }
       S.settings.adult = v; save(); toast(v ? "18+ categories are visible" : "18+ categories are hidden");
@@ -890,6 +898,7 @@
       h("div", { class: "card" },
         h("h2", { style: "margin-bottom:0.4rem" }, "Settings"),
         setting("Show Tanglish (romanized) text", tl),
+        setting("Show Telugu meaning next to English", te),
         setting("Daily goal", goal),
         setting("Show 18+ categories", adult),
         setting("Progress is saved in this browser only", reset)),

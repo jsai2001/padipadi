@@ -11,6 +11,7 @@ It's a static site with no server. Open `index.html` in a browser, or deploy the
   - Topics: General Communication, Questions, Numbers/Time/Money, Family, Food & Restaurant, Work & Office, Travel & Directions, Phone Calls, Slang & Expressions, Politics, Everyday Things
 
   The two 18+ categories are hidden until you turn them on in **Me → Settings**. They cover attraction, flirting, intimacy, boundaries and consent, and are not explicit.
+- **Telugu reference**: every sentence also shows its spoken-Telugu meaning under the English, so Telugu speakers can compare (Tamil is still what you learn; answers are always Tamil). Turn it off in **Me → Settings**. Stored in `data/telugu/<category>.tsv` as `English | Telugu`, matched to the Tamil sentence by its English text.
 - **Tap-a-word meanings** for about 385 common words (about 62% of all word taps).
 - **Every sentence** shows English, Tamil script and Tanglish (romanized), with tap-a-word meanings and 🔊 audio (uses your device's Tamil voice when it has one).
 - **Games**: Flashcards (tap to flip, swipe right/left), Quiz (both directions, combo bonus), Build it (put the Tamil words in order), Match (pairs against the clock).

@@ -113,11 +113,51 @@ def load_glossary():
     return glossary
 
 
+TELUGU = re.compile(r"[\u0C00-\u0C7F]")
+
+
+def load_telugu(cat_id, sentences):
+    """Attach optional Telugu reference lines: data/telugu/<id>.tsv, 'English | Telugu'.
+
+    Telugu is only a reference shown next to the English (the learner is learning Tamil),
+    so it's matched to the Tamil sentence by its English text.
+    """
+    path = DATA / "telugu" / f"{cat_id}.tsv"
+    if not path.exists():
+        return 0
+    by_en = {s["en"].lower(): s for s in sentences}
+    seen = set()
+    for number, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        where = f"{path.relative_to(ROOT)}:{number}"
+        parts = [p.strip() for p in line.split(" | ")]
+        if len(parts) != 2 or not all(parts):
+            raise BuildError(f"{where}: expected 'English | Telugu'")
+        en, te = parts
+        # Telugu legitimately uses ZWNJ/ZWJ for half-forms (సర్‌ప్రైజ్); only reject
+        # zero-width spaces and BOMs.
+        if re.search(r"[\u200B\uFEFF]", te):
+            raise BuildError(f"{where}: remove zero-width spaces")
+        if not TELUGU.search(te) or LATIN.search(te) or TAMIL.search(te):
+            raise BuildError(f"{where}: the Telugu field must be Telugu script only: {te}")
+        key = en.lower()
+        if key not in by_en:
+            raise BuildError(f"{where}: no {cat_id} sentence with this English: {en}")
+        if key in seen:
+            raise BuildError(f"{where}: duplicate Telugu line for: {en}")
+        seen.add(key)
+        by_en[key]["te"] = te
+    return len(seen)
+
+
 def build():
     cats = load_categories()
     total = 0
     for c in cats:
         c["sentences"] = load_sentences(c["id"])
+        c["teCount"] = load_telugu(c["id"], c["sentences"])
         total += len(c["sentences"])
     payload = {"categories": cats, "glossary": load_glossary()}
     body = json.dumps(payload, ensure_ascii=False, indent=1)
@@ -137,6 +177,8 @@ def main():
         print(f"build.py: error: {e}", file=sys.stderr)
         return 2
     summary = ", ".join(f"{c['id']} {len(c['sentences'])}" for c in cats)
+    te_total = sum(c["teCount"] for c in cats)
+    summary += f"; Telugu reference for {te_total}/{total}"
     current = OUT.read_text(encoding="utf-8") if OUT.exists() else None
     if check:
         if current != js:
